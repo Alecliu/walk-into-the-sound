@@ -1,0 +1,81 @@
+.ms-page .ms-city-intro{padding:46px 0 30px;border-bottom:1px solid var(--border)}
+.ms-page .ms-city-intro h1{font-size:clamp(34px,4.5vw,62px);line-height:1.24;letter-spacing:-.045em;margin:20px 0}
+.ms-page .ms-city-intro p{font-size:17px;line-height:1.9;margin:0;opacity:.8}
+.ms-page .ms-city-tools{display:flex;justify-content:space-between;gap:20px;align-items:center;margin:30px 0 16px;flex-wrap:wrap}
+.ms-page .ms-city-filters{display:flex;gap:8px;flex-wrap:wrap}
+.ms-page .ms-city-filters button{border:1px solid var(--border);border-radius:30px;padding:10px 18px;background:transparent;color:inherit;cursor:pointer}
+.ms-page .ms-city-filters button[aria-pressed=true]{background:var(--text);color:var(--background)}
+.ms-page .ms-city-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.ms-page .ms-city-card{padding:0;text-align:left;border:1px solid var(--border);background:transparent;color:inherit;border-radius:12px;overflow:hidden;cursor:pointer;transition:transform .2s}
+.ms-page .ms-city-card:hover{transform:translateY(-4px)}
+.ms-page .ms-city-card:focus-visible,.ms-page .ms-city-next button:focus-visible{outline:3px solid currentColor;outline-offset:4px}
+.ms-page .city-sage{--city-paper:#dce5cf;--city-ink:#274435}
+.ms-page .city-coral{--city-paper:#f1c0a9;--city-ink:#673b2c}
+.ms-page .city-sky{--city-paper:#c2dce3;--city-ink:#294953}
+.ms-page .ms-city-poster{height:280px;background:var(--city-paper);color:var(--city-ink);position:relative;padding:24px;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between}
+.ms-page .ms-city-poster>span{font-size:12px;letter-spacing:.08em;z-index:1}
+.ms-page .ms-city-poster>strong{font-family:Georgia,serif;font-size:clamp(25px,3.2vw,43px);font-weight:400;letter-spacing:-.04em;z-index:1}
+.ms-page .ms-city-poster>b{font-size:24px;z-index:1}
+.ms-page .ms-city-poster small{display:block;font-size:13px;font-weight:400;margin-top:6px}
+.ms-page .ms-city-record{position:absolute;width:215px;height:215px;border:1px solid currentColor;border-radius:50%;right:-55px;bottom:-50px;opacity:.28;box-shadow:0 0 0 8px var(--city-paper),0 0 0 9px currentColor,0 0 0 20px var(--city-paper),0 0 0 21px currentColor,0 0 0 35px var(--city-paper),0 0 0 36px currentColor}
+.ms-page .ms-city-card-copy{padding:24px}
+.ms-page .ms-city-card-copy h2{font-size:22px;line-height:1.5;margin:0 0 14px}
+.ms-page .ms-city-card-copy p{font-size:14px;line-height:1.9;opacity:.8;margin:0 0 24px}
+.ms-page .ms-city-card-copy>span{display:flex;justify-content:space-between;font-size:13px}
+.ms-page .ms-city-article{padding-top:24px}
+.ms-page .ms-city-article-head{max-width:880px;padding:44px 0 36px}
+.ms-page .ms-city-location{font-size:17px;margin:18px 0}
+.ms-page .ms-city-article-head h1{font-size:clamp(32px,4vw,52px);line-height:1.35;letter-spacing:-.035em;margin:0 0 24px}
+.ms-page .ms-city-deck{font-size:19px;line-height:1.9;opacity:.8}
+.ms-page .ms-city-reading-layout{display:grid;grid-template-columns:minmax(0,720px) minmax(220px,1fr);gap:70px;border-top:1px solid var(--border);padding-top:32px}
+.ms-page .ms-city-prose>section{margin-bottom:38px}
+.ms-page .ms-city-prose h2{font-size:24px;line-height:1.5;margin:0 0 20px}
+.ms-page .ms-city-prose p{font-size:17px;line-height:2.05;margin:0 0 20px}
+.ms-page .ms-city-prose a{font-size:14px;text-underline-offset:4px}
+.ms-page .ms-city-aside h2,.ms-page .ms-city-sources h2{font-size:18px}
+.ms-page .ms-city-aside ol{list-style:none;padding:0 0 0 20px;border-left:1px solid var(--border)}
+.ms-page .ms-city-aside li{padding:10px 0 16px;font-size:14px;line-height:1.8}
+.ms-page .ms-city-aside li p{margin:4px 0}
+.ms-page .ms-city-listen{background:var(--city-paper);color:var(--city-ink);padding:24px;border-radius:10px;margin-top:28px}
+.ms-page .ms-city-listen p,.ms-page .ms-city-places p{font-size:14px;line-height:1.9}
+.ms-page .ms-city-listen a{color:inherit}
+.ms-page .ms-city-places{border-top:1px solid var(--border);padding:30px 0}
+.ms-page .ms-city-places>div{display:grid;grid-template-columns:1fr 1fr;gap:32px}
+.ms-page .ms-city-places h3{font-size:18px}
+.ms-page .ms-city-sources{padding:22px 0;border-top:1px solid var(--border);font-size:13px}
+.ms-page .ms-city-sources>a{display:block;margin:12px 0}
+.ms-page .ms-city-next{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:24px}
+.ms-page .ms-city-next button{background:transparent;border:1px solid var(--border);border-radius:8px;color:inherit;text-align:left;padding:22px;cursor:pointer}
+.ms-page .ms-city-next small{display:block;margin-bottom:12px}
+.ms-page .ms-city-home{display:flex;width:100%;justify-content:space-between;align-items:center;gap:24px;background:#dce5cf;color:#274435;border:0;border-radius:12px;padding:28px 32px;text-align:left;cursor:pointer;margin:24px 0}
+.ms-page .ms-city-home small{letter-spacing:.1em;display:block;margin-bottom:8px}
+.ms-page .ms-city-home strong{font-size:23px;line-height:1.5}
+@media(max-width:900px){.ms-page .ms-city-reading-layout{gap:30px;grid-template-columns:minmax(0,1fr) 240px}.ms-page .ms-city-grid{gap:14px}.ms-page .ms-city-poster{padding:18px;height:240px}.ms-page .ms-city-card-copy{padding:18px}}
+@media(max-width:650px){.ms-page .ms-city-grid,.ms-page .ms-city-reading-layout,.ms-page .ms-city-places>div,.ms-page .ms-city-next{grid-template-columns:1fr}.ms-page .ms-city-intro{padding-top:25px}.ms-page .ms-city-poster{height:240px}.ms-page .ms-city-poster>strong{font-size:42px}.ms-page .ms-city-tools{align-items:stretch}.ms-page .ms-city-tools .ms-search{width:100%}.ms-page .ms-city-home{padding:24px;align-items:flex-start;flex-direction:column}.ms-page .ms-city-article-head{padding-top:30px}.ms-page .ms-city-reading-layout{gap:10px}}
+@media(prefers-reduced-motion:reduce){.ms-page .ms-city-card{transition:none}}
+.ms-page .ms-story-card-open{display:block;width:100%;padding:0;border:0;background:transparent;color:inherit;text-align:left;cursor:pointer}
+.ms-page .ms-story-card-open:focus-visible{outline:3px solid currentColor;outline-offset:-4px}
+.ms-page .ms-city-intro .ms-story-subtitle{font-size:clamp(20px,2.5vw,28px);opacity:1;margin-bottom:12px}
+.ms-page .ms-story-tags{display:flex;gap:8px;flex-wrap:wrap}
+.ms-page .ms-story-tags button{font:inherit;font-size:12px;line-height:1.6;color:inherit;background:transparent;border:1px solid var(--border-strong);border-radius:20px;padding:5px 12px;cursor:pointer;overflow-wrap:anywhere;max-width:100%}
+.ms-page .ms-story-tags button:hover{background:var(--control-hover)}
+.ms-page .ms-story-tags button[aria-pressed=true]{background:var(--text);color:var(--background)}
+.ms-page .ms-story-tags button:focus-visible{outline:2px solid currentColor;outline-offset:3px}
+.ms-page .ms-city-card>.ms-story-tags{padding:0 24px 24px}
+.ms-page .ms-city-article-head>.ms-story-tags{margin-top:22px}
+.ms-page .ms-story-tag-filter{display:grid;gap:12px;margin-bottom:22px}
+.ms-page .ms-story-tag-filter>.ms-outline{justify-self:start}
+.ms-page .ms-story-tag-group{display:flex;gap:18px;align-items:baseline}
+.ms-page .ms-story-tag-group>span{font-size:12px;min-width:40px;opacity:.7}
+.ms-page .ms-story-dropdowns{display:flex;flex-wrap:wrap;gap:16px;margin:0 0 24px;align-items:end}
+.ms-page .ms-story-dropdowns>div{min-width:170px;flex:1}
+.ms-page .ms-story-photo-thumb{display:block;width:100%;height:250px;object-fit:cover;background:var(--city-paper)}
+.ms-page .ms-story-photo{margin:0 0 32px}
+.ms-page .ms-story-photo-full{display:block;width:100%;max-height:560px;object-fit:contain;background:var(--muted);border-radius:10px}
+.ms-page .ms-story-photo-credit{font-size:11px;line-height:1.8;color:var(--secondary);overflow-wrap:anywhere}
+.ms-page .ms-story-photo-credit>span{display:block}
+.ms-page .ms-story-photo-credit a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.ms-page .ms-story-photo figcaption{padding-top:12px}
+.ms-page .ms-city-card>.ms-story-photo-credit{padding:0 24px 20px}
+.ms-page .ms-story-card-meta{font-size:12px;line-height:1.7;margin-bottom:12px;opacity:.75}
+@media(max-width:650px){.ms-page .ms-story-dropdowns{gap:12px}.ms-page .ms-story-dropdowns>div{min-width:0;flex:1 1 100%}.ms-page .ms-story-photo-thumb{height:250px}}

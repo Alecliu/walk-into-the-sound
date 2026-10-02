@@ -1,0 +1,83 @@
+/* Walk Into the Sound: editorial content, with the shared application shell intact. */
+.ms-page .wis-topline{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:20px 0;border-bottom:1px solid var(--border-strong)}
+.ms-page .wis-brand{border:0;padding:0;background:none;text-align:left;color:var(--text);cursor:pointer;font:600 21px/1.2 Georgia,serif;letter-spacing:-.04em}
+.ms-page .wis-brand small{display:block;font:11px/1.5 var(--font-sans);letter-spacing:.15em;margin-top:6px;color:var(--secondary)}
+.ms-page .wis-nav{display:flex;gap:25px;align-items:center}
+.ms-page .wis-nav>button{border:0;background:none;padding:12px 0;color:var(--text);font-size:13px;cursor:pointer;border-bottom:2px solid transparent}
+.ms-page .wis-nav>button[aria-current]{border-color:var(--accent)}
+.ms-page .wis-nav .ms-nav-more summary{padding:12px 0;color:var(--secondary)}
+.ms-page .wis-nav .ms-nav-more>div{right:0;left:auto;max-height:65vh;overflow:auto}
+.ms-page .wis-eyebrow{display:block;font-size:10px;font-weight:600;letter-spacing:.16em;line-height:1.8;color:var(--secondary)}
+.ms-page .wis-masthead{display:grid;grid-template-columns:1.3fr 1fr;align-items:end;gap:50px;padding:55px 0 48px;border-bottom:1px solid var(--border-strong);margin-bottom:22px}
+.ms-page .wis-masthead h1{font:400 clamp(64px,7.7vw,112px)/.95 Georgia,'Times New Roman',serif;letter-spacing:-.065em;margin:22px 0 0}
+.ms-page .wis-masthead h1 em{font-weight:400;color:var(--accent)}
+.ms-page .wis-manifesto{max-width:420px;padding-bottom:4px}
+.ms-page .wis-index{font-size:12px;letter-spacing:.2em;color:var(--accent)}
+.ms-page .wis-manifesto p{font:500 clamp(25px,3vw,36px)/1.65 'Songti TC','Noto Serif TC',serif;margin:12px 0 18px}
+.ms-page .wis-manifesto small{display:block;font-size:13px;line-height:2;color:var(--secondary)}
+.ms-page .wis-manifesto button{display:flex;justify-content:space-between;gap:40px;padding:14px 0 8px;margin-top:16px;border:0;border-bottom:1px solid var(--accent);background:none;color:var(--accent);font-size:13px;cursor:pointer}
+.ms-page .wis-feature{display:grid;grid-template-columns:1.3fr 1fr;gap:42px;padding:6px 0 36px}
+.ms-page .wis-feature figure{margin:0;min-width:0}
+.ms-page .wis-feature figure>button{padding:0;border:0;background:none;width:100%;cursor:pointer}
+.ms-page .wis-feature .ms-story-photo-full{height:440px;max-height:none;object-fit:cover;border-radius:2px}
+.ms-page .wis-feature figcaption{padding-top:10px}
+.ms-page .wis-feature-copy{padding:18px 0 10px;display:flex;flex-direction:column;align-items:flex-start}
+.ms-page .wis-anchor{font-size:13px;color:var(--accent);margin:28px 0 0}
+.ms-page .wis-feature h2{margin:16px 0 20px;font:600 clamp(26px,3.15vw,43px)/1.5 'Songti TC','Noto Serif TC',serif;letter-spacing:-.03em}
+.ms-page .wis-feature h2 button{font:inherit;text-align:left;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+.ms-page .wis-feature-copy>p:not(.wis-anchor){font-size:14px;line-height:2;color:var(--secondary);margin:0 0 26px}
+.ms-page .wis-feature-bottom{border-top:1px solid var(--border);width:100%;padding-top:20px;margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.ms-page .wis-feature-bottom>span{font-size:11px;line-height:1.8;color:var(--secondary)}
+.ms-page .wis-feature-bottom button{border:0;border-radius:50%;width:94px;height:94px;flex-shrink:0;background:var(--accent);color:var(--background);font-size:12px;cursor:pointer}
+.ms-page .wis-section-title{display:flex;align-items:baseline;justify-content:space-between;gap:18px;margin:0 0 26px}
+.ms-page .wis-section-title h2{font:600 24px/1.5 'Songti TC',serif;margin:0}
+.ms-page .wis-section-title>span{font-size:10px;letter-spacing:.14em;color:var(--secondary)}
+.ms-page .wis-paths{border-top:1px solid var(--border-strong);padding:32px 0 40px;margin:10px 0 15px}
+.ms-page .wis-paths>div:last-child{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:26px}
+.ms-page .wis-paths button{text-align:left;padding:0 20px 0 0;border:0;border-right:1px solid var(--border);background:none;color:var(--text);cursor:pointer}
+.ms-page .wis-paths button:last-child{border-right:0}
+.ms-page .wis-paths button>span{font:italic 23px Georgia,serif;color:var(--accent)}
+.ms-page .wis-paths h3{font-size:17px;line-height:1.6;margin:13px 0 8px}
+.ms-page .wis-paths p{font-size:12px;line-height:1.9;color:var(--secondary);margin:0 0 16px}
+.ms-page .wis-paths small{font-size:10px;color:var(--secondary)}
+.ms-page .wis-picks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.ms-page .wis-picks article{min-width:0}
+.ms-page .wis-pick-open{padding:0;border:0;background:none;color:inherit;text-align:left;width:100%;cursor:pointer}
+.ms-page .wis-picks .ms-story-photo-thumb,.ms-page .wis-type-cover{height:235px;margin-bottom:20px;border-radius:2px}
+.ms-page .wis-type-cover{padding:24px;background:#dce2cf;color:#304d42;display:flex;flex-direction:column;justify-content:space-between;box-sizing:border-box}
+.ms-page .wis-type-cover strong{font:italic 58px/.95 Georgia,serif;letter-spacing:-.06em;max-width:180px;overflow-wrap:anywhere}
+.ms-page .wis-type-cover small,.ms-page .wis-type-cover>span{font-size:10px;letter-spacing:.1em}
+.ms-page .wis-picks h3{font:600 22px/1.6 'Songti TC',serif;margin:12px 0}
+.ms-page .wis-picks p{font-size:13px;line-height:1.9;color:var(--secondary);margin:0 0 18px}
+.ms-page .wis-pick-open>small{font-size:12px;color:var(--accent)}
+.ms-page .wis-picks .ms-story-photo-credit{margin-top:20px}
+.ms-page .wis-scanner{display:grid;grid-template-columns:1.25fr 1fr;gap:40px;padding:36px;margin-top:60px;background:var(--muted);border-top:1px solid var(--border)}
+.ms-page .wis-scanner h2{font:500 28px/1.5 'Songti TC',serif;margin:10px 0}
+.ms-page .wis-scanner p{font-size:13px;line-height:1.9;color:var(--secondary)}
+.ms-page .wis-scanner button{display:flex;align-items:center;justify-content:space-between;width:100%;border:0;border-bottom:1px solid var(--border-strong);padding:14px 0;background:none;color:var(--text);font-size:16px;text-align:left;cursor:pointer}
+.ms-page .wis-scanner small{display:block;font-size:11px;color:var(--secondary);margin-top:7px}
+.ms-page .wis-secondary-banner{display:flex;justify-content:space-between;gap:24px;border-bottom:1px solid var(--border);padding:24px 0;color:var(--secondary);font-size:12px}
+.ms-page .wis-secondary-banner button{color:var(--accent);border:0;background:none;cursor:pointer}
+.ms-page .wis-about{max-width:750px;margin:60px auto 80px}
+.ms-page .wis-about h1{font:600 50px/1.4 'Songti TC',serif}
+.ms-page .wis-about p{font-size:16px;line-height:2.1;margin:24px 0;color:var(--secondary)}
+.ms-page .wis-about .wis-about-lead{font:500 26px/1.9 'Songti TC',serif;color:var(--text)}
+.ms-page .wis-about h2{font-size:25px;margin-top:46px}
+.ms-page .ms-city-card{border-radius:2px}
+.ms-page .ms-city-intro h1{font-family:'Songti TC','Noto Serif TC',serif;font-weight:600}
+.ms-page .wis-story-context{display:flex;gap:12px;margin-bottom:24px;font-size:13px;color:var(--secondary)}
+.ms-page .wis-story-context>span{border-left:2px solid var(--accent);padding-left:14px}
+.ms-page .ms-footer{margin-top:50px;padding:26px 0;border-top:1px solid var(--border-strong)}
+.ms-page button:focus-visible,.ms-page a:focus-visible,.ms-page summary:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+@media(max-width:900px){.ms-page .wis-masthead{gap:28px}.ms-page .wis-feature{gap:26px}.ms-page .wis-feature .ms-story-photo-full{height:390px}.ms-page .wis-paths>div:last-child{grid-template-columns:repeat(2,minmax(0,1fr))}.ms-page .wis-paths button:nth-child(2){border-right:0}.ms-page .wis-picks{gap:18px}.ms-page .wis-picks h3{font-size:20px}}
+@media(max-width:650px){.ms-page .wis-topline{flex-direction:column;align-items:stretch;gap:12px;padding:18px 0 0}.ms-page .wis-brand{font-size:23px}.ms-page .wis-nav{justify-content:space-between;gap:12px}.ms-page .wis-nav>button{font-size:13px}.ms-page .wis-masthead{grid-template-columns:1fr;gap:30px;padding:32px 0}.ms-page .wis-masthead h1{font-size:clamp(60px,13vw,82px)}.ms-page .wis-manifesto p{font-size:25px}.ms-page .wis-manifesto p br{display:none}.ms-page .wis-feature{grid-template-columns:1fr;gap:14px;padding-bottom:24px}.ms-page .wis-feature .ms-story-photo-full{height:auto;aspect-ratio:1.4;object-fit:cover}.ms-page .wis-feature-copy{padding:10px 0}.ms-page .wis-anchor{margin-top:15px}.ms-page .wis-feature h2{font-size:29px}.ms-page .wis-feature-bottom button{width:78px;height:78px}.ms-page .wis-section-title{align-items:flex-start;flex-direction:column;gap:8px}.ms-page .wis-picks{grid-template-columns:1fr;gap:32px}.ms-page .wis-picks .ms-story-photo-thumb,.ms-page .wis-type-cover{height:240px}.ms-page .wis-picks article{padding-bottom:24px;border-bottom:1px solid var(--border)}.ms-page .wis-scanner{grid-template-columns:1fr;padding:24px;gap:8px;margin-top:30px}.ms-page .wis-about{margin:32px 0}.ms-page .wis-about h1{font-size:38px}.ms-page .wis-about .wis-about-lead{font-size:22px}.ms-page .wis-secondary-banner{flex-wrap:wrap;gap:10px}.ms-page .ms-story-dropdowns{gap:8px}.ms-page .wis-paths>div:last-child{gap:22px 16px}}
+
+/* Single masthead; navigation and footer carry edition information. */
+.ms-page .wis-masthead h1{font:600 clamp(40px,5.6vw,78px)/1.3 'Songti TC','Noto Serif TC',serif;letter-spacing:.035em;margin:22px 0 12px;white-space:nowrap}
+.ms-page .wis-subtitle{font:italic 400 clamp(22px,2.8vw,36px)/1.4 Georgia,serif;margin:0;color:var(--accent);letter-spacing:-.02em}
+.ms-page .wis-edition{font-size:11px;letter-spacing:.13em;white-space:nowrap}
+.ms-page .wis-edition small{margin-left:14px;font-size:10px;color:var(--secondary)}
+.ms-page .wis-listen-links{display:flex;flex-direction:column;gap:12px;margin-top:20px}
+.ms-page .wis-listen-links a{padding:10px 0;border-top:1px solid currentColor;font-size:13px;text-underline-offset:4px}
+.ms-page .wis-type-cover strong{font-size:clamp(34px,3.7vw,50px);max-width:100%;overflow-wrap:break-word}
+@media(max-width:650px){.ms-page .wis-masthead h1{font-size:clamp(35px,9vw,56px);letter-spacing:.025em}.ms-page .wis-subtitle{font-size:25px}.ms-page .wis-edition{font-size:10px}.ms-page .wis-story-context{flex-direction:column;gap:16px}}
