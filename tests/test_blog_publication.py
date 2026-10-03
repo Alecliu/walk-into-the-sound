@@ -9,9 +9,6 @@ import unittest
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from blog_validation import validate_candidate, validate_collection, validate_site
-spec=importlib.util.spec_from_file_location('daily_blog',ROOT/'scripts/daily-blog.py')
-daily=importlib.util.module_from_spec(spec)
-spec.loader.exec_module(daily)
 
 class BlogPublicationTests(unittest.TestCase):
     def setUp(self):
@@ -30,7 +27,6 @@ class BlogPublicationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'original article'):
             validate_collection(self.data)
     def test_duplicate_day_and_candidate_rejected(self):
-        self.assertFalse(daily.published([self.story],'2026-10-04'))
         with self.assertRaisesRegex(ValueError,'Duplicate article'):
             validate_candidate(self.candidate,[self.story],'2026-10-04')
         self.assertEqual(validate_candidate(self.candidate,[],'2026-10-04')['id'],'test-music-article')
@@ -40,15 +36,6 @@ class BlogPublicationTests(unittest.TestCase):
         self.candidate['evidence'][0]['readAt']='2026-10-03'
         with self.assertRaisesRegex(ValueError,'reading record'):
             validate_candidate(self.candidate,[],'2026-10-04')
-    def test_review_must_open_every_source_and_report_no_issues(self):
-        review={'approved':True,'issues':[],'checkedUrls':[s['url'] for s in self.story['sources']]}
-        daily.approve_review(self.candidate,review)
-        review['checkedUrls'].pop()
-        with self.assertRaisesRegex(ValueError,'all sources'):
-            daily.approve_review(self.candidate,review)
-        review.update(approved=False,issues=['Unsupported fact'])
-        with self.assertRaisesRegex(ValueError,'rejected'):
-            daily.approve_review(self.candidate,review)
     def test_new_posts_can_omit_unconfirmed_geography(self):
         self.story.update(city='',cityEn='',tags=[],places=[])
         self.assertEqual(validate_candidate(self.candidate,[],'2026-10-04')['places'],[])

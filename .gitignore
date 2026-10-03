@@ -8,3 +8,9 @@ __pycache__/
 *.pyc
 .data-app-offline/
 *.tmp
+editorial/
+drafts/
+private/
+editorial-workspace/
+*approval*.json
+*receipt*.json

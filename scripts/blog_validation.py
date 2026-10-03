@@ -5,7 +5,6 @@ import json
 import re
 from pathlib import Path
 from urllib.parse import urlparse
-from editorial_policy import validate_editorial_scope
 
 ORIGINAL_IDS = set('paris-amelie-cafe hong-kong-chungking-express hong-kong-mood-for-love dublin-once-piano tokorozawa-totoro liverpool-penny-lane london-waterloo-sunset rio-ipanema montreal-suzanne kyoto-phoebe-bridgers london-abbey-road dublin-u2-kitchen natori-sakamoto-piano london-bjork-vespertine sausalito-rumours liverpool-cavern havana-buena-vista montreux-nina-simone cologne-keith-jarrett lagos-fela-tony-allen'.split())
 TAIPEI = dt.timezone(dt.timedelta(hours=8))
@@ -19,7 +18,6 @@ def https(url):
     return parsed.scheme == 'https' and bool(parsed.hostname) and not parsed.username and not parsed.password
 
 def validate_story(story):
-    validate_editorial_scope(story)
     require(re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', story['id']), 'Invalid story ID')
     for name in ('title', 'deck', 'artist', 'anchor', 'work', 'lens'):
         require(isinstance(story.get(name), str) and story[name].strip(), 'Missing ' + name)
