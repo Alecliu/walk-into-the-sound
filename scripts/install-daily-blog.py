@@ -8,6 +8,7 @@ import plistlib
 import shutil
 import subprocess
 import sys
+from daily_plan import PREPARE_HOUR
 
 ROOT=Path(__file__).resolve().parents[1]
 STATE=Path.home()/'Library/Application Support/WalkIntoTheSound'
@@ -23,7 +24,7 @@ os.chmod(STATE,0o700)
 # the application-owned runner in Application Support; keep the checkout in place.
 runtime=STATE/'runtime'
 runtime.mkdir(exist_ok=True)
-for name in ('daily-blog.py','blog_validation.py'):
+for name in ('daily-blog.py','blog_validation.py','daily_plan.py'):
     shutil.copyfile(ROOT/'scripts'/name,runtime/name)
 codex_home=Path(os.environ.get('CODEX_HOME',str(Path.home()/'.codex')))
 config={'state':str(STATE),'project':str(ROOT),'node':shutil.which('node'),'gh':shutil.which('gh'),'codex':shutil.which('codex'),
@@ -43,7 +44,7 @@ if not args.install:
     raise SystemExit(0)
 launch_agents=Path.home()/'Library/LaunchAgents'
 launch_agents.mkdir(exist_ok=True)
-for mode,interval in [('prepare',[{'Hour':8,'Minute':0}]),('publish',[{'Hour':9,'Minute':0},{'Hour':9,'Minute':15},{'Hour':9,'Minute':30}])]:
+for mode,interval in [('prepare',[{'Hour':PREPARE_HOUR,'Minute':0}]),('publish',[{'Hour':9,'Minute':0},{'Hour':9,'Minute':15},{'Hour':9,'Minute':30}])]:
     label='com.walkintothesound.'+mode
     target='gui/'+str(os.getuid())+'/'+label
     subprocess.run(['launchctl','bootout',target],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)

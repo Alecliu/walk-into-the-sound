@@ -52,7 +52,14 @@ def validate_collection(data):
     require(len(set(ids)) == len(ids), 'Duplicate article route')
     require(ORIGINAL_IDS <= set(ids), 'An original article was removed')
     keys = [s['dailyKey'] for s in rows if s.get('dailyKey')]
-    require(len(keys) == len(set(keys)), 'More than one automated article per day')
+    require(len(keys) == len(set(keys)), 'Duplicate daily publication slot')
+    automatic_days = {}
+    for story in rows:
+        key = story.get('dailyKey')
+        if key:
+            require(key == story['publishedAt'] or (key.startswith(story['publishedAt']+':') and re.fullmatch(r'\d{4}-\d{2}-\d{2}:[a-z0-9-]+',key)), 'Invalid daily publication key')
+            automatic_days[story['publishedAt']] = automatic_days.get(story['publishedAt'],0)+1
+    require(all(count <= 5 for count in automatic_days.values()), 'More than five automated articles per day')
     for story in rows:
         validate_story(story)
     return rows

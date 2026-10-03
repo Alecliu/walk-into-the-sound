@@ -13,7 +13,8 @@ import sys
 import tempfile
 import time
 from urllib.request import urlopen, Request
-from blog_validation import TAIPEI, require, validate_candidate, validate_collection, validate_site
+from blog_validation import TAIPEI, require, validate_collection, validate_site
+from daily_plan import FIVE_ARTICLE_START, plan_for, published_count, remaining_slots, validate_assignment, select_ready
 from importlib.util import spec_from_file_location, module_from_spec
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -40,7 +41,7 @@ def now():
     return dt.datetime.now(TAIPEI)
 
 def published(rows, day):
-    return any(s['publishedAt'] == day or s.get('dailyKey') == day for s in rows)
+    return published_count(rows, day) >= len(plan_for(day))
 
 def receipt(state, day, **fields):
     path = state / 'drafts' / day / 'receipt.json'
@@ -83,42 +84,64 @@ def approve_review(candidate, review):
     require(review['approved'] is True and review['issues'] == [], 'Editorial review rejected: ' + '; '.join(review['issues']))
     require(set(review['checkedUrls']) == {s['url'] for s in candidate['story']['sources']}, 'Reviewer did not read all sources')
 
+def ready_files(state, day):
+    result = {}
+    for slot in plan_for(day):
+        path = state/'drafts'/day/'slots'/slot['id']/'ready.json'
+        if path.exists():
+            result[slot['id']] = read(path)
+    return result
+
 def prepare(config, state, day):
-    directory = state / 'drafts' / day
-    directory.mkdir(parents=True, exist_ok=True)
     with checkout(state) as work:
-        data = read(work / 'src/data.json')
+        data = read(work/'src/data.json')
         rows = data['queries']['cityStories']['rows']
         if published(rows, day):
-            print('An article already exists for ' + day)
+            print('Daily article target already reached for '+day)
             return
-        if (directory / 'ready.json').exists():
-            ready = read(directory / 'ready.json')
-            validate_candidate(ready['candidate'], rows, day)
-            approve_review(ready['candidate'], ready['review'])
-            print('Reviewed draft already ready for ' + day)
-            return
-        context = {'date':day,'stories':[{k:s.get(k) for k in ('id','title','artist','work','publishedAt','topics')} for s in rows],
-                   'scouting':data['queries']['scouting']['rows'],
-                   'chartLeads':sorted(data['queries']['tracks']['rows'], key=lambda s:s['date'], reverse=True)[:100]}
-        write(directory / 'context.json', context)
-        shutil.copyfile(work / 'editorial/EDITORIAL.md', directory / 'editorial-policy.md')
-        skill = Path(config['humanizer'])
-        require((skill / 'SKILL.md').is_file(), 'humanizer-zh is missing')
-        if (directory / 'humanizer').exists():
-            shutil.rmtree(directory / 'humanizer')
-        shutil.copytree(skill, directory / 'humanizer')
-        focus = ['音樂故事：錄音、物件、配樂或現場','新歌觀察：從近期作品或有日期的榜單線索研究','音樂人筆記：作品、製作或演出值得追蹤的原因'][dt.date.fromisoformat(day).toordinal() % 3]
-        prompt = (work/'editorial/daily-writer.txt').read_text().format(day=day, focus=focus)
-        candidate = codex(config,directory,prompt,work/'editorial/daily-article.schema.json',directory/'candidate.json','writer',1500)
-        validate_candidate(candidate, rows, day)
-        review_prompt = (work/'editorial/daily-reviewer.txt').read_text().format(day=day)
-        review = codex(config,directory,review_prompt,work/'editorial/daily-review.schema.json',directory/'review.json','reviewer',1200)
-        approve_review(candidate, review)
-        ready = {'day':day,'preparedAt':now().isoformat(),'baseCommit':run(['git','rev-parse','HEAD'],cwd=work),'candidate':candidate,'review':review}
-        write(directory/'ready.json',ready)
-        receipt(state,day,status='ready',articleId=candidate['story']['id'])
-        print('Reviewed draft ready:', candidate['story']['title'])
+        cached, _ = select_ready(rows, day, ready_files(state, day))
+        accepted = {ready['slot']:ready for _,ready in cached}
+        # Include all valid cached drafts when choosing later topics, even after restart.
+        existing = rows+[story for story,_ in cached]
+        failures = {}
+        for slot in remaining_slots(rows, day):
+            if slot['id'] in accepted:
+                continue
+            directory = state/'drafts'/day/'slots'/slot['id']
+            directory.mkdir(parents=True, exist_ok=True)
+            try:
+                require(now().date().isoformat()==day, 'Preparation crossed into a new day')
+                context = {'date':day, 'assignment':slot,
+                           'stories':[{k:s.get(k) for k in ('id','title','artist','work','publishedAt','topics')} for s in existing],
+                           'scouting':data['queries']['scouting']['rows'],
+                           'chartLeads':sorted(data['queries']['tracks']['rows'], key=lambda s:s['date'], reverse=True)[:100]}
+                write(directory/'context.json',context)
+                shutil.copyfile(work/'editorial/EDITORIAL.md', directory/'editorial-policy.md')
+                skill = Path(config['humanizer'])
+                require((skill/'SKILL.md').is_file(), 'humanizer-zh is missing')
+                if (directory/'humanizer').exists():
+                    shutil.rmtree(directory/'humanizer')
+                shutil.copytree(skill,directory/'humanizer')
+                prompt = (work/'editorial/daily-writer.txt').read_text().format(day=day,focus=slot['focus'])
+                candidate = codex(config,directory,prompt,work/'editorial/daily-article.schema.json',directory/'candidate.json','writer',1500)
+                story = validate_assignment(candidate,existing,day,slot)
+                review = codex(config,directory,(work/'editorial/daily-reviewer.txt').read_text().format(day=day),work/'editorial/daily-review.schema.json',directory/'review.json','reviewer',1200)
+                approve_review(candidate,review)
+                require(now().date().isoformat()==day, 'Review crossed into a new day')
+                ready = {'day':day,'slot':slot['id'],'preparedAt':now().isoformat(),'baseCommit':run(['git','rev-parse','HEAD'],cwd=work),'candidate':candidate,'review':review}
+                write(directory/'ready.json',ready)
+                accepted[slot['id']] = ready
+                existing.append(story)
+                print('Reviewed draft ready:',story['title'])
+            except Exception as error:
+                failures[slot['id']] = str(error)
+                write(directory/'failure.json',{'date':day,'slot':slot['id'],'checkedAt':now().isoformat(),'error':str(error)})
+                # A rejected slot never makes another checked article disappear.
+                if (directory/'ready.json').exists():
+                    (directory/'ready.json').unlink()
+                print('Slot stopped:',slot['id'],str(error),flush=True)
+            receipt(state,day,status='preparing',target=len(plan_for(day)),readySlots=list(accepted),failedSlots=failures)
+        receipt(state,day,status='ready' if not failures else 'partially-ready',target=len(plan_for(day)),readySlots=list(accepted),failedSlots=failures)
 
 def fetch_bytes(url):
     with urlopen(Request(url, headers={'User-Agent':'WalkIntoTheSound-PublicationCheck/1.0','Cache-Control':'no-cache'}), timeout=40) as response:
@@ -164,36 +187,45 @@ def verify_live(config, work, sha):
         time.sleep(15)
     raise RuntimeError('Pages content does not match the deployed commit')
 
-def publish(config, state, day, allow_early=False, dry_run=False):
+def publish(config, state, day, allow_early=False, dry_run=False, research_missing=True):
     require(allow_early or now().hour >= 9, 'Publication waits until 09:00 Asia/Taipei')
-    directory = state/'drafts'/day
-    with checkout(state) as work:
-        data = read(work/'src/data.json')
-        if published(data['queries']['cityStories']['rows'],day):
-            sha = run(['git','rev-parse','HEAD'],cwd=work)
-            action = verify_live(config,work,sha)
-            receipt(state,day,status='already-published',commit=sha,action=action)
-            print('Today already published and verified:', sha)
-            return
-    if not (directory/'ready.json').exists():
-        # Wake/login after the preparation time: research first, publish late after all gates.
-        prepare(config,state,day)
-    ready = read(directory/'ready.json')
     with checkout(state) as work:
         data = read(work/'src/data.json')
         rows = data['queries']['cityStories']['rows']
-        require(not published(rows,day), 'Another article was published while preparing; retry to verify it')
-        story = validate_candidate(ready['candidate'],rows,day)
-        approve_review(ready['candidate'],ready['review'])
-        require(ready['day'] == day and dt.datetime.fromisoformat(ready['preparedAt']).astimezone(TAIPEI).date().isoformat() == day,'Draft is stale')
-        story['dailyKey'] = day
-        rows.insert(0,story)
+        if published(rows,day):
+            sha = run(['git','rev-parse','HEAD'],cwd=work)
+            action = verify_live(config,work,sha) if not dry_run else None
+            receipt(state,day,status='already-published' if not dry_run else 'validated-dry-run',commit=sha,action=action,publishedCount=published_count(rows,day),target=len(plan_for(day)))
+            print('Today already published'+(' and verified' if not dry_run else '')+':', sha)
+            return
+        cached, errors = select_ready(rows,day,ready_files(state,day))
+        missing = len(cached) < len(remaining_slots(rows,day))
+    # Dry runs never start research or write externally. Normal retries resume missing slots.
+    if missing and not cached and not dry_run and research_missing:
+        prepare(config,state,day)
+    with checkout(state) as work:
+        data = read(work/'src/data.json')
+        rows = data['queries']['cityStories']['rows']
+        if published(rows,day):
+            sha = run(['git','rev-parse','HEAD'],cwd=work)
+            action = verify_live(config,work,sha) if not dry_run else None
+            receipt(state,day,status='already-published' if not dry_run else 'validated-dry-run',commit=sha,action=action,publishedCount=published_count(rows,day),target=len(plan_for(day)))
+            return
+        selected, errors = select_ready(rows,day,ready_files(state,day))
+        require(selected, 'No publishable articles: '+json.dumps(errors,ensure_ascii=False))
+        require(now().date().isoformat()==day, 'Publication crossed into a new day')
+        rows[0:0] = [story for story,_ in selected]
+        require(published_count(rows,day) <= len(plan_for(day)), 'Daily article limit exceeded')
         data['buildStatus']='complete'
         validate_collection(data)
         write(work/'src/data.json',data)
         evidence_dir = work/'editorial/daily'
         evidence_dir.mkdir(exist_ok=True)
-        write(evidence_dir/(day+'.json'), {'date':day,'articleId':story['id'],'preparedAt':ready['preparedAt'],'sources':ready['candidate']['evidence'],'review':ready['review']})
+        evidence_paths = []
+        for story,ready in selected:
+            evidence_path = 'editorial/daily/'+day+'-'+ready['slot']+'.json'
+            evidence_paths.append(evidence_path)
+            write(work/evidence_path, {'date':day,'slot':ready['slot'],'articleId':story['id'],'preparedAt':ready['preparedAt'],'selection':ready['candidate'].get('selection',{}),'sources':ready['candidate']['evidence'],'review':ready['review']})
         spec = spec_from_file_location('build_site',work/'scripts/build-site.py')
         builder = module_from_spec(spec)
         spec.loader.exec_module(builder)
@@ -202,21 +234,23 @@ def publish(config, state, day, allow_early=False, dry_run=False):
         run([sys.executable,'-m','unittest','discover','-s','tests','-p','test_*.py'],cwd=work,timeout=300)
         validate_site(work)
         run(['git','diff','--check'],cwd=work)
-        run(['git','add','--','src/data.json','site','editorial/daily/'+day+'.json'],cwd=work)
+        run(['git','add','--','src/data.json','site']+evidence_paths,cwd=work)
         changed = run(['git','diff','--cached','--name-only'],cwd=work).splitlines()
-        require(all(p=='src/data.json' or p.startswith('site/') or p=='editorial/daily/'+day+'.json' for p in changed),'Unexpected staged changes')
+        require(all(p=='src/data.json' or p.startswith('site/') or p in evidence_paths for p in changed),'Unexpected staged changes')
+        article_ids = [story['id'] for story,_ in selected]
         if dry_run:
-            receipt(state,day,status='validated-dry-run',articleId=story['id'])
+            receipt(state,day,status='validated-dry-run',articleIds=article_ids,publishedCount=published_count(rows,day),target=len(plan_for(day)))
             print('Dry run passed; no commit or push.')
             return
-        run(['git','-c','user.name=Walk into the sound','-c','user.email=5766352+Alecliu@users.noreply.github.com','commit','-m','Publish daily music article '+day],cwd=work)
+        require(now().date().isoformat()==day, 'Build crossed into a new day')
+        run(['git','-c','user.name=Walk into the sound','-c','user.email=5766352+Alecliu@users.noreply.github.com','commit','-m','Publish '+str(len(selected))+' daily music articles '+day],cwd=work)
         sha=run(['git','rev-parse','HEAD'],cwd=work)
-        receipt(state,day,status='built',commit=sha,articleId=story['id'])
+        receipt(state,day,status='built',commit=sha,articleIds=article_ids,target=len(plan_for(day)))
         run(['git','push',REMOTE,'HEAD:main'],cwd=work,timeout=600)
         receipt(state,day,status='pushed')
         action=verify_live(config,work,sha)
-        receipt(state,day,status='published',action=action,url=LIVE+'#cities/'+story['id'])
-        print('Published and verified:', LIVE+'#cities/'+story['id'])
+        receipt(state,day,status='published' if published(rows,day) else 'partially-published',action=action,urls=[LIVE+'#cities/'+i for i in article_ids],publishedCount=published_count(rows,day),failedSlots=errors)
+        print('Published and verified:',len(selected),'new articles;',published_count(rows,day),'of',len(plan_for(day)),'today')
 
 def main():
     parser=argparse.ArgumentParser()
@@ -229,7 +263,7 @@ def main():
     state.mkdir(parents=True,exist_ok=True)
     day=now().date().isoformat()
     if args.mode=='status':
-        print(json.dumps({'schedule':'Asia/Taipei 08:00 prepare; 09:00 publish; 09:15/09:30 retry','state':str(state),'receipt':read(state/'drafts'/day/'receipt.json') if (state/'drafts'/day/'receipt.json').exists() else None},ensure_ascii=False,indent=2))
+        print(json.dumps({'schedule':'Asia/Taipei 05:00 prepare; 09:00 publish; 09:15/09:30 retry','fiveArticleStart':FIVE_ARTICLE_START,'targetToday':len(plan_for(day)),'slots':[s['id'] for s in plan_for(day)],'state':str(state),'receipt':read(state/'drafts'/day/'receipt.json') if (state/'drafts'/day/'receipt.json').exists() else None},ensure_ascii=False,indent=2))
         return
     for key in ('codex','node','gh'):
         require(Path(config[key]).is_file(),'Missing tool: '+key)
@@ -255,6 +289,9 @@ def main():
         try:
             if args.mode=='prepare':
                 prepare(config,state,day)
+                # Login/wake after 09:00: the competing publish job may have hit this lock.
+                if now().hour >= 9:
+                    publish(config,state,day,dry_run=args.dry_run,research_missing=False)
             else:
                 publish(config,state,day,dry_run=args.dry_run)
         except Exception as error:

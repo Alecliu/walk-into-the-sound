@@ -1,24 +1,29 @@
 # 每日文章與自動發布
 
-使用者於 2026-10-03 確認：**台北時間每天 09:00 自動發布一篇**。維持原儲存庫 `Alecliu/walk-into-the-sound`、`main` 與 GitHub Pages，不另建網站。
+使用者於 2026-10-03 將配額從一篇提高為 **每天五篇，台北時間 09:00 開始自動發布**，自 2026-10-04 起生效。10 月 3 日已發布文章不重複新增。維持原儲存庫 `Alecliu/walk-into-the-sound`、`main` 與 GitHub Pages。
 
 ## 實際時程
 
-- 08:00：在獨立工作目錄讀取 GitHub 最新 main，以已登入的 Codex 查來源、撰稿，使用 humanizer-zh 校閱。另一次校閱執行重新打開來源；不通過便停止。
-- 09:00：確認當天尚無文章，驗證稿件、重建完整成品、執行測試、推送 main。
-- 09:15、09:30：再檢查未完成發布；已存在文章只核對部署，不重複新增。
+- 05:00：讀取 GitHub 最新 main，逐篇查來源、撰稿，使用 humanizer-zh，另一次校閱重新打開來源。五篇各自完成與保存；不通過的欄位保留錯誤，其餘繼續。
+- 09:00：重新計算當日已發表篇數，將通過校閱的稿件合併建置，執行測試、推送 main；當日最多五篇。
+- 09:15、09:30：補查缺額，只續跑缺少／失敗欄位；已發表稿件不重複新增。已滿五篇只核對部署。
 - GitHub Actions 成功、正式 HTML 與資料快照雜湊均相符後，才記錄 published。
 
-09:00 是啟動發布的時間，建置與 GitHub Pages 部署需要數分鐘，不承諾 09:00:00 已能看到。電腦須開機、登入、連網且保持 Asia/Taipei 系統時區。執行時 caffeinate 避免閒置睡眠，不設定全機喚醒或能源選項；睡眠／離線會延後。登入時會補檢查，若當天缺稿先備稿，完成檢查後才發布。資料或授權不足不湊篇數，詳情記在私有 receipt。
+每日五個欄位由 `scripts/daily_plan.py` 指定：兩篇新歌／近 60 天作品、MV 場景、製作人、音樂人故事各一篇。日韓題材在新歌與人物欄位輪替，其餘不限音樂場景；不建立國家分類。新歌必須保留實際發行日與來源；沒有當期可比較數據時，不宣稱流量上升。
+
+09:00 是啟動發布的時間，建置與 GitHub Pages 部署需要數分鐘，不承諾 09:00:00 已能看到。五篇各有最多 25 分鐘撰稿與 20 分鐘校閱時間，故備稿提前至 05:00，依序執行。電腦須開機、登入、連網且保持 Asia/Taipei 系統時區；五篇消耗的模型額度會高於一篇。caffeinate 僅避免工作中的閒置睡眠，不設定全機喚醒；睡眠／離線會延後。登入或喚醒補跑後若已過 09:00，備稿完成會接續發布，不必等隔天。跨日稿件不沿用日期發布。資料或授權不足不湊篇數，已查核的部分可先上線，詳情記在私有 receipt。
 
 ## 檔案
 
 - `scripts/daily-blog.py`：備稿、校閱、內容合併、建置、推送、驗證。
+- `scripts/daily_plan.py`：五篇配額、生效日、選題、新歌日期、跨稿去重與續跑選擇。
 - `scripts/blog_validation.py`：文章、日期、來源、重複稿、照片、發布成品檢查。
 - `scripts/build-site.py`：呼叫已安裝的 Data 外掛，不另換建置工具。
 - `editorial/daily-writer.txt`、`daily-reviewer.txt`：撰稿與校閱規則。
 - `editorial/daily-*.schema.json`：結構化輸出格式。
-- `editorial/daily/YYYY-MM-DD.json`：可公開的來源查閱摘要與校閱結果。
+- `editorial/daily/YYYY-MM-DD-<slot>.json`：每篇可公開的來源查閱摘要與校閱結果；舊單篇紀錄保留。
+
+私有草稿位於 `drafts/YYYY-MM-DD/slots/<slot>/`，每篇有 ready、candidate、review 及執行日誌。`dailyKey` 使用 `YYYY-MM-DD:<slot>`；保留舊 `YYYY-MM-DD` 格式可讀性。五篇一起建置，每篇仍獨立校閱。重跑時以最新 main 判斷既有篇數、作品及欄位，不因前次推送後驗證失敗而再加同一篇。
 
 機器路徑、GitHub／Codex 憑證、完整模型執行日誌都不加入儲存庫。排程執行檔由安裝器複製到同目錄下的 `runtime/`，工作目錄亦在 Application Support，避免 macOS 背景工作讀取 Documents 被拒；不更改全磁碟存取權限。程式更新後重跑安裝器以更新 runtime。設定與日誌在使用者的 `~/Library/Application Support/WalkIntoTheSound/`；憑證仍由原本的 GitHub CLI／Codex 登入管理。
 
@@ -38,7 +43,7 @@ launchctl print "gui/$(id -u)/com.walkintothesound.publish"
 ```sh
 # 手動備稿；不推送
 python3 scripts/daily-blog.py prepare
-# 驗證建置與測試步驟，不提交／推送新文章
+# 使用現有已校閱稿驗證建置與測試，不啟動研究、不提交／推送
 python3 scripts/daily-blog.py publish --dry-run
 # 09:00 後手動補一次；仍有同日去重與全部檢查
 python3 scripts/daily-blog.py publish

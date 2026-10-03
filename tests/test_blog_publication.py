@@ -28,7 +28,7 @@ class BlogPublicationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'original article'):
             validate_collection(self.data)
     def test_duplicate_day_and_candidate_rejected(self):
-        self.assertTrue(daily.published([self.story],'2026-10-04'))
+        self.assertFalse(daily.published([self.story],'2026-10-04'))
         with self.assertRaisesRegex(ValueError,'Duplicate article'):
             validate_candidate(self.candidate,[self.story],'2026-10-04')
         self.assertEqual(validate_candidate(self.candidate,[],'2026-10-04')['id'],'test-music-article')

@@ -258,13 +258,34 @@
         ],
         "additionalProperties": false
       }
+    },
+    "selection": {
+      "type": "object",
+      "properties": {
+        "releaseDate": {
+          "type": "string"
+        },
+        "releaseSource": {
+          "type": "string"
+        },
+        "focusNote": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "releaseDate",
+        "releaseSource",
+        "focusNote"
+      ],
+      "additionalProperties": false
     }
   },
   "required": [
     "status",
     "reason",
     "story",
-    "evidence"
+    "evidence",
+    "selection"
   ],
   "additionalProperties": false
 }

@@ -10,7 +10,7 @@
 - 正式網站：[走到那首歌](https://alecliu.github.io/walk-into-the-sound/)。
 - GitHub 基準：`e334466052363ce40b4e690ede0f4e3053671519`，`Import verified story website and source`，2026-10-02。
 - 發布流程：[.github/workflows/pages.yml](.github/workflows/pages.yml)。推送 `main` 或手動觸發後，Actions 檢查並發布 **`site/`**；它不會代為編譯 `src/`。
-- 首次接手只處理環境；2026-10-03 使用者接著授權改為部落格、調整文風、每天 09:00 自動發布。新規格見 [編輯方式](editorial/EDITORIAL.md) 與 [每日發布](editorial/DAILY-PUBLISH.md)。繼續使用這個儲存庫，不要修改 `daily-music-scan`。
+- 首次接手只處理環境；2026-10-03 使用者接著授權改為部落格、調整文風、每天 09:00 自動發布。其後追加自 2026-10-04 起每日五篇，05:00 備稿、09:00 發布，並納入 MV 場景、日韓音樂人、製作人與新歌。新規格見 [編輯方式](editorial/EDITORIAL.md) 與 [每日發布](editorial/DAILY-PUBLISH.md)。繼續使用這個儲存庫，不要修改 `daily-music-scan`。
 
 工作前先確認本機狀態，再同步遠端：
 
