@@ -19,6 +19,12 @@ if dt.datetime.now().astimezone().utcoffset()!=dt.timedelta(hours=8):
 STATE.mkdir(parents=True,exist_ok=True)
 os.chmod(STATE,0o700)
 (STATE/'logs').mkdir(exist_ok=True)
+# launchd cannot inherit Codex's macOS Documents-folder permission. Install only
+# the application-owned runner in Application Support; keep the checkout in place.
+runtime=STATE/'runtime'
+runtime.mkdir(exist_ok=True)
+for name in ('daily-blog.py','blog_validation.py'):
+    shutil.copyfile(ROOT/'scripts'/name,runtime/name)
 codex_home=Path(os.environ.get('CODEX_HOME',str(Path.home()/'.codex')))
 config={'state':str(STATE),'project':str(ROOT),'node':shutil.which('node'),'gh':shutil.which('gh'),'codex':shutil.which('codex'),
         'plugin':str(codex_home/'plugins/cache/openai-curated-remote/data-analytics/1.0.11'),'humanizer':str(codex_home/'skills/humanizer-zh')}
@@ -41,8 +47,8 @@ for mode,interval in [('prepare',[{'Hour':8,'Minute':0}]),('publish',[{'Hour':9,
     label='com.walkintothesound.'+mode
     target='gui/'+str(os.getuid())+'/'+label
     subprocess.run(['launchctl','bootout',target],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
-    plist={'Label':label,'ProgramArguments':['/usr/bin/caffeinate','-i',sys.executable,str(ROOT/'scripts/daily-blog.py'),mode,'--config',str(config_path)],
-           'WorkingDirectory':str(ROOT),'StartCalendarInterval':interval,'RunAtLoad':True,'ProcessType':'Background','LowPriorityIO':True,
+    plist={'Label':label,'ProgramArguments':['/usr/bin/caffeinate','-i',sys.executable,str(runtime/'daily-blog.py'),mode,'--config',str(config_path)],
+           'WorkingDirectory':str(STATE),'StartCalendarInterval':interval,'RunAtLoad':True,'ProcessType':'Background','LowPriorityIO':True,
            'EnvironmentVariables':{'PATH':str(Path.home()/'.local/bin')+':/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin','PYTHONUNBUFFERED':'1','TZ':'Asia/Taipei'},
            'StandardOutPath':str(STATE/'logs'/(mode+'.log')),'StandardErrorPath':str(STATE/'logs'/(mode+'.error.log'))}
     path=launch_agents/(label+'.plist')

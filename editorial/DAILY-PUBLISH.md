@@ -20,7 +20,7 @@
 - `editorial/daily-*.schema.json`：結構化輸出格式。
 - `editorial/daily/YYYY-MM-DD.json`：可公開的來源查閱摘要與校閱結果。
 
-機器路徑、GitHub／Codex 憑證、完整模型執行日誌都不加入儲存庫。設定與日誌在使用者的 `~/Library/Application Support/WalkIntoTheSound/`；憑證仍由原本的 GitHub CLI／Codex 登入管理。
+機器路徑、GitHub／Codex 憑證、完整模型執行日誌都不加入儲存庫。排程執行檔由安裝器複製到同目錄下的 `runtime/`，工作目錄亦在 Application Support，避免 macOS 背景工作讀取 Documents 被拒；不更改全磁碟存取權限。程式更新後重跑安裝器以更新 runtime。設定與日誌在使用者的 `~/Library/Application Support/WalkIntoTheSound/`；憑證仍由原本的 GitHub CLI／Codex 登入管理。
 
 ## 安裝與查看
 
