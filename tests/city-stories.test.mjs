@@ -48,8 +48,8 @@ test('each published city story has a unique route and inspectable evidence', ()
   assert.ok(stories.length >= 3);
   for (const s of stories) {
     assert.match(s.id, /^[a-z0-9-]+$/);
-    assert.ok(s.city && s.work && s.anchor && s.lens && s.sections.length >= 3 && s.timeline.length >= 2);
-    assert.ok(s.sources.length >= 2 && s.places.length >= 1);
+    assert.ok(s.work && s.anchor && s.lens && s.sections.length >= 3 && s.timeline.length >= 2);
+    assert.ok(s.sources.length >= 2 && Array.isArray(s.places));
     assert.ok(s.sources.every(source => source.url.startsWith('https://')));
     assert.ok(s.sections.some(section => section.body.includes(s.sources[0].url)));
     assert.doesNotMatch(JSON.stringify(s), /中國|台灣|臺灣|英國|愛爾蘭|國籍/);
@@ -66,4 +66,17 @@ test('platform copy does not mutate reviewed records or collapse chart series', 
   assert.doesNotMatch(JSON.stringify(plotted), /台灣|全球/);
   assert.equal(JSON.stringify(records), original);
   assert.doesNotMatch(platformCopy('台灣／中國大陸'), /台灣|中國|大陸/);
+});
+
+test('blog tags share one chronological list without mutating source rows', async () => {
+  const { newestStories, availableTopics, storyTopics } = await import('../src/content/dashboard/story-model.js');
+  const rows = [{id:'old',publishedAt:'2026-10-02',lens:'唱片與物件',tags:[{type:'城市',label:'倫敦'}]}, {id:'new',publishedAt:'2026-10-03',topics:['新歌觀察','音樂人筆記'],tags:[{type:'城市',label:'巴黎'}]}];
+  const original = JSON.stringify(rows);
+  assert.deepEqual(newestStories(rows).map(s=>s.id),['new','old']);
+  assert.deepEqual(storyTopics(rows[0]),['唱片與物件']);
+  assert.deepEqual(availableTopics(rows),['唱片與物件','新歌觀察','音樂人筆記']);
+  assert.deepEqual(filterStories(rows,{topic:'音樂人筆記',selections:{城市:'城市:巴黎'}}).map(s=>s.id),['new']);
+  assert.equal(filterStories(rows,{topic:'新歌觀察',selections:{城市:'城市:倫敦'}}).length,0);
+  assert.equal(filterStories(rows,{search:'音樂人筆記'}).length,1);
+  assert.equal(JSON.stringify(rows),original);
 });

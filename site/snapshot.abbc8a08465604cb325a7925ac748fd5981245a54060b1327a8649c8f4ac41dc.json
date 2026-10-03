@@ -58196,6 +58196,104 @@
     "cityStories": {
       "rows": [
         {
+          "id": "bratislava-adela-aint-in-la",
+          "city": "布拉提斯拉瓦",
+          "cityEn": "BRATISLAVA",
+          "artist": "ADÉLA",
+          "people": [
+            "ADÉLA",
+            "Fred Gervais",
+            "Theron Thomas",
+            "Dylan Brady",
+            "Blake Slatkin"
+          ],
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "topics": [
+            "新歌觀察",
+            "音樂人筆記"
+          ],
+          "anchor": "母親十八歲時的照片",
+          "work": "Ain’t In LA / PRIMA",
+          "year": "2026",
+          "accent": "coral",
+          "title": "ADÉLA 把母親十八歲的照片，寫進了 Ain’t In LA",
+          "deck": "從潛力雷達追到這首歌，查到一段家人的故事：ADÉLA 回到布拉提斯拉瓦，看見母親十八歲時站在流行偶像海報前的照片，才開始寫 Ain’t In LA。",
+          "publishedAt": "2026-10-03",
+          "reviewedAt": "2026-10-03",
+          "readingMinutes": 3,
+          "sections": [
+            {
+              "id": "photo",
+              "title": "先從那張照片說起",
+              "body": "ADÉLA 的名字已經出現在本站的潛力雷達。順著資料查她的〈Ain’t In LA〉，最想留下來的是這件事：她回家時，翻到了母親十八歲的照片。照片裡，母親站在貼滿流行文化海報的牆前。ADÉLA 在發行公告中說，這讓她想到那些同樣有夢想，卻未必有機會被看見的人。 [Universal Music｜2026 年 7 月 23 日單曲與 MV 公告](https://www.universalmusic.ca/2026/07/23/adela-announces-debut-album-prima-due-september-4th-releases-new-single-and-music-video-aint-in-laout-now/)\n\n到了 W Magazine 的訪談，家人的位置更清楚了。母親和妹妹都出現在 MV 裡；片中的 Hollywood 海報，也接回了母親年輕時喜歡流行文化的故事。MV 由 Fred Gervais 執導，在布拉提斯拉瓦拍攝。歌名寫著洛杉磯，鏡頭卻回到她熟悉的城市。 [W Magazine｜Claire Valentine 專訪 ADÉLA，2026 年 9 月 1 日](https://www.wmagazine.com/wyouth/adela-prima-album-interview-katseye-nicole-kidman) [Universal Music｜2026 年 7 月 23 日單曲與 MV 公告](https://www.universalmusic.ca/2026/07/23/adela-announces-debut-album-prima-due-september-4th-releases-new-single-and-music-video-aint-in-laout-now/)"
+            },
+            {
+              "id": "song",
+              "title": "她想談的，是誰一直被看見",
+              "body": "把歌名直接理解成討厭洛杉磯，會漏掉她自己的說法。九月接受 Capital 逐曲訪問時，ADÉLA 說，她受夠了大家總是讚美同一批名人、追同一種美的標準。她也把自己放進這個問題裡：有機會受到注意，不表示其他人就沒有意思。這段說明，和母親照片的故事是接得上的。 [Capital｜ADÉLA 逐曲談 PRIMA，2026 年 9 月訪談](https://www.capitalfm.com/news/music/adela-prima-aint-in-la-nicole-kidman-interview/)\n\n還有一條音樂上的線索值得追。W 的訪談提到，她喜歡 Miley Cyrus 的《Bangerz》；〈Ain’t In LA〉裡經過處理的反覆人聲，由 Theron Thomas 演唱，他也是〈We Can’t Stop〉裡的那個聲音。比起只用「有千禧年流行感」來形容，查到同一位合作者，就有了可以對照兩首歌的具體理由。 [W Magazine｜Claire Valentine 專訪 ADÉLA，2026 年 9 月 1 日](https://www.wmagazine.com/wyouth/adela-prima-album-interview-katseye-nicole-kidman)"
+            },
+            {
+              "id": "album",
+              "title": "接下來，把歌放回專輯裡",
+              "body": "《PRIMA》已在 2026 年 9 月 4 日由 Capitol Records 發行，Dylan Brady 與 Blake Slatkin 擔任共同執行製作。官方曲目表列了十一首，〈Ain’t In LA〉放在最後，前一首是〈Therapy〉。這是已發行的首張專輯，不是還在等出道的計畫。 [Universal Music｜2026 年 9 月 4 日 PRIMA 發行與曲目](https://www.universalmusic.ca/2026/09/04/adela-releases-debut-album-prima/)\n\nCapital 訪談裡，她談〈Therapy〉時說到妹妹，以及為了工作而錯過相處時間的感受。只看歌名，不容易知道這兩首最後接回的都是家人。下次聽這張專輯，可以把第十、十一首先連著放，再回頭看她的逐曲說明。 [Capital｜ADÉLA 逐曲談 PRIMA，2026 年 9 月訪談](https://www.capitalfm.com/news/music/adela-prima-aint-in-la-nicole-kidman-interview/)\n\n這次把 ADÉLA 寫成文章，想留下的就是這些可以繼續查、繼續聽的線索。她已經有 Capitol 的發行合作，不能再標成「未簽約新人」；至於往後會走到哪裡，留給後續作品和現場慢慢回答。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026.07.23",
+              "event": "發行 Ain’t In LA，公布 PRIMA 專輯計畫。"
+            },
+            {
+              "date": "2026.09.04",
+              "event": "Capitol Records 發行首張專輯 PRIMA。"
+            },
+            {
+              "date": "2026.09",
+              "event": "Capital 刊出逐曲創作訪談。"
+            }
+          ],
+          "places": [
+            {
+              "name": "布拉提斯拉瓦",
+              "detail": "Ain’t In LA 官方 MV 的拍攝城市。來源未確認照片中的私人住址，因此只標示城市。",
+              "query": "Bratislava"
+            }
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "布拉提斯拉瓦",
+              "aliases": [
+                "Bratislava"
+              ]
+            }
+          ],
+          "listen": {
+            "title": "Ain’t In LA",
+            "artist": "ADÉLA",
+            "note": "先找官方 MV，再把 PRIMA 最後兩首 Therapy、Ain’t In LA 接著聽。下方提供歌曲搜尋。"
+          },
+          "sources": [
+            {
+              "title": "Universal Music｜2026 年 7 月 23 日單曲與 MV 公告",
+              "url": "https://www.universalmusic.ca/2026/07/23/adela-announces-debut-album-prima-due-september-4th-releases-new-single-and-music-video-aint-in-laout-now/"
+            },
+            {
+              "title": "W Magazine｜Claire Valentine 專訪 ADÉLA，2026 年 9 月 1 日",
+              "url": "https://www.wmagazine.com/wyouth/adela-prima-album-interview-katseye-nicole-kidman"
+            },
+            {
+              "title": "Capital｜ADÉLA 逐曲談 PRIMA，2026 年 9 月訪談",
+              "url": "https://www.capitalfm.com/news/music/adela-prima-aint-in-la-nicole-kidman-interview/"
+            },
+            {
+              "title": "Universal Music｜2026 年 9 月 4 日 PRIMA 發行與曲目",
+              "url": "https://www.universalmusic.ca/2026/09/04/adela-releases-debut-album-prima/"
+            }
+          ]
+        },
+        {
           "id": "paris-amelie-cafe",
           "city": "巴黎",
           "cityEn": "PARIS",
@@ -58209,23 +58307,23 @@
           "work": "艾蜜莉的異想世界 Amélie",
           "year": "2001",
           "accent": "sage",
-          "title": "艾蜜莉上班的咖啡館，和一首早已寫好的曲子",
-          "deck": "Rue Lepic 15 號有一間紅色招牌的咖啡館。電影把它變成艾蜜莉的工作場所，也讓許多人第一次聽見 Yann Tiersen 的鋼琴。",
+          "title": "《艾蜜莉》的那首鋼琴曲，原來不是為電影寫的",
+          "deck": "從蒙馬特的雙磨坊咖啡館找起，查到 Yann Tiersen 對這首曲子的另一段說明。再把 2001 年原聲帶與 2019 年重錄版放在一起聽。",
           "sections": [
             {
               "id": "part-1",
-              "title": "先走進她上班的地方",
-              "body": "《艾蜜莉的異想世界》裡，艾蜜莉替客人端咖啡，也默默留意同事和熟客的心事。咖啡館給了她一個位置：她每天在這裡工作，有機會看見別人還沒說出口的需要。那些小小的介入，才慢慢推動了電影。\n\n這個場所可以在蒙馬特找到。雙磨坊咖啡館的紅色招牌就掛在 Rue Lepic 15 號，店家至今仍介紹它與 2001 年電影的關係。巴黎旅遊資訊也將這裡列為實際取景地。照片裡的街邊座位攝於 2010 年，距離拍片已經過了幾年。[咖啡館｜電影與店史](https://cafedesdeuxmoulins.fr/fr)[Paris je t’aime｜雙磨坊咖啡館](https://parisjetaime.com/restaurant/cafe-des-2-moulins-p735)"
+              "title": "先找咖啡館，再查曲子的來歷",
+              "body": "《艾蜜莉的異想世界》讓雙磨坊咖啡館成了許多人認識 Yann Tiersen 的入口：畫面裡是艾蜜莉工作的地方，原聲帶裡則有那首後來常被單獨演奏的鋼琴曲。不過，取景地和作曲的地點得分開看。\n\n這個場所可以在蒙馬特找到。雙磨坊咖啡館的紅色招牌就掛在 Rue Lepic 15 號，店家至今仍介紹它與 2001 年電影的關係。巴黎旅遊資訊也將這裡列為實際取景地。照片裡的街邊座位攝於 2010 年，距離拍片已經過了幾年。[咖啡館｜電影與店史](https://cafedesdeuxmoulins.fr/fr)[Paris je t’aime｜雙磨坊咖啡館](https://parisjetaime.com/restaurant/cafe-des-2-moulins-p735)"
             },
             {
               "id": "part-2",
-              "title": "鋼琴聲有自己的前史",
-              "body": "許多人把〈Comptine d’un autre été : L’après-midi〉與艾蜜莉一起記住。旋律由左手反覆的音型往前推，右手逐漸加上更密的句子；聽起來像一件小事還沒有處理完，另一個念頭又追了上來。曲子的出生比這段銀幕記憶更早。\n\nTiersen 在《Portrait》的唱片說明中回憶，它是自己早已寫好、尚未發表的作品，後來才錄給導演。電影替它找到更多聽眾，卻沒有創造它最早的起點。咖啡館也並非它的錄音室。[Mute｜Tiersen 談 Portrait](https://old.mute.com/mute/yann-tiersen-portrait)"
+              "title": "Tiersen 說，曲子早就寫好了",
+              "body": "〈Comptine d’un autre été : L’après-midi〉很適合分成左右手來聽：左手重複音型，右手的句子逐漸變密。這段音樂與電影連得太緊，很容易讓人以為它是看著畫面寫的。Tiersen 的說法卻不是如此。\n\nTiersen 在《Portrait》的唱片說明裡提到，這是早已寫好、尚未發表的作品，後來才錄給導演。電影讓更多人認識它；雙磨坊咖啡館是取景地，並不是這首曲子的錄音室。 [Mute｜Tiersen 談 Portrait](https://old.mute.com/mute/yann-tiersen-portrait)"
             },
             {
               "id": "part-3",
-              "title": "十八年後，演奏的人又回來了",
-              "body": "2019 年，Tiersen 在《Portrait》中重錄了這首曲子。對他而言，回到舊作也包含重新面對自己的生活與記憶。熟悉的音符仍在，演奏者已經走過另一段時間。[Mute｜Tiersen 談 Portrait](https://old.mute.com/mute/yann-tiersen-portrait)\n\n可以先播放 2001 年原聲帶，再換成《Portrait》的錄音。別急著判斷哪個比較好，聽聽停頓、速度，以及音符落下之後留了多少空間。電影中替別人安排驚喜的艾蜜莉，和多年後重新演奏的 Tiersen，會在這兩次聆聽之間各自清楚起來。"
+              "title": "比較 2001 與 2019 年的錄音",
+              "body": "2019 年，Tiersen 在《Portrait》中重錄這首曲子。他談到重訪舊作時，也談自己的生活與記憶。兩個正式版本相隔十八年，正好可以拿來比較。 [Mute｜Tiersen 談 Portrait](https://old.mute.com/mute/yann-tiersen-portrait)\n\n可以把 2001 年原聲帶與《Portrait》接著放。先比較速度，再聽句子之間的停頓，以及音符結束後的空間。別只認旋律：同一位演奏者怎麼重新處理熟悉的曲子，才是這次比較的樂趣。"
             }
           ],
           "timeline": [
@@ -58298,7 +58396,11 @@
             "caption": "雙磨坊咖啡館，2010 年攝。",
             "alt": "巴黎雙磨坊咖啡館的紅色招牌與街邊座位，2010 年攝",
             "position": "center"
-          }
+          },
+          "topics": [
+            "影像與配樂"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "hong-kong-chungking-express",
@@ -58310,8 +58412,8 @@
           "anchor": "快餐店裡的音響",
           "work": "重慶森林 Chungking Express",
           "year": "1994",
-          "title": "快餐店的音樂太大聲，阿菲還不想把它關掉",
-          "deck": "阿菲在櫃檯後反覆播放 California Dreamin’。這首老歌替她想著遠方；等到夢中人響起，唱歌的人就是眼前的王菲。",
+          "title": "《重慶森林》為什麼把 California Dreamin’ 放了九次？",
+          "deck": "阿菲在快餐店把歌開得很大聲。Criterion 作者 Oliver Wang 數過，它在片中出現九次；有意思的是，到了最後，按下播放的人換了。",
           "accent": "coral",
           "people": [
             "王菲",
@@ -58334,18 +58436,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "櫃檯兩邊的人",
-              "body": "1994 年的《重慶森林》，後半段從午夜特快這間快餐店展開。警察 663 來買東西，阿菲在店裡工作，音響把〈California Dreamin’〉放得很大聲。她跟著音樂動，身體有自己的節奏；對面的男人卻還困在上一段感情裡。[Wikipedia｜重慶森林的情節與製作](https://en.wikipedia.org/wiki/Chungking_Express)\n\nOliver Wang 在 Criterion 的文章裡數過，這首歌在電影中出現了九次。反覆播放讓我們逐漸記住阿菲的習慣。她不必每次都開口說想去遠方，那台音響已經替她說了許多次。[Criterion｜王菲與電影中的流行歌](https://www.criterion.com/current/posts/6640-a-cantopop-dream-girl-s-first-film-reverie)"
+              "title": "快餐店裡反覆播放的歌",
+              "body": "1994 年的《重慶森林》，後半段從午夜特快這間快餐店展開。警察 663 來買東西，阿菲在店裡工作，音響把〈California Dreamin’〉放得很大聲。她跟著音樂動，身體有自己的節奏；對面的男人卻還困在上一段感情裡。[Wikipedia｜重慶森林的情節與製作](https://en.wikipedia.org/wiki/Chungking_Express)\n\nOliver Wang 在 Criterion 的文章裡數過，〈California Dreamin’〉在電影中出現九次。九次並不只是重複提醒觀眾歌名；留意播放時的人物和場景，會看見這首歌的用途一直在變。 [Criterion｜王菲與電影中的流行歌](https://www.criterion.com/current/posts/6640-a-cantopop-dream-girl-s-first-film-reverie)"
             },
             {
               "id": "part-2",
-              "title": "另一首歌，換成她自己的聲音",
-              "body": "王菲拍這部電影時，早已是一位有多張唱片的歌手。《胡思亂想》在電影上映前一個月推出，當中〈夢中人〉改編自 The Cranberries 的〈Dreams〉。電影把她的歌帶回她扮演的人物身上，於是觀眾同時看見演員阿菲，也聽見歌手王菲。[Criterion｜王菲與電影中的流行歌](https://www.criterion.com/current/posts/6640-a-cantopop-dream-girl-s-first-film-reverie)\n\n片中的音樂常從人物正在使用的器材傳出來。這讓一首歌有了動作：有人按下播放，有人聽著它打掃、等人，或試著挨近另一個人的生活。櫃檯和房間都因此留下了使用者的痕跡。"
+              "title": "王菲唱自己的歌，也演阿菲",
+              "body": "王菲拍這部電影時，早已是一位有多張唱片的歌手。《胡思亂想》在電影上映前一個月推出，當中〈夢中人〉改編自 The Cranberries 的〈Dreams〉。電影把她的歌帶回她扮演的人物身上，於是觀眾同時看見演員阿菲，也聽見歌手王菲。[Criterion｜王菲與電影中的流行歌](https://www.criterion.com/current/posts/6640-a-cantopop-dream-girl-s-first-film-reverie)\n\n片中的歌常由人物自己播放。這是重看時很好用的線索：把配樂和角色聽的音樂分開，觀察誰開了音響、誰在跟著動，就能看出導演怎麼把一首現成的歌寫進表演。"
             },
             {
               "id": "part-3",
-              "title": "等她離開，歌留給了誰",
-              "body": "阿菲離開香港，故事又往後走了一年。她回到快餐店時，店裡的位置與兩人的身分都變了。那首曾經被她反覆播放的歌，後來也由 663 放了出來。[Criterion｜王菲與電影中的流行歌](https://www.criterion.com/current/posts/6640-a-cantopop-dream-girl-s-first-film-reverie)[Wikipedia｜重慶森林的情節與製作](https://en.wikipedia.org/wiki/Chungking_Express)\n\n重看這一段，可以留意誰在操作音響。相同的旋律再次出現，聽歌的人卻已經換了。半山扶手電梯把人送往不同樓層，快餐店讓他們有機會停下來說話；電影用這些短暫停留，慢慢交代兩個人如何錯過，又如何重新碰面。"
+              "title": "到了結尾，換誰按下播放？",
+              "body": "阿菲離開香港，故事又往後走了一年。她回到快餐店時，店裡的位置與兩人的身分都變了。那首曾經被她反覆播放的歌，後來也由 663 放了出來。[Criterion｜王菲與電影中的流行歌](https://www.criterion.com/current/posts/6640-a-cantopop-dream-girl-s-first-film-reverie)[Wikipedia｜重慶森林的情節與製作](https://en.wikipedia.org/wiki/Chungking_Express)\n\n重看結尾時，留意操作音響的人。前面是阿菲，後來換成 663；旋律沒換，人物之間的關係已經不同。這樣用流行歌交代情節，確實很值得研究。"
             }
           ],
           "timeline": [
@@ -58389,7 +58491,11 @@
             "artist": "王菲",
             "note": "王菲的錄音室版本。也可另找 The Mamas & the Papas 的 California Dreamin’ 對照。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "影像與配樂"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "hong-kong-mood-for-love",
@@ -58401,8 +58507,8 @@
           "anchor": "提在手裡的飯盒",
           "work": "花樣年華 In the Mood for Love",
           "year": "2000",
-          "title": "去買麵的那段樓梯，旋律又響了一次",
-          "deck": "蘇麗珍提著飯盒出門，周慕雲也走過狹窄的樓梯。梅林茂的旋律一次次回來，把這些原本尋常的碰面留得很久。",
+          "title": "《花樣年華》那段配樂，先在《夢二》用過",
+          "deck": "梅林茂寫於 1991 年的 Yumeji’s Theme，九年後成了王家衛拍走路、買麵和擦身而過的節奏。導演的訪談說明了音樂怎麼影響拍攝。",
           "accent": "sky",
           "people": [
             "梅林茂・王家衛"
@@ -58422,18 +58528,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "一頓飯，讓兩個人走出房間",
-              "body": "蘇麗珍提著飯盒去買麵。周慕雲也要吃飯，他們在狹窄的通道與樓梯上碰面，有時只是擦身而過。《花樣年華》把出門買晚餐這件小事拍了好幾次。每次多知道一點對方的處境，原本只是鄰居的兩個人，就更難把碰面當作偶然。[Wikipedia｜花樣年華配樂與製作](https://en.wikipedia.org/wiki/In_the_Mood_for_Love)\n\n王家衛在 2025 年的訪談裡說，電影最初的構想與食物、家電如何改變生活有關。後來的故事縮進合租的屋子裡：房間相鄰，牆壁很薄，私事容易落進別人的耳朵。[Sight and Sound｜王家衛 2025 年訪談](https://www.bfi.org.uk/sight-and-sound/interviews/wong-kar-wai-mood-love-25)"
+              "title": "買麵的戲反覆出現",
+              "body": "蘇麗珍和周慕雲出門買麵，在樓梯、通道裡碰面。《花樣年華》反覆拍這些動作，也反覆用到同一段配樂。要研究這段音樂，先把這幾場戲放在一起看，比單獨聽原聲帶更容易發現拍攝的節奏。 [Wikipedia｜花樣年華配樂與製作](https://en.wikipedia.org/wiki/In_the_Mood_for_Love)\n\n王家衛在 2025 年的訪談裡說，電影最初的構想與食物、家電如何改變生活有關。後來的故事縮進合租的屋子裡：房間相鄰，牆壁很薄，私事容易落進別人的耳朵。[Sight and Sound｜王家衛 2025 年訪談](https://www.bfi.org.uk/sight-and-sound/interviews/wong-kar-wai-mood-love-25)"
             },
             {
               "id": "part-2",
-              "title": "這段旋律比電影更早",
+              "title": "王家衛在拍攝早期就選了這首曲子",
               "body": "反覆出現的〈Yumeji’s Theme〉出自梅林茂為 1991 年電影《夢二》寫的音樂。到了 2000 年，它被放進《花樣年華》，與慢下來的步伐、晃動的飯盒重新結合。[Wikipedia｜花樣年華配樂與製作](https://en.wikipedia.org/wiki/In_the_Mood_for_Love)\n\n王家衛說，他在製作早期就選定這首曲子，撥弦的節奏讓他想到心跳。他也習慣讓音樂引導攝影機。於是觀眾看到的走路速度、鏡頭停留的時間，從拍攝時就已經與音樂發生關係。[Sight and Sound｜王家衛 2025 年訪談](https://www.bfi.org.uk/sight-and-sound/interviews/wong-kar-wai-mood-love-25)"
             },
             {
               "id": "part-3",
-              "title": "又經過同一個轉角",
-              "body": "這首曲子再回來時，我們已經知道兩人的伴侶正在背叛他們。買麵仍然是買麵，手上的容器也沒有突然變成別的東西，但短短幾步路變得難以輕鬆走過。反覆的場景讓關係一點點累積，不必每次都靠對白補上說明。\n\n片中是 1962 年的香港，實際製作則用了包括曼谷在內的不同拍攝地。[Wikipedia｜花樣年華配樂與製作](https://en.wikipedia.org/wiki/In_the_Mood_for_Love) 與其追著一個未經證實的樓梯地址，不如重看那只飯盒：人物依然必須出門，依然得吃晚餐，心事就跟著他們被帶到走廊上。"
+              "title": "同一段配樂，放進不同的情節",
+              "body": "同一首曲子再次出現時，觀眾已經知道兩人伴侶之間的事。場景和動作相似，觀眾知道的資訊卻增加了。可以比較每次買麵的段落：鏡頭停多久，配樂從哪裡進來，有沒有讓人物說話。\n\n片中設定是 1962 年的香港，拍攝卻用了包括曼谷在內的不同地點。找取景地時，要把故事設定和實際製作分開；現有資料沒有確認某一座樓梯，就不替它填上地址。 [Wikipedia｜花樣年華配樂與製作](https://en.wikipedia.org/wiki/In_the_Mood_for_Love)"
             }
           ],
           "timeline": [
@@ -58467,7 +58573,11 @@
             "artist": "Shigeru Umebayashi",
             "note": "尋找梅林茂的版本；這首曲子原先為夢二創作。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "影像與配樂"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "dublin-once-piano",
@@ -58479,8 +58589,8 @@
           "anchor": "樂器店裡的一架鋼琴",
           "work": "Once・Falling Slowly",
           "year": "2007",
-          "title": "在樂器店借一架鋼琴，把還不熟悉的人唱近一點",
-          "deck": "他帶著吉他，她坐到琴前。Once 裡最讓人捨不得打斷的一次相識，發生在都柏林一間樂器店。",
+          "title": "《Once》的琴行合奏：找兩個會寫歌的人來演，差在哪裡？",
+          "deck": "都柏林一間樂器店裡，Glen Hansard 拿吉他，Markéta Irglová 坐在鋼琴前。讀過兩人的訪談，再看 Falling Slowly 這場戲，會更注意他們怎麼合作。",
           "accent": "sage",
           "people": [
             "Glen Hansard",
@@ -58506,18 +58616,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "她終於有琴可以彈",
+              "title": "先在樂器店試一次合奏",
               "body": "《Once》裡的女孩會彈鋼琴，卻沒有自己的琴。她帶著街頭歌手走進樂器店，在可以短暫使用的琴前坐下。他拿出吉他，唱起〈Falling Slowly〉，她聽著，再把聲音接上去。這場戲在都柏林 Waltons 樂器店拍攝。[Wikipedia｜Falling Slowly 與樂器店場景](https://en.wikipedia.org/wiki/Falling_Slowly)\n\n兩個人原本還在摸索該說些什麼，一起演奏之後，觀眾已經能聽出他們如何回應彼此。John Carney 接受 Reverse Shot 訪問時，也認為這次合奏與兩人的靠近有關，但希望電影保留比一般愛情故事更複雜的走向。[Reverse Shot｜導演與兩位音樂人訪談](https://reverseshot.org/interviews/entry/1268/john-carney-glen-hansard-and-markta-irglov)"
             },
             {
               "id": "part-2",
-              "title": "導演把歌交給會寫歌的人",
+              "title": "歌曲怎麼配合拍攝",
               "body": "歌曲由 Glen Hansard 與 Markéta Irglová 創作。Hansard 說，有些在開拍前寫好，有些在拍攝過程中完成，還有些寫於其後。Carney 會提出場景需要的情緒，兩人一面演出，一面把歌曲帶進故事。[Reverse Shot｜導演與兩位音樂人訪談](https://reverseshot.org/interviews/entry/1268/john-carney-glen-hansard-and-markta-irglov)\n\nIrglová 在訪談裡提到，照著劇本講對白對她並不容易。樂器店這一幕讓兩位本來就會一起做音樂的人，以熟悉的方式工作：聽、調整，然後再接下去。電影保留了歌唱所需的時間，沒有急著切到下一件事。"
             },
             {
               "id": "part-3",
-              "title": "從琴行走進錄音室",
-              "body": "片中兩人後來找來樂手，籌錢進錄音室，把原本只有少數人聽過的歌錄下來。這讓琴行裡的相遇有了後續：互相欣賞之後，還得安排時間、付出勞力，作品才會完成。[Wikipedia｜Falling Slowly 與樂器店場景](https://en.wikipedia.org/wiki/Falling_Slowly)\n\n〈Falling Slowly〉同時出現在《The Swell Season》與《Once》原聲帶，Irglová 的官方作品頁可以對照兩張唱片。[Markéta Irglová｜作品與原聲帶](https://marketairglova.com/music) 聆聽時不妨先找雙人錄音，再回到電影裡的琴行段落；熟悉的和聲旁邊，多了兩個人第一次決定一起試試看的過程。"
+              "title": "兩張唱片都有 Falling Slowly",
+              "body": "片中兩人後來找來樂手，籌錢進錄音室，把原本只有少數人聽過的歌錄下來。這讓琴行裡的相遇有了後續：互相欣賞之後，還得安排時間、付出勞力，作品才會完成。[Wikipedia｜Falling Slowly 與樂器店場景](https://en.wikipedia.org/wiki/Falling_Slowly)\n\n〈Falling Slowly〉同時收錄在《The Swell Season》與《Once》原聲帶，Irglová 的官方作品頁列出了這兩張唱片。可以先聽錄音，再回到琴行那場戲，看電影怎麼讓觀眾跟著人物，一步步聽懂這首歌。 [Markéta Irglová｜作品與原聲帶](https://marketairglova.com/music)"
             }
           ],
           "timeline": [
@@ -58565,7 +58675,11 @@
             "artist": "Glen Hansard・Markéta Irglová",
             "verifiedAt": "2026-10-02"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "影像與配樂"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "tokorozawa-totoro",
@@ -58577,8 +58691,8 @@
           "anchor": "森林邊的小路",
           "work": "龍貓 My Neighbor Totoro",
           "year": "1988",
-          "title": "先把步子走起來，龍貓才會出現",
-          "deck": "搬進新家的姊妹先跑去看每一個角落。龍貓的音樂也從這種向前走的心情開始，而狹山丘陵讓銀幕外的散步有了去處。",
+          "title": "久石讓談《龍貓》：二十分鐘寫出旋律，還要判斷它好不好",
+          "deck": "作曲快不快，和作品好不好，是兩回事。從久石讓的訪談回到《散步》與《龍貓》主題曲，也認識所澤一帶持續被保育的森林。",
           "accent": "coral",
           "people": [
             "久石讓・井上杏美"
@@ -58607,17 +58721,17 @@
             {
               "id": "part-1",
               "title": "孩子比大人先跑進屋裡",
-              "body": "《龍貓》裡，皋月與小梅搬進鄉間的舊屋，母親仍在醫院。姊妹鑽進房間、查看樓梯，也把注意力帶到屋外的樹林。電影讓等待母親的日子同時充滿許多小事：上學、下雨，和找不到妹妹時的焦急。[Wikipedia｜龍貓的故事與音樂](https://en.wikipedia.org/wiki/My_Neighbor_Totoro)\n\n片頭〈散步〉由井上杏美演唱，久石讓作曲。它先替觀眾安排了一個向前走的速度。等到森林裡出現陌生的生物，我們已經跟著孩子走了一段路，願意繼續看下去。"
+              "body": "《龍貓》裡，皋月與小梅搬進鄉間的舊屋，母親仍在醫院。姊妹鑽進房間、查看樓梯，也把注意力帶到屋外的樹林。電影讓等待母親的日子同時充滿許多小事：上學、下雨，和找不到妹妹時的焦急。[Wikipedia｜龍貓的故事與音樂](https://en.wikipedia.org/wiki/My_Neighbor_Totoro)\n\n片頭〈散步〉由井上杏美演唱、久石讓作曲。談《龍貓》的音樂時，得先分清〈散步〉和〈我的鄰居龍貓〉主題曲；久石讓接下來談二十分鐘完成的，是後者的主旋律。"
             },
             {
               "id": "part-2",
               "title": "很快寫出來，不等於隨便寫",
-              "body": "久石讓接受 Classic FM 訪問時，回憶自己大約花了二十分鐘寫出〈我的鄰居龍貓〉的主旋律。他同時說，速度快的作品不一定好，花很久的也不一定好；他在意的是旋律最後是否成立。[Classic FM｜久石讓談龍貓創作](https://www.classicfm.com/composers/hisaishi/studio-ghibli-composer-totoro-interview/)\n\n這個說法讓那首人人能哼的歌少了一點神祕。容易跟唱的句子仍然需要作曲者判斷，每個轉折都得容得下角色的動作。聽原聲帶時，可以把〈散步〉與較安靜的段落接著放，看看同一部電影如何容納孩子的興奮與不安。"
+              "body": "久石讓接受 Classic FM 訪問時，回憶自己大約花了二十分鐘寫出〈我的鄰居龍貓〉的主旋律。他同時說，速度快的作品不一定好，花很久的也不一定好；他在意的是旋律最後是否成立。[Classic FM｜久石讓談龍貓創作](https://www.classicfm.com/composers/hisaishi/studio-ghibli-composer-totoro-interview/)\n\n這段訪談好在沒有把創作速度說成天才的證明。寫得快仍要判斷旋律是否成立。聽原聲帶時，可以先比較〈散步〉與〈我的鄰居龍貓〉，再接較安靜的配樂段落，注意它們各自在片中負責什麼。"
             },
             {
               "id": "part-3",
               "title": "銀幕外，樹林有人照顧",
-              "body": "所澤周邊的狹山丘陵常讓人聯想到《龍貓》的風景。龍貓故鄉基金透過取得林地、長期管理，保存散布其間的森林。基金會說明，這些地塊有大有小，並非一座圈起來的遊樂園。[龍貓故鄉基金｜森林與保育](https://www.totoro.or.jp/intro/)\n\n所以在這裡散步，遇到的是需要保育的土地，無須每走幾步就找一個電影裡出現過的道具。從基金會提供的步道資料選一小段路，放下耳機聽一會兒附近的聲音，再回來聽久石讓，會更容易分清楚自然本來的聲響，和音樂替童年添上的想像。"
+              "body": "所澤周邊的狹山丘陵常讓人聯想到《龍貓》的風景。龍貓故鄉基金透過取得林地、長期管理，保存散布其間的森林。基金會說明，這些地塊有大有小，並非一座圈起來的遊樂園。[龍貓故鄉基金｜森林與保育](https://www.totoro.or.jp/intro/)\n\n想去走走，可以先查基金會公布的步道和保育說明。這裡是持續管理的林地，不是按照電影場景搭建的園區；不用替每棵樹找一個銀幕上的對應位置。"
             }
           ],
           "timeline": [
@@ -58661,7 +58775,11 @@
             "artist": "井上杏美 久石讓",
             "note": "龍貓片頭曲，由井上杏美演唱、久石讓作曲。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "影像與配樂"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "liverpool-penny-lane",
@@ -58679,8 +58797,8 @@
           "work": "Penny Lane",
           "year": "1967",
           "accent": "sky",
-          "title": "理髮師、銀行職員，和 Paul 記得的那條街",
-          "deck": "在 Penny Lane 裡，值得被唱出來的都是路上碰得到的人。Paul McCartney 回望童年附近的街區，把零碎印象編成了一首歌。",
+          "title": "Penny Lane 的街景是真的，Beatles 的影片卻不全在那裡拍",
+          "deck": "Paul McCartney 把理髮師、銀行職員和消防員寫進歌裡。查官方拍攝紀錄才發現，影片還去了 Stratford 和 Knole Park。",
           "sections": [
             {
               "id": "part-1",
@@ -58690,12 +58808,12 @@
             {
               "id": "part-2",
               "title": "記憶不照門牌排序",
-              "body": "歌詞中的天色和人物帶著跳躍的想像。把每一句都拿去對照街道，未必找得到相同的店面；把它當作 Paul 挑選過的記憶，反而聽得出他在什麼地方停留較久。理髮店、路口和人們的工作，都有機會佔據一小段旋律。[The Beatles｜官方歌曲頁](https://www.thebeatles.com/penny-lane-1)\n\n1967 年 2 月，這首歌與〈Strawberry Fields Forever〉一起發行。兩位寫歌的人各自帶來一處舊地點，唱片的兩面就都有了回家的方向。[The Beatles｜創作與影片記錄](https://www.thebeatles.com/penny-lane-0)"
+              "body": "歌詞中的天色和人物帶著跳躍的想像。把每一句都拿去對照街道，未必找得到相同的店面；把它當作 Paul 挑選過的記憶，反而聽得出他在什麼地方停留較久。理髮店、路口和人們的工作，都有機會佔據一小段旋律。[The Beatles｜官方歌曲頁](https://www.thebeatles.com/penny-lane-1)\n\n1967 年 2 月，〈Penny Lane〉與〈Strawberry Fields Forever〉一起發行。把兩首連著聽，很適合比較 Lennon 與 McCartney 如何處理童年地點：選哪些畫面，又省略了哪些交代。 [The Beatles｜創作與影片記錄](https://www.thebeatles.com/penny-lane-0)"
             },
             {
               "id": "part-3",
               "title": "影片又把他們帶到別處",
-              "body": "官方影片裡看得見四名團員，卻不代表每一幕都在 Penny Lane。Peter Goldmann 執導的影像，結合了倫敦 Stratford、Sevenoaks 的 Knole Park，以及利物浦街景；利物浦的部分沒有樂團成員參與拍攝。[The Beatles｜創作與影片記錄](https://www.thebeatles.com/penny-lane-0)\n\n這件事很適合在重看影片時記著。先跟著歌詞認識那些路人，再看導演如何用其他地方的畫面接住它。Penny Lane 確實是一條街，這首歌卻已經被不同人的記憶、演奏與剪接帶往更遠的地方。"
+              "body": "官方影片裡看得見四名團員，卻不代表每一幕都在 Penny Lane。Peter Goldmann 執導的影像，結合了倫敦 Stratford、Sevenoaks 的 Knole Park，以及利物浦街景；利物浦的部分沒有樂團成員參與拍攝。[The Beatles｜創作與影片記錄](https://www.thebeatles.com/penny-lane-0)\n\n所以，看見四名團員在影片裡出現，不代表他們就站在歌名那條街。歌詞的地點、拍攝地點、錄音地點，各自是一條可以查下去的線索。"
             }
           ],
           "timeline": [
@@ -58757,7 +58875,11 @@
               "label": "Penny Lane 街道",
               "aliases": []
             }
-          ]
+          ],
+          "topics": [
+            "歌詞裡的地方"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "london-waterloo-sunset",
@@ -58769,8 +58891,8 @@
           "anchor": "一扇能望見河面的窗",
           "work": "Waterloo Sunset",
           "year": "1967",
-          "title": "Ray Davies 望向 Waterloo，把兩個人放進黃昏",
-          "deck": "河面、車站，還有一對走過橋的人。這首歌把倫敦寫得很寬，唱歌的人卻待在一個安靜的位置，遠遠看著。",
+          "title": "Waterloo Sunset：Ray Davies 寫倫敦，為什麼選一個旁觀的位置？",
+          "deck": "車站、泰晤士河、Terry 和 Julie。歌曲只用了幾個線索，就交代出一片街景；Davies 年少住院的回憶，也與這片河岸有關。",
           "accent": "sage",
           "people": [
             "The Kinks・Ray Davies"
@@ -58791,7 +58913,7 @@
             {
               "id": "part-1",
               "title": "醫院裡看出去的河",
-              "body": "Ray Davies 年少時住過靠近泰晤士河的 St Thomas’ Hospital。能從那裡看見的城市景象，後來成了他談〈Waterloo Sunset〉時反覆回到的記憶。這首歌並沒有急著把倫敦最熱鬧的事寫進去，它先留住一個往外看的人。[NDR｜Waterloo Sunset 創作故事](https://www.ndr.de/ndr1niedersachsen/geschichte-zum-hit/The-Kinks-Waterloo-Sunset,kinks104.html)\n\n曲子在成為唱片之前，已經在 Davies 腦中放了一段時間。他一度考慮用 Liverpool 作為歌名的地點，最後回到自己更熟悉的 Waterloo。1967 年，The Kinks 把它錄成單曲。[Wikipedia｜Waterloo Sunset](https://en.wikipedia.org/wiki/Waterloo_Sunset)"
+              "body": "Ray Davies 年少時住過泰晤士河附近的 St Thomas’ Hospital。NDR 的歌曲故事提到，他後來談〈Waterloo Sunset〉時，仍會回到那段望向河岸的記憶。這讓歌裡旁觀城市的位置有了具體背景。 [NDR｜Waterloo Sunset 創作故事](https://www.ndr.de/ndr1niedersachsen/geschichte-zum-hit/The-Kinks-Waterloo-Sunset,kinks104.html)\n\n曲子在成為唱片之前，已經在 Davies 腦中放了一段時間。他一度考慮用 Liverpool 作為歌名的地點，最後回到自己更熟悉的 Waterloo。1967 年，The Kinks 把它錄成單曲。[Wikipedia｜Waterloo Sunset](https://en.wikipedia.org/wiki/Waterloo_Sunset)"
             },
             {
               "id": "part-2",
@@ -58801,7 +58923,7 @@
             {
               "id": "part-3",
               "title": "同一片水面，兩種速度",
-              "body": "河岸的大空間與歌中獨處的聲音，被放在一起。當人聲唱到兩人的相會，背景和聲把句子托住，吉他仍以自己的速度往前。敘述者停了下來，街上的人仍然繼續往前。\n\n把地圖縮到 Waterloo 一帶，能同時看見車站、河與醫院的位置。再播放這首歌，會更容易明白為什麼 Davies 只要交代這幾個地點，就能容納出發的人、等待的人，以及暫時無法離開房間的人。"
+              "body": "河岸的大空間與歌中獨處的聲音，被放在一起。當人聲唱到兩人的相會，背景和聲把句子托住，吉他仍以自己的速度往前。敘述者停了下來，街上的人仍然繼續往前。\n\n把 Waterloo 車站、河岸與 St Thomas’ Hospital 在地圖上找出來，再讀一次歌詞，會更容易掌握敘述者與那對人物之間的距離。地圖在這裡很有用，但不能直接證明他坐在哪裡寫歌。"
             }
           ],
           "timeline": [
@@ -58845,7 +58967,11 @@
             "artist": "The Kinks",
             "note": "從 1967 年錄音室版本開始，留意主唱後方的和聲。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "歌詞裡的地方"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "rio-ipanema",
@@ -58857,8 +58983,8 @@
           "anchor": "街角酒吧前的一段路",
           "work": "The Girl from Ipanema",
           "year": "1962–1964",
-          "title": "從 Ipanema 走過的人，後來被另一個聲音唱了出來",
-          "deck": "Jobim 與 Vinicius de Moraes 記住一位經過街角的女孩。歌曲到了紐約錄音室，Astrud Gilberto 又替它帶來一種人們難忘的語氣。",
+          "title": "The Girl from Ipanema：單曲剪掉了誰，又讓誰被聽見？",
+          "deck": "從 Ipanema 的酒吧到紐約錄音室，這首歌換過語言，也換過主角。比較專輯與短版單曲，Astrud Gilberto 的位置就很清楚。",
           "accent": "coral",
           "people": [
             "Antônio Carlos Jobim",
@@ -58901,7 +59027,7 @@
             {
               "id": "part-3",
               "title": "少掉一段之後，聽眾先記住了她",
-              "body": "1964 年推出的短版單曲，刪去了 João 演唱的部分，保留 Astrud 的英文人聲。[Wikipedia｜歌曲創作與版本](https://en.wikipedia.org/wiki/The_Girl_from_Ipanema) 從完整專輯聽到單曲，歌曲的重心會有明顯差別：同一段旋律，因為剪輯取捨，讓不同的歌手先被聽見。\n\n今天在 Ipanema 找到改名後的酒吧，可以回想那位從街角經過的人；回到唱片，則值得把 Astrud 的名字也記起來。地點給了歌曲題目，真正把題目唱進許多人生活裡的，是錄音室中那個靠近麥克風的聲音。"
+              "body": "1964 年推出的短版單曲，刪去了 João 演唱的部分，保留 Astrud 的英文人聲。[Wikipedia｜歌曲創作與版本](https://en.wikipedia.org/wiki/The_Girl_from_Ipanema) 從完整專輯聽到單曲，歌曲的重心會有明顯差別：同一段旋律，因為剪輯取捨，讓不同的歌手先被聽見。\n\n這首歌很適合做版本比較：先聽完整《Getz/Gilberto》，再找 1964 年短版單曲，記下 João 和 Astrud 各唱哪一段。只改剪輯，聽眾對主唱的印象就可能不同，這是研究流行唱片很實際的一個例子。"
             }
           ],
           "timeline": [
@@ -58949,7 +59075,11 @@
             "artist": "Stan Getz João Gilberto Astrud Gilberto",
             "note": "建議先找 Getz/Gilberto 專輯完整版，再比較 1964 年短版單曲。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "歌詞裡的地方"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "montreal-suzanne",
@@ -58961,8 +59091,8 @@
           "anchor": "一杯帶著橙香的茶",
           "work": "Suzanne",
           "year": "1966–1967",
-          "title": "Suzanne 端來一杯茶，Cohen 記住了河邊的下午",
-          "deck": "她有自己的住處、孩子與生活。多年後聽 Suzanne 本人回憶，那首歌裡的茶與河岸，才重新長出日常的樣子。",
+          "title": "Suzanne 本人怎麼說？從兩份訪談重讀 Cohen 的歌",
+          "deck": "歌裡的茶確實有人泡過。Suzanne Verdal 和 Leonard Cohen 都談過蒙特婁那段相處，兩人的回憶可以對著讀。",
           "accent": "sky",
           "people": [
             "Leonard Cohen・Suzanne Verdal"
@@ -58997,7 +59127,7 @@
             {
               "id": "part-3",
               "title": "一首歌容不下她的全部生活",
-              "body": "Cohen 的演唱把句子放得很近，吉他反覆往前，聽起來像有人在慢慢講述一件仍然記得的事。這樣的聲音很容易讓聽者相信，自己也認識了歌中的人。但 Suzanne 本人的訪談仍有唱片沒有交代的部分。\n\n可以在聽完 Cohen 後，再讀一小段她的回憶。那杯茶就會從漂亮的歌詞意象，回到一個人確實做過的招待。沿舊港散步時，不必猜測詩裡每一行對應哪扇窗；先記得有人曾在這片河邊生活，願意開門讓朋友坐一會兒。"
+              "body": "歌詞可以拿來討論 Cohen 怎麼寫人，Suzanne 本人的訪談則補上她怎麼看這段友誼。兩份資料回答的是不同問題；把其中一份當成另一份的完整替代，反而會漏掉細節。\n\n讀歌詞裡的茶，再看 Cohen 提到的 Constant Comment，細節就接上了。接著讀 Suzanne 談待客與孩子的段落，又能多認識一些唱片裡沒有交代的生活。這首歌已經很熟悉，她自己的回憶卻還值得慢慢讀。"
             }
           ],
           "timeline": [
@@ -59045,7 +59175,11 @@
             "artist": "Leonard Cohen",
             "note": "先聽 Songs of Leonard Cohen 的版本；也可找 Judy Collins 的 1966 年錄音。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "歌詞裡的地方"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "kyoto-phoebe-bridgers",
@@ -59057,8 +59191,8 @@
           "anchor": "旅途中的一張明信片",
           "work": "Kyoto",
           "year": "2020",
-          "title": "到了京都，她卻沒有把心事留在家裡",
-          "deck": "這首歌有出遊的片段，也有對父親說不完的話。Phoebe Bridgers 把它們放進同一首明亮的歌，旅行並沒有替她把兩邊分開。",
+          "title": "Phoebe Bridgers 的 Kyoto，旅行寫著寫著就寫到了父親",
+          "deck": "明快的編曲裡，放著生日明信片和不容易說清的家事。Bridgers 的訪談還提到，原本想回去拍的 MV，最後為什麼改用綠幕。",
           "accent": "sage",
           "people": [
             "Phoebe Bridgers",
@@ -59090,12 +59224,12 @@
             {
               "id": "part-2",
               "title": "明信片送得到，話未必說得完",
-              "body": "一張生日明信片在歌中出現，承載的卻不是單純的祝福。它連著失約、記得與忘記，以及想原諒又還在生氣的矛盾。這些都是歌曲裡敘述者的表達，無須替真實人物補上歌詞未說的動機。\n\n編曲向前衝得很快，情緒卻沒有因此變輕。Bridgers 在 NPR 訪問中談到，與不同音樂人的合作會推動她嘗試更多聲音。《Punisher》的製作有 Tony Berg、Ethan Gruska，也有長期合作的樂手。[NPR 訪談｜Punisher 的合作過程](https://www.klcc.org/npr-music/2020-06-18/phoebe-bridgers-on-her-new-album-punisher-surprise-released-a-day-early) 這首歌把私人的話放進較開闊的聲響裡，聽者可能先跟著節奏動，之後才聽見句子的重量。"
+              "body": "歌詞裡的生日明信片，把旅行寫到了家人的關係。想原諒又還在生氣，是歌曲呈現的矛盾；研究這一段時，可以討論歌詞，卻不能把它當成替真實人物判定動機的證據。\n\n編曲向前衝得很快，情緒卻沒有因此變輕。Bridgers 在 NPR 訪問中談到，與不同音樂人的合作會推動她嘗試更多聲音。《Punisher》的製作有 Tony Berg、Ethan Gruska，也有長期合作的樂手。[NPR 訪談｜Punisher 的合作過程](https://www.klcc.org/npr-music/2020-06-18/phoebe-bridgers-on-her-new-album-punisher-surprise-released-a-day-early) 這首歌把私人的話放進較開闊的聲響裡，聽者可能先跟著節奏動，之後才聽見句子的重量。"
             },
             {
               "id": "part-3",
               "title": "想回去拍，最後留在綠幕前",
-              "body": "Bridgers 原本打算再出發拍攝〈Kyoto〉的影片，計畫卻被疫情打斷。最後推出的影像使用綠幕與素材畫面，她穿著骷髏裝出現在拼接的風景前。[NBHAP｜Phoebe Bridgers 談旅程與歌詞](https://nbhap.com/stories/interview-punisher-phoebe-bridgers)[Wikipedia｜Kyoto 的創作與影片](https://en.wikipedia.org/wiki/Kyoto_(Phoebe_Bridgers_song))\n\n那種明知是合成、仍然讓人看下去的畫面，替歌曲加上了另一段時間：已經去過的城市暫時回不去，只能在影像裡重新接近。再聽歌名裡的京都，便同時有了初次抵達、想再去一次，以及出發之前仍得處理的家事。"
+              "body": "Bridgers 原本打算再出發拍攝〈Kyoto〉的影片，計畫卻被疫情打斷。最後推出的影像使用綠幕與素材畫面，她穿著骷髏裝出現在拼接的風景前。[NBHAP｜Phoebe Bridgers 談旅程與歌詞](https://nbhap.com/stories/interview-punisher-phoebe-bridgers)[Wikipedia｜Kyoto 的創作與影片](https://en.wikipedia.org/wiki/Kyoto_(Phoebe_Bridgers_song))\n\nMV 的做法和原計畫差很多，正好能連同訪談一起看：她想回到京都拍攝，最後卻用綠幕和素材完成。知道製作限制之後，再看那些刻意保留合成感的畫面，也多了一個具體的觀察角度。"
             }
           ],
           "timeline": [
@@ -59137,7 +59271,11 @@
             "youtubeSource": "https://nbhap.com/stories/interview-punisher-phoebe-bridgers",
             "verifiedAt": "2026-10-02"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "歌詞裡的地方"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "london-abbey-road",
@@ -59145,24 +59283,24 @@
           "cityEn": "LONDON",
           "category": "唱片與物件",
           "year": "1969",
-          "title": "錄音室門外的六次快門",
-          "deck": "1969 年 8 月 8 日，Iain Macmillan 替四個過馬路的人拍了六張照片。後來被放到唱片上的那一張，讓錄音室門口成了許多人第一次認識這條路的方式。",
+          "title": "Abbey Road 封面只拍了六張，唱片的時間順序卻常被搞混",
+          "deck": "1969 年 8 月 8 日，Iain Macmillan 在錄音室外拍下那條斑馬線。這是 Beatles 最後共同錄製的專輯，卻不是最後發行的一張。",
           "accent": "coral",
           "sections": [
             {
               "id": "part-1",
               "title": "把相機放到工作地點外面",
-              "body": "封面上四個人排成一列，腳踩白色線條，沒有看向鏡頭。他們正在過馬路，方向和前後距離都清楚得像一個動作的分解。對第一次拿到唱片的人而言，這張圖幾乎不用讀字就能留下印象。\n\n拍攝發生在 1969 年 8 月 8 日，倫敦 EMI 錄音室外。攝影師 Iain Macmillan 一共拍下六張照片，日後反覆出現在唱片店與歌迷合照裡的畫面，便出自這次短暫的街頭工作。[Abbey Road｜1969 年封面拍攝記錄](https://www.abbeyroad.com/news/introducing-1969-2122)"
+              "body": "四個團員排成一列過馬路，背景就是長期工作的錄音室。這張封面辨識度太高，反而容易讓人漏看拍攝資料：到底是哪天拍的，又拍了幾張？\n\n拍攝發生在 1969 年 8 月 8 日，倫敦 EMI 錄音室外。攝影師 Iain Macmillan 一共拍下六張照片，日後反覆出現在唱片店與歌迷合照裡的畫面，便出自這次短暫的街頭工作。[Abbey Road｜1969 年封面拍攝記錄](https://www.abbeyroad.com/news/introducing-1969-2122)"
             },
             {
               "id": "part-2",
               "title": "路名成了唱片名",
-              "body": "《Abbey Road》在同年 9 月 26 日發行。錄音室是四人長期一起工作的地方，專輯名稱與封面把聽眾帶到了它的門口。歌曲留在建築物裡完成，封面卻選擇外面人人都會經過的路。[The Beatles｜專輯發行記錄](https://www.thebeatles.com/abbey-road-anniversary-editions-out-now)\n\n這張是 John、Paul、George 和 Ringo 最後共同錄製的 Beatles 專輯；《Let It Be》到 1970 年才推出。因此若按發行順序看，會得到不同的結尾。[The Beatles｜專輯發行記錄](https://www.thebeatles.com/abbey-road-anniversary-editions-out-now) 知道這點之後再看那四個背向錄音室的人，照片會多出一層時間感，但我們無須替他們編造拍攝時的心情。"
+              "body": "《Abbey Road》在同年 9 月 26 日發行。錄音室是四人長期一起工作的地方，專輯名稱與封面把聽眾帶到了它的門口。歌曲留在建築物裡完成，封面卻選擇外面人人都會經過的路。[The Beatles｜專輯發行記錄](https://www.thebeatles.com/abbey-road-anniversary-editions-out-now)\n\n這是 John、Paul、George 和 Ringo 最後共同錄製的 Beatles 專輯，但《Let It Be》到 1970 年才發行。錄製順序和發行順序不同，介紹「最後一張」時要先說清楚指的是哪一種。 [The Beatles｜專輯發行記錄](https://www.thebeatles.com/abbey-road-anniversary-editions-out-now)"
             },
             {
               "id": "part-3",
               "title": "把封面翻到背面，再放下唱針",
-              "body": "封面很容易先於音樂被認出來。完整播放專輯時，卻會發現裡面有許多不同的聲音：從〈Come Together〉到〈Something〉，再到後半段彼此銜接的組曲，四人的工作遠比那個整齊的隊形複雜。[The Beatles｜專輯發行記錄](https://www.thebeatles.com/abbey-road-anniversary-editions-out-now)\n\n下次看見有人在白線上排隊模仿，可以想起這個距離：相機拍的是錄音室門外幾步路，唱片裝下的卻是在裡面反覆演奏、修改的時間。走過斑馬線很快，聽完一面唱片就得多留一會兒。"
+              "body": "封面很容易先於音樂被認出來。完整播放專輯時，卻會發現裡面有許多不同的聲音：從〈Come Together〉到〈Something〉，再到後半段彼此銜接的組曲，四人的工作遠比那個整齊的隊形複雜。[The Beatles｜專輯發行記錄](https://www.thebeatles.com/abbey-road-anniversary-editions-out-now)\n\n看完封面資料，還是要回到唱片。先聽〈Come Together〉和〈Something〉，再把後半段組曲連著放，注意歌曲怎麼銜接。研究封面有趣，但這張專輯的編排同樣值得花時間。"
             }
           ],
           "timeline": [
@@ -59245,7 +59383,11 @@
           },
           "lens": "唱片與物件",
           "anchor": "一張唱片封面",
-          "work": "Abbey Road"
+          "work": "Abbey Road",
+          "topics": [
+            "唱片與物件"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "dublin-u2-kitchen",
@@ -59253,8 +59395,8 @@
           "cityEn": "DUBLIN",
           "category": "唱片與物件",
           "year": "1976",
-          "title": "Larry 貼了一張啟事，星期六的廚房就擠進了人",
-          "deck": "他想找人一起打鼓、玩音樂。學校佈告欄替他把消息傳了出去，回應的人帶著各自的本事，來到 Artane 的家裡。",
+          "title": "U2 怎麼組起來的？先有學校的徵人啟事，再有 Larry 家的廚房",
+          "deck": "1976 年 9 月 25 日，幾個回應啟事的學生到 Artane 見面。Larry Mullen Jr. 後來開玩笑說，團名大概只維持了十分鐘。",
           "accent": "sky",
           "sections": [
             {
@@ -59265,12 +59407,12 @@
             {
               "id": "part-2",
               "title": "屋主只當了十分鐘團長",
-              "body": "Larry 在官方回憶裡記得很清楚，大家到他 Artane 家中的那天，是 9 月 25 日，星期六。聚會的地方在廚房。他還開玩笑說，這支團大概只有十分鐘叫作 Larry Mullen Band。[U2｜North And South Of The River 回憶地圖](https://www.u2.com/blogs/news/north-and-south-of-the-river)\n\n這句話讓早年的 Larry 很容易被想像：鼓手也是召集人，地點還是自己家，本來當然有理由認為自己說了算。但人一到齊，各自的個性就開始進入房間。U2 的官方介紹也把 1976 年的這次相聚放在樂團起點。[U2｜樂團介紹](https://www.u2.com/pages/band)"
+              "body": "Larry 在官方回憶裡記得很清楚，大家到他 Artane 家中的那天，是 9 月 25 日，星期六。聚會的地方在廚房。他還開玩笑說，這支團大概只有十分鐘叫作 Larry Mullen Band。[U2｜North And South Of The River 回憶地圖](https://www.u2.com/blogs/news/north-and-south-of-the-river)\n\nLarry 的笑話留下了組團初期的一點樣子，但不足以替每個人補寫當天的心情。U2 官方介紹能確認的是：1976 年這次聚會，是樂團的起點。 [U2｜樂團介紹](https://www.u2.com/pages/band)"
             },
             {
               "id": "part-3",
               "title": "很多年後，回去整理少年生活",
-              "body": "U2 在介紹《Songs Of Innocence》相關地圖時，把學校、Artane 與 Cedarwood Road 等地放回都柏林。那些地址牽著朋友、家庭，以及少年時一起聽音樂的生活。[U2｜North And South Of The River 回憶地圖](https://www.u2.com/blogs/news/north-and-south-of-the-river)\n\n因此聽這張較晚的作品，會和想像 1976 年的廚房有不同距離。它包含長大後的回望，也包含後來才懂得怎麼說的事。廚房裡當年的聲音沒有被這張唱片保存下來，但那張學校啟事帶來的夥伴，仍然在一起把自己的往事做成歌。"
+              "body": "U2 在介紹《Songs Of Innocence》相關地圖時，把學校、Artane 與 Cedarwood Road 等地放回都柏林。那些地址牽著朋友、家庭，以及少年時一起聽音樂的生活。[U2｜North And South Of The River 回憶地圖](https://www.u2.com/blogs/news/north-and-south-of-the-river)\n\n《Songs Of Innocence》可以配著這份官方地圖聽。先認識學校、Artane 和 Cedarwood Road，再看歌曲怎麼回顧少年生活。它是多年後寫成的作品，不是 1976 年那次廚房聚會的錄音。"
             }
           ],
           "timeline": [
@@ -59347,7 +59489,11 @@
           },
           "lens": "唱片與物件",
           "anchor": "一張徵人啟事",
-          "work": "Songs Of Innocence"
+          "work": "Songs Of Innocence",
+          "topics": [
+            "唱片與物件"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "natori-sakamoto-piano",
@@ -59359,8 +59505,8 @@
           "anchor": "被海水浸過的鋼琴",
           "work": "async・ZURE",
           "year": "2011–2017",
-          "title": "那架鋼琴無法再調準，坂本龍一仍想聽它說話",
-          "deck": "名取一所學校的鋼琴遭海嘯浸泡，部分琴鍵不再發聲。坂本龍一靠近它，後來把這些失去原有秩序的聲音帶進作品。",
+          "title": "坂本龍一把海嘯受損鋼琴的聲音，放進了 ZURE",
+          "deck": "名取的學校留下了一架難以調律、有些琴鍵已不發聲的鋼琴。從《async》到與高谷史郎合作的裝置，作品記錄能追出這架琴後來的用途。",
           "accent": "sage",
           "people": [
             "坂本龍一",
@@ -59386,18 +59532,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "琴還在，熟悉的聲音變了",
+              "title": "受損鋼琴的來處",
               "body": "2011 年海嘯過後，名取的宮城農業高校留下了一架受損鋼琴。它被海水浸過，有些琴鍵按下去已經沒有聲音，調律也變得困難。ICC 保存的作品記錄，交代了這架琴的來處與損壞情況。[ICC｜Piano 20110311 作品記錄](https://www.ntticc.or.jp/ja/archive/works/piano-20110311/)\n\n對長年彈琴的坂本龍一來說，這件熟悉的樂器一度讓他想到音樂的死亡。後來他的理解改變了：木材、金屬與琴弦經過自然力量，開始發出超出原先設計的聲響。他想繼續聽，而非只把它當作等待修復的東西。"
             },
             {
               "id": "part-2",
-              "title": "留下一個不肯整齊的音",
+              "title": "錄音收進 async",
               "body": "這架鋼琴的聲音被收進 2017 年《async》的〈ZURE〉。FACT 的報導把錄音與後來的裝置作品連在一起，也保留了坂本接觸這架琴的影像線索。[FACT｜被海嘯損壞的鋼琴與 ZURE](https://www.factmag.com/2018/03/28/watch-documentary-ryuichi-sakamoto-tsunami-damaged-piano/)\n\n《async》製作前，坂本經歷過重大疾病。他在訪談中談到自己對物件聲音、環境聲的注意；錄音不再只圍著標準樂器展開。[FACT｜坂本龍一談 async](https://www.factmag.com/2017/12/21/ryuichi-sakamoto-interview-async-2017/) 聽〈ZURE〉時，可以先不急著找一條能哼唱的旋律，留意聲音的邊緣：某個音延續多久，又如何和旁邊的聲響摩擦。"
             },
             {
               "id": "part-3",
-              "title": "琴鍵後面接上了地震資料",
-              "body": "坂本與高谷史郎合作的《IS YOUR TIME》，讓鋼琴依地震資料發聲。高谷後來又用影像記錄它的表面與形體，成為《Piano 20110311》。[ICC｜Piano 20110311 作品記錄](https://www.ntticc.or.jp/ja/archive/works/piano-20110311/)\n\n這些作品沒有把災難變成漂亮的復原結局。琴的損傷仍在，學校的來歷也仍然需要被交代。觀眾面前的聲音因此有了具體重量：它來自一件曾在名取被人使用的樂器，穿過海水，最後以另一種方式被聽見。"
+              "title": "同一架琴，不同形式的作品",
+              "body": "坂本與高谷史郎合作的《IS YOUR TIME》，讓鋼琴依地震資料發聲。高谷後來又用影像記錄它的表面與形體，成為《Piano 20110311》。[ICC｜Piano 20110311 作品記錄](https://www.ntticc.or.jp/ja/archive/works/piano-20110311/)\n\n查這幾件作品時，把年份和形式列開很有幫助：〈ZURE〉是唱片裡的曲目，《IS YOUR TIME》涉及依地震資料發聲的裝置，《Piano 20110311》則記錄鋼琴的形體。它們與同一架受損鋼琴有關，做的事情卻不同。"
             }
           ],
           "timeline": [
@@ -59435,7 +59581,11 @@
             "artist": "Ryuichi Sakamoto",
             "note": "收錄於 async。從受損鋼琴的聲音，聽坂本如何處理音色與時間。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "唱片與物件"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "london-bjork-vespertine",
@@ -59447,8 +59597,8 @@
           "anchor": "一副撲克牌",
           "work": "Vespertine・It’s Not Up to You",
           "year": "2001",
-          "title": "Björk 把家裡的小聲音，帶上歌劇院的舞台",
-          "deck": "鉛筆、器皿與紙牌，能不能組成一張唱片的節奏？等到 Vespertine 要巡演時，這個問題又變成：觀眾眼前該怎麼把它演出來。",
+          "title": "Björk 的 Vespertine 現場，Matmos 真的在台上洗牌",
+          "deck": "那些細碎節拍是怎麼做的，又怎麼搬上舞台？把 Björk 的製作訪談與 2001 年倫敦現場評論放在一起，能找到具體的答案。",
           "accent": "coral",
           "people": [
             "Björk",
@@ -59475,7 +59625,7 @@
             {
               "id": "part-1",
               "title": "把房間裡的聲音放大",
-              "body": "做《Vespertine》時，Björk 對家中很小的聲響著迷。她錄下它們，送進電腦處理，讓原本幾乎會被忽略的聲音成為節拍。她後來向 Sound On Sound 回顧，這些工作花了好幾年，並與豎琴、音樂盒等聲音一起構成作品。[Sound On Sound｜Björk 談細小聲響的製作](https://www.soundonsound.com/techniques/inside-track-bjorks-vulnicura)\n\n聽這張唱片時，耳朵容易往近處靠。細碎的聲響不總像鼓，卻持續在歌聲旁邊活動。那種親近感有實際的製作過程，來自反覆錄音、剪接與安排。"
+              "body": "做《Vespertine》時，Björk 對家中很小的聲響著迷。她錄下它們，送進電腦處理，讓原本幾乎會被忽略的聲音成為節拍。她後來向 Sound On Sound 回顧，這些工作花了好幾年，並與豎琴、音樂盒等聲音一起構成作品。[Sound On Sound｜Björk 談細小聲響的製作](https://www.soundonsound.com/techniques/inside-track-bjorks-vulnicura)\n\n這些節拍值得戴耳機仔細找。研究製作時，也別一看見電子聲響就先猜合作者：Björk 自己錄了什麼、處理了多久，訪談裡有交代。"
             },
             {
               "id": "part-2",
@@ -59485,7 +59635,7 @@
             {
               "id": "part-3",
               "title": "台上有人開始洗牌",
-              "body": "2001 年 9 月 23 日，巡演來到倫敦 Coliseum。dsoaudio 的當晚評論記下了一個細節：演唱〈It’s Not Up to You〉時，Matmos 的一名成員在小桌上快速洗牌，重現唱片裡的節奏。[dsoaudio 現場評論｜2001 年倫敦演出](https://dsoaudio.com/gig67.htm)\n\n一副紙牌因此有了兩種尺度。在耳機裡，它可以細得像擦過耳邊的摩擦聲；在劇院裡，觀眾看得到手在工作，知道那個節拍是怎麼來的。這張談親密生活的唱片走出了房間，仍把房間裡的小動作一起帶著。"
+              "body": "2001 年 9 月 23 日，巡演來到倫敦 Coliseum。dsoaudio 的當晚評論記下了一個細節：演唱〈It’s Not Up to You〉時，Matmos 的一名成員在小桌上快速洗牌，重現唱片裡的節奏。[dsoaudio 現場評論｜2001 年倫敦演出](https://dsoaudio.com/gig67.htm)\n\n洗牌是一個很好的例子：在唱片裡聽到的是節奏，到了現場還能看見手怎麼做。查完這篇演出評論，再回去聽〈It’s Not Up to You〉，就多了一個可以辨認的聲音來源。"
             }
           ],
           "timeline": [
@@ -59533,7 +59683,11 @@
             "artist": "Björk",
             "note": "可比較 Vespertine 錄音室版與 Vespertine Live，留意細碎的節拍。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "唱片與物件"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "sausalito-rumours",
@@ -59545,8 +59699,8 @@
           "anchor": "一台多軌錄音機",
           "work": "Rumours・Go Your Own Way",
           "year": "1976–1977",
-          "title": "到了海灣邊，製作人先得救回鼓聲",
-          "deck": "Fleetwood Mac 到 Sausalito 錄製 Rumours。感情糾葛之外，控制室裡還有一群人，正為一個怎麼調都不滿意的聲音傷腦筋。",
+          "title": "錄 Rumours 時，Ken Caillat 先碰上了不滿意的鼓聲",
+          "deck": "Fleetwood Mac 的感情故事常被提起，錄音師處理的問題卻很實際：房間太乾，熟悉的控台也不保證馬上得到想要的音色。",
           "accent": "sky",
           "people": [
             "Fleetwood Mac",
@@ -59576,12 +59730,12 @@
             {
               "id": "part-2",
               "title": "推動旋鈕，仍然要有人聽",
-              "body": "Sound On Sound 的訪談列出當年的器材：3M 二十四軌錄音機、API 控台與等化器。Caillat 習慣這套控台，但他和 Dashut 起初仍為音色反覆調整。[Sound On Sound｜Ken Caillat 談 Go Your Own Way](https://www.soundonsound.com/techniques/classic-tracks-fleetwood-mac-go-your-own-way)\n\n〈Go Your Own Way〉的鼓與吉他必須在同一首歌裡站得住。歌詞很直接，演奏也充滿向前推的力量；要讓這些東西同時被聽清楚，製作工作就得拆到各個聲部。聽眾最後拿到的是幾分鐘的歌，控制室裡處理的卻是一遍又一遍的播放與比較。"
+              "body": "Sound On Sound 的訪談列出當年的器材：3M 二十四軌錄音機、API 控台與等化器。Caillat 習慣這套控台，但他和 Dashut 起初仍為音色反覆調整。[Sound On Sound｜Ken Caillat 談 Go Your Own Way](https://www.soundonsound.com/techniques/classic-tracks-fleetwood-mac-go-your-own-way)\n\n研究這段製作，重點可以放在 Caillat 如何聽房間和調音色。同一套熟悉的器材，換到不同空間仍得重新處理；器材清單列得再完整，也不能代替錄音師的判斷。"
             },
             {
               "id": "part-3",
               "title": "唱片把不同的工作接在一起",
-              "body": "《Rumours》後來還在其他錄音室繼續製作，1977 年才正式發行。[Wikipedia｜Rumours 製作記錄](https://en.wikipedia.org/wiki/Rumours_(album)) 所以 Sausalito 是重要的起點，卻無法單獨代替整張唱片的製作史。把它寫成一群人在海灣邊吵架，會漏掉那些一直坐在器材前工作的人。\n\n重聽〈Go Your Own Way〉時，可以先跟著鼓，再把注意力換到吉他和人聲。那種幾乎同時湧來的感覺，需要有人決定各自的音量、位置與質地。Caillat 和 Dashut 的名字就在唱片的製作名單裡，值得隨著這次聆聽一起記住。"
+              "body": "《Rumours》後來還在其他錄音室繼續製作，1977 年才正式發行。[Wikipedia｜Rumours 製作記錄](https://en.wikipedia.org/wiki/Rumours_(album)) 所以 Sausalito 是重要的起點，卻無法單獨代替整張唱片的製作史。把它寫成一群人在海灣邊吵架，會漏掉那些一直坐在器材前工作的人。\n\n重聽〈Go Your Own Way〉時，可以輪流跟鼓、吉他和人聲，各聽一遍，再讀 Caillat 的訪談。先認出各個聲部，會比只記 API 控台或二十四軌錄音機的型號更有收穫。"
             }
           ],
           "timeline": [
@@ -59620,7 +59774,11 @@
             "artist": "Fleetwood Mac",
             "note": "Rumours 錄音室版本。先聽鼓，再比較吉他與主唱各自的位置。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "唱片與物件"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "liverpool-cavern",
@@ -59628,23 +59786,23 @@
           "cityEn": "LIVERPOOL",
           "category": "現場與相遇",
           "year": "1961–1963",
-          "title": "Brian Epstein 午休走進地下室，看見了還沒成名的 Beatles",
-          "deck": "在 Mathew Street 樓梯下面，樂團一再面對近在眼前的聽眾。1961 年 11 月，一位經營唱片行的人也走了下來。",
+          "title": "Beatles 在 Cavern 演了 292 場，Brian Epstein 看的是哪一場？",
+          "deck": "1961 年 11 月 9 日，一位唱片行經營者來看午間演出。場館的時間線，記下了這次見面與樂團在地下室累積的演出。",
           "accent": "sage",
           "sections": [
             {
               "id": "part-1",
-              "title": "先把午間觀眾留下來",
+              "title": "第一次演出是 1961 年 2 月",
               "body": "1961 年 2 月 9 日，The Beatles 首次以這個團名在 Cavern Club 演出。鼓手還是 Pete Best，場地在 Mathew Street 的地下室。觀眾靠得近，樂團得一場接一場學會怎麼把人留下來。[Cavern Club｜1960 年代時間線](https://www.cavernclub.com/history/1960s/)\n\n這種演出有反覆見面的可能。觀眾下次還能來，樂團下次也得拿出表現。Cavern 的記錄提到，他們在這裡磨練與台下互動的方式；那是錄音室與大舞台到來以前，已經持續進行的工作。"
             },
             {
               "id": "part-2",
-              "title": "唱片行的人來了",
-              "body": "11 月 9 日，Brian Epstein 來看午間演出。他家經營附近的 NEMS 唱片行，這是他第一次現場看 Beatles。之後他提出擔任經紀人，把與唱片公司的接觸也接了起來。[Cavern Club｜1960 年代時間線](https://www.cavernclub.com/history/1960s/)\n\n這個下午會被反覆講述，是因為後面的事確實改變了樂團。但從地下室當時的尺度看，它也很具體：有人專程來聽，看完以後還願意繼續做事。舞台上已經累積的演出經驗，這時碰到了另一種工作能力。"
+              "title": "Epstein 來看午間演出",
+              "body": "11 月 9 日，Brian Epstein 來看午間演出。他家經營附近的 NEMS 唱片行，這是他第一次現場看 Beatles。之後他提出擔任經紀人，把與唱片公司的接觸也接了起來。[Cavern Club｜1960 年代時間線](https://www.cavernclub.com/history/1960s/)\n\n日期值得記下來：1961 年 11 月，距離樂團首次以 Beatles 名義在 Cavern 演出，已經過了好幾個月。Epstein 看見的不是剛站上台的組合，而是一支持續演出的樂團。"
             },
             {
               "id": "part-3",
-              "title": "兩百九十二場之後",
+              "title": "292 場，還有一段電視影像",
               "body": "Beatles 最後一次在 Cavern 演出是 1963 年 8 月 3 日。場館合計他們在此演出 292 場，1962 年留下的〈Some Other Guy〉電視影像，則提供了一個能重新觀看早期舞台的入口。[Cavern Club｜1960 年代時間線](https://www.cavernclub.com/history/1960s/)\n\n今天前往 Cavern，看到的是經歷重建的場所。原空間在 1973 年關閉，1984 年重新開放時使用了保存的舊磚。[Cavern Club｜原址與重建說明](https://www.cavernclub.com/blog-post/cavernhistorymyths/) 牆面有歷史，也有後來的人付出的保存工作；照片可以留念，當年的演奏則要回到錄音與影像裡找。"
             }
           ],
@@ -59726,7 +59884,11 @@
           },
           "lens": "現場與相遇",
           "anchor": "一間地下室",
-          "work": "Some Other Guy"
+          "work": "Some Other Guy",
+          "topics": [
+            "現場與相遇"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "havana-buena-vista",
@@ -59738,8 +59900,8 @@
           "anchor": "錄音室裡的鋼琴",
           "work": "Buena Vista Social Club・Chan Chan",
           "year": "1996–1997",
-          "title": "錄音室還沒開門，Rubén 已經在外面等",
-          "deck": "一場原訂的跨地合作臨時變了樣。Juan de Marcos、Nick Gold 與 Ry Cooder 在哈瓦那重新召集樂手，讓幾位資深音樂人再一次站到麥克風前。",
+          "title": "Buena Vista Social Club 開錄前，Rubén González 已經在門口等了",
+          "deck": "原訂樂手因簽證問題未能到場，錄音計畫臨時改變。官方回顧裡最讓人記住的，是一位家中沒有鋼琴的退休樂手，每天提早來等開門。",
           "accent": "coral",
           "people": [
             "Juan de Marcos González",
@@ -59768,18 +59930,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "原本等的人沒有抵達",
+              "title": "原訂樂手無法到場",
               "body": "1996 年，World Circuit 安排了一次哈瓦那錄音。原訂參與的部分樂手因簽證問題無法到場，Nick Gold、Ry Cooder 與 Juan de Marcos González 得重新安排，與當地音樂人完成另一種組合。[Buena Vista Social Club｜錄音故事](https://www.buenavistasocialclub.com/story/)\n\nJuan de Marcos 熟悉這些樂手，也正在進行自己的大編制錄音計畫。人脈與準備讓臨時改變有了落腳之處：他們能請到 Compay Segundo、Ibrahim Ferrer、Rubén González 等人，一起走進 EGREM 的錄音室。"
             },
             {
               "id": "part-2",
-              "title": "他很想再碰到那架琴",
-              "body": "官方回顧記下 Rubén González 的一個習慣：當時已退休、家中沒有鋼琴的他，每天很早就到錄音室，開門的人抵達時，他已在外頭等待。[Buena Vista Social Club｜錄音故事](https://www.buenavistasocialclub.com/story/)\n\n這個細節比年齡更能說明那次錄音。受邀回來，意味著又有琴可以彈，又有一群懂得接住他的人一起演奏。唱片名單中的主唱、吉他、低音提琴與鋼琴，各有多年工作經驗；PBS 的錄音資料也保留了這些名字與分工。[PBS｜音樂人與錄音歷史](https://www.pbs.org/buenavista/musicians/recording_history.html)"
+              "title": "Rubén 每天提早來",
+              "body": "官方回顧記下 Rubén González 的一個習慣：當時已退休、家中沒有鋼琴的他，每天很早就到錄音室，開門的人抵達時，他已在外頭等待。[Buena Vista Social Club｜錄音故事](https://www.buenavistasocialclub.com/story/)\n\n退休、家裡沒有鋼琴、每天提早到，這幾項是官方回顧留下的具體記錄。再對照 PBS 的錄音名單，能把 Rubén 的鋼琴與主唱、吉他、低音提琴的分工一一接起來。 [PBS｜音樂人與錄音歷史](https://www.pbs.org/buenavista/musicians/recording_history.html)"
             },
             {
               "id": "part-3",
-              "title": "先有聲音，後來才有電影",
-              "body": "官方專輯資料把主要錄音描述為在哈瓦那約一週完成，唱片於 1997 年推出。[Buena Vista Social Club｜原始專輯記錄](https://www.buenavistasocialclub.com/albums/buena-vista-social-club/) 後來 Wim Wenders 拍攝紀錄片，才讓更多聽者看見這些聲音背後的人，與他們去到其他城市演出的樣子。\n\n從〈Chan Chan〉開始聽，不妨把注意力放在歌聲之間的空隙：有人接一句，有人用樂器回應，大家不必同時搶到最前面。再想到每天等著開門的 Rubén，那間錄音室便有了更明確的意義。他來得早，因為裡面有他想繼續做的事。"
+              "title": "先有唱片，後有紀錄片",
+              "body": "官方專輯資料把主要錄音描述為在哈瓦那約一週完成，唱片於 1997 年推出。[Buena Vista Social Club｜原始專輯記錄](https://www.buenavistasocialclub.com/albums/buena-vista-social-club/) 後來 Wim Wenders 拍攝紀錄片，才讓更多聽者看見這些聲音背後的人，與他們去到其他城市演出的樣子。\n\n從〈Chan Chan〉開始，先跟著人聲，再注意樂器怎麼接話，然後翻回錄音名單找名字。讀到 Rubén 每天提早等開門的那段記錄，會很想把他的鋼琴多聽一遍。"
             }
           ],
           "timeline": [
@@ -59827,7 +59989,11 @@
             "artist": "Buena Vista Social Club",
             "note": "1997 年專輯開場曲。先從人聲與吉他之間的回應聽起。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "現場與相遇"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "montreux-nina-simone",
@@ -59839,8 +60005,8 @@
           "anchor": "舞台上的一架鋼琴",
           "work": "Little Girl Blue・Live at Montreux 1976",
           "year": "1976",
-          "title": "Nina 坐到鋼琴前，蒙特勒的觀眾得跟著她等",
-          "deck": "她會停下來說話，也會把熟悉的歌唱得令人不敢分心。1976 年的影像保留了那些停頓，讓演出不只剩下一串曲目。",
+          "title": "Nina Simone 的 1976 蒙特勒現場，連停頓都值得留下",
+          "deck": "她在 Little Girl Blue、Stars 和 Feelings 之間說話，也調整演奏。對照曲目與影像，比只讀關於她性格的傳聞有意思得多。",
           "accent": "sky",
           "people": [
             "Nina Simone"
@@ -59864,18 +60030,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "先坐好，再開始",
+              "title": "從 Little Girl Blue 開始",
               "body": "Nina Simone 在 1968 年首度登上蒙特勒音樂節，1976 年再來時，留下了常被重新觀看的一場演出。主辦單位後來整理不同年份的錄音，也把這一場放在重要位置。[Montreux Jazz Festival｜Nina Simone 錄音回顧](https://www.montreuxjazzfestival.com/en/news/nina-simone-etta-james-albums/)\n\n當晚她坐到鋼琴前，以〈Little Girl Blue〉開場。聲音之外，影像還留下她的眼神、停頓與對觀眾說的話。這些間隙讓台下無法只等一首熟悉的歌順利唱完；她會調整速度，也會改變整個房間的注意力。[Montreux Music｜Nina Simone 的演出記憶](https://montreux-music.com/en/artistes/nina-simone/)[Pan African Music｜蒙特勒演出與曲目](https://pan-african-music.com/nina-simone-montreux-festival/)"
             },
             {
               "id": "part-2",
-              "title": "歌唱到一半，話還要說",
-              "body": "在〈Stars〉與〈Feelings〉等曲目之間，Simone 把自己的評論帶進表演。她對〈Feelings〉有所保留，仍然唱了它，並用停頓、琴聲與句子的力度重新處理這首歌。[Montreux Music｜Nina Simone 的演出記憶](https://montreux-music.com/en/artistes/nina-simone/)\n\n這種演出很容易被簡化成性格傳聞。若只看影像能確認的部分，已經足夠豐富：一位歌手兼鋼琴家在台上決定何時繼續，何時讓一個音拖久一些，以及何時要求觀眾更專心。旁觀者不需要替她下心理診斷，才能聽懂那些選擇。"
+              "title": "她怎麼處理 Feelings",
+              "body": "在〈Stars〉與〈Feelings〉等曲目之間，Simone 把自己的評論帶進表演。她對〈Feelings〉有所保留，仍然唱了它，並用停頓、琴聲與句子的力度重新處理這首歌。[Montreux Music｜Nina Simone 的演出記憶](https://montreux-music.com/en/artistes/nina-simone/)\n\n比起拿這場演出推測她的心理狀態，更值得記錄的是可直接看見、聽見的處理：哪裡停下、哪裡拉長，說話後又怎麼回到鋼琴。這些都能拿影像逐一對照。"
             },
             {
               "id": "part-3",
-              "title": "不要把空白剪掉",
-              "body": "蒙特勒的整理專輯橫跨 1968、1976、1981、1987 與 1990 年。[Montreux Jazz Festival｜Nina Simone 錄音回顧](https://www.montreuxjazzfestival.com/en/news/nina-simone-etta-james-albums/) 若想讀這篇故事時同步聆聽，應先找清楚標示 1976 的〈Little Girl Blue〉，再往當晚其他曲目走。\n\n她的琴聲有自己的敘述，並非主唱出現以前的陪襯。等她唱完一句，還可以繼續聽手上如何回答。影片裡那些看似沒有音樂的幾秒鐘也值得保留：觀眾還在等，她已經在安排下一次進入歌曲的方式。"
+              "title": "先確認演出年份，再比較版本",
+              "body": "蒙特勒的整理專輯橫跨 1968、1976、1981、1987 與 1990 年。[Montreux Jazz Festival｜Nina Simone 錄音回顧](https://www.montreuxjazzfestival.com/en/news/nina-simone-etta-james-albums/) 若想讀這篇故事時同步聆聽，應先找清楚標示 1976 的〈Little Girl Blue〉，再往當晚其他曲目走。\n\n先找明確標示 1976 年的影像，保留歌曲前後的說話，再和單独的音軌比較。停頓、評論與鋼琴回應，都是理解這次演出需要的材料。"
             }
           ],
           "timeline": [
@@ -59918,7 +60084,11 @@
             "artist": "Nina Simone",
             "note": "請選標示 1976 年蒙特勒的現場版本，避免與其他年份錄音混淆。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "現場與相遇"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "cologne-keith-jarrett",
@@ -59930,8 +60100,8 @@
           "anchor": "歌劇院裡的一架鋼琴",
           "work": "The Köln Concert",
           "year": "1975",
-          "title": "十八歲的主辦人，把 Keith Jarrett 請進科隆歌劇院",
-          "deck": "1975 年 1 月 24 日，Vera Brandes 安排了一場深夜鋼琴獨奏。唱片後來被反覆播放，台上那些音符卻只有一次現場生成的機會。",
+          "title": "科隆演奏會的鋼琴故事，哪些細節還有爭議？",
+          "deck": "十八歲的 Vera Brandes 安排了那場深夜演出。Keith Jarrett 的錄音留下來了，關於現場鋼琴的傳說，卻不是每份資料都說得一樣。",
           "accent": "sage",
           "people": [
             "Keith Jarrett",
@@ -59963,12 +60133,12 @@
             {
               "id": "part-2",
               "title": "鋼琴的傳說，要留一點空間",
-              "body": "最常見的說法是現場備錯了鋼琴，琴況不理想，Jarrett 只好改變彈法。這段故事後來愈傳愈完整，但資料對鋼琴型號、故障程度與現場安排的細節並不一致，較新的整理也提出了不同記述。[Wikipedia｜科隆演奏會與鋼琴記述差異](https://de.wikipedia.org/wiki/The_K%C3%B6ln_Concert)\n\n因此，不必把每個動人的轉折都當作已確定的事實。唱片能確定留下的是他的演奏：重複音型往前推進，旋律在其上逐漸長出，又改變方向。即使暫時放下那個廣為流傳的意外故事，耳朵仍有很多事可以做。"
+              "body": "最常見的說法是現場備錯了鋼琴，琴況不理想，Jarrett 只好改變彈法。這段故事後來愈傳愈完整，但資料對鋼琴型號、故障程度與現場安排的細節並不一致，較新的整理也提出了不同記述。[Wikipedia｜科隆演奏會與鋼琴記述差異](https://de.wikipedia.org/wiki/The_K%C3%B6ln_Concert)\n\n整理這場演出時，確定的日期、場地與發行資料可以直接列出；鋼琴型號和損壞程度有分歧，就保留分歧。不能因為某一版故事比較好聽，就把其他記述刪掉。"
             },
             {
               "id": "part-3",
               "title": "讓第一段完整走完",
-              "body": "Jarrett 與 ECM 在這之前已進行過即興獨奏的巡演，科隆並非毫無準備的第一次。[Library of Congress｜Peter Elsdon 談科隆演奏會](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/The-Koln-Concert_Elsdon.pdf) 台上沒有一份預先寫好的整場曲目，卻有長期演奏累積的能力；這兩件事可以同時成立。\n\n播放 Part I 時，先不要急著拖動進度。某個節奏會維持得比預期更久，下一段旋律也往往在這段等待裡浮出來。唱片讓我們可以隨時重來，當晚的 Brandes 與觀眾卻只能坐在現場，和他一起等下一個音。"
+              "body": "Jarrett 與 ECM 在這之前已進行過即興獨奏的巡演，科隆並非毫無準備的第一次。[Library of Congress｜Peter Elsdon 談科隆演奏會](https://www.loc.gov/static/programs/national-recording-preservation-board/documents/The-Koln-Concert_Elsdon.pdf) 台上沒有一份預先寫好的整場曲目，卻有長期演奏累積的能力；這兩件事可以同時成立。\n\n可以先把 Part I 完整聽過一次，再回頭找重複音型開始改變的位置。鋼琴的故事確實吸引人，但演奏本身也值得這樣花時間：一段節奏維持多久，旋律又從哪裡換了方向？"
             }
           ],
           "timeline": [
@@ -60012,7 +60182,11 @@
             "artist": "Keith Jarrett",
             "note": "建議完整聽 Part I。這是現場錄音，沒有對應的官方演出影片。"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "現場與相遇"
+          ],
+          "editedAt": "2026-10-03"
         },
         {
           "id": "lagos-fela-tony-allen",
@@ -60024,8 +60198,8 @@
           "anchor": "鼓組上的 hi-hat",
           "work": "Water No Get Enemy",
           "year": "1960–1970 年代",
-          "title": "Fela 在前面唱，Tony Allen 讓整個樂團繼續往前",
-          "deck": "一位鼓手從爵士唱片與雜誌裡研究節奏，後來與 Fela 一起工作。回到 Lagos 的舞台故事，值得把耳朵也留給後方那套鼓。",
+          "title": "聽 Fela 的 Water No Get Enemy，先跟著 Tony Allen 的鼓走",
+          "deck": "主唱進來以前，樂團已經演奏了好一陣子。Allen 談研究爵士鼓手的訪談，是理解這套節奏很好的起點。",
           "accent": "coral",
           "people": [
             "Fela Kuti",
@@ -60052,18 +60226,18 @@
           "sections": [
             {
               "id": "part-1",
-              "title": "鼓手從唱片裡找辦法",
-              "body": "Tony Allen 在 Red Bull Music Academy 的訪談裡說，自己年輕時研究爵士鼓手，也從雜誌理解 hi-hat 的用法。他把聽到與讀到的東西帶到鼓組上試，慢慢打出讓其他鼓手想靠近觀察的節奏。[Red Bull Music Academy｜Tony Allen 回憶初識 Fela](https://daily.redbullmusicacademy.com/2013/08/when-tony-met-fela/)\n\n他與 Fela 的相識也經過樂手之間的介紹。當時的 Fela 會在廣播節目中講解爵士唱片，兩人因此有共同的聆聽背景。後來長時間一起演出，那些不同來源的節奏才逐漸成為樂團裡能穩定運作的語言。"
+              "title": "Allen 怎麼研究鼓",
+              "body": "Tony Allen 在 Red Bull Music Academy 的訪談裡說，自己年輕時研究爵士鼓手，也從雜誌理解 hi-hat 的用法。他把聽到與讀到的東西帶到鼓組上試，慢慢打出讓其他鼓手想靠近觀察的節奏。[Red Bull Music Academy｜Tony Allen 回憶初識 Fela](https://daily.redbullmusicacademy.com/2013/08/when-tony-met-fela/)\n\nAllen 在訪談裡談到樂手之間的介紹，也提到 Fela 當時會在廣播節目講解爵士唱片。兩人的合作可以從這些共同背景查起，不能只用一個後來的曲風名稱概括。"
             },
             {
               "id": "part-2",
-              "title": "先別急著等主唱進來",
+              "title": "從樂器加入的順序聽起",
               "body": "1975 年的〈Water No Get Enemy〉收錄於《Expensive Shit》。Fela 的官方頻道提供了完整曲目與作品背景，適合拿來聽樂器如何一層層加入。[Fela 官方頻道｜Water No Get Enemy](https://www.youtube.com/watch?v=kisTH3SFegc)\n\n先跟著鼓，再注意低音與管樂。主唱尚未進來，樂團已經建立了可以維持很久的律動。Tony Allen 的作用在這時尤其容易被忽略：他沒有每一拍都用同樣力道塞滿，其他樂器才有位置插進來。這裡連結的是錄音室版本，能聽見當時樂團的配合。"
             },
             {
               "id": "part-3",
-              "title": "今天的場館，接的是後來的時間",
-              "body": "Fela 去世後，舊 Shrine 的場地無法繼續使用。Yeni 與 Femi Kuti 在 2000 年建立 New Afrika Shrine，把演出與社群活動帶到新的場所。[Fela 官方｜New Afrika Shrine 的沿革](https://felakuti.com/legacy/new-afrika-shrine)\n\n所以在 Ikeja 看見新場館的名字時，要把兩段時間分開。它保存了一種讓音樂與生活相鄰的做法，建築卻不是從前那一間。聽著舊錄音走到這裡，能追的除了主唱的名字，還有樂手、家人，以及把下一場演出辦下去的人。"
+              "title": "舊 Shrine 與新場館要分清楚",
+              "body": "Fela 去世後，舊 Shrine 的場地無法繼續使用。Yeni 與 Femi Kuti 在 2000 年建立 New Afrika Shrine，把演出與社群活動帶到新的場所。[Fela 官方｜New Afrika Shrine 的沿革](https://felakuti.com/legacy/new-afrika-shrine)\n\nIkeja 的 New Afrika Shrine 是 2000 年建立的新場館，與舊 Shrine 要分開看。從 Allen 的爵士聆聽經驗，查到 Fela 的錄音，再查家人如何接著經營演出場所，這條線上還有許多名字值得認識。"
             }
           ],
           "timeline": [
@@ -60115,20 +60289,24 @@
             "youtubeSource": "https://www.youtube.com/watch?v=kisTH3SFegc",
             "verifiedAt": "2026-10-02"
           },
-          "readingMinutes": 3
+          "readingMinutes": 3,
+          "topics": [
+            "現場與相遇"
+          ],
+          "editedAt": "2026-10-03"
         }
       ],
       "source": {
         "name": "音樂故事｜編輯與來源",
-        "description": "四個專欄各五篇。以創作者訪談、作品記錄、報刊評論、部落格與 Wikipedia 交叉整理；來源列於各篇。",
+        "description": "依日期排列的音樂部落格；主題使用標籤。從訪談、作品記錄、官方公告與可靠報導整理，逐篇保留來源與查閱日期。",
         "evidenceFlow": [
           {
             "title": "資料查閱",
-            "detail": "2026-10-02 查閱本文所列訪談、官方作品資料、音樂刊物、基金會與場館記錄。引用保留原始網址；衝突記述在內文說明。"
+            "detail": "既有文章保留原查閱日期；2026-10-03 調整文風並新增 ADÉLA 文章，查閱四份官方公告與訪談。依每篇 reviewedAt、editedAt 分別記錄事實查閱與文字修訂。"
           },
           {
             "title": "Humanizer 潤稿",
-            "detail": "依 humanizer 3.1.0 刪減空泛結語、制式排比與未受支持的想像；以事件、物件與當事人回憶建立敘事。"
+            "detail": "使用已安裝的 humanizer-zh 校閱，保留出處、日期與不確定性，刪減空泛結語及未受支持的人物心理描寫。"
           },
           {
             "title": "聆聽與照片",

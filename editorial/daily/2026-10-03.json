@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "articleId": "bratislava-adela-aint-in-la",
+  "mode": "interactive-editorial",
+  "sources": [
+    {
+      "url": "https://www.universalmusic.ca/2026/07/23/adela-announces-debut-album-prima-due-september-4th-releases-new-single-and-music-video-aint-in-laout-now/",
+      "readAt": "2026-10-03",
+      "supports": "讀到 2026-07-23 發行 Ain’t In LA、母親十八歲照片的創作緣由、Fred Gervais 執導並在 Bratislava 拍攝 MV。"
+    },
+    {
+      "url": "https://www.wmagazine.com/wyouth/adela-prima-album-interview-katseye-nicole-kidman",
+      "readAt": "2026-10-03",
+      "supports": "讀到母親、妹妹參演，海報的家族背景，以及 Theron Thomas 同時參與 Ain’t In LA 與 We Can’t Stop 的人聲。"
+    },
+    {
+      "url": "https://www.capitalfm.com/news/music/adela-prima-aint-in-la-nicole-kidman-interview/",
+      "readAt": "2026-10-03",
+      "supports": "讀到 ADÉLA 對 Ain’t In LA 的知名度／美的標準說法，以及 Therapy 寫到妹妹與相處時間的說明。"
+    },
+    {
+      "url": "https://www.universalmusic.ca/2026/09/04/adela-releases-debut-album-prima/",
+      "readAt": "2026-10-03",
+      "supports": "確認 2026-09-04 已發行 PRIMA，Capitol Records、共同執行製作人、十一首曲目及最後兩首順序。"
+    }
+  ],
+  "review": {
+    "method": "本次互動中逐頁查閱，humanizer-zh 校閱；不是每日排程的自動校閱回條。",
+    "notes": "不引用未核對的排名；說明既有 Capitol 發行合作；未新增照片；聆聽使用明確搜尋標籤。"
+  }
+}

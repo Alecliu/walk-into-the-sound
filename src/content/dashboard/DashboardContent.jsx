@@ -1,6 +1,5 @@
 import { StoryHome, AboutStories } from './StoryHome.jsx';
 import './walk-into-sound.css';
-import { CityStories } from './CityStories.jsx';
 import { platformCopy, chartLabel, sourceNote } from './platform-copy.js';
 import React, { useEffect, useState } from 'react';
 import { DataComponent, EvidenceChart, Dropdown, Dialog, SectionHeader, SortableRegion, SortableItem, useDataApp } from '../../data-app-public.jsx';
@@ -38,7 +37,7 @@ export function DashboardContent() {
   const [browseRevision, setBrowseRevision] = useState(0);
   function browseStories(lens = '') { setBrowseRevision(v => v + 1); setStoryLens(lens); openCity(null); }
   const [storyId, setStoryId] = useState(() => window.location.hash.startsWith('#cities/') ? window.location.hash.split('/')[1] : null);
-  function openCity(id) { setStoryId(id); setTab('cities'); window.history.pushState(null, '', id ? '#cities/' + id : '#cities'); window.scrollTo(0, 0); }
+  function openCity(id) { setStoryId(id); setTab(id ? 'cities' : 'home'); window.history.pushState(null, '', id ? '#cities/' + id : '#home'); window.scrollTo(0, 0); }
   const issues = reviewedRows('weekly', ['id', 'publishedAt']);
   const [tab, setTab] = useState(() => window.location.hash.startsWith('#cities/') ? 'cities' : window.location.hash.startsWith('#weekly/') ? 'weekly' : tabs.some(([id]) => '#' + id === window.location.hash) ? window.location.hash.slice(1) : 'home');
   const [issueId, setIssueId] = useState(() => window.location.hash.split('/')[1] || null);
@@ -97,20 +96,18 @@ export function DashboardContent() {
   </DataComponent>;
   return <article className="page ms-page">
     <div className="wis-topline">
-      <span className="wis-edition">STORIES & RECORDS <small>2026 · 秋</small></span>
+      <span className="wis-edition">MUSIC NOTES <small>聽歌，也查資料</small></span>
       <nav className="wis-nav" aria-label="網站導覽">
-        <button aria-current={tab === 'home' ? 'page' : undefined} onClick={() => navigate('home')}>首頁</button>
-        <button aria-current={tab === 'cities' ? 'page' : undefined} onClick={() => browseStories('')}>故事選集</button>
+        <button aria-current={['home', 'cities'].includes(tab) ? 'page' : undefined} onClick={() => browseStories('')}>所有文章</button>
         <button aria-current={tab === 'about' ? 'page' : undefined} onClick={() => navigate('about')}>關於這裡</button>
         <details className="ms-nav-more"><summary>音樂探索 ↗</summary><div>{tabs.filter(([id]) => !['home','cities','about'].includes(id)).map(([id,label]) => <button key={id} aria-current={tab === id ? 'page' : undefined} onClick={e => {navigate(id);e.currentTarget.closest('details').open=false;}}>{label}</button>)}</div></details>
       </nav>
     </div>
     {!['home','cities','about'].includes(tab) && <div className="wis-secondary-banner"><span>音樂探索 / {tabs.find(([id]) => id === tab)?.[1]} · 故事之外的聆聽線索</span><button onClick={() => navigate('home')}>← 回到故事首頁</button></div>}
-    {tab === 'home' && <StoryHome stories={stories} onOpen={openCity} onBrowse={browseStories} onNavigate={navigate}/>}
+    {['home', 'cities'].includes(tab) && <StoryHome key={browseRevision} stories={stories} storyId={tab === 'cities' ? storyId : null} onOpen={openCity} initialLens={storyLens}/>}
     {tab === 'about' && <AboutStories onBrowse={browseStories}/>}
     {storageWarning && <p role="status" className="ms-notice">目前瀏覽器無法儲存收藏；關閉頁面後可能不保留。</p>}
     {['cross', 'explore', 'saved'].includes(tab) && filters}
-    {tab === 'cities' && <CityStories key={browseRevision} stories={stories} storyId={storyId} onOpen={openCity} initialLens={storyLens}/>}
     {tab === 'weekly' && <WeeklyReview all={all} key={issueId || 'latest'} issues={issues} initialIssue={issueId} onArchive={openArchive}/>}
     {tab === 'archive' && <MusicArchive key={archiveDate || 'latest'} all={all} issues={issues} initialDate={archiveDate} initialPlatform={archivePlatform} onRead={openWeekly} onExplore={(d,p)=>{setDate(d);setPlatform(p);setMarket('全部市場');setSearch('');setTab('explore');}}/>}
     {tab === 'radar' && <PotentialRadar all={all} scouting={scouting} research={research} onSelect={setSelected} onSave={toggleSaved} saved={saved}/>}
@@ -156,9 +153,9 @@ export function DashboardContent() {
     {tab === 'sources' && <>
       <SectionHeader id="sources-heading" title="每一個發現，都有出處"/><p className="ms-section-note">「網站可讀」和「本次歌曲資料已取得」是兩回事。</p>
       <DataComponent id="source-health" queryId="sources" title="六個來源的接入狀態" kind="custom" displayRows={sources} sourceRows={sources} variant="plain"><div className="ms-sources" data-reviewed-rows>{sources.map(s => <div className="ms-source-card" key={s.platform}><div className="ms-source-head"><div className={`ms-platform-icon platform-${s.status}`}>{marks[s.platform]}</div><div><h3>{s.platform}</h3></div><span className={`ms-status ${s.status}`}>{s.label}</span></div><p>{sourceNote(s)}</p><div className="ms-source-foot"><span>{current.filter(r => r.platform === s.platform).length ? `${current.filter(r => r.platform === s.platform).length} 筆最新榜單紀錄` : '尚無本次歌曲資料'}</span><Link href={s.url}>開啟來源 ↗</Link></div></div>)}</div></DataComponent>
-      <details className="ms-method" open><summary>更新方式與資料邊界</summary><p>先擷取並驗證資料，保留歷史快照，再提交 GitHub，由 GitHub Pages 發布網站。</p><p>擷取器支援 KKBOX、Apple Music、Spotify 官方榜單歌單與 YouTube 官方歌曲週榜。抖音與 QQ 音樂待接入；每日無人值守排程尚未啟用。失敗時保留上次成功資料與失敗標記。</p><p>YouTube 提供每週觀看次數及週變化；Spotify 公開歌單未提供播放量。不同平台的計數不加總。歌曲語言尚未逐首驗證，不依歌名或歌手推測；各平台收錄不同語言，KKBOX 目前為華語榜。</p></details>
+      <details className="ms-method" open><summary>更新方式與資料邊界</summary><p>先擷取並驗證資料，保留歷史快照，再提交 GitHub，由 GitHub Pages 發布網站。</p><p>擷取器支援 KKBOX、Apple Music、Spotify 官方榜單歌單與 YouTube 官方歌曲週榜。抖音與 QQ 音樂待接入；榜單擷取目前未排程，與每日文章發布分開處理。失敗時保留上次成功資料與失敗標記。</p><p>YouTube 提供每週觀看次數及週變化；Spotify 公開歌單未提供播放量。不同平台的計數不加總。歌曲語言尚未逐首驗證，不依歌名或歌手推測；各平台收錄不同語言，KKBOX 目前為華語榜。</p></details>
     </>}
-    <footer className="ms-footer"><span>四個專欄 <i>·</i> 二十段音樂往事</span><button onClick={() => navigate('sources')}>來源與更新說明 ↗</button></footer>
+    <footer className="ms-footer"><span>音樂故事、聆聽筆記 <i>·</i> {stories.length} 篇文章</span><button onClick={() => navigate('sources')}>來源與更新說明 ↗</button></footer>
     <SpotifySelection open={playlistOpen} onClose={()=>setPlaylistOpen(false)} cards={cards} all={all}/>
     <Dialog open={!!selectedRow} onClose={() => setSelected(null)} title={selectedRow?.title || '歌曲觀察'} expanded>
       {selectedRow && <div className="ms-detail"><div className="ms-detail-head"><Disc title={selectedRow.title}/><div><span className="ms-source-label">{selectedRow.platform} · {chartLabel(selectedRow)}</span><h2>{selectedRow.title}</h2><p>{selectedRow.artist}</p><span>原榜第 {selectedRow.rank} 名 · {periodLabel(selectedRow)} <Delta row={selectedRow}/></span><div className="ms-detail-actions"><ListenLinks row={selectedRow} all={all}/><button onClick={() => toggleSaved(selectedRow.id)}>{saved.includes(selectedRow.id) ? '已收藏' : '加入收藏'}</button></div></div></div>
