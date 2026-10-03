@@ -92,4 +92,12 @@ def validate_site(root, directory='site'):
         require(hashlib.sha256(content).hexdigest() == item['sha256'] and len(content) == item['bytes'], 'Manifest integrity mismatch: '+key)
     require(manifest['sourceSnapshotSha256'] == manifest['snapshot']['sha256'], 'Build source identity mismatch')
     require(path.name in (site / 'index.html').read_text(), 'Missing HTML snapshot reference')
+    asset_manifest = root/'src/content/assets/web-assets.json'
+    if asset_manifest.exists():
+        for asset in json.loads(asset_manifest.read_text()).values():
+            asset_path = site/asset['path']
+            require(site.resolve() in asset_path.resolve().parents, 'Unsafe asset path')
+            require(asset_path.is_file(), 'Missing published image: '+asset['path'])
+            image = asset_path.read_bytes()
+            require(len(image)==asset['bytes'] and hashlib.sha256(image).hexdigest()==asset['sha256'], 'Published image hash mismatch')
     return len(rows)

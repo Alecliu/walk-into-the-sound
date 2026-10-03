@@ -1,3 +1,4 @@
+import webAssets from '../assets/web-assets.json';
 import { StoryHome, AboutStories } from './StoryHome.jsx';
 import './walk-into-sound.css';
 import { platformCopy, chartLabel, sourceNote } from './platform-copy.js';
@@ -6,10 +7,10 @@ import { DataComponent, EvidenceChart, Dropdown, Dialog, SectionHeader, Sortable
 import { latestRows, filterRows, movement, summarizeArtists, genreCounts, compareRows, comparisonPlot, entryKey, crossPlatformSongs, periodLabel, movementBasis } from './music-model.js';
 import './music.css';
 import './record-store.css';
-import recordSky from '../assets/record-sky.png';
-import recordCoral from '../assets/record-coral.png';
-import recordGreen from '../assets/record-green.png';
-import goodMusic from '../assets/good-music.png';
+const recordSky = './' + webAssets['record-sky'].path;
+const recordCoral = './' + webAssets['record-coral'].path;
+const recordGreen = './' + webAssets['record-green'].path;
+const goodMusic = './' + webAssets['good-music'].path;
 import { MusicIcon } from './MusicIcon.jsx';
 import { ListenLinks } from './ListenLinks.jsx';
 import { PotentialRadar, ChinaFocus } from './PotentialRadar.jsx';

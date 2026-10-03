@@ -1,8 +1,9 @@
+import webAssets from '../assets/web-assets.json';
 import React from 'react';
-import abbeyRoad from '../assets/story-photos/abbey-road-2015.jpg';
-import cavernClub from '../assets/story-photos/cavern-club-2013.jpg';
-import larryMullen from '../assets/story-photos/larry-mullen-dublin-2015.jpg';
-import cafe from '../assets/story-photos/cafe-deux-moulins-2010.jpg';
+const abbeyRoad = './' + webAssets['abbey-road-2015'].path;
+const cavernClub = './' + webAssets['cavern-club-2013'].path;
+const larryMullen = './' + webAssets['larry-mullen-dublin-2015'].path;
+const cafe = './' + webAssets['cafe-deux-moulins-2010'].path;
 
 const images = { 'abbey-road-2015': abbeyRoad, 'cavern-club-2013': cavernClub, 'larry-mullen-dublin-2015': larryMullen, 'cafe-deux-moulins-2010': cafe };
 export function StoryPhotoImage({ photo, compact = false }) {

@@ -66,6 +66,11 @@ class BlogPublicationTests(unittest.TestCase):
             manifest={'kind':'separate-data-v1','sourceSnapshotSha256':digest,'snapshot':{'path':name,'sha256':digest,'bytes':len(source)},'html':{'path':'index.html','sha256':hashlib.sha256(html).hexdigest(),'bytes':len(html)}}
             (root/'site/data-app-build.json').write_text(json.dumps(manifest))
             validate_site(root)
+            (root/'src/content/assets').mkdir(parents=True)
+            (root/'src/content/assets/web-assets.json').write_text(json.dumps({'photo':{'path':'assets/missing.jpg','sha256':'0'*64,'bytes':5}}))
+            with self.assertRaisesRegex(ValueError,'Missing published image'):
+                validate_site(root)
+            (root/'src/content/assets/web-assets.json').unlink()
             data['queries']['cityStories']['rows'][0]['deck']='Changed in source only'
             (root/'src/data.json').write_text(json.dumps(data))
             with self.assertRaisesRegex(ValueError,'differs from source'):

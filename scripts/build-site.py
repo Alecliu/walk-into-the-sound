@@ -1,5 +1,7 @@
 """Build with the installed Data plugin; optionally stage the full verified release."""
 import argparse
+import hashlib
+import json
 import os
 from pathlib import Path
 import shutil
@@ -15,6 +17,17 @@ def build(root, node, plugin, publish=False):
     for name in ('CODEX_SESSION_ID', 'CODEX_THREAD_ID'):
         env.pop(name, None)
     subprocess.run([node, str(entry), 'build', '--project-dir', str(root), '--separate-data'], env=env, check=True)
+    # Copy unchanged, content-addressed approved images after the official compiler.
+    # Authored source refers to these URLs; generated HTML is never patched.
+    for asset in json.loads((root/'src/content/assets/web-assets.json').read_text()).values():
+        source=root/'src/content/assets'/asset['source']
+        target=root/'dist'/asset['path']
+        if (root/'src/content/assets').resolve() not in source.resolve().parents or (root/'dist').resolve() not in target.resolve().parents:
+            raise ValueError('Asset path must remain inside the authored and publication directories')
+        target.parent.mkdir(parents=True,exist_ok=True)
+        if hashlib.sha256(source.read_bytes()).hexdigest()!=asset['sha256']:
+            raise ValueError('Approved source asset changed: '+asset['source'])
+        shutil.copyfile(source,target)
     validate_site(root, 'dist')
     if publish:
         site = root / 'site'

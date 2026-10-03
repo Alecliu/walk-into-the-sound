@@ -1,0 +1,50 @@
+{
+  "record-sky": {
+    "source": "record-sky.png",
+    "path": "assets/record-sky.a457a38f1305.png",
+    "sha256": "a457a38f1305f359188b9b6561950bc0218678e1a4c0fa08f81fdd2db925b9c0",
+    "bytes": 2689535
+  },
+  "record-coral": {
+    "source": "record-coral.png",
+    "path": "assets/record-coral.62036e340f75.png",
+    "sha256": "62036e340f750530ac33b714a3f288102191f02c139c0725ac467cad40a17d1a",
+    "bytes": 2608670
+  },
+  "record-green": {
+    "source": "record-green.png",
+    "path": "assets/record-green.66ed916ce66a.png",
+    "sha256": "66ed916ce66a3976269a3af5e7b08885377ff430fa9565d957876e1496966804",
+    "bytes": 3100736
+  },
+  "good-music": {
+    "source": "good-music.png",
+    "path": "assets/good-music.f6c3d1dee55c.png",
+    "sha256": "f6c3d1dee55ce3759cfffd41e7bedf679716ddd8d43b1065532f9a6b36047ff3",
+    "bytes": 433999
+  },
+  "abbey-road-2015": {
+    "source": "story-photos/abbey-road-2015.jpg",
+    "path": "assets/abbey-road-2015.26575952c071.jpg",
+    "sha256": "26575952c07137212f90a2bdf0741ee0ff35202ceed372ffd449ecd5dc21e1b6",
+    "bytes": 249029
+  },
+  "cavern-club-2013": {
+    "source": "story-photos/cavern-club-2013.jpg",
+    "path": "assets/cavern-club-2013.153b0d2f58b6.jpg",
+    "sha256": "153b0d2f58b6b7252fbddde73f60ac715c7ae35460299d209beb0f83f4e5c625",
+    "bytes": 206320
+  },
+  "larry-mullen-dublin-2015": {
+    "source": "story-photos/larry-mullen-dublin-2015.jpg",
+    "path": "assets/larry-mullen-dublin-2015.0c2c98de332f.jpg",
+    "sha256": "0c2c98de332fec244d5e08d67611134b84e765d3e8ae164150e8cabd6df3a617",
+    "bytes": 370292
+  },
+  "cafe-deux-moulins-2010": {
+    "source": "story-photos/cafe-deux-moulins-2010.jpg",
+    "path": "assets/cafe-deux-moulins-2010.eba12b3b7736.jpg",
+    "sha256": "eba12b3b77363143e35bd6b78b9ba144879d14676a6655dfdaba73217be98707",
+    "bytes": 285998
+  }
+}

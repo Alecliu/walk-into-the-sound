@@ -26,6 +26,6 @@ python3 scripts/verify-site.py
 python3 -m http.server 4173 --bind 127.0.0.1 --directory dist
 ```
 
-GitHub Actions 發布的是完整 **`site/`**。修改原始碼後必須重新建置、檢查、更新 site，再提交並推送 `main`。正式網址的結果與 Actions 成功都需確認。
+GitHub Actions 發布的是完整 **`site/`**。修改原始碼後必須重新建置、檢查、更新包含 `assets/` 的完整 site，再提交並推送 `main`。正式網址的結果與 Actions 成功都需確認。
 
 後續環境及操作方式更新於 `HANDOVER.md`；編輯與驗證紀錄保留在 `editorial/`。照片、字型及元件授權完整保留，照片紀錄見 `src/content/assets/story-photos/LICENSES.md`。密碼、憑證、排程本機設定與私有日誌不進 Git。

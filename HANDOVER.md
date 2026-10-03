@@ -61,13 +61,12 @@ WIS_DATA_PLUGIN="${CODEX_HOME:-$HOME/.codex}/plugins/cache/openai-curated-remote
 test -f "$WIS_DATA_PLUGIN/scripts/data-app.mjs"
 
 "$WIS_NODE" "$WIS_DATA_PLUGIN/scripts/data-app.mjs" prepare --project-dir "$PWD"
-env -u CODEX_SESSION_ID -u CODEX_THREAD_ID "$WIS_NODE" \
-  "$WIS_DATA_PLUGIN/scripts/data-app.mjs" build --project-dir "$PWD" --separate-data
+python3 scripts/build-site.py --node "$WIS_NODE" --plugin "$WIS_DATA_PLUGIN"
 ```
 
 若外掛版本或位置改變，先在 Codex 已安裝的 Data 外掛目錄找到 `scripts/data-app.mjs`，更新 `WIS_DATA_PLUGIN`，再跑 `prepare`。找不到時先恢復官方 Data 外掛，勿自行重寫建置流程。`prepare` 回傳的 `documentation.entryPoint` 是該 runtime 的元件文件入口。
 
-建置成功會生成 `dist/index.html`、`dist/snapshot.<sha256>.json` 與 `dist/data-app-build.json`；必須保留整組檔案。一般發布用的建置移除程序環境中的工作階段 ID，避免帶入本機 Codex 工作階段標記；沒有手改 HTML。
+建置成功會生成 `dist/index.html`、`dist/snapshot.<sha256>.json`、`dist/data-app-build.json` 及 `dist/assets/`；必須保留整組檔案。包裝命令依舊呼叫上述官方 build --separate-data，再將 `web-assets.json` 所列的原圖逐檔校驗、複製成內容雜湊檔名，不修改生成的 HTML。一般發布用的建置移除程序環境中的工作階段 ID，避免帶入本機 Codex 工作階段標記；沒有手改 HTML。
 
 啟動本機預覽：
 
@@ -177,6 +176,6 @@ python3 scripts/verify-site.py
 git diff --check
 ```
 
-`build-site.py` 呼叫同一個已安裝的 Data 外掛，檢查完整成品，先備份舊 site，再整組更新。它不會提交或推送。正式發布仍需檢查 diff 後提交 `main`、推送 GitHub，確認 Actions 與正式網址。
+`build-site.py` 呼叫同一個已安裝的 Data 外掛，檢查完整成品，先備份舊 site，再整組更新。它不會提交或推送。直接呼叫官方 compiler 後，仍需由這個包裝命令補齊及驗證靜態圖片。正式發布仍需檢查 diff 後提交 `main`、推送 GitHub，確認 Actions 與正式網址。
 
 每日排程在獨立工作目錄新增文章，不會自行 pull 或改動這個開發目錄。開始下一次人工修改前，先檢查 `git status`，乾淨時以 `git pull --ff-only origin main` 取回排程新文章，避免以舊資料發布。

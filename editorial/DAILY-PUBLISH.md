@@ -55,6 +55,6 @@ launchctl bootout "gui/$(id -u)/com.walkintothesound.publish"
 
 ## 驗證範圍
 
-自動檢查包括日期、來源閱讀記錄、重新校閱、舊文章網址、每日去重、資料與成品一致、HTML／JSON 雜湊、現有 Node/Python 測試、對應 SHA 的 Actions 結果、正式站 HTTP 成品。每日只新增資料，不改 React/CSS。這些檢查不等於每天用瀏覽器人工試完所有互動；版型或程式變動仍需桌面／手機瀏覽器驗證。
+自動檢查包括日期、來源閱讀記錄、重新校閱、舊文章網址、每日去重、資料與成品一致、HTML／JSON 雜湊、現有 Node/Python 測試、對應 SHA 的 Actions 結果、正式站 HTTP 成品及圖片可取得性與大小。每日只新增資料，不改 React/CSS。這些檢查不等於每天用瀏覽器人工試完所有互動；版型或程式變動仍需桌面／手機瀏覽器驗證。
 
 工作規則按 [OpenAI 官方 codex exec 文件](https://developers.openai.com/codex/noninteractive/) 使用非互動、唯讀模型執行及 JSON schema。模型只輸出稿件或校閱結果，推送由固定程式在檢查通過後執行。

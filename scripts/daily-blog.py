@@ -153,6 +153,13 @@ def verify_live(config, work, sha):
             snapshot = fetch_bytes(LIVE + expected['snapshot']['path'])
             require(hashlib.sha256(html).hexdigest() == expected['html']['sha256'], 'Live HTML hash mismatch')
             require(hashlib.sha256(snapshot).hexdigest() == expected['snapshot']['sha256'], 'Live snapshot hash mismatch')
+            asset_manifest=work/'src/content/assets/web-assets.json'
+            if asset_manifest.exists():
+                for asset in read(asset_manifest).values():
+                    with urlopen(Request(LIVE+asset['path'],method='HEAD'),timeout=40) as response:
+                        require(response.status==200, 'Published image unavailable')
+                        length=response.headers.get('Content-Length')
+                        require(length is None or int(length)==asset['bytes'], 'Published image size mismatch')
             return 'https://github.com/'+REPO+'/actions/runs/'+str(run_id)
         time.sleep(15)
     raise RuntimeError('Pages content does not match the deployed commit')
