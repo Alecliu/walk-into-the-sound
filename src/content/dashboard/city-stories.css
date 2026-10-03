@@ -40,7 +40,7 @@
 .ms-page .ms-city-listen p,.ms-page .ms-city-places p{font-size:14px;line-height:1.9}
 .ms-page .ms-city-listen a{color:inherit}
 .ms-page .ms-city-places{border-top:1px solid var(--border);padding:30px 0}
-.ms-page .ms-city-places>div{display:grid;grid-template-columns:1fr 1fr;gap:32px}
+.ms-page .ms-city-places>div{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:32px}
 .ms-page .ms-city-places h3{font-size:18px}
 .ms-page .ms-city-sources{padding:22px 0;border-top:1px solid var(--border);font-size:13px}
 .ms-page .ms-city-sources>a{display:block;margin:12px 0}

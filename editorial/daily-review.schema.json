@@ -18,13 +18,20 @@
     },
     "summary": {
       "type": "string"
+    },
+    "checkedPhotoIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     }
   },
   "required": [
     "approved",
     "issues",
     "checkedUrls",
-    "summary"
+    "summary",
+    "checkedPhotoIds"
   ],
   "additionalProperties": false
 }

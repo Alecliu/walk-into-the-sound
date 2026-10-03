@@ -46,5 +46,113 @@
     "path": "assets/cafe-deux-moulins-2010.eba12b3b7736.jpg",
     "sha256": "eba12b3b77363143e35bd6b78b9ba144879d14676a6655dfdaba73217be98707",
     "bytes": 285998
+  },
+  "place-46fbc802ca26869d": {
+    "source": "story-photos/place-46fbc802ca26869d.jpg",
+    "path": "assets/place-46fbc802ca26869d.46fbc802ca26.jpg",
+    "sha256": "46fbc802ca26869db2a82295d0a2b074b6de3e566443c7d788373d43342fcc57",
+    "bytes": 308103
+  },
+  "place-5a030c8fb0a64384": {
+    "source": "story-photos/place-5a030c8fb0a64384.jpg",
+    "path": "assets/place-5a030c8fb0a64384.5a030c8fb0a6.jpg",
+    "sha256": "5a030c8fb0a643842f8ce91593c5fd9da45866a8ab8160c541861a9c808e7686",
+    "bytes": 539755
+  },
+  "place-af39aa539da4297c": {
+    "source": "story-photos/place-af39aa539da4297c.jpg",
+    "path": "assets/place-af39aa539da4297c.af39aa539da4.jpg",
+    "sha256": "af39aa539da4297c2cbbc4a09e2a30c4fd509ae2efea2641de4b1d5ab389df0e",
+    "bytes": 212836
+  },
+  "place-cff560981ea4f0ef": {
+    "source": "story-photos/place-cff560981ea4f0ef.jpg",
+    "path": "assets/place-cff560981ea4f0ef.cff560981ea4.jpg",
+    "sha256": "cff560981ea4f0efef51b6b42b4e83995ac03ad4a7e55804bf73e00b4297ffaf",
+    "bytes": 379881
+  },
+  "place-a9ce555f1062e1ca": {
+    "source": "story-photos/place-a9ce555f1062e1ca.jpg",
+    "path": "assets/place-a9ce555f1062e1ca.a9ce555f1062.jpg",
+    "sha256": "a9ce555f1062e1cadae59ffe819b8ca23da84d58db877b43c1fd8ca9af914770",
+    "bytes": 211890
+  },
+  "place-3880989c6f843ea5": {
+    "source": "story-photos/place-3880989c6f843ea5.jpg",
+    "path": "assets/place-3880989c6f843ea5.3880989c6f84.jpg",
+    "sha256": "3880989c6f843ea51a3f33b08270877425ea05970333f33bda41a36af80d39c8",
+    "bytes": 435876
+  },
+  "place-7168fd4f27c6ccc6": {
+    "source": "story-photos/place-7168fd4f27c6ccc6.jpg",
+    "path": "assets/place-7168fd4f27c6ccc6.7168fd4f27c6.jpg",
+    "sha256": "7168fd4f27c6ccc6eca532d9864919a7e02adaa03eff955c2d8a9db44990deac",
+    "bytes": 279809
+  },
+  "place-e59a36117cb19b6a": {
+    "source": "story-photos/place-e59a36117cb19b6a.jpg",
+    "path": "assets/place-e59a36117cb19b6a.e59a36117cb1.jpg",
+    "sha256": "e59a36117cb19b6a40b96dde4ccd544e6ece88e36ba17a8140954599c3770779",
+    "bytes": 345107
+  },
+  "place-34f25155266c628e": {
+    "source": "story-photos/place-34f25155266c628e.jpg",
+    "path": "assets/place-34f25155266c628e.34f25155266c.jpg",
+    "sha256": "34f25155266c628e7ebe4cb767d214cdf5f11a4af2ac1710e97e43b75c2ddf11",
+    "bytes": 385157
+  },
+  "place-51b40dff6a913170": {
+    "source": "story-photos/place-51b40dff6a913170.jpg",
+    "path": "assets/place-51b40dff6a913170.51b40dff6a91.jpg",
+    "sha256": "51b40dff6a913170490d31c8223d902df96bfa569847fabaafb56af33499b688",
+    "bytes": 323461
+  },
+  "place-728053c1b6f5a875": {
+    "source": "story-photos/place-728053c1b6f5a875.jpg",
+    "path": "assets/place-728053c1b6f5a875.728053c1b6f5.jpg",
+    "sha256": "728053c1b6f5a875dfbd1756a74c3b8a7ba71cfe9b4a703307aa638cf52375fd",
+    "bytes": 121950
+  },
+  "place-e92b4f00048b460d": {
+    "source": "story-photos/place-e92b4f00048b460d.jpg",
+    "path": "assets/place-e92b4f00048b460d.e92b4f00048b.jpg",
+    "sha256": "e92b4f00048b460db3959cc850c290c8d2f090241e9367aca814c69d75bd0030",
+    "bytes": 144778
+  },
+  "place-a91812d61b567532": {
+    "source": "story-photos/place-a91812d61b567532.jpg",
+    "path": "assets/place-a91812d61b567532.a91812d61b56.jpg",
+    "sha256": "a91812d61b56753227d6ffec346f25886d5519bf9f12618bbd4d3fec85e6c329",
+    "bytes": 687492
+  },
+  "place-ce8e1d748af617c3": {
+    "source": "story-photos/place-ce8e1d748af617c3.jpg",
+    "path": "assets/place-ce8e1d748af617c3.ce8e1d748af6.jpg",
+    "sha256": "ce8e1d748af617c338fa27ef5ae39c02f815f2357b0a1415189e6597eae1dba4",
+    "bytes": 259758
+  },
+  "place-183499dcbba0e4c3": {
+    "source": "story-photos/place-183499dcbba0e4c3.jpg",
+    "path": "assets/place-183499dcbba0e4c3.183499dcbba0.jpg",
+    "sha256": "183499dcbba0e4c35d3d38a7349811d92481023dd48ab5f920c942c5f8e56b02",
+    "bytes": 2312871
+  },
+  "place-649260ef37daf2fb": {
+    "source": "story-photos/place-649260ef37daf2fb.jpg",
+    "path": "assets/place-649260ef37daf2fb.649260ef37da.jpg",
+    "sha256": "649260ef37daf2fb996f28e4f0015b2540b575df0cecea1baf1cf48d069e7130",
+    "bytes": 348683
+  },
+  "place-96c92cc54557a0b2": {
+    "source": "story-photos/place-96c92cc54557a0b2.jpg",
+    "path": "assets/place-96c92cc54557a0b2.96c92cc54557.jpg",
+    "sha256": "96c92cc54557a0b2c0c4561eaf264f5f0955e9c2d8935bcd2bc34bd24c3d16e7",
+    "bytes": 229179
+  },
+  "place-1ff5319fe83afd3e": {
+    "source": "story-photos/place-1ff5319fe83afd3e.jpg",
+    "path": "assets/place-1ff5319fe83afd3e.1ff5319fe83a.jpg",
+    "sha256": "1ff5319fe83afd3e13bd7f93fac6c00e6fae7073cad67e0f3a86d7d0bdff4667",
+    "bytes": 701649
   }
 }

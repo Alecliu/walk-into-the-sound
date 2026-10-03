@@ -52,7 +52,7 @@ test('each published city story has a unique route and inspectable evidence', ()
     assert.ok(s.sources.length >= 2 && Array.isArray(s.places));
     assert.ok(s.sources.every(source => source.url.startsWith('https://')));
     assert.ok(s.sections.some(section => section.body.includes(s.sources[0].url)));
-    assert.doesNotMatch(JSON.stringify(s), /中國|台灣|臺灣|英國|愛爾蘭|國籍/);
+    assert.ok(s.tags.every(t=>['城市','街區','打卡點'].includes(t.type)));
   }
 });
 

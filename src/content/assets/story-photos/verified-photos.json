@@ -1,0 +1,1922 @@
+{
+  "place-46fbc802ca26869d": {
+    "photo": {
+      "author": "Slyronit",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Streets_of_Bratislava_Old_Town_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-46fbc802ca26869d",
+      "caption": "布拉提斯拉瓦老城街道，2013 年攝；城市背景照片，並非 ADÉLA 的住處或 MV 拍攝地。",
+      "alt": "布拉提斯拉瓦老城的街道",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-46fbc802ca26869d.jpg",
+      "path": "assets/place-46fbc802ca26869d.46fbc802ca26.jpg",
+      "sha256": "46fbc802ca26869db2a82295d0a2b074b6de3e566443c7d788373d43342fcc57",
+      "bytes": 308103
+    },
+    "commonsTitle": "File:Streets of Bratislava Old Town 2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Streets_of_Bratislava_Old_Town_2.jpg/1280px-Streets_of_Bratislava_Old_Town_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-05-21 06:40:41",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Streets of Bratislava Old Town 2",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Streets in Bratislava|Self-published work|2013 in Bratislava|Files with coordinates missing SDC location of creation|People walking on streets in Slovakia|People in Bratislava",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "48.143839",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "17.108458",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Streets of Bratislava Old Town",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-03-01 11:24:44",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Slyronit\" title=\"User:Slyronit\">Slyronit</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-5a030c8fb0a64384": {
+    "photo": {
+      "author": "K.C. Tang",
+      "attribution": "I, K.C. Tang",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central-Mid-levels_escalator.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "id": "place-5a030c8fb0a64384",
+      "caption": "中環至半山自動扶梯，2005 年攝；並非《重慶森林》拍攝當年的畫面。",
+      "alt": "香港中環至半山自動扶梯",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-5a030c8fb0a64384.jpg",
+      "path": "assets/place-5a030c8fb0a64384.5a030c8fb0a6.jpg",
+      "sha256": "5a030c8fb0a643842f8ce91593c5fd9da45866a8ab8160c541861a9c808e7686",
+      "bytes": 539755
+    },
+    "commonsTitle": "File:Central-Mid-levels escalator.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Central-Mid-levels_escalator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "metadata": {
+      "DateTime": {
+        "value": "2011-12-08 12:38:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Central-Mid-levels escalator",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Perspective views in Hong Kong|GFDL|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Interior of Central-Mid-Levels escalators|Self-published work|Moving sidewalks in Hong Kong|August 2005 in Hong Kong|Stairs in Central and Western District",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Central-Mid-Levels escalators, Central, <a href=\"//commons.wikimedia.org/wiki/Hong_Kong\" class=\"mw-redirect\" title=\"Hong Kong\">Hong Kong</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2005-08-12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:K.C._Tang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:K.C. Tang (page does not exist)\">K.C. Tang</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "I, <a href=\"//commons.wikimedia.org/w/index.php?title=User:K.C._Tang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:K.C. Tang (page does not exist)\">K.C. Tang</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-af39aa539da4297c": {
+    "photo": {
+      "author": "Dllu",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Hong_Kong_Harbour_from_The_Peak_dllu.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-af39aa539da4297c",
+      "caption": "從太平山望向維多利亞港，2024 年攝。照片提供香港的城市背景，並非《花樣年華》的拍攝場景。",
+      "alt": "太平山望向香港維多利亞港的全景",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-af39aa539da4297c.jpg",
+      "path": "assets/place-af39aa539da4297c.af39aa539da4.jpg",
+      "sha256": "af39aa539da4297c2cbbc4a09e2a30c4fd509ae2efea2641de4b1d5ab389df0e",
+      "bytes": 212836
+    },
+    "commonsTitle": "File:Panorama of Hong Kong Harbour from The Peak dllu.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Panorama_of_Hong_Kong_Harbour_from_The_Peak_dllu.jpg/1280px-Panorama_of_Hong_Kong_Harbour_from_The_Peak_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-10-14 23:57:03",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Panorama of Hong Kong Harbour from The Peak dllu",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Files with broken file links|Self-published work|Large images|Featured pictures by dllu|Water reflections of lights in Hong Kong|Files with coordinates missing SDC location of creation|Hong Kong photographs taken on 2024-09-13|Night panoramics from Victoria Peak (Victoria Harbour)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "22.271165",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "114.149969",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Panorama of <a href=\"https://en.wikipedia.org/wiki/Victoria_Harbour\" class=\"extiw\" title=\"w:Victoria Harbour\">Victoria Harbour</a> from <a href=\"https://en.wikipedia.org/wiki/Peak_Tower\" class=\"extiw\" title=\"w:Peak Tower\">Peak Tower</a> observation deck on <a href=\"https://en.wikipedia.org/wiki/Victoria_Peak\" class=\"extiw\" title=\"w:Victoria Peak\">Victoria Peak</a>. <figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:People_taking_photographs_at_the_Peak_Tower_observation_deck_in_Hong_Kong_dllu.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/People_taking_photographs_at_the_Peak_Tower_observation_deck_in_Hong_Kong_dllu.jpg/250px-People_taking_photographs_at_the_Peak_Tower_observation_deck_in_Hong_Kong_dllu.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"250\" height=\"188\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/People_taking_photographs_at_the_Peak_Tower_observation_deck_in_Hong_Kong_dllu.jpg/500px-People_taking_photographs_at_the_Peak_Tower_observation_deck_in_Hong_Kong_dllu.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"11648\" data-file-height=\"8736\"></a><figcaption>Behind the scenes where this photo was taken</figcaption></figure>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-09-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dllu\" title=\"User:Dllu\">Dllu</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-cff560981ea4f0ef": {
+    "photo": {
+      "author": "Conoronmaps",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle_House,_South_Great_George%27s_Street,_Dublin_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-cff560981ea4f0ef",
+      "caption": "South Great George’s Street 的 Castle House，2023 年攝；呈現 Waltons 舊址所在街道，並非琴行店面。",
+      "alt": "South Great George’s Street 的 Castle House 建築",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-cff560981ea4f0ef.jpg",
+      "path": "assets/place-cff560981ea4f0ef.cff560981ea4.jpg",
+      "sha256": "cff560981ea4f0efef51b6b42b4e83995ac03ad4a7e55804bf73e00b4297ffaf",
+      "bytes": 379881
+    },
+    "commonsTitle": "File:Castle House, South Great George's Street, Dublin 2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Castle_House%2C_South_Great_George%27s_Street%2C_Dublin_2.jpg/1280px-Castle_House%2C_South_Great_George%27s_Street%2C_Dublin_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-10-15 12:39:27",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Castle House, South Great George's Street, Dublin 2",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "South Great George's Street, Dublin|Self-published work|Files with coordinates missing SDC location of creation|Office buildings in Dublin",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "53.343553",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-6.264467",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Castle House, South Great George's Street, Dublin 2. Designed by Arthur Swift and Partners.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-09-23 14:26:29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Conoronmaps&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Conoronmaps (page does not exist)\">Conoronmaps</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-a9ce555f1062e1ca": {
+    "photo": {
+      "author": "Nyao148",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sayama-from-rokudousan.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "id": "place-a9ce555f1062e1ca",
+      "caption": "從六道山公園望向狹山丘陵，2007 年攝；這是丘陵景觀，不是動畫畫面或特定一塊龍貓森林保育地。",
+      "alt": "六道山公園望向狹山丘陵的綠地",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-a9ce555f1062e1ca.jpg",
+      "path": "assets/place-a9ce555f1062e1ca.a9ce555f1062.jpg",
+      "sha256": "a9ce555f1062e1cadae59ffe819b8ca23da84d58db877b43c1fd8ca9af914770",
+      "bytes": 211890
+    },
+    "commonsTitle": "File:Sayama-from-rokudousan.JPG",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sayama-from-rokudousan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "metadata": {
+      "DateTime": {
+        "value": "2007-06-23 11:28:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sayama-from-rokudousan",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "License migration completed|GFDL-ja|Sayama Hills",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "六道山公園の展望台から見た<a href=\"https://ja.wikipedia.org/wiki/%E7%8B%AD%E5%B1%B1%E4%B8%98%E9%99%B5\" class=\"extiw\" title=\"ja:狭山丘陵\">ja:狭山丘陵</a>。六道山公園から東側を見る。中央付近にある白い建物は<a href=\"https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%AD%A6%E3%83%89%E3%83%BC%E3%83%A0\" class=\"extiw\" title=\"ja:西武ドーム\">ja:西武ドーム</a>。（2007年6月投稿者撮影）",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://ja.wikipedia.org/wiki/User:Nyao148\" class=\"extiw\" title=\"ja:User:Nyao148\">Nyao148</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-3880989c6f843ea5": {
+    "photo": {
+      "author": "Rept0n1x",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penny_Lane_sign,_Liverpool_(3).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "id": "place-3880989c6f843ea5",
+      "caption": "利物浦 Penny Lane 路牌，2013 年攝。",
+      "alt": "Penny Lane 的街道路牌",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-3880989c6f843ea5.jpg",
+      "path": "assets/place-3880989c6f843ea5.3880989c6f84.jpg",
+      "sha256": "3880989c6f843ea51a3f33b08270877425ea05970333f33bda41a36af80d39c8",
+      "bytes": 435876
+    },
+    "commonsTitle": "File:Penny Lane sign, Liverpool (3).JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Penny_Lane_sign%2C_Liverpool_%283%29.JPG/1280px-Penny_Lane_sign%2C_Liverpool_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2013-03-09 16:12:01",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Penny Lane sign, Liverpool (3)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon PowerShot A2200|Self-published work|Photos uploaded by Rept0n1x|Penny Lane street signs",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Penny Lane sign, Liverpool, England.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-03-09 10:17:09",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rept0n1x\" title=\"User:Rept0n1x\">Rept0n1x</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-7168fd4f27c6ccc6": {
+    "photo": {
+      "author": "Tom Arthur",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_Thames_and_Waterloo_Bridge,_London-17Aug2009.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "id": "place-7168fd4f27c6ccc6",
+      "caption": "泰晤士河與 Waterloo Bridge，2009 年攝。",
+      "alt": "倫敦泰晤士河上的 Waterloo Bridge",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-7168fd4f27c6ccc6.jpg",
+      "path": "assets/place-7168fd4f27c6ccc6.7168fd4f27c6.jpg",
+      "sha256": "7168fd4f27c6ccc6eca532d9864919a7e02adaa03eff955c2d8a9db44990deac",
+      "bytes": 279809
+    },
+    "commonsTitle": "File:River Thames and Waterloo Bridge, London-17Aug2009.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/River_Thames_and_Waterloo_Bridge%2C_London-17Aug2009.jpg/1280px-River_Thames_and_Waterloo_Bridge%2C_London-17Aug2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2009-11-02 14:39:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "River Thames and Waterloo Bridge, London-17Aug2009",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Nikon D90|Festival Pier, London|Victoria Embankment|Images with annotations|Savoy Pier|Flickr images uploaded by Flickr upload bot|St Katharine (ship, 1927)|August 2009 in London|United Kingdom photographs taken on 2009-08-17|Temple Pier, London|Views of Waterloo Bridge from the London Eye|HQS Wellington at Victoria Embankment|HMS President at Victoria Embankment|Queen Mary (ship, 1933) at Victoria Embankment",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/River_Thames\" class=\"extiw\" title=\"en:River Thames\">River Thames</a> in London: with <a href=\"https://en.wikipedia.org/wiki/Waterloo_Bridge\" class=\"extiw\" title=\"en:Waterloo Bridge\">Waterloo Bridge</a> and <a href=\"https://en.wikipedia.org/wiki/Victoria_Embankment\" class=\"extiw\" title=\"en:Victoria Embankment\">Victoria Embankment</a> in the centre.\n<dl><dd>Several permanently moored ships are visible: <a href=\"https://en.wikipedia.org/wiki/TS_Queen_Mary\" class=\"extiw\" title=\"en:TS Queen Mary\">TS <i>Queen Mary</i></a>, St Katharine, <a href=\"https://en.wikipedia.org/wiki/HMS_Wellington_(U65)\" class=\"extiw\" title=\"en:HMS Wellington (U65)\">HMS <i>Wellington</i></a>, <a href=\"https://en.wikipedia.org/wiki/HMS_President_(1918)\" class=\"extiw\" title=\"en:HMS President (1918)\">HMS <i>President</i></a>.</dd>\n<dd>The piers below Waterloo Bridge are <a href=\"https://en.wikipedia.org/wiki/Savoy_Pier\" class=\"extiw\" title=\"en:Savoy Pier\">Savoy Pier</a> (left) and <a href=\"https://en.wikipedia.org/wiki/Festival_Pier\" class=\"extiw\" title=\"en:Festival Pier\">Festival Pier</a> (right).</dd></dl>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-08-17 20:04:18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/59888866@N00/3880627784\">London 2009</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/59888866@N00\">Tom Arthur</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-e59a36117cb19b6a": {
+    "photo": {
+      "author": "Adam Jones from Kelowna, BC, Canada",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sign_of_Bar_Garota_de_Ipanema_-_Ipanema_-_Rio_de_Janeiro_-_Brazil_(17370446502).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "id": "place-e59a36117cb19b6a",
+      "caption": "Garota de Ipanema 酒吧招牌，2015 年攝。",
+      "alt": "Garota de Ipanema 酒吧的招牌",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-e59a36117cb19b6a.jpg",
+      "path": "assets/place-e59a36117cb19b6a.e59a36117cb1.jpg",
+      "sha256": "e59a36117cb19b6a40b96dde4ccd544e6ece88e36ba17a8140954599c3770779",
+      "bytes": 345107
+    },
+    "commonsTitle": "File:Sign of Bar Garota de Ipanema - Ipanema - Rio de Janeiro - Brazil (17370446502).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Sign_of_Bar_Garota_de_Ipanema_-_Ipanema_-_Rio_de_Janeiro_-_Brazil_%2817370446502%29.jpg/1280px-Sign_of_Bar_Garota_de_Ipanema_-_Ipanema_-_Rio_de_Janeiro_-_Brazil_%2817370446502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-11-18 00:35:57",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sign of Bar Garota de Ipanema - Ipanema - Rio de Janeiro - Brazil (17370446502)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Ipanema|Photographs by Adam Jones|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "-22.985256",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-43.202888",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Sign of Bar Garota de Ipanema - Ipanema - Rio de Janeiro - Brazil",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-05-04 13:56",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/adam_jones/17370446502/\">Sign of Bar Garota de Ipanema - Ipanema - Rio de Janeiro - Brazil</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41000732@N04\">Adam Jones</a> from Kelowna, BC, Canada",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-34f25155266c628e": {
+    "photo": {
+      "author": "Selbymay",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montreal_-_Notre-Dame-de-Bon-Secours_Chapel_02.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "id": "place-34f25155266c628e",
+      "caption": "從蒙特婁舊港一側看 Notre-Dame-de-Bon-Secours 禮拜堂，2012 年攝。",
+      "alt": "蒙特婁 Notre-Dame-de-Bon-Secours 禮拜堂外觀",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-34f25155266c628e.jpg",
+      "path": "assets/place-34f25155266c628e.34f25155266c.jpg",
+      "sha256": "34f25155266c628e7ebe4cb767d214cdf5f11a4af2ac1710e97e43b75c2ddf11",
+      "bytes": 385157
+    },
+    "commonsTitle": "File:Montreal - Notre-Dame-de-Bon-Secours Chapel 02.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Montreal_-_Notre-Dame-de-Bon-Secours_Chapel_02.jpg/1280px-Montreal_-_Notre-Dame-de-Bon-Secours_Chapel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2012-07-09 16:49:27",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Montreal - Notre-Dame-de-Bon-Secours Chapel 02",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Nikon D5100|Self-published work|Files with coordinates missing SDC location of creation|Rear facade of Notre-Dame-de-Bon-Secours Chapel",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|valued",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "45.509747",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-73.550774",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Notre-Dame-de-Bon-Secours Chapel, Old Port side - Montréal, Quebec",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-04-10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Selbymay\" title=\"User:Selbymay\">Selbymay</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-51b40dff6a913170": {
+    "photo": {
+      "author": "lumoplank",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Streets_of_Gion,_Kyoto_-_Gion7709.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "id": "place-51b40dff6a913170",
+      "caption": "京都祇園街景，來源標記攝於 2026 年 4 月以前。用來認識城市景觀，並非〈Kyoto〉MV 或歌詞所指的特定地點。",
+      "alt": "京都祇園的石板街道與町家",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-51b40dff6a913170.jpg",
+      "path": "assets/place-51b40dff6a913170.51b40dff6a91.jpg",
+      "sha256": "51b40dff6a913170490d31c8223d902df96bfa569847fabaafb56af33499b688",
+      "bytes": 323461
+    },
+    "commonsTitle": "File:Streets of Gion, Kyoto - Gion7709.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Streets_of_Gion%2C_Kyoto_-_Gion7709.jpg/1280px-Streets_of_Gion%2C_Kyoto_-_Gion7709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-07-22 09:46:30",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Streets of Gion, Kyoto - Gion7709",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Machiya in Kyoto|Shinbashi Street (Higashiyama-ku, Kyoto)|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Salix babylonica in Japan|Streets in Gion, Kyoto at night",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "35.004689",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "135.778403",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A stone-paved street in the Gion district at night, lined with willow trees, autumn foliage, and traditional machiya townhouses.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "before 10 April 2026<div style=\"display: none;\">date QS:P,+2026-04-10T00:00:00Z/7,P1326,+2026-04-10T00:00:00Z/11</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/199350666@N08/55198512986\">https://www.flickr.com/photos/199350666@N08/55198512986</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/199350666@N08\">lumoplank</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-728053c1b6f5a875": {
+    "photo": {
+      "author": "Raymond Okonski",
+      "attribution": "Raymond Okonski",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artane_Roundabout_-_geograph.org.uk_-_458599.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "id": "place-728053c1b6f5a875",
+      "caption": "都柏林 Artane 街區的圓環，2007 年攝；街區背景照片，並非 U2 初次排練的住宅。",
+      "alt": "都柏林 Artane 的道路與圓環",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-728053c1b6f5a875.jpg",
+      "path": "assets/place-728053c1b6f5a875.728053c1b6f5.jpg",
+      "sha256": "728053c1b6f5a875dfbd1756a74c3b8a7ba71cfe9b4a703307aa638cf52375fd",
+      "bytes": 121950
+    },
+    "commonsTitle": "File:Artane Roundabout - geograph.org.uk - 458599.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Artane_Roundabout_-_geograph.org.uk_-_458599.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "metadata": {
+      "DateTime": {
+        "value": "2011-02-04 14:10:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Artane Roundabout - geograph.org.uk - 458599",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Republic of Ireland photographs taken on 2007-06-05|Artane|Taken with Sony DSC-V3|Images from Geograph Britain and Ireland|Information field template with formatting|Roundabouts in Dublin|Images by Raymond Okonski",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "53.382900",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-6.204000",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Artane Roundabout Always a bottleneck during southbound rush-hours, the dual carriageway (seen in the distance) becomes a single carriageway as you head into town.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-06-05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "From <a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/458599\">geograph.org.uk</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/9875\">Raymond Okonski</a>",
+        "source": "commons-desc-page"
+      },
+      "Attribution": {
+        "value": "Raymond Okonski",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-e92b4f00048b460d": {
+    "photo": {
+      "author": "Genk18",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natori_City_Earthquake_Reconstruction_Tradition_Center_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-e92b4f00048b460d",
+      "caption": "名取市震災復興傳承館，2023 年攝。照片呈現名取的地點背景，不是文中鋼琴的原址或展示地。",
+      "alt": "名取市震災復興傳承館外觀",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-e92b4f00048b460d.jpg",
+      "path": "assets/place-e92b4f00048b460d.e92b4f00048b.jpg",
+      "sha256": "e92b4f00048b460db3959cc850c290c8d2f090241e9367aca814c69d75bd0030",
+      "bytes": 144778
+    },
+    "commonsTitle": "File:Natori City Earthquake Reconstruction Tradition Center 1.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Natori_City_Earthquake_Reconstruction_Tradition_Center_1.jpg/1280px-Natori_City_Earthquake_Reconstruction_Tradition_Center_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-05-05 14:24:01",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Natori City Earthquake Reconstruction Tradition Center 1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Natori City Earthquake Recovery Reconstruction Museum|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "2023年撮影",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Taken in 2023<br><small>〔5 May 2023 (upload date)〕</small>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Genk18&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Genk18 (page does not exist)\">Genk18</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-a91812d61b567532": {
+    "photo": {
+      "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "attribution": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Coliseum.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-a91812d61b567532",
+      "caption": "London Coliseum 外觀，2010 年攝；並非 Björk 演出當日的照片。",
+      "alt": "London Coliseum 建築外觀",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-a91812d61b567532.jpg",
+      "path": "assets/place-a91812d61b567532.a91812d61b56.jpg",
+      "sha256": "a91812d61b56753227d6ffec346f25886d5519bf9f12618bbd4d3fec85e6c329",
+      "bytes": 687492
+    },
+    "commonsTitle": "File:London Coliseum.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/London_Coliseum.jpg/1280px-London_Coliseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-07-17 15:50:02",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "London Coliseum",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Coliseum Theatre|Self-published work|London photographs taken on 2010-06-26|2010 in the City of Westminster|Photos by Mike Peel using a Canon EOS 400D",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/London_Coliseum\" class=\"extiw\" title=\"w:London Coliseum\">London Coliseum</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-06-26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Photograph by <a href=\"//commons.wikimedia.org/wiki/User:Mike_Peel\" title=\"User:Mike Peel\">Mike Peel</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mikepeel.net/\">www.mikepeel.net</a>).",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "CC-BY-SA-4.0. Please attribute as per the author line above.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "Photograph by <a href=\"//commons.wikimedia.org/wiki/User:Mike_Peel\" title=\"User:Mike Peel\">Mike Peel</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mikepeel.net/\">www.mikepeel.net</a>).",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-ce8e1d748af617c3": {
+    "photo": {
+      "author": "Binksternet",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Plant_-_Sausalito_-_rear.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "id": "place-ce8e1d748af617c3",
+      "caption": "Sausalito 的 Record Plant 錄音室建築後側，2010 年攝。",
+      "alt": "Sausalito Record Plant 錄音室建築後側",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-ce8e1d748af617c3.jpg",
+      "path": "assets/place-ce8e1d748af617c3.ce8e1d748af6.jpg",
+      "sha256": "ce8e1d748af617c338fa27ef5ae39c02f815f2357b0a1415189e6597eae1dba4",
+      "bytes": 259758
+    },
+    "commonsTitle": "File:The Plant - Sausalito - rear.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/The_Plant_-_Sausalito_-_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-02-08 05:29:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "The Plant - Sausalito - rear",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Canon PowerShot A20|License migration redundant|Self-published work|Files with coordinates missing SDC location of creation|The Plant, Sausalito",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.863518",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-122.496375",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Snapshot of the Record Plant, a.k.a. The Plant, a recording studio in Sausalito, California. Photo shows a portion of the rear of the building.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-02-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Binksternet\" title=\"User:Binksternet\">Binksternet</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-183499dcbba0e4c3": {
+    "photo": {
+      "author": "Roland Zumbuehl",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2005-Montreux-Casino.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-183499dcbba0e4c3",
+      "caption": "Montreux Casino 建築局部，2005 年攝；並非 Nina Simone 演出當日的照片。",
+      "alt": "Montreux Casino 建築外觀",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-183499dcbba0e4c3.jpg",
+      "path": "assets/place-183499dcbba0e4c3.183499dcbba0.jpg",
+      "sha256": "183499dcbba0e4c35d3d38a7349811d92481023dd48ab5f920c942c5f8e56b02",
+      "bytes": 2312871
+    },
+    "commonsTitle": "File:2005-Montreux-Casino.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/2005-Montreux-Casino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-07-31 10:53:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2005-Montreux-Casino",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Casino de Montreux",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Teilansicht des Casinos in Montreux (VD)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2005-05-28 11:02:06",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Roland_Zumbuehl\" title=\"User:Roland Zumbuehl\">Roland Zumbuehl</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-649260ef37daf2fb": {
+    "photo": {
+      "author": "Raimond Spekking",
+      "attribution": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oper_K%C3%B6ln,_Frontalansicht_mit_Offenbachplatz-8419.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-649260ef37daf2fb",
+      "caption": "科隆歌劇院與 Offenbachplatz，2017 年整修期間攝；不是 1975 年音樂會當晚的畫面。",
+      "alt": "Offenbachplatz 前的科隆歌劇院",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-649260ef37daf2fb.jpg",
+      "path": "assets/place-649260ef37daf2fb.649260ef37da.jpg",
+      "sha256": "649260ef37daf2fb996f28e4f0015b2540b575df0cecea1baf1cf48d069e7130",
+      "bytes": 348683
+    },
+    "commonsTitle": "File:Oper Köln, Frontalansicht mit Offenbachplatz-8419.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Oper_K%C3%B6ln%2C_Frontalansicht_mit_Offenbachplatz-8419.jpg/1280px-Oper_K%C3%B6ln%2C_Frontalansicht_mit_Offenbachplatz-8419.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-08-01 17:45:48",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Oper Köln, Frontalansicht mit Offenbachplatz-8419",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Kölner Opernhaus|Offenbachplatz|Self-published work|Information field template with formatting|2017 photographs of Cologne|Uploaded with LrMediaWiki|Files with coordinates missing SDC location of creation (50° N, 6° E)|Files by User:Raymond from de.wikipedia/Cologne",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "50.937894",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "6.952725",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Oper Köln, Frontalansicht  Die Außensanierung und der Bodenbelag des Offenbachplatzes sind weitestgehend fertiggestellt, innen ruht die Sanierung seit längerem",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-07-31",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "Attribution": {
+        "value": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-96c92cc54557a0b2": {
+    "photo": {
+      "author": "Comradeayobami",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_New_Afrika_Shrine.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "id": "place-96c92cc54557a0b2",
+      "caption": "New Afrika Shrine 入口，2019 年攝；這是後來成立的新場館，不是 Fela 當年的原始 Shrine。",
+      "alt": "拉哥斯 New Afrika Shrine 入口",
+      "scope": "exact"
+    },
+    "asset": {
+      "source": "story-photos/place-96c92cc54557a0b2.jpg",
+      "path": "assets/place-96c92cc54557a0b2.96c92cc54557.jpg",
+      "sha256": "96c92cc54557a0b2c0c4561eaf264f5f0955e9c2d8935bcd2bc34bd24c3d16e7",
+      "bytes": 229179
+    },
+    "commonsTitle": "File:The New Afrika Shrine.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/The_New_Afrika_Shrine.jpg/1280px-The_New_Afrika_Shrine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-09-23 13:03:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "The New Afrika Shrine",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from Wiki Loves Monuments 2019|2019 in Lagos, Nigeria|Self-published work|Uploaded via Campaign:wlm-ng|Images from Wiki Loves Monuments 2019 in Nigeria|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Unidentified cultural heritage monuments in Nigeria",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "an overview of the etrance of the new Afrika Shrine Own by Fela Anikulapo Kuti, and Manage by one of his Son Femina Kuti.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-09-20",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Comradeayobami\" title=\"User:Comradeayobami\">Comradeayobami</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  },
+  "place-1ff5319fe83afd3e": {
+    "photo": {
+      "author": "UnifiedFunctionality",
+      "attribution": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calle_Industria,_La_Habana.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "id": "place-1ff5319fe83afd3e",
+      "caption": "哈瓦那 Calle Industria 街景，2023 年攝；城市背景照片，並非 EGREM 的 Areito 錄音室。",
+      "alt": "哈瓦那 Calle Industria 街道與建築",
+      "scope": "area"
+    },
+    "asset": {
+      "source": "story-photos/place-1ff5319fe83afd3e.jpg",
+      "path": "assets/place-1ff5319fe83afd3e.1ff5319fe83a.jpg",
+      "sha256": "1ff5319fe83afd3e13bd7f93fac6c00e6fae7073cad67e0f3a86d7d0bdff4667",
+      "bytes": 701649
+    },
+    "commonsTitle": "File:Calle Industria, La Habana.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Calle_Industria%2C_La_Habana.jpg/1280px-Calle_Industria%2C_La_Habana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-07-28 05:23:52",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Calle Industria, La Habana",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Havana|Cuba in the 2020s|Self-published work|Files with coordinates missing SDC location of creation",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "23.140203",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-82.360639",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "View from an apartment on Calle Industria in Havana, several cars visible. Looking North.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-07-08 15:21:33",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:UnifiedFunctionality\" title=\"User:UnifiedFunctionality\">UnifiedFunctionality</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "checkedAt": "2026-10-03",
+    "placeIndex": 0
+  }
+}

@@ -202,6 +202,22 @@
                 ],
                 "additionalProperties": false
               }
+            },
+            "interests": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "enum": [
+                  "電影與影集",
+                  "動畫與遊戲",
+                  "歌曲裡的人",
+                  "製作幕後",
+                  "MV 與地點",
+                  "新歌觀察",
+                  "現場演出",
+                  "經典歌曲"
+                ]
+              }
             }
           },
           "required": [
@@ -227,7 +243,8 @@
             "timeline",
             "places",
             "listen",
-            "sources"
+            "sources",
+            "interests"
           ],
           "additionalProperties": false
         },
@@ -278,6 +295,41 @@
         "focusNote"
       ],
       "additionalProperties": false
+    },
+    "photoRequests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "placeIndex": {
+            "type": "integer"
+          },
+          "commonsTitle": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
+          },
+          "alt": {
+            "type": "string"
+          },
+          "scope": {
+            "type": "string",
+            "enum": [
+              "exact",
+              "area"
+            ]
+          }
+        },
+        "required": [
+          "placeIndex",
+          "commonsTitle",
+          "caption",
+          "alt",
+          "scope"
+        ],
+        "additionalProperties": false
+      }
     }
   },
   "required": [
@@ -285,7 +337,8 @@
     "reason",
     "story",
     "evidence",
-    "selection"
+    "selection",
+    "photoRequests"
   ],
   "additionalProperties": false
 }

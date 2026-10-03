@@ -19,6 +19,8 @@ class BlogPublicationTests(unittest.TestCase):
         self.story=copy.deepcopy(self.data['queries']['cityStories']['rows'][0])
         self.story['id']='test-music-article'
         self.story.pop('dailyKey',None)
+        self.story['photo']=None
+        self.story['places']=[]
         self.story['publishedAt']=self.story['reviewedAt']='2026-10-04'
         self.candidate={'status':'ready','reason':'','story':self.story,'evidence':[{'url':s['url'],'readAt':'2026-10-04','supports':'A specific verified source claim with enough detail to check.'} for s in self.story['sources']]}
     def test_original_routes_survive_growth(self):

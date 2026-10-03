@@ -14,7 +14,7 @@ from unittest.mock import patch
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from blog_validation import TAIPEI, validate_collection
-from daily_plan import plan_for, published_count, remaining_slots, validate_assignment, select_ready
+from daily_plan import EDITORIAL_POLICY_VERSION, plan_for, published_count, remaining_slots, validate_assignment, select_ready
 spec=importlib.util.spec_from_file_location('batch_runner',ROOT/'scripts/daily-blog.py')
 daily=importlib.util.module_from_spec(spec)
 spec.loader.exec_module(daily)
@@ -33,11 +33,12 @@ class DailyBatchTests(unittest.TestCase):
         story.pop('dailyKey',None)
         story.update(id='fixture-'+slot['id'],title='Fixture '+slot['id'],artist='Fixture Artist '+slot['id'],work='Fixture Work '+slot['id'],topics=[slot['topic']],publishedAt=DAY,reviewedAt=DAY)
         story['photo']=None
+        story['places']=[]
         candidate={'status':'ready','reason':'','story':story,
                    'selection':{'releaseDate':'2026-09-30','releaseSource':story['sources'][0]['url'],'focusNote':'Explicit test fixture, not actual editorial research.'},
                    'evidence':[{'url':s['url'],'readAt':DAY,'supports':'Explicit fixture evidence, not a researched article for publication.'} for s in story['sources']]}
         review={'approved':True,'issues':[],'checkedUrls':[s['url'] for s in story['sources']],'summary':'Test fixture only'}
-        return {'day':DAY,'slot':slot['id'],'preparedAt':DAY+'T08:00:00+08:00','candidate':candidate,'review':review}
+        return {'day':DAY,'slot':slot['id'],'policyVersion':EDITORIAL_POLICY_VERSION,'preparedAt':DAY+'T08:00:00+08:00','candidate':candidate,'review':review}
 
     def all_ready(self):
         return {s['id']:self.ready(s) for s in self.slots}
@@ -46,10 +47,29 @@ class DailyBatchTests(unittest.TestCase):
         self.assertEqual(len(plan_for('2026-10-03')),1)
         self.assertEqual(len(self.slots),5)
         self.assertEqual(sum(s['recent'] for s in self.slots),2)
-        for day in (DAY,'2026-10-05'):
-            focuses=' '.join(s['focus'] for s in plan_for(day))
-            self.assertIn('日本',focuses)
-            self.assertIn('韓國',focuses)
+        plans=[plan_for((dt.date.fromisoformat(DAY)+dt.timedelta(days=i)).isoformat()) for i in range(4)]
+        self.assertEqual(len({p[3]['topic'] for p in plans}),4)
+        self.assertTrue(all('日本' not in s['focus'] and '韓國' not in s['focus'] for p in plans for s in p))
+        self.assertEqual(len({p[2]['focus'] for p in plans}),4)
+
+    def test_previous_policy_drafts_cannot_be_published(self):
+        ready=self.all_ready();ready['new-release'].pop('policyVersion')
+        selected,errors=select_ready(self.rows,DAY,ready)
+        self.assertEqual(len(selected),4)
+        self.assertIn('current editorial policy',errors['new-release'])
+
+    def test_missing_photo_bundle_isolated_from_other_ready_slots(self):
+        with tempfile.TemporaryDirectory() as temp:
+            state=Path(temp)
+            ready=self.all_ready()
+            photo_id='place-'+'a'*16
+            ready['producer']['candidate']['photoEvidence']=[{'photo':{'id':photo_id},'asset':{'source':'story-photos/'+photo_id+'.jpg','path':'assets/'+photo_id+'.'+'a'*12+'.jpg','sha256':'a'*64,'bytes':10}}]
+            for slot,draft in ready.items():
+                directory=state/'drafts'/DAY/'slots'/slot;directory.mkdir(parents=True)
+                daily.write(directory/'ready.json',draft)
+            valid=daily.ready_files(state,DAY)
+            self.assertEqual(len(valid),4)
+            self.assertNotIn('producer',valid)
 
     def test_five_unique_slots_and_retry_does_not_publish_again(self):
         ready=self.all_ready()

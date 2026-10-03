@@ -14,7 +14,8 @@ import tempfile
 import time
 from urllib.request import urlopen, Request
 from blog_validation import TAIPEI, require, validate_collection, validate_site
-from daily_plan import FIVE_ARTICLE_START, plan_for, published_count, remaining_slots, validate_assignment, select_ready
+from daily_plan import FIVE_ARTICLE_START, EDITORIAL_POLICY_VERSION, plan_for, published_count, remaining_slots, validate_assignment, select_ready
+from story_photos import prepare_photos, validate_photo_review, validate_photo_files, publish_photos
 from importlib.util import spec_from_file_location, module_from_spec
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -83,13 +84,19 @@ def codex(config, directory, prompt, schema, output, name, timeout):
 def approve_review(candidate, review):
     require(review['approved'] is True and review['issues'] == [], 'Editorial review rejected: ' + '; '.join(review['issues']))
     require(set(review['checkedUrls']) == {s['url'] for s in candidate['story']['sources']}, 'Reviewer did not read all sources')
+    validate_photo_review(candidate,review)
 
 def ready_files(state, day):
     result = {}
     for slot in plan_for(day):
         path = state/'drafts'/day/'slots'/slot['id']/'ready.json'
         if path.exists():
-            result[slot['id']] = read(path)
+            try:
+                ready=read(path)
+                validate_photo_files(ready['candidate'],path.parent)
+                result[slot['id']] = ready
+            except (ValueError, KeyError, OSError) as error:
+                print('Draft photo bundle needs preparation:',slot['id'],str(error),flush=True)
     return result
 
 def prepare(config, state, day):
@@ -124,11 +131,14 @@ def prepare(config, state, day):
                 shutil.copytree(skill,directory/'humanizer')
                 prompt = (work/'editorial/daily-writer.txt').read_text().format(day=day,focus=slot['focus'])
                 candidate = codex(config,directory,prompt,work/'editorial/daily-article.schema.json',directory/'candidate.json','writer',1500)
+                require(candidate['status']=='ready', 'Writer skipped: '+candidate.get('reason',''))
+                prepare_photos(candidate,directory,day)
+                write(directory/'candidate.json',candidate)
                 story = validate_assignment(candidate,existing,day,slot)
                 review = codex(config,directory,(work/'editorial/daily-reviewer.txt').read_text().format(day=day),work/'editorial/daily-review.schema.json',directory/'review.json','reviewer',1200)
                 approve_review(candidate,review)
                 require(now().date().isoformat()==day, 'Review crossed into a new day')
-                ready = {'day':day,'slot':slot['id'],'preparedAt':now().isoformat(),'baseCommit':run(['git','rev-parse','HEAD'],cwd=work),'candidate':candidate,'review':review}
+                ready = {'day':day,'slot':slot['id'],'policyVersion':EDITORIAL_POLICY_VERSION,'preparedAt':now().isoformat(),'baseCommit':run(['git','rev-parse','HEAD'],cwd=work),'candidate':candidate,'review':review}
                 write(directory/'ready.json',ready)
                 accepted[slot['id']] = ready
                 existing.append(story)
@@ -222,7 +232,9 @@ def publish(config, state, day, allow_early=False, dry_run=False, research_missi
         evidence_dir = work/'editorial/daily'
         evidence_dir.mkdir(exist_ok=True)
         evidence_paths = []
+        photo_paths = []
         for story,ready in selected:
+            photo_paths += publish_photos(ready['candidate'],state/'drafts'/day/'slots'/ready['slot'],work)
             evidence_path = 'editorial/daily/'+day+'-'+ready['slot']+'.json'
             evidence_paths.append(evidence_path)
             write(work/evidence_path, {'date':day,'slot':ready['slot'],'articleId':story['id'],'preparedAt':ready['preparedAt'],'selection':ready['candidate'].get('selection',{}),'sources':ready['candidate']['evidence'],'review':ready['review']})
@@ -234,9 +246,9 @@ def publish(config, state, day, allow_early=False, dry_run=False, research_missi
         run([sys.executable,'-m','unittest','discover','-s','tests','-p','test_*.py'],cwd=work,timeout=300)
         validate_site(work)
         run(['git','diff','--check'],cwd=work)
-        run(['git','add','--','src/data.json','site']+evidence_paths,cwd=work)
+        run(['git','add','--','src/data.json','site']+evidence_paths+sorted(set(photo_paths)),cwd=work)
         changed = run(['git','diff','--cached','--name-only'],cwd=work).splitlines()
-        require(all(p=='src/data.json' or p.startswith('site/') or p in evidence_paths for p in changed),'Unexpected staged changes')
+        require(all(p=='src/data.json' or p.startswith('site/') or p in evidence_paths or p in photo_paths for p in changed),'Unexpected staged changes')
         article_ids = [story['id'] for story,_ in selected]
         if dry_run:
             receipt(state,day,status='validated-dry-run',articleIds=article_ids,publishedCount=published_count(rows,day),target=len(plan_for(day)))

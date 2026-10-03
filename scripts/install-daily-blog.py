@@ -24,7 +24,7 @@ os.chmod(STATE,0o700)
 # the application-owned runner in Application Support; keep the checkout in place.
 runtime=STATE/'runtime'
 runtime.mkdir(exist_ok=True)
-for name in ('daily-blog.py','blog_validation.py','daily_plan.py'):
+for name in ('daily-blog.py','blog_validation.py','daily_plan.py','editorial_policy.py','story_photos.py'):
     shutil.copyfile(ROOT/'scripts'/name,runtime/name)
 codex_home=Path(os.environ.get('CODEX_HOME',str(Path.home()/'.codex')))
 config={'state':str(STATE),'project':str(ROOT),'node':shutil.which('node'),'gh':shutil.which('gh'),'codex':shutil.which('codex'),

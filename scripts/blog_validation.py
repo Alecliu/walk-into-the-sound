@@ -5,6 +5,7 @@ import json
 import re
 from pathlib import Path
 from urllib.parse import urlparse
+from editorial_policy import validate_editorial_scope
 
 ORIGINAL_IDS = set('paris-amelie-cafe hong-kong-chungking-express hong-kong-mood-for-love dublin-once-piano tokorozawa-totoro liverpool-penny-lane london-waterloo-sunset rio-ipanema montreal-suzanne kyoto-phoebe-bridgers london-abbey-road dublin-u2-kitchen natori-sakamoto-piano london-bjork-vespertine sausalito-rumours liverpool-cavern havana-buena-vista montreux-nina-simone cologne-keith-jarrett lagos-fela-tony-allen'.split())
 TAIPEI = dt.timezone(dt.timedelta(hours=8))
@@ -18,6 +19,7 @@ def https(url):
     return parsed.scheme == 'https' and bool(parsed.hostname) and not parsed.username and not parsed.password
 
 def validate_story(story):
+    validate_editorial_scope(story)
     require(re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', story['id']), 'Invalid story ID')
     for name in ('title', 'deck', 'artist', 'anchor', 'work', 'lens'):
         require(isinstance(story.get(name), str) and story[name].strip(), 'Missing ' + name)
@@ -34,6 +36,7 @@ def validate_story(story):
     require(not re.search(r'<\s*(script|iframe|object)|javascript:|data:text/html', body, re.I), 'Unsafe article markup')
     require(all(t['type'] in ('城市', '街區', '打卡點') for t in story['tags']), 'Only location tag types allowed')
     require(bool(story.get('topics') or story.get('lens')), 'Missing topics')
+    require(all(p.get('photo') for p in story.get('places',[])), 'Every published location needs a photo')
     listen = story['listen']
     require(bool(listen.get('title')), 'Missing listening title')
     if listen.get('youtubeUrl'):
@@ -41,8 +44,9 @@ def validate_story(story):
         require(https(listen['youtubeUrl']) and listen.get('verifiedAt') and https(listen.get('youtubeSource', '')), 'Unverified direct YouTube link')
     elif listen.get('youtubeLabel'):
         require(listen['youtubeLabel'] == 'YouTube 搜尋', 'Search link must be labelled')
-    if story.get('photo'):
-        photo = story['photo']
+    for photo in [story.get('photo')]+[p.get('photo') for p in story.get('places',[])]:
+        if not photo:
+            continue
         require(all(photo.get(k) for k in ('id','alt','author','sourceUrl','license','licenseUrl')), 'Incomplete photo credits')
         require(https(photo['sourceUrl']) and https(photo['licenseUrl']), 'Invalid photo evidence')
 
@@ -69,7 +73,12 @@ def validate_candidate(candidate, existing, day):
     s = candidate['story']
     validate_story(s)
     require(s['publishedAt'] == day and s['reviewedAt'] == day, 'Wrong target date')
-    require(not s.get('photo'), 'Automatic posts do not introduce unreviewed images')
+    photos = {p['photo']['id']:p for p in candidate.get('photoEvidence',[])}
+    for place in s.get('places',[]):
+        photo=place.get('photo')
+        require(photo and photo['id'] in photos and photo == photos[photo['id']]['photo'], 'Location photo needs reviewed evidence')
+    if s.get('photo'):
+        require(s['photo']['id'] in photos and s['photo']==photos[s['photo']['id']]['photo'], 'Cover photo needs reviewed evidence')
     require(not any(r['id'] == s['id'] or r['title'] == s['title'] or (r['artist'].casefold() == s['artist'].casefold() and r['work'].casefold() == s['work'].casefold()) for r in existing), 'Duplicate article or work')
     body = '\n'.join(p['body'] for p in s['sections'])
     require(all(x['url'] in body for x in s['sources']), 'Daily sources must be cited inline')
@@ -101,10 +110,14 @@ def validate_site(root, directory='site'):
     require(path.name in (site / 'index.html').read_text(), 'Missing HTML snapshot reference')
     asset_manifest = root/'src/content/assets/web-assets.json'
     if asset_manifest.exists():
-        for asset in json.loads(asset_manifest.read_text()).values():
+        assets=json.loads(asset_manifest.read_text())
+        for asset in assets.values():
             asset_path = site/asset['path']
             require(site.resolve() in asset_path.resolve().parents, 'Unsafe asset path')
             require(asset_path.is_file(), 'Missing published image: '+asset['path'])
             image = asset_path.read_bytes()
             require(len(image)==asset['bytes'] and hashlib.sha256(image).hexdigest()==asset['sha256'], 'Published image hash mismatch')
+        for story in rows:
+            for photo in [story.get('photo')]+[p.get('photo') for p in story.get('places',[])]:
+                require(not photo or photo['id'] in assets, 'Article refers to an unpublished photograph')
     return len(rows)
