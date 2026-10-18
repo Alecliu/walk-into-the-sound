@@ -58217,6 +58217,559 @@
     "cityStories": {
       "rows": [
         {
+          "id": "portal-still-alive-glados-voice",
+          "city": "西雅圖",
+          "cityEn": "Seattle",
+          "artist": "Jonathan Coulton・Ellen McLain",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "烏克麗麗與〈Still Alive〉示範錄音",
+          "work": "Portal・Still Alive",
+          "year": "2007",
+          "accent": "sage",
+          "title": "《Portal》的片尾曲，怎麼讓女高音唱成 GLaDOS？",
+          "deck": "從西雅圖演出後的邀請，到編劇的角色筆記與錄音室裡試出的唱法，追查〈Still Alive〉如何成為一首由角色自己唱的歌。",
+          "publishedAt": "2026-10-18",
+          "reviewedAt": "2026-10-18",
+          "readingMinutes": 6,
+          "people": [
+            "Jonathan Coulton",
+            "Ellen McLain",
+            "Erik Wolpaw",
+            "Bill van Buren",
+            "John Scalzi",
+            "Sara Quin",
+            "John Flansburgh",
+            "Dorit Chrysler"
+          ],
+          "topics": [
+            "影像與配樂",
+            "音樂人筆記"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "西雅圖",
+              "aliases": [
+                "Seattle"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "before-the-song",
+              "title": "唱歌之前，她先補錄了幾句台詞",
+              "body": "錄製〈Still Alive〉之前，Ellen McLain 先補錄了《Portal》裡的幾句台詞。詞曲作者 Jonathan Coulton 在錄音室聽見她開口，驚訝的是：聲音只需很少的後製，就已經像遊戲裡的 GLaDOS。這段經過出自他與作家 John Scalzi 的對談；他記得，那種平直語調裡的情緒，大部分已由演員做出來。[Coulton 的錄音回憶](https://reactormag.com/journey-to-planet-joco-qstill-aliveq/)\n\n到了片尾，這個人工智慧角色從說話轉為唱歌，〈Still Alive〉隨字幕出現。Coulton 接到的工作，是用她的口吻替故事收尾。他在遊戲推出後的製作筆記中特別把功勞分給角色台詞與 McLain 的表演：歌曲能成立，已有這兩項工作在前面。編劇先寫出她說話的方式，演員讓台詞有了聲音，歌曲再接續這個已經成形的角色。[2007 年製作筆記](https://www.jonathancoulton.com/2007/10/15/portal-the-skinny/)"
+            },
+            {
+              "id": "seattle-invitation",
+              "title": "西雅圖演出後，有人問他要不要寫遊戲音樂",
+              "body": "合作的起點是西雅圖的一場演出。Coulton 回憶，Valve 的人看完表演後找上他，詢問合作的可能；他本來就是《Half-Life》的玩家，很快答應。當時他才開始以巡演音樂人的身分工作，此前還做過連續一年、每週五發表一首歌的計畫。西雅圖是較早聚集起他一批聽眾的城市，遊戲團隊也在這裡接觸到他的作品。[Game Informer 雙人訪談](https://gameinformer.com/b/features/archive/2010/03/15/portal-s-minstrel-an-interview-with-jonathan-coulton)\n\n最初只是談合作的可能，雙方討論過幾個方向，才決定讓他替遊戲角色寫歌。接著，Coulton 拿到接近完成的遊戲版本，親自玩過，再和編劇討論 GLaDOS。從這個流程看，試玩讓他有機會沿著玩家的經歷認識角色，再決定最後幾分鐘該怎麼接下去。他在當年的問答中，也明說試玩對理解 GLaDOS 很重要。[合作起點](https://www.jonathancoulton.com/2007/10/15/portal-the-skinny/)、[Coulton 談試玩與寫作](https://freakonomics.com/2007/11/jonathan-coulton-answers-your-questions/)\n\n這項委託也剛好落在他的寫作習慣裡。接受 Game Developer 訪問時，Coulton 說，為遊戲動作與事件寫器樂配樂，並非他的專長與興趣；〈Still Alive〉給他的機會，則是寫一首由角色演唱的流行歌。知道歌裡的「我」是誰，便能決定這個人會用哪些字、向誰說話。對這次合作而言，確定演唱者的身分，就是確定歌曲的寫作位置。[Coulton 談角色歌曲](https://www.gamedeveloper.com/game-platforms/interview-jonathan-coulton-on-still-alive-pax-style)"
+            },
+            {
+              "id": "writers-and-lyrics",
+              "title": "沒出現在遊戲裡的設定，也進了寫歌的準備",
+              "body": "編劇 Erik Wolpaw 提供的材料，比玩家能在遊戲裡直接讀到的多。他為 GLaDOS 寫過大量背景設定，依他的回憶，也曾把蛋糕等敘事線索整理成清單交給 Coulton。兩人會通電話，討論故事到了結尾，這個角色處於什麼狀態。Coulton 說，那些沒有全部放進遊戲的背景，對寫歌相當有用。[Wolpaw 與 Coulton 談合作](https://gameinformer.com/b/features/archive/2010/03/15/portal-s-minstrel-an-interview-with-jonathan-coulton)\n\n歌詞由 Coulton 執筆，過程中交給 Valve 團隊看，再來回增加幾句、調整一些內容。他形容對方給了很大的空間，第一稿已經很接近成品。把這段過程與編劇的說法放在一起看，分工相當清楚：Wolpaw 協助他掌握角色與故事，Coulton 把這些材料寫成可以唱的句子。兩人的討論因此有具體對象，修改也有依據。[2007 年問答](https://freakonomics.com/2007/11/jonathan-coulton-answers-your-questions/)\n\n他對 GLaDOS 的理解，也比一句「邪惡電腦」更具體。Coulton 在 2009 年的訪談說，這個角色相信自己做的是有益的工作，玩家反抗時，她會受傷，卻又無法直接承認。他喜歡從這類複雜角色開始寫歌。這是詞曲作者對角色的讀法。回到歌曲時，可以留意她的措辭如何保留這種不願承認受傷的態度。[Coulton 如何理解 GLaDOS](https://www.gamedeveloper.com/game-platforms/interview-jonathan-coulton-on-still-alive-pax-style)\n\n至於製作時間，Wolpaw 在 2010 年回想，從開始談歌曲到 McLain 錄唱，大約只有六週；Coulton 同意過程很快，但也說細節已記不清。歌錄好之後，Wolpaw 還要把它接進遊戲，完成玩家最後看到的片尾段落。[兩人的製作時程回憶](https://gameinformer.com/b/features/archive/2010/03/15/portal-s-minstrel-an-interview-with-jonathan-coulton)"
+            },
+            {
+              "id": "ukulele-and-voice",
+              "title": "一把新買的烏克麗麗，一種試出來的唱法",
+              "body": "編曲準備裡有一件很具體的物品：Coulton 為錄這首歌買了人生第一把烏克麗麗。他先錄下帶有示範人聲的版本，交給 McLain，再一起進錄音室完成正式演唱。對一位受過古典聲樂訓練的女高音來說，這次要處理的是 GLaDOS 的聲音與情緒。[Coulton 的製作筆記](https://www.jonathancoulton.com/2007/10/15/portal-the-skinny/)\n\nMcLain 在 2026 年的訪談裡，還回溯了配音試鏡的起點：團隊寄給她一段電腦生成的聲音，請她模仿。正式錄台詞時，也會先播放合成語音供她參考。她認為音樂訓練幫助自己掌握音高範圍，連特定字詞裡不自然的發音都能重現。角色的聲音，就包含了這些由演員學會、再親口做出的細節。[McLain 談配音試鏡](https://videoda.me/an-interview-with-ellen-mclain-ec0e9c610d92)\n\n到了〈Still Alive〉的錄音，唱法又需要重新試驗。她在同一訪談說，錄音室裡反覆試過之後，大家認為用接近未變聲男童高音的音色最合適。她盡量唱出純淨的聲音，讓 Bill van Buren 容易用 Auto-Tune 等處理做出 GLaDOS 的音色。她也記得，Coulton 對角色在歌曲各處要表達什麼，有明確的表演指示。[McLain 談〈Still Alive〉的錄音](https://videoda.me/an-interview-with-ellen-mclain-ec0e9c610d92)\n\n她在同一份訪談裡，把歌劇、音樂劇的訓練與這份工作連在一起：學會音符和文字之外，還要演出角色；角色想要什麼，會影響她使用的聲音。因而回頭比較 GLaDOS 的台詞與歌唱時，可以把注意力放在句子的語氣與收尾，觀察她如何在旋律裡維持角色，而不只辨認後製的電子音色。[McLain 談角色與聲音](https://videoda.me/an-interview-with-ellen-mclain-ec0e9c610d92)"
+            },
+            {
+              "id": "versions-to-compare",
+              "title": "從遊戲原版，聽到 Sara Quin 的重錄版",
+              "body": "〈Still Alive〉後來有了幾種可分開比較的錄音。Valve 的原聲帶頁面列出原版與〈Still Alive (J.C. Mix)〉，並確認《Portal》配樂收在 2007 年 12 月 21 日發行的《The Orange Box Original Soundtrack》。想從遊戲版本開始，可以先找曲目表第十二首、長二分五十六秒的〈Still Alive〉。同一頁的商品發行日期另列為 2014 年 9 月 24 日，那是這項 Steam 商品的日期，不能當成歌曲首度問世的年份。[Valve 原聲帶資料](https://store.steampowered.com/app/323170/Portal_Soundtrack/?l=english)\n\n另一個比較對象是《Artificial Heart》裡由 Sara Quin 主唱的版本。Coulton 在 2011 年的製作說明中列出參與者：John Flansburgh 擔任專輯製作人，Dorit Chrysler 演奏他新寫的 theremin 前奏，還有鼓、貝斯與鍵盤樂手加入。他也特別澄清，這次重錄是為自己的唱片準備，與替《Portal 2》另寫的新歌是兩回事。[重錄版製作說明](https://www.jonathancoulton.com/2011/04/10/still-alive-clarifications/)\n\n這份說明也釐清了製作人與樂團的名義：Flansburgh 使用 They Might Be Giants 的帳號發文，容易讓人把合作理解成整個樂團參與；Coulton 說，唱片由 Flansburgh 製作，該團另一位成員並未參與這次重錄。辨認這個版本時，主唱、製作人與演奏者得分別看待。[重錄版的合作名單](https://www.jonathancoulton.com/2011/04/10/still-alive-clarifications/)\n\n到了與 Scalzi 對談時，他談到自己喜歡探索同一首歌的不同面向，包含偏搖滾或安靜的處理。這也提供了一個簡單的比較方法：先以 McLain 的原版對照角色台詞，再找 Sara Quin 的專輯版本，留意換了主唱與前奏之後，同一句話如何被唱出來。[不同版本的演唱者與安排](https://reactormag.com/journey-to-planet-joco-qstill-aliveq/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2007-10-15",
+              "event": "Coulton 發表〈Portal: The Skinny〉，公開片尾曲的試玩、寫作與錄音過程。"
+            },
+            {
+              "date": "2007-12-21",
+              "event": "《The Orange Box Original Soundtrack》發行，收錄《Portal》配樂。"
+            },
+            {
+              "date": "2011-04-10",
+              "event": "Coulton 發表重錄版說明，確認 Sara Quin 主唱及 theremin 前奏等合作細節。"
+            }
+          ],
+          "places": [
+            {
+              "name": "西雅圖",
+              "detail": "Coulton 與 Valve 的合作起於西雅圖演出後的接觸；本文引用資料未確認該場演出的場館，地點僅標城市。",
+              "query": "Seattle",
+              "photo": {
+                "author": "Joe Mabel",
+                "attribution": "Joe Mabel",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seattle_skyline_from_Kerry_Park_01.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-dea7a3b423d7d020",
+                "caption": "2016 年從 Kerry Park 望向西雅圖市中心的景觀；作為城市示意，並非 Coulton 當年演出或錄音的現場。",
+                "alt": "從 Kerry Park 遠望西雅圖市中心的城市天際線。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Still Alive",
+            "artist": "Ellen McLain・Jonathan Coulton",
+            "note": "先找 Ellen McLain 以 GLaDOS 身分演唱的《Portal》原版，再比較《Artificial Heart》中 Sara Quin 主唱的重錄版；比較依據為製作紀錄與訪談。"
+          },
+          "sources": [
+            {
+              "title": "Jonathan Coulton：Portal: The Skinny（2007-10-15）",
+              "url": "https://www.jonathancoulton.com/2007/10/15/portal-the-skinny/"
+            },
+            {
+              "title": "Game Informer：Portal’s Minstrels，Coulton 與 Erik Wolpaw 對談（2010-03-15）",
+              "url": "https://gameinformer.com/b/features/archive/2010/03/15/portal-s-minstrel-an-interview-with-jonathan-coulton"
+            },
+            {
+              "title": "Freakonomics：Jonathan Coulton Answers Your Questions（2007-11-20）",
+              "url": "https://freakonomics.com/2007/11/jonathan-coulton-answers-your-questions/"
+            },
+            {
+              "title": "Game Developer：Jonathan Coulton On 'Still Alive', PAX Style（2009-09-02）",
+              "url": "https://www.gamedeveloper.com/game-platforms/interview-jonathan-coulton-on-still-alive-pax-style"
+            },
+            {
+              "title": "Videodame：An Interview with Ellen McLain（2026-04-15）",
+              "url": "https://videoda.me/an-interview-with-ellen-mclain-ec0e9c610d92"
+            },
+            {
+              "title": "Reactor／原 Tor.com：Journey to Planet JoCo: Still Alive（2012-05-22）",
+              "url": "https://reactormag.com/journey-to-planet-joco-qstill-aliveq/"
+            },
+            {
+              "title": "Valve：Portal Soundtrack 官方曲目與發行說明",
+              "url": "https://store.steampowered.com/app/323170/Portal_Soundtrack/?l=english"
+            },
+            {
+              "title": "Jonathan Coulton：Still Alive Clarifications（2011-04-10）",
+              "url": "https://www.jonathancoulton.com/2011/04/10/still-alive-clarifications/"
+            }
+          ],
+          "interests": [
+            "動畫與遊戲",
+            "歌曲裡的人",
+            "製作幕後"
+          ],
+          "photo": {
+            "author": "Joe Mabel",
+            "attribution": "Joe Mabel",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seattle_skyline_from_Kerry_Park_01.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-dea7a3b423d7d020",
+            "caption": "2016 年從 Kerry Park 望向西雅圖市中心的景觀；作為城市示意，並非 Coulton 當年演出或錄音的現場。",
+            "alt": "從 Kerry Park 遠望西雅圖市中心的城市天際線。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-18:portal-still-alive-glados-voice"
+        },
+        {
+          "id": "hebe-fruit-songwriting",
+          "city": "",
+          "cityEn": "",
+          "artist": "田馥甄",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "〈果〉的終曲位置與邀詞過程",
+          "work": "果",
+          "year": "2026",
+          "accent": "sage",
+          "title": "田馥甄把〈果〉留在最後，吳青峰把老朋友寫進歌裡",
+          "deck": "陳君豪的旋律在收歌卡關時出現。田馥甄帶著一段閱讀找吳青峰填詞，收到的文字裡，也有她走過的歌唱歲月與朋友名字。",
+          "publishedAt": "2026-10-18",
+          "reviewedAt": "2026-10-18",
+          "readingMinutes": 6,
+          "people": [
+            "田馥甄",
+            "陳君豪",
+            "吳青峰",
+            "陳建騏",
+            "王思迅",
+            "Selina",
+            "Ella"
+          ],
+          "topics": [
+            "新歌觀察",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-melody-for-the-ending",
+              "title": "收到曲子時，她想到的是結尾",
+              "body": "田馥甄收到陳君豪寫的旋律時，專輯收歌正卡住。她後來談起〈果〉，先說到自己想要的結尾：讓一首有力量的歌留在最後，在燦爛處收住。接著，她親自找吳青峰填詞，認為這位同樣唱歌、又熟悉自己的朋友，能寫出她想說的內容。這個合作的起點，是一段已經讓她想到曲序的旋律。[中央社的創作報導](https://www.cna.com.tw/news/amov/202609240237.aspx)記下了這段先收曲、再邀詞的經過。\n\n成品於 2026 年 9 月 24 日隨第六張個人專輯《要去什麼地方》數位發行。[Amazon Music 的〈果〉曲目頁](https://music.amazon.ca/tracks/B0HJWP5BWB)列出長度三分五十五秒，位置是第十首，也是全碟最後一首。從收到旋律時的構想到正式曲目表，田馥甄確實把這首歌留到了終點。讀它的製作故事，可以先記住這個位置：她要怎麼結束一張唱片，與她要找誰寫詞，是連在一起考慮的。"
+            },
+            {
+              "id": "choosing-and-singing",
+              "title": "喜歡的歌，也可能很難唱",
+              "body": "〈果〉出現以前，團隊已經花了很長時間尋找作品。田馥甄在[GQ 刊出的專輯介紹](https://www.gq.com.tw/article/hebe-the-land-of-maybe-2026-streaming)裡回顧三年收歌過程，說自己必須承認有些好歌已不適合當下，才能放棄。陳建騏、陳君豪共同參與專輯製作；歌手要做的，也包括在收到的作品之間判斷，哪些值得繼續往下做。\n\n在 10 月 2 日的訪談裡，她也被問到新歌不容易跟唱的反應。她向[MTV 說明收歌方向](https://www.mtv.com.tw/news/newsdetail/13992)：這並非刻意設下難度，而是依自己的感覺和喜好選歌；選到後來，連她自己也覺得不容易唱。她的說法讓選歌與演唱成了兩項不同的工作：先留下想唱的內容，再找到聲音做得到、自己也認同的表達方式。\n\n這份喜好還得經過錄音。10 月 2 日的媒體餐敘上，她提到〈乾淨的房間〉、〈值得紀念的垃圾〉很難唱，AI 演唱的示範帶也曾讓她受挫。依[TVBS 的現場採訪](https://news.tvbs.com.tw/entertainment/music/4030714)，她形容示範聲音不需換氣，自己進錄音室後卻無法達到同樣效果；與製作人討論、調整之後，才逐漸找到合適的唱法。\n\n這是同張專輯其他歌曲的錄音經驗，讓「留下自己喜歡的歌」有了實際的工作內容：喜歡旋律之後，仍要用自己的呼吸和聲音完成它。放回〈果〉的脈絡看，收曲與邀詞只是開始；一首歌最後要由田馥甄唱出，詞裡的經歷也得讓她認得出自己。"
+            },
+            {
+              "id": "a-book-between-friends",
+              "title": "邀詞時，談到《易經白話講座》",
+              "body": "田馥甄帶給吳青峰的線索，包括她讀王思迅《易經白話講座》時，對「剝」卦的感受。依[何樂音樂提供的專輯資料](https://benlinmarketing.com/2026/09/24/hebe6th/)，她把自己的理解分享給朋友：放下次要的形式，留下核心，再回頭恢復生命裡失落的東西。她認為，這與專輯籌備期間不斷取捨的經驗相近。\n\n這裡有個很具體的寫詞入口。歌手交給詞作者的材料，除了曲子，還有一段閱讀，以及那段閱讀如何連到自己正在做的事。對〈果〉而言，「放下」於是有了對象：是收進來卻必須捨棄的作品，也是她試著重新辨認的自身狀態。\n\n沿著這段交流看，書裡的概念先經過田馥甄自己的理解，再交到吳青峰手上。寫詞的材料因而同時有抽象的取捨，也有收歌過程的具體經驗。後來收到的詞，還多了她走過的歌唱歲月與朋友名字。"
+            },
+            {
+              "id": "names-in-the-words",
+              "title": "朋友的名字，也進了新歌",
+              "body": "歌詞交到田馥甄手上，正逢她生日。她在當時的分享裡說，讀完感動得眼眶泛紅。鏡週刊的[〈果〉合作報導](https://www.mnews.tw/story/mm-20260924-194ent-144311)記載，吳青峰不到兩週便交詞，把她二十五年歌唱歷程的關鍵字放進去，也將 S.H.E 夥伴 Selina、Ella 的名字以諧音寫入。這些是田馥甄能從新詞裡認出的具體關係。\n\n對想回頭找線索的讀者，[造咖的作品整理](https://cava.tw/topic/news/267507)指出，〈果〉能連到〈日常〉、〈無人知曉〉與 S.H.E 的〈Super Star〉等舊作；該文也把部分意象讀作對〈熱帶雨林〉的呼應。後者可當作媒體提出的閱讀路徑，與已獲創作介紹確認的名字諧音分開看。\n\n這種寫法適合分兩次讀：先讓新歌的句子自己成立，再把熟悉的作品名稱與人物關係放回去。辨認到舊作時，也可以多停一下，看那個詞在眼前句子裡做什麼；若只忙著數彩蛋，反而容易跳過詞作者怎麼讓不同時期的材料成為同一首歌。"
+            },
+            {
+              "id": "listen-in-sequence",
+              "title": "從第九首走到第十首",
+              "body": "〈果〉的收尾位置，也能成為一個簡單的聆聽方法。依[正式上架的曲目順序](https://music.amazon.ca/tracks/B0HJWP5BWB)，它前面是〈靜脈〉，專輯則由〈大船〉開始。可以先單獨播放〈果〉，再把〈靜脈〉接到它前面，留意同一首歌在兩種聆聽順序裡，是否帶來不同的結束感。\n\n田馥甄在[GQ 的介紹](https://www.gq.com.tw/article/hebe-the-land-of-maybe-2026-streaming)中，把專輯順序與自己的心理活動連在一起；發片前沒有先釋出任何一首新歌，她改在社群的廣播專區公布行前須知、地圖等文件，再一次公開十首作品。宣傳先準備了出發的框架，音樂則等到同一天才交給聽眾。\n\n因此，〈果〉第一次出現在正式專輯裡時，前面的九首歌也已經可以一起播放。曲目表提供了完整的前後文，聽眾可以自己選擇從哪裡進入。聽眾能把它當成一首獨立新歌，也能照曲序走到這裡，試著比較前一首留下的情緒，如何影響自己理解終曲。\n\n接著再回到〈果〉裡那些名字與舊作線索。先問一句話如何接住前一句，再問熟悉的字眼讓你想到哪張唱片。最後留一點注意力給歌曲結束的方式，對照田馥甄收到陳君豪旋律時，就已經想好的那個收尾。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-09-24",
+              "event": "〈果〉隨《要去什麼地方》正式數位發行，列為專輯第十首。"
+            },
+            {
+              "date": "2026-10-02",
+              "event": "田馥甄於媒體餐敘分享新專輯選歌方向，以及部分歌曲示範帶與正式錄音之間的演唱挑戰。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "果",
+            "artist": "田馥甄",
+            "note": "先單獨播放，再依專輯曲序接在〈靜脈〉之後，比較終曲位置如何影響理解；此建議依據正式曲目表與田馥甄談曲序的說明。"
+          },
+          "sources": [
+            {
+              "title": "中央社｜田馥甄新歌寫詞非吳青峰不可，2週收到歌詞感動泛淚",
+              "url": "https://www.cna.com.tw/news/amov/202609240237.aspx"
+            },
+            {
+              "title": "Amazon Music｜田馥甄〈果〉正式曲目資料",
+              "url": "https://music.amazon.ca/tracks/B0HJWP5BWB"
+            },
+            {
+              "title": "GQ Taiwan｜田馥甄《要去什麼地方》上線與合作介紹",
+              "url": "https://www.gq.com.tw/article/hebe-the-land-of-maybe-2026-streaming"
+            },
+            {
+              "title": "MTV｜田馥甄談新專輯選歌與錄音經驗",
+              "url": "https://www.mtv.com.tw/news/newsdetail/13992"
+            },
+            {
+              "title": "TVBS｜田馥甄10月2日媒體餐敘：示範帶與錄音調整",
+              "url": "https://news.tvbs.com.tw/entertainment/music/4030714"
+            },
+            {
+              "title": "一事無成的老編｜何樂音樂提供的第六張專輯發行資料",
+              "url": "https://benlinmarketing.com/2026/09/24/hebe6th/"
+            },
+            {
+              "title": "鏡週刊／鏡新聞｜〈果〉邀詞經過與名字諧音",
+              "url": "https://www.mnews.tw/story/mm-20260924-194ent-144311"
+            },
+            {
+              "title": "造咖｜〈果〉中的舊作呼應與聆聽線索",
+              "url": "https://cava.tw/topic/news/267507"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-10-18:hebe-fruit-songwriting"
+        },
+        {
+          "id": "bodega-aquarium-recording",
+          "city": "里茲",
+          "cityEn": "Leeds",
+          "artist": "BODEGA",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "魚缸中的 The Nave 錄音室模型",
+          "work": "All Inside Aquarium",
+          "year": "2026",
+          "accent": "sage",
+          "title": "BODEGA 的魚缸裡，放著新專輯錄音的那座教堂",
+          "deck": "Nikki Belfiglio 花五個月製作封面模型；順著裡面的教堂與雲霄飛車，可以找到同室錄音、吉他編曲，以及樂團和製作人合作的起點。",
+          "publishedAt": "2026-10-18",
+          "reviewedAt": "2026-10-18",
+          "readingMinutes": 7,
+          "people": [
+            "Nikki Belfiglio",
+            "Ben Hozie",
+            "Dan Ryan",
+            "Adam See",
+            "Adam Shumski",
+            "Matt Peel",
+            "Danny Blackburn",
+            "Lewis Hall",
+            "Theo Verney",
+            "Felix Davis",
+            "Bruno Jansen",
+            "Bob Dylan"
+          ],
+          "topics": [
+            "新歌觀察",
+            "唱片與物件",
+            "音樂人筆記"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "里茲",
+              "aliases": [
+                "Leeds",
+                "利茲"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "布萊頓",
+              "aliases": [
+                "Brighton"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "miniature",
+              "title": "先把錄音室縮進魚缸",
+              "body": "Nikki Belfiglio 在魚缸裡做了一座小教堂。它有真實的原型：BODEGA 錄製新專輯的 The Nave 錄音室。缸內還擺著雲霄飛車和餐桌，分別連到〈Astro Night Ride〉的遊樂園夢境，以及〈Pick up the Check〉背後不愉快的約會。這些物件後來一起成為《All Inside Aquarium》的封面，由 Bruno Jansen 拍攝。[製作故事](https://www.thatericalper.com/2026/10/08/bodega-reinvent-bob-dylans-slow-train-ahead-of-new-album-all-inside-aquarium/)\n\n身兼主唱與打擊樂手的 Belfiglio，從 2025 年 10 月做到 2026 年 2 月，以木材、紙漿、黏土、金屬和顏料搭起這個微型世界。whynow 的報導指出，裡面的手作物件對應專輯全部十二首歌。雲霄飛車把歌曲的夢境做成模型，小教堂則留下實際錄音地點的形狀；虛構場景與工作場所，就這樣並排放進同一只魚缸。[whynow 報導](https://whynow.co.uk/read/bodega-all-inside-aquarium-album-title-track-single-2026)\n\n專輯於 2026 年 10 月 9 日正式發行，官方 Bandcamp 列出十二首歌。官方曲序把〈Astro Night Ride〉與〈Pick up the Check〉排在第四、第五首，封面上的雲霄飛車和餐桌因此也能對照著找。先從一件物品認一首歌，再追到錄音決定和做出它的人，這只魚缸提供了一條很具體的閱讀路徑。[官方發行頁](https://bodegabk.bandcamp.com/album/all-inside-aquarium)"
+            },
+            {
+              "id": "recording",
+              "title": "全團在里茲同室演奏",
+              "body": "真實的 The Nave 位在里茲，由已停止宗教用途的教堂改建。BODEGA 與製作人 Matt Peel 在那裡花了一個半月，讓團員待在同一個房間演奏錄音，改變過去分段拼組的工作方式；之後交由 Theo Verney 在布萊頓混音。[錄音與混音紀錄](https://whynow.co.uk/read/bodega-all-inside-aquarium-album-title-track-single-2026)\n\nFLOOD 列出的團員各有分工：Hozie 唱歌兼彈吉他，Belfiglio 負責歌聲與打擊樂，Dan Ryan 擔任主奏吉他，Adam See 彈貝斯，Adam Shumski 打鼓。whynow 將樂團稱為四人組，FLOOD 卻明列這五位成員；兩篇未解釋差異，這裡依後者的具名名單介紹職務，不推測是否曾有人事變動。[團員分工](https://floodmagazine.com/234637/5-questions-with-bodega/)、[whynow 的人數記載](https://whynow.co.uk/read/bodega-all-inside-aquarium-album-title-track-single-2026)\n\n同室演奏的背後，還有錄音與後製團隊。Qobuz 的曲目資料將 Peel 列為製作人、Danny Blackburn 列為錄音工程師、Lewis Hall 列為助理錄音工程師，Verney 負責混音，Felix Davis 則在多首曲目署名母帶處理。這份資料把製作、錄音、混音與母帶分開署名。魚缸裡只放了一座錄音室，唱片的完成卻牽涉里茲的合奏、布萊頓的混音，以及名單上各自負責不同環節的人。[曲目製作名單](https://www.qobuz.com/us-en/album/all-inside-aquarium-bodega/fjdoajeqasst1)\n\n這也提供了一個聆聽問題：當吉他開始延伸，鼓與貝斯是否仍維持共同推進的感覺？可以留意主唱進出、樂器讓出空間的位置，再對照同室錄音的做法。這是從製作紀錄出發的比較方向。"
+            },
+            {
+              "id": "guitars",
+              "title": "把旋律與吉他獨奏放到前面",
+              "body": "Ben Hozie 在 FLOOD 訪談裡，把前三張專輯看成一組三部曲。這次他們想往另一個方向走，回到青少年時喜歡的八○年代末、九○年代初另類搖滾，讓歌詞與旋律更直接。他也解釋，樂團以 NODEGA 名義做硬核與鞭笞金屬作品時，重新找回了對吉他反覆樂句的興趣；兩批材料大多同時創作。依他的說法，兩個名字容納了不同的情緒與衝動，也讓他在新專輯中更自在地探索愉悅的感受與音色。[FLOOD 訪談](https://floodmagazine.com/234637/5-questions-with-bodega/)\n\n在 Rockdelux 的另一篇訪談中，這個方向有了更明確的製作參照。Hozie 提到 Butch Vig 操刀的唱片，包括 Sonic Youth 的《Dirty》與 Smashing Pumpkins 的《Siamese Dream》，也說團員和 Peel 特別花力氣處理編曲。他想稍微離開介於唸白與歌唱之間的唱法，因此把注意力轉向旋律。[Rockdelux 訪談](https://www.rockdelux.com/pt/musica/bodega-versus-el-realismo-capitalista)\n\n歌詞的改變也牽涉曲速。Hozie 回顧自己的寫作習慣，發現較私人的內容往往被留給抒情慢歌，於是想試著把直接、貼近自身的情感放進快速搖滾歌曲。依這段自述來聽，可以留意快速的歌曲如何交代私人的經驗，以及人聲旋律怎麼配合敘事；曲速與題材的關係，於是成了另一個比較重點。[詞曲方向的說明](https://www.thatericalper.com/2026/10/08/bodega-reinvent-bob-dylans-slow-train-ahead-of-new-album-all-inside-aquarium/)\n\n要比較這個製作方向，可以拆成兩件事：人聲是否有更完整的旋律線，吉他是否在伴奏之外取得獨立段落。創作者列出的舊唱片是工作參照，值得拿來比對，也不必把相似處當成整張專輯的唯一答案。"
+            },
+            {
+              "id": "test-session",
+              "title": "先用〈Slow Train〉測試合作",
+              "body": "與 Peel 的合作先從一首既有作品開始。Hozie 說，〈Slow Train〉是他們一起錄的第一首，用來試試錄音工作會如何進行；成員喜歡結果，才把它留下，放進新專輯。他描述的改編方法，是保留 Bob Dylan 的詞，另寫音樂。[Hozie 的錄音說明](https://www.thatericalper.com/2026/10/08/bodega-reinvent-bob-dylans-slow-train-ahead-of-new-album-all-inside-aquarium/)\n\n為什麼選擇這樣處理？他在 Rockdelux 解釋，雖然喜歡原曲，卻不想讓 BODEGA 只照十二小節藍調來演奏。最早的構想近似讓 Fugazi 翻唱 Dylan，做著做著，主奏吉他和人聲又更靠近 Jane’s Addiction；這是有意識的取向。他也修正了自己對年代的說法：許多被他概括成九○年代的聲音，其實來自八○年代末，包括他所喜歡的 Sonic Youth、Pixies 與 The Stone Roses。[改編構想訪談](https://www.rockdelux.com/pt/musica/bodega-versus-el-realismo-capitalista)\n\n因此，這首歌適合拿來比較同一組文字如何被不同音樂承接。可以先找 Dylan 的版本，再聽 BODEGA 如何安排歌聲與吉他，不急著判斷哪個版本更忠於原作。官方曲序把這次合作的第一首錄音排在第八首。按順序播放專輯，聽到的次序因此不同於作品進入錄音室的先後；若想從合作的起點讀這張唱片，可以先從這裡開始，再回到其他原創曲目。[官方曲序](https://bodegabk.bandcamp.com/album/all-inside-aquarium)"
+            },
+            {
+              "id": "sleeves",
+              "title": "從封面找到下一首歌",
+              "body": "模型完成後，物件的對應關係又延伸到唱片包裝。Rough Trade 的版本介紹指出，這批七吋單曲各有顏色與獨立圖像，圖像對應專輯封面的不同區域；每張還搭配未收進專輯、也未以數位形式提供的獨家 B 面。這是截至此次查閱時的版本說明。聽完數位專輯的十二首歌，仍不等於聽過七吋系列的全部內容；同一幅魚缸圖像被拆成不同區域，也讓每張單曲有自己的封面。[七吋單曲系列說明](https://www.roughtrade.com/en-us/product/bodega/all-inside-aquarium)\n\n官方 Bandcamp 另列出由 Belfiglio 手工網版印刷的替代封套版本，附二十頁歌詞與美術冊。Hozie 在 FLOOD 說，她一向喜歡先親手做出作品，再拍成近似繪畫的影像；這次刻意增加細節，想讓封面呼應更繁複的音樂。他甚至提到，有些細節得看到模型本體，或拿著放大鏡看黑膠封套，才容易發現。[Bandcamp 版本資料](https://bodegabk.bandcamp.com/album/all-inside-aquarium)、[封面創作訪談](https://floodmagazine.com/234637/5-questions-with-bodega/)\n\n若從那座雲霄飛車開始，可以先選專輯第四首〈Astro Night Ride〉。Qobuz 樂評作者 Shelly Ridenour 特別指出，歌曲中途放慢，進入帶有瞪鞋搖滾色彩的段落。循著這個具名觀察，留意速度感與吉他層次如何轉換，再回看模型中的軌道，便有一條具體的重播路線。[曲序與樂評](https://www.qobuz.com/us-en/album/all-inside-aquarium-bodega/fjdoajeqasst1)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2025-10 至 2026-02",
+              "event": "Nikki Belfiglio 花五個月製作魚缸中的微型世界，成為新專輯的封面素材。"
+            },
+            {
+              "date": "2026-10-09",
+              "event": "BODEGA 正式發行十二首曲目的《All Inside Aquarium》。"
+            }
+          ],
+          "places": [
+            {
+              "name": "The Nave 錄音室，里茲",
+              "detail": "BODEGA 與 Matt Peel 在此同室演奏錄音；魚缸封面中的小教堂也以錄音室為原型。配圖僅呈現所在城市。",
+              "query": "The Nave Studios Leeds",
+              "photo": {
+                "author": "Benjamin Smith",
+                "attribution": "Benjamin Smith / Wikimedia Commons",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leeds_-_City_Square_-_2.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-7679de930acc6acb",
+                "caption": "2026 年 7 月的里茲 City Square，呈現 The Nave 所在城市的市中心景觀；並非錄音室或專輯拍攝現場。",
+                "alt": "里茲 City Square 的廣場景觀。",
+                "scope": "area"
+              }
+            },
+            {
+              "name": "布萊頓",
+              "detail": "Theo Verney 為專輯進行混音的城市；來源未提供具體混音室地址，配圖僅呈現城市海濱。",
+              "query": "Brighton",
+              "photo": {
+                "author": "Tessier",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brighton_pier.jpg",
+                "license": "CC BY 2.5",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+                "id": "place-77997efb4f60608a",
+                "caption": "2007 年拍攝的布萊頓碼頭全景，呈現專輯混音所在城市的海濱；並非混音室。",
+                "alt": "布萊頓碼頭的全景照片。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Astro Night Ride",
+            "artist": "BODEGA",
+            "note": "《All Inside Aquarium》第四首。依 Qobuz 樂評提供的線索，可留意中途放慢的段落及吉他層次，再對照封面模型裡的雲霄飛車。"
+          },
+          "sources": [
+            {
+              "title": "BODEGA 官方 Bandcamp：All Inside Aquarium",
+              "url": "https://bodegabk.bandcamp.com/album/all-inside-aquarium"
+            },
+            {
+              "title": "whynow：專輯錄音方式與魚缸模型製作",
+              "url": "https://whynow.co.uk/read/bodega-all-inside-aquarium-album-title-track-single-2026"
+            },
+            {
+              "title": "FLOOD：5 Questions with BODEGA",
+              "url": "https://floodmagazine.com/234637/5-questions-with-bodega/"
+            },
+            {
+              "title": "Qobuz：All Inside Aquarium 曲目職務與 Shelly Ridenour 樂評",
+              "url": "https://www.qobuz.com/us-en/album/all-inside-aquarium-bodega/fjdoajeqasst1"
+            },
+            {
+              "title": "That Eric Alper：〈Slow Train〉試錄與新專輯製作故事",
+              "url": "https://www.thatericalper.com/2026/10/08/bodega-reinvent-bob-dylans-slow-train-ahead-of-new-album-all-inside-aquarium/"
+            },
+            {
+              "title": "Rockdelux：BODEGA 訪談",
+              "url": "https://www.rockdelux.com/pt/musica/bodega-versus-el-realismo-capitalista"
+            },
+            {
+              "title": "Rough Trade：All Inside Aquarium 版本與七吋單曲介紹",
+              "url": "https://www.roughtrade.com/en-us/product/bodega/all-inside-aquarium"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "新歌觀察"
+          ],
+          "photo": {
+            "author": "Benjamin Smith",
+            "attribution": "Benjamin Smith / Wikimedia Commons",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leeds_-_City_Square_-_2.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-7679de930acc6acb",
+            "caption": "2026 年 7 月的里茲 City Square，呈現 The Nave 所在城市的市中心景觀；並非錄音室或專輯拍攝現場。",
+            "alt": "里茲 City Square 的廣場景觀。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-18:bodega-aquarium-recording"
+        },
+        {
+          "id": "natalia-hasta-la-raiz-vocal",
+          "city": "",
+          "cityEn": "",
+          "artist": "Natalia Lafourcade",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "寫歌當天的人聲與歌詞紙",
+          "work": "Hasta la Raíz",
+          "year": "2015",
+          "accent": "sage",
+          "title": "Natalia Lafourcade 把寫歌當天的人聲，留在了〈Hasta la Raíz〉",
+          "deck": "一次與老朋友的合寫，留下了唱片裡的人聲。在那之前，還有巡演空檔、餐巾紙上的片段，以及慢慢累積的歌曲。",
+          "publishedAt": "2026-10-18",
+          "reviewedAt": "2026-10-18",
+          "readingMinutes": 7,
+          "people": [
+            "Natalia Lafourcade",
+            "Leonel García",
+            "Agustín Lara",
+            "Cachorro López",
+            "Marian Ruzzi",
+            "Gustavo Guerrero",
+            "María Daniela Azpiazu"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "paper-and-voice",
+              "title": "拿著歌詞紙，走進錄音室",
+              "body": "Natalia Lafourcade 錄下〈Hasta la Raíz〉的人聲時，手裡還拿著紙，邊唱邊熟悉剛寫出的字句。她在 Song Exploder 訪談中回憶，Leonel García 先錄好吉他，再請她進去唱。後來放進唱片的，就是那天留下的聲音；她希望保留初次唱出這首歌的感受。這個決定，讓寫歌與正式錄音之間少了一次重來。[Song Exploder 訪談逐字稿](https://songexploder.net/transcripts/natalia-lafourcade-transcript.pdf)\n\n那天，她去的是老朋友 Leonel 家。兩人認識多年，看著彼此成長；她想試試一起寫歌，談起的也是家人、朋友，以及離家後仍想帶著走的經歷。她提出用 huapango 的吉他樂句作起點，Leonel 接著彈了起來。歌名裡的「根」，在這段自述中有很具體的對象。[創作經過](https://songexploder.net/transcripts/natalia-lafourcade-transcript.pdf)"
+            },
+            {
+              "id": "learning-to-write",
+              "title": "唱過別人的作品，再回頭要求自己",
+              "body": "她並非一直清楚自己想成為哪種音樂人。2015 年接受《Milenio》訪問時，Natalia 回顧首張唱片受到注意後，自己其實不懂音樂產業，也曾推出不唱歌的器樂作品，讓唱片公司不知道該怎麼支持。那段摸索牽涉很實際的問題：想唱什麼、想做什麼，以及下一張唱片要如何開始。[《Milenio》專訪](https://www.milenio.com/espectaculos/costo-entender-industria-musical-natalia-lafourcade)\n\n翻唱 Agustín Lara 的《Mujer Divina》給了她新的功課。她向 Remezcla 解釋，起初只是覺得自己的歌唱與創作少了些東西，卻說不出缺什麼，於是走進 Lara 的作品。後來她留下的判準很簡單：即使用一把很差的吉他，歌曲也得站得住。她把寫好歌曲放在音色與錄音設備之前，還在家裡留出專門寫作的房間。[Remezcla 訪談](https://remezcla.com/features/film/natalia-lafourcade-hasta-la-raiz-documentary-los-cabos-film-festival-2016/)\n\n回到自己的作品，她得花時間累積材料。《Milenio》的訪談記下，她約花了兩年尋找歌曲，養成坐下來寫、聽其他音樂、尋找影響的習慣。當時的起點只是寫歌，專輯的形狀還沒有確定。不過，Sony Music 的同期介紹把這段創作期寫成三年，與她向《Milenio》回憶的約兩年不同。兩份資料沒有說明各自計算的起訖，無法據此確定一個開工日期。[寫作習慣](https://www.milenio.com/espectaculos/costo-entender-industria-musical-natalia-lafourcade)、[Sony Music 的時間說法](https://www.sonymusic.es/eventos/natalia-lafourcade-presenta-su-nuevo-album-hasta-la-raiz-un-disco-con-12-temas-ineditos-que/)"
+            },
+            {
+              "id": "napkin-fragments",
+              "title": "餐巾紙上的片段，慢慢湊成一張唱片",
+              "body": "在向 Arcadia 談起這張專輯時，Natalia 提到一種很普通的書寫材料：餐巾紙。演出 Lara 作品的巡演期間，她利用空檔記下念頭，紙張、餐巾紙，手邊拿得到什麼就用什麼。片段先留下來，再等下一次能接著寫的時候。她說，創作也包含忍受沒有靈感的日子，偶爾突然冒出的旋律並不會按時報到。[Arcadia 專訪，刊於 Semana](https://www.semana.com/musica/articulo/natalia-lafourcade-llega-bogota-hasta-raiz/44011/)\n\n她原本給自己訂的目標是寫三十首，再選十首。訪談裡，她記得最後大約寫了二十五或二十六首，連數字都保留著回想時的模糊。〈Hasta la Raíz〉是較晚完成的一首；聽到與 Leonel 合寫的成果後，她覺得要說的事已經在裡面，可以開始錄製專輯，不必再增加歌曲。這也與她向《Milenio》描述的完成順序相合。[Arcadia 的創作回顧](https://www.semana.com/musica/articulo/natalia-lafourcade-llega-bogota-hasta-raiz/44011/)、[《Milenio》的同曲回憶](https://www.milenio.com/espectaculos/costo-entender-industria-musical-natalia-lafourcade)\n\nSony Music 的同期介紹確認，同名歌曲已於 2015 年一月初推出，原版專輯收了十二首新作。原先「三十選十」的構想，與正式曲目表之間留下了差距；那個目標是寫作時的要求，最後仍以實際選出的歌曲為準。[Sony Music 專輯介紹與曲目表](https://www.sonymusic.es/eventos/natalia-lafourcade-presenta-su-nuevo-album-hasta-la-raiz-un-disco-con-12-temas-ineditos-que/)\n\n她也向 Arcadia 舉過一個寫不快的例子：〈Estoy lista〉陸續寫了一年。先有歌詞，接著擱了很久，她幾度擱下，再逐月添上句子；Cachorro López 隨後請她刪去不少段落，把想說的話收攏。製作人的工作也包含這樣的刪減：歌曲逐漸寫長了，再一起決定留下哪些話。官方名單將這首歌的詞曲署名列為 Natalia，製作則由她與 Cachorro 共同負責。[Arcadia 談〈Estoy lista〉](https://www.semana.com/musica/articulo/natalia-lafourcade-llega-bogota-hasta-raiz/44011/)、[官方逐曲名單](https://www.natalialafourcade.com.mx/creditos-hasta-la-raiz)"
+            },
+            {
+              "id": "friends-in-credits",
+              "title": "朋友的名字，留在不同的聲部裡",
+              "body": "合作並沒有停在詞曲完成。官方逐曲名單把工作分得清楚：Natalia 與 Leonel 共同寫詞作曲，Leonel 彈木吉他；製作由 Natalia 與 Cachorro López 負責。再往下讀，弦樂編寫是 Natalia 與 Marian Ruzzi，電吉他、和聲與打擊樂則有 Gustavo Guerrero。這些名字對應不同的工作，能幫助我們沿著一首歌，辨認誰把最早的構想往下接。[〈Hasta la Raíz〉官方製作名單](https://www.natalialafourcade.com.mx/creditos-hasta-la-raiz)\n\nGustavo 的電吉他聲部還有一段試換樂器的過程。Natalia 在 Song Exploder 中說，那段旋律最初用木琴與鋼鼓嘗試，後來由他改以電吉他演奏，搭配 Whammy 效果器，加入上下八度。保留下來的人聲之外，同一段旋律也經過不同樂器的試驗，才形成錄音裡的聲部。[電吉他編曲自述](https://songexploder.net/transcripts/natalia-lafourcade-transcript.pdf)\n\n低音部分則有資料上的落差。Natalia 在節目中說，他們錄過貝斯，後來拿掉，改留 Juno 的聲部；官網特別版名單卻仍在這首歌下列出 Marian Ruzzi 演奏貝斯。訪談沒有說明這項署名，名單也未交代哪些錄音留在成品裡。兩份資料未解釋這個差異，無從確認是否涉及版本變動。[低音取捨的自述](https://songexploder.net/transcripts/natalia-lafourcade-transcript.pdf)、[官方貝斯署名](https://www.natalialafourcade.com.mx/creditos-hasta-la-raiz)\n\n同一張專輯的〈Nunca es suficiente〉，也留下朋友一起工作的另一種樣子。Sony Music 收錄 Natalia 的回憶：María Daniela Azpiazu 來家裡找她，兩人當時已逐漸建立交情。雖然音樂背景不同，感情裡的苦處讓她們有話可談；她們喝著酒，把心事寫進當週有人邀約的歌曲。完成後，兩人很快覺得應該由自己來唱，放在其中一人的唱片裡，最後收進了 Natalia 的專輯。這次從聊天走到合寫的過程，也能與她和 Leonel 的合作並讀：談話有不同的起點，歌曲完成後，才決定要讓它以什麼方式留下。官方名單確認，這首歌的詞曲作者正是 Natalia 與 María Daniela。[Sony Music 收錄的創作自述](https://www.sonymusic.es/eventos/natalia-lafourcade-presenta-su-nuevo-album-hasta-la-raiz-un-disco-con-12-temas-ineditos-que/)、[逐曲詞曲署名](https://www.natalialafourcade.com.mx/creditos-hasta-la-raiz)\n\n2015 年 11 月 23 日上線的 Song Exploder 專集介紹，特別並列 huapango 與 Juno 合成器。這提供了一個回聽方向：留意傳統吉他節奏如何與電子聲部共存，以及人聲在兩者之間的位置。[Song Exploder 第 57 集](https://songexploder.net/natalia-lafourcade)"
+            },
+            {
+              "id": "return-to-the-song",
+              "title": "回去聽那個已經留下來的版本",
+              "body": "Natalia 後來談自己的寫法，沒有把快寫完一首歌當成固定本領。她告訴 Remezcla，有時一首歌在腦中放了半年，起床後半小時就能組好；在那之前，她已經想了很久。她會先丟出字詞、試著連上旋律，再判斷哪些真的屬於歌曲。這段說明，也提醒人別只用錄音當天的速度衡量創作。[Remezcla 談詞與旋律](https://remezcla.com/features/film/natalia-lafourcade-hasta-la-raiz-documentary-los-cabos-film-festival-2016/)\n\n可以從 2015 年專輯的第一首〈Hasta la Raíz〉開始，把注意力先放在人聲，再跟著官方名單尋找木吉他、弦樂與電吉他的分工。知道這段製作經過後，值得比較的，是初次唱出字句時留下的人聲，如何與眾人完成的伴奏一起留在成品裡。若想接著追問每一層聲音的來處，Song Exploder 第 57 集附有她拆解歌曲的訪談；從那張仍拿在手裡的歌詞紙開始，再回到完整的一首歌。[專輯曲序](https://www.sonymusic.es/eventos/natalia-lafourcade-presenta-su-nuevo-album-hasta-la-raiz-un-disco-con-12-temas-ineditos-que/)、[節目與逐字稿入口](https://songexploder.net/natalia-lafourcade)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2015-01",
+              "event": "〈Hasta la Raíz〉於一月初推出；Sony Music 同年三月的專輯介紹確認此發行時間。"
+            },
+            {
+              "date": "2015-11-23",
+              "event": "Song Exploder 第 57 集發布，由 Natalia Lafourcade 拆解〈Hasta la Raíz〉的創作與錄音。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Hasta la Raíz",
+            "artist": "Natalia Lafourcade",
+            "note": "選擇 2015 年同名專輯版本，依訪談與製作名單，留意保留下來的人聲，以及木吉他、弦樂和電子聲部的搭配。"
+          },
+          "sources": [
+            {
+              "title": "Song Exploder｜Natalia Lafourcade 訪談逐字稿",
+              "url": "https://songexploder.net/transcripts/natalia-lafourcade-transcript.pdf"
+            },
+            {
+              "title": "Milenio｜“Me costó mucho entender la industria musical”: Natalia Lafourcade",
+              "url": "https://www.milenio.com/espectaculos/costo-entender-industria-musical-natalia-lafourcade"
+            },
+            {
+              "title": "Remezcla｜Natalia Lafourcade 談《Hasta la Raíz》紀錄片與創作方法",
+              "url": "https://remezcla.com/features/film/natalia-lafourcade-hasta-la-raiz-documentary-los-cabos-film-festival-2016/"
+            },
+            {
+              "title": "Arcadia／Semana｜Natalia Lafourcade: “Escribo mis canciones en servilletas”",
+              "url": "https://www.semana.com/musica/articulo/natalia-lafourcade-llega-bogota-hasta-raiz/44011/"
+            },
+            {
+              "title": "Sony Music｜《Hasta la Raíz》專輯介紹與曲目表",
+              "url": "https://www.sonymusic.es/eventos/natalia-lafourcade-presenta-su-nuevo-album-hasta-la-raiz-un-disco-con-12-temas-ineditos-que/"
+            },
+            {
+              "title": "Natalia Lafourcade 官網｜《Hasta la Raíz》特別版逐曲製作名單",
+              "url": "https://www.natalialafourcade.com.mx/creditos-hasta-la-raiz"
+            },
+            {
+              "title": "Song Exploder｜Episode 57: Natalia Lafourcade",
+              "url": "https://songexploder.net/natalia-lafourcade"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-18:natalia-hasta-la-raiz-vocal"
+        },
+        {
           "id": "bratislava-adela-aint-in-la",
           "city": "布拉提斯拉瓦",
           "cityEn": "BRATISLAVA",
