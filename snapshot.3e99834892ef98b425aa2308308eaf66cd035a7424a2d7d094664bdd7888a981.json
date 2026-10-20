@@ -58194,7 +58194,425 @@
       }
     },
     "gearStories": {
-      "rows": [],
+      "rows": [
+        {
+          "id": "rickenbacker-4001",
+          "title": "Rickenbacker 4001：Geddy Lee 如何讓兩顆拾音器各做各的事",
+          "deck": "分路輸出與琴橋拾音器上的小電容，讓這把老貝斯留下不少調整空間。從 Geddy Lee 的舞台接法，也能看見它需要花工夫的地方。",
+          "brand": "Rickenbacker",
+          "model": "4001",
+          "category": "貝斯",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 7,
+          "sections": [
+            {
+              "id": "separate-pickup-paths",
+              "title": "兩顆拾音器，可以分開處理",
+              "body": "Rickenbacker 4001 最值得研究的地方，是兩顆拾音器能各走一條訊號路徑。想保留貝斯的低頻，又希望另一條訊號多一點失真或效果，可以分開處理，不必讓整把琴一起改變。這是 Rick-O-Sound 提供的操作空間；它分開的是拾音器訊號，不是自動分出高、低頻。\n\n從 [Equipboard 的 4001 使用資料](https://equipboard.com/items/rickenbacker-4001)找到 Geddy Lee 後，再讀他的訪談，這項設計才有了具體場景。本文談已停產的原版四弦 4001，規格以 1970 年代中後期常見有格款為準；4001S、後來的 4003 與 V63、C64 復刻款須另看各自配置。"
+            },
+            {
+              "id": "scale-and-versions",
+              "title": "弦長的兩種數字，與真正的年份差異",
+              "body": "4001 的標準弦長是 33¼ 吋，約 845 毫米。舊資料常見的 33½ 吋容易讓人以為有兩種版本。[Rickresource 保存的 John Hall 答覆](https://www.rickresource.com/rrp/JHanswersbass.html)說，差別來自量法：早期把琴橋調整位置算進去，後來改用弦枕至第十二格的距離乘二，琴本身並沒有因此改短。\n\n年份還是很重要。[Rickenbacker 101 的實物年代整理](https://www.rickenbacker101.com/p/timeline-the-evolution-of-the-4001)指出，常見款為 20 格；琴頸拾音器在 1973 年改由 Hi-Gain 接替 Toaster，因此中後期常見兩顆 Hi-Gain。較早的 4001 不能直接套用這組規格，過渡年也要逐把確認。\n\n弦長也不能單獨保證手感。試琴時仍應確認弦徑、弦距與琴頸狀態；若拿一把剛整理好的琴和另一把需要維修的老琴比較，很容易把個體狀況誤認成型號特色。年份應該帶你去看零件，而不是替零件作保。"
+            },
+            {
+              "id": "capacitor-and-outputs",
+              "title": "小電容與兩個插孔",
+              "body": "4001 琴橋拾音器電路裡的 0.0047 μF 電容，是理解它的另一個入口。[原廠 FAQ](https://www.rickenbacker.com/faq/)說明，這顆串聯電容會削減低頻，也會犧牲一些輸出。只開琴橋拾音器覺得低頻不足時，先確認電路是否仍保留它，再決定怎樣搭配琴頸端；不能一概當成拾音器故障。\n\n兩顆拾音器各有音量、音色控制，三段開關負責選擇。依[原廠手冊](https://www.rickenbacker.com/wp-content/uploads/2024/06/2024-manual.pdf)，一般導線接 Standard 插孔；要分開輸出，就由 Rick-O-Sound 接立體聲 Y 線，送往兩個通道或兩部音箱，兩個插孔擇一使用。這讓乾淨訊號與效果訊號可以各自調整，也多了線材、通道與音量平衡的工作。\n\n若要嘗試這種接法，建議先讓兩路保持乾淨，分別確認音量，再只替其中一路加入效果。每次改一項設定，錄下同一段樂句比較，比同時轉動琴上與音箱的所有旋鈕更容易找出差別。最後仍要放回合奏裡判斷，單獨聽來突出的設定，未必符合歌曲需要。"
+            },
+            {
+              "id": "geddy-lee",
+              "title": "Geddy Lee 的舞台接法，與錄音室裡的選擇",
+              "body": "Geddy Lee 在[《Guitar Player》1980 年 6 月訪談](https://www.cygnus-x1.net/links/rush/guitar-player-06.1980.php)中，回憶拿到預付款後買下 4001，並談到早期現場的分路方式：琴頸拾音器接 Ampeg，琴橋拾音器接 Sunn；低頻訊號直接送進 PA，高頻那一路的喇叭則用麥克風收音。這是他在特定時期的做法，不能拿來推定每張 Rush 唱片的錄音鏈。\n\n還有一個明確到曲目的例子。[Rush 官網](https://www.rush.com/gear/rickenbacker-4001/)記錄，Lee 在 2007、2008 年 Snakes & Arrows 巡演演奏〈A Passage to Bangkok〉時，再度拿出黑色 Jetglo 4001。官網也指出那把琴裝有 Badass II 琴橋。研究這段演出時，應把它視為 Lee 的改裝琴；原裝 4001 的硬體不會因此變成同一套。\n\n回到錄音室，答案卻不同。他在[《Bass Guitar》2011 年訪談](https://pwrwindows.2112.net/transcripts/20110400bassguitaruk.htm)說，錄製《Snakes & Arrows》之初曾拿出 Rickenbacker 試用，但他與製作人沒有得到想要的結果，最後放棄。他也坦言，使用 Ricky 的那些年，常要靠分路才能取得滿意的低頻。這段自述比名人器材清單更有參考價值：同一把琴可以適合某場演出，卻沒被選進同名專輯。"
+            },
+            {
+              "id": "video-and-photo",
+              "title": "示範琴與照片，各自能說明什麼",
+              "body": "搭配影片選用 [Normans Rare Guitars 的 Guitar of the Day](https://www.youtube.com/watch?v=YJCjRfmxJpE)，發布者說明標示 Greg Coates 示範一把 1973 年 Fireglo 4001。它是過渡年份的個別琴，適合當作另一個實例比較，不能替所有年份下音色結論。\n\n照片則採 [Commons 的 4001 Jetglo 正面照](https://commons.wikimedia.org/wiki/File:Rickenbacker_Bass_4001JG.jpg)：黑色琴身、白色護板與三角指板鑲嵌均可見。作者 Bassman 提供 CC BY 2.5 授權，但未交代製造年份，也沒有資料指向 Geddy Lee；圖說保留這些範圍，不把外觀相近寫成藝人原琴。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合願意調整的人，二手先看琴頸",
+              "body": "如果你願意為貝斯安排兩條訊號路徑，4001 的分路輸出很值得研究；只想接一條線的人也能使用 Standard 輸出，但不必為了名人的器材表勉強接受它的控制布局。我的選購判斷是，先確認自己是否需要這種操作，再衡量老琴狀態。\n\n二手檢查要把琴頸放在前面。原版 4001 使用舊式雙調整桿；[John Hall 的說明](https://www.rickresource.com/rrp/JHanswersbass.html)提醒，調整不當曾損傷不少琴。建議請熟悉這套結構的技師檢查琴頸、指板接合與調整餘量；現場再逐格試音，測試四顆旋鈕、三段開關及兩種輸出。\n\n[原廠手冊](https://www.rickenbacker.com/wp-content/uploads/2024/06/2024-manual.pdf)也特別提醒，舊式 Hi-Gain 上看似螺絲、卻沒有六角孔的磁柱不可任意轉動。別把現代拾音器的調整習慣直接搬過來。最後請賣家交代拾音器、琴橋和電容是否換過；改裝可以符合你的用途，但價格與期待都應建立在這把琴的實際配置上。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "規格範圍",
+              "value": "原版四弦 4001；以下配置以 1970 年代中後期常見有格款為準，型號已停產。"
+            },
+            {
+              "label": "標準弦長",
+              "value": "33¼ 吋，約 845 毫米；舊資料的 33½ 吋涉及不同量測方式。"
+            },
+            {
+              "label": "格數",
+              "value": "常見有格款為 20 格；早期另有少量 21 格版本。"
+            },
+            {
+              "label": "拾音器",
+              "value": "兩顆 Hi-Gain，為 1973 年琴頸拾音器更替後的常見配置；更早年份須另核對。"
+            },
+            {
+              "label": "控制",
+              "value": "兩個音量、兩個音色控制，配三段拾音器選擇開關。"
+            },
+            {
+              "label": "輸出",
+              "value": "Standard 單聲道輸出與 Rick-O-Sound 分路輸出；分路需立體聲 Y 線，兩插孔擇一使用。"
+            },
+            {
+              "label": "琴頸調整",
+              "value": "舊式雙調整桿，與後繼 4003 的調整桿設計不同。"
+            },
+            {
+              "label": "原版琴橋拾音器電路",
+              "value": "串聯 0.0047 μF 電容，削減低頻並降低部分輸出；二手琴可能已改線。"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Geddy Lee",
+              "work": "Rush〈A Passage to Bangkok〉，2007–2008 年 Snakes & Arrows 巡演",
+              "story": "Rush 官網確認 Lee 在這段巡演演奏該曲時使用黑色 Jetglo 4001，並記載其 Badass II 改裝琴橋。這項證據支持現場使用；他在 2011 年訪談另表示，曾於《Snakes & Arrows》錄音初期試用 Rickenbacker 後放棄，不能把巡演用琴推成專輯採用的樂器。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Guitar of the Day: 1973 Rickenbacker 4001 Bass Fireglo | Greg Coates at Norman's Rare Guitars",
+              "channel": "Normans Rare Guitars",
+              "url": "https://www.youtube.com/watch?v=YJCjRfmxJpE",
+              "verifiedAt": "2026-10-20"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Rickenbacker 4001",
+              "url": "https://equipboard.com/items/rickenbacker-4001"
+            },
+            {
+              "title": "Rickresource：John Hall Answers Questions About Rickenbacker Basses",
+              "url": "https://www.rickresource.com/rrp/JHanswersbass.html"
+            },
+            {
+              "title": "Rickenbacker 101：Timeline — The Evolution of the 4001",
+              "url": "https://www.rickenbacker101.com/p/timeline-the-evolution-of-the-4001"
+            },
+            {
+              "title": "Rickenbacker 官方 FAQ",
+              "url": "https://www.rickenbacker.com/faq/"
+            },
+            {
+              "title": "Rickenbacker：Guitar and Bass Care & Maintenance Manual",
+              "url": "https://www.rickenbacker.com/wp-content/uploads/2024/06/2024-manual.pdf"
+            },
+            {
+              "title": "Guitar Player，1980 年 6 月：Geddy Lee 訪談存檔",
+              "url": "https://www.cygnus-x1.net/links/rush/guitar-player-06.1980.php"
+            },
+            {
+              "title": "Rush 官方器材檔案：Rickenbacker 4001",
+              "url": "https://www.rush.com/gear/rickenbacker-4001/"
+            },
+            {
+              "title": "Bass Guitar，2011 年 4 月：Geddy Lee — What a Rush! 訪談轉錄",
+              "url": "https://pwrwindows.2112.net/transcripts/20110400bassguitaruk.htm"
+            },
+            {
+              "title": "Normans Rare Guitars：1973 Rickenbacker 4001 Fireglo 示範",
+              "url": "https://www.youtube.com/watch?v=YJCjRfmxJpE"
+            },
+            {
+              "title": "Wikimedia Commons：File:Rickenbacker Bass 4001JG.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Rickenbacker_Bass_4001JG.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Bassman",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rickenbacker_Bass_4001JG.jpg",
+            "license": "CC BY 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+            "id": "place-035b56cc1978be37",
+            "caption": "Rickenbacker 4001 Jetglo 四弦有格款的全琴正面，型號依作者標示，製造年份未載；可見黑色琴身、白色護板與三角指板鑲嵌，不指認為 Geddy Lee 的使用琴。攝影：Bassman，CC BY 2.5。",
+            "alt": "黑色 Rickenbacker 4001 Jetglo 貝斯正面，具有四條弦、白色護板、三角指板鑲嵌與四顆控制旋鈕。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-20:gear-bass"
+        },
+        {
+          "id": "roland-spd-s",
+          "title": "Roland SPD-S：鼓棒能觸發整段聲音，八聲部卻得仔細分配",
+          "deck": "這台已停產的採樣打擊墊，讓鼓手把自製聲響帶進演出。從兩位鼓手的使用紀錄，看它能做什麼，以及二手買家容易忽略的限制。",
+          "brand": "Roland",
+          "model": "SPD-S",
+          "category": "鼓與打擊",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "samples-under-the-sticks",
+              "title": "把自己的聲音放到鼓棒底下",
+              "body": "SPD-S 的特別之處，是讓鼓手把自己的採樣放到鼓棒底下：錄進一段聲響、分配到打擊面，演奏時就能把它加入鼓組。電子鼓聲、打擊聲或一段樂句，都可以成為擊打的對象。選它的理由因此很具體：你有想帶上台的聲音，而且希望由自己決定何時觸發。\n\n這也把編曲問題帶到排練現場。短打擊聲是否需要隨每一下擊打改變強弱？長段落是否只需在指定位置開始播放？先確定聲音在歌曲裡的工作，再安排打擊面，比只找一套喜歡的預設更能發揮它的用途。\n\n本文談的是銀灰色原版 SPD-S；[Roland 產品檔案](https://www.roland.com/ro/products/spd-s/)已標示停產。[Equipboard 條目](https://equipboard.com/items/roland-spd-s-sampling-percussion-pad)提供藝人使用線索，也另列後繼 SPD-SX，兩代的功能不能互相套用。所選的 [Commons 照片](https://commons.wikimedia.org/wiki/File:Roland_SPD-S_Sampling_Pad_%28partial%29.jpg)拍到原版部分打擊面、螢幕與按鍵，機身並未完整入鏡。"
+            },
+            {
+              "id": "pads-and-playback",
+              "title": "九個打擊面，先決定怎麼觸發",
+              "body": "依[原廠規格](https://www.roland.com/ro/products/spd-s/)，機身有六塊橡膠主打板、三條邊緣觸發器，寬 342、深 282、高 83 mm。這些尺寸可先拿來規劃鼓架位置，另外還要預留揮棒與接線空間。它接收擊打，再播放指定採樣，音色的改變主要來自素材與設定。\n\n[使用手冊](https://cdn.roland.com/assets/media/pdf/SPD-S_OM.pdf)的 Dynamics 設定決定擊打力度是否影響音量：開啟時可打出強弱，關閉則維持固定音量。編排時，短打擊聲可以保留力度變化；若希望整段素材每次以相同音量進場，固定音量會更容易管理。\n\n它也能把加上效果的聲音重新採樣，將處理結果存成另一個素材，讓效果器騰出來處理別的聲音。你可以在排練時先固定某個效果，或保留到演奏中操作；但每多做一個版本，就多一份需要管理的音檔。\n\n可搭配 [RolandChannel 的 Michael Schack 示範](https://www.youtube.com/watch?v=9csBS3bYe1s)觀看；[原廠影片收錄頁](https://www.roland.com/us/products/td-4/)明確註明其中搭配 SPD-S。這是整套電子鼓與採樣墊的組合示範，不能把全部聲音都歸給 SPD-S。"
+            },
+            {
+              "id": "eight-voice-limit",
+              "title": "打擊面還空著，發聲額度可能已用完",
+              "body": "最需要算清楚的是八聲部上限。[手冊第 31 頁](https://cdn.roland.com/assets/media/pdf/SPD-S_OM.pdf)說明，立體聲或 FINE 品質各需要兩個聲部，立體聲加 FINE 則占四個；超過上限時，先觸發的聲音可能被截斷。因此兩段 FINE 立體聲素材重疊，就已用滿八個聲部，打板明明還空著，也不代表還有發聲餘裕。\n\n安排長尾音與循環樂句時，應把實際會重疊的段落一起測試。逐塊敲打都正常，只能證明單獨播放可行；演出中還有前一棒留下的聲音。若某段尾音突然消失，先檢查重疊數量與採樣設定，再判斷是否為故障。驗機也應包含這種情境，否則可能把機器原有的限制誤認成損壞。"
+            },
+            {
+              "id": "musicians-and-generations",
+              "title": "電子過門的用途，與換代時不能省略的字母",
+              "body": "Bring Me the Horizon 的 Matt Nicholls 在 [2016 年 MusicRadar 訪談](https://www.musicradar.com/news/drums/bring-me-the-horizon-drummer-matt-nicholls-on-confidence-computer-composition-clicks-and-more-634882)回顧，早期現場通常不跟節拍器，由他用 SPD-S 觸發短電子段落。到了第三張專輯《There Is a Hell…》時期，電子內容增加，樂團開始全面跟著節拍演出。他還提到後來現場影像也依節拍對齊，演出的同步需求已經改變。訪談能確認 SPD-S 的早期現場用途，沒有交代那些音檔的來源，也沒有證明專輯本身用它錄製。\n\nJustin Peroff 的例子剛好提醒人注意換代。[Modern Drummer 在 2012 年訪談](https://www.moderndrummer.com/2012/03/justin-peroff-of-eight-and-a-half-web-exclusive-interview/)談到 Eight and a Half 同名專輯：他先用軟體編鼓，把草稿寄給團員延伸；被問到唱片的鼓聲工具時，提到 Reason、Ableton、類比鼓機與 SPD-S。接著談即將展開的演出，他卻明確說剛買了 SPD-SX，放在鼓組左側。可以確認 SPD-S 是他當時使用的工具之一，不能把後來的現場配置或某一首歌的全部鼓聲都算在它身上。"
+            },
+            {
+              "id": "buying-used",
+              "title": "買二手，讓賣家走一次完整流程",
+              "body": "我的選購判斷是：SPD-S 適合已有鼓組、想加入自製聲響，也願意花時間整理採樣的人。若工作重點是大量立體聲素材同時播放，八聲部會很快成為限制。賣家展示某一塊打板能發出完整伴奏，並不足以證明它能承擔你的整份演出。\n\n二手驗機建議逐一輕敲、重敲九個觸發面，再以自己的演奏方式連打，檢查漏觸發與非預期連發。耳機、左右輸出、輸入錄音、按鍵與旋鈕都應分別測試。若附 CompactFlash 卡，請賣家示範讀取、儲存與重新開機後載入；缺少卡片或讀卡設備的機器，要把補齊工作流程的成本一起考慮。\n\n它的螢幕是單行 16 字元，驗機時也應真的操作選單。建議帶著預定使用的音檔與配置去測，確認自己能找到設定、改動內容，而不只是看賣家事先準備好的示範。\n\n依[手冊的匯入與關機說明](https://cdn.roland.com/assets/media/pdf/SPD-S_OM.pdf)，WAV／AIFF 須注意 44.1 kHz，機器不會自動轉換取樣率；關機或拔卡前也要完成 shutdown。交易前用一個已知正常的音檔走完匯入、觸發、儲存與重新載入，比只聽預載音色更有用。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "擊打面",
+              "value": "6 塊橡膠主打板＋3 條邊緣觸發器，共 9 區"
+            },
+            {
+              "label": "最大同時發聲",
+              "value": "8 聲部；消耗量依單／立體聲及採樣品質設定而異"
+            },
+            {
+              "label": "取樣頻率",
+              "value": "44.1 kHz"
+            },
+            {
+              "label": "效果",
+              "value": "30 種 Multi-Effects＋系統 Ambience"
+            },
+            {
+              "label": "顯示器",
+              "value": "16 字元、單行背光 LCD"
+            },
+            {
+              "label": "尺寸",
+              "value": "342 × 282 × 83 mm（寬 × 深 × 高）"
+            },
+            {
+              "label": "重量",
+              "value": "2.1 kg，不含 AC 變壓器"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Matt Nicholls",
+              "work": "Bring Me the Horizon 早期現場演出；2016 年 MusicRadar 訪談回顧",
+              "story": "Nicholls 自述早期不跟節拍器演出時，會以 SPD-S 觸發短電子段落。這能確認現場用途；訪談未提供音檔來源、逐曲配置，也不能據此認定專輯由 SPD-S 錄製。"
+            },
+            {
+              "name": "Justin Peroff",
+              "work": "Eight and a Half 同名專輯；2012 年 Modern Drummer 訪談",
+              "story": "回答專輯鼓聲製作問題時，Peroff 將 SPD-S 列為使用工具之一；談到接下來的現場配置則明確改說新購入的 SPD-SX。訪談沒有逐曲標示 SPD-S 的貢獻，兩代器材的使用情境須分開。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "V-Drums TD-4K (4/6) Demo by Michael Schack",
+              "channel": "RolandChannel",
+              "url": "https://www.youtube.com/watch?v=9csBS3bYe1s",
+              "verifiedAt": "2026-10-20"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Roland SPD-S Sampling Percussion Pad",
+              "url": "https://equipboard.com/items/roland-spd-s-sampling-percussion-pad"
+            },
+            {
+              "title": "Roland：SPD-S 官方產品檔案與規格",
+              "url": "https://www.roland.com/ro/products/spd-s/"
+            },
+            {
+              "title": "Roland SPD-S Owner’s Manual",
+              "url": "https://cdn.roland.com/assets/media/pdf/SPD-S_OM.pdf"
+            },
+            {
+              "title": "MusicRadar：Matt Nicholls 談電子段落、節拍器與現場演出",
+              "url": "https://www.musicradar.com/news/drums/bring-me-the-horizon-drummer-matt-nicholls-on-confidence-computer-composition-clicks-and-more-634882"
+            },
+            {
+              "title": "Modern Drummer：Justin Peroff of Eight and a Half — Web Exclusive Interview",
+              "url": "https://www.moderndrummer.com/2012/03/justin-peroff-of-eight-and-a-half-web-exclusive-interview/"
+            },
+            {
+              "title": "Roland TD-4 官方影片庫：Michael Schack Performance",
+              "url": "https://www.roland.com/us/products/td-4/"
+            },
+            {
+              "title": "RolandChannel：V-Drums TD-4K (4/6) Demo by Michael Schack",
+              "url": "https://www.youtube.com/watch?v=9csBS3bYe1s"
+            },
+            {
+              "title": "Wikimedia Commons：Roland SPD-S Sampling Pad (partial).jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Roland_SPD-S_Sampling_Pad_%28partial%29.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Jose from Chicago, USA",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roland_SPD-S_Sampling_Pad_(partial).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-d721844d4e7ee140",
+            "caption": "原版銀灰色 Roland SPD-S 局部近照，可見部分橡膠打擊面、綠色背光螢幕與前方按鍵，機身未完整入鏡。Jose 攝於 2009 年；Clusternote 調亮與校色，CC BY 2.0。",
+            "alt": "原版 Roland SPD-S 的局部近照，呈現黑色打擊面、銀灰機身、綠色螢幕與控制按鍵。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-20:gear-drums"
+        },
+        {
+          "id": "akai-mpc60",
+          "title": "Akai MPC60：DJ Premier 如何用十六個墊安排錄音室裡的節奏",
+          "deck": "取樣可以存在 S950 裡，演奏與編排則交給 MPC60。從 DJ Premier 的工作方式，看懂這台取樣編曲機的訊號分工、容量限制與版本差異。",
+          "brand": "Akai",
+          "model": "MPC60",
+          "category": "錄音與其他",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-it-matters",
+              "title": "取樣與演奏，可以由同一個面板管理",
+              "body": "MPC60 特別的地方，是把取樣、手指打拍子與控制外部樂器放在同一個面板。你可以先敲出鼓的重音，再讓同一段序列指揮其他音源；它在錄音室裡既能發聲，也能負責安排演奏。本文談的是 1988 年推出、現已停產的第一代 Akai MPC60。\n\n[Roger Linn 的產品回顧](https://www.rogerlinndesign.com/about/roger-faq)留下一個有趣細節：有人在展會問記憶體能否超過二十六秒，他起初覺得這已足夠容納許多鼓聲，對方卻想錄入約兩分鐘的立體聲唱片片段。設計者預想的短鼓音，與使用者想處理的樂句，對容量的要求相差很大。\n\n同份回顧也說明，1991 年的 MPC60-II 改用塑膠機殼、固定式螢幕，並增加耳機孔。本篇採用的 [Commons 照片](https://commons.wikimedia.org/wiki/File:Akai_MPC60.jpg)則呈現原版 MPC60 的完整上面板，可見十六個打擊墊、抬起的螢幕與前方腕墊；照片採 CC BY 3.0 授權，並非 DJ Premier 工作室的現場紀錄。"
+            },
+            {
+              "id": "audio-and-midi",
+              "title": "先分清聲音與 MIDI 各走哪條路",
+              "body": "使用內建取樣時，音訊先進入錄音輸入，修整後分配給打擊墊，再由序列觸發。若改用外部音源，MIDI 傳送的是演奏指令，外部機器的聲音仍要另外接到混音器或錄音介面。MPC60 有四組獨立 MIDI 輸出；內部聲音則可經立體聲主輸出或八組個別輸出送出。[官方更新手冊](https://uploads-ssl.webflow.com/5ad24a891dee8925107423d0/5e6a62824b8ea67027e11b8f_mpc60_v310_manual.pdf)的接線圖把這兩條路分得很清楚。\n\n它以 40 kHz 取樣，聲音存成非線性 12-bit 格式，內部最多同時發出十六個聲部。標準記憶體合計可放 13.1 秒單聲道素材，擴充後為 26.2 秒。長尾音與長樂句會占用其他素材的空間，選取與裁短片段因此是操作的一部分。這些數字說明了取捨，卻不足以保證任何素材經過它都會變成某張唱片的音色。\n\n依這些路由功能，我會先決定哪些聲部需要分開處理，再安排輸出。例如把大鼓與小鼓送往不同錄音軌，便能在後端各自調整；若只收立體聲混音，則得先在機器裡確認音量與聲像。外部音源也要另列接線，避免最後只存下 MIDI 序列，卻漏錄了實際發聲的機器。"
+            },
+            {
+              "id": "timing-and-versions",
+              "title": "拍點能調整，軟體版本也會改變操作",
+              "body": "手冊中的 TIMING CORRECT 可以把敲入的音符移到指定格點；Swing 在八分或十六分音符設定下，把成對音符的時間比例從 50% 調到 75%。關閉時間校正，也仍受每四分音符 96 格的解析度限制。想了解節奏差異，應比較重音、音符位置與素材起點，不宜只歸功於一個 Swing 數值。\n\n購買時還得問軟體版本。[Roger Linn 的 3.10 更新說明](https://www.rogerlinndesign.com/support/support-3-10-overview)列出更長的單次取樣與剪貼編輯等功能；其中的立體聲取樣，要先分別錄入左右聲道，再同步合併，並沒有增加雙聲道錄音輸入。記憶體擴充和軟體更新是兩回事，賣家寫「已升級」仍得逐項確認。"
+            },
+            {
+              "id": "dj-premier-workflow",
+              "title": "DJ Premier 把聲音放在 S950 裡",
+              "body": "[Equipboard 的使用紀錄](https://equipboard.com/items/akai-mpc60)提供了 DJ Premier 這條線索；更具體的證據來自 Paul Tingen 在 2007 年刊於 [Sound On Sound 的訪談](https://www.soundonsound.com/people/dj-premier)。談到 HeadQcuarterz 的製作流程時，Premier 說自己把 Technics 唱盤的片段送進 S950，裁掉不要的部分，再由 MPC60 的打擊墊觸發，鍵盤也透過 MIDI 接入這套系統。\n\n這使 MPC60 的角色非常具體：聲音可以存在另一台機器裡，手指演奏與編排仍由它統籌。他也提到常關掉十六分音符校正直接打鼓，完成編排後再錄入 Pro Tools 整理。這份訪談支持的是他當時描述的工作方式，沒有逐曲交代取樣來源與路由，不能拿來替全部 Gang Starr 唱片補上一條相同的錄音鏈。"
+            },
+            {
+              "id": "fit-and-used-checks",
+              "title": "適合願意整理素材與接線的人",
+              "body": "依這套操作方式，我會把 MPC60 推薦給想以打擊墊編排短素材、手邊已有 MIDI 音源，而且願意整理儲存媒體的人。若常要錄入長篇立體聲素材，或希望開機就延續上次工作，它的容量與載入流程便是實際負擔。手冊提醒，關機會失去記憶體裡的聲音，新增或修改的取樣必須先存碟。\n\n想先認識操作，可參考 [Alex Ball 的 MPC60 介紹](https://www.youtube.com/watch?v=mx9uu-5rHx0)。影片說明列有取樣、節奏與示範章節，可從標示為 10:27 的取樣章節開始，配合手冊理解操作；這支影片不作為本文判定唱片錄音鏈的證據。\n\n二手驗機時，我會要求現場錄入一個短音、測完十六個墊的輕重觸發，再存檔、關機、重新載入；接著測主輸出、個別輸出與打算使用的 MIDI 埠。只看面板燈亮，或播放機器原本載入的鼓組，還不足以確認錄音與檔案讀寫正常。螢幕可讀性、旋鈕與按鍵反應也要一起確認；若換過儲存裝置，請賣家示範實際備份方式。\n\n[Roger Linn 的舊產品支援頁](https://www.rogerlinndesign.com/support/support-legacy-products)已明說，他不提供這些 Akai 機器的硬體支援。購買前應先確認誰願意修，以及維修紀錄能否交接。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "取樣率",
+              "value": "40 kHz"
+            },
+            {
+              "label": "取樣儲存格式",
+              "value": "非線性 12-bit"
+            },
+            {
+              "label": "總取樣容量",
+              "value": "單聲道標準 13.1 秒；安裝記憶體擴充後 26.2 秒"
+            },
+            {
+              "label": "內部同時發聲數",
+              "value": "16 聲部"
+            },
+            {
+              "label": "打擊墊",
+              "value": "16 個，支援力度與壓力感應"
+            },
+            {
+              "label": "序列解析度",
+              "value": "96 PPQN，即每四分音符 96 格"
+            },
+            {
+              "label": "MIDI 接口",
+              "value": "2 組輸入、4 組獨立輸出；輸出合計 64 個 MIDI 通道"
+            },
+            {
+              "label": "主要音訊輸出",
+              "value": "立體聲主輸出與 8 組個別輸出"
+            },
+            {
+              "label": "原裝儲存媒體",
+              "value": "3.5 吋 DD 磁碟，格式化容量 793 KB"
+            }
+          ],
+          "artists": [
+            {
+              "name": "DJ Premier",
+              "work": "2007 年 HeadQcuarterz 工作室製作流程訪談",
+              "story": "在 Sound On Sound 訪談中，他說明以 S950 錄入與裁整唱片取樣，再由 MPC60 觸發、編排，完成後錄入 Pro Tools。這確認了訪談所述工作流程，未提供各首 Gang Starr 作品的完整錄音鏈。[訪談原文](https://www.soundonsound.com/people/dj-premier)"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Akai MPC60 - A Sampling Masterpiece",
+              "channel": "Alex Ball",
+              "url": "https://www.youtube.com/watch?v=mx9uu-5rHx0",
+              "verifiedAt": "2026-10-20"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Akai MPC60",
+              "url": "https://equipboard.com/items/akai-mpc60"
+            },
+            {
+              "title": "Roger Linn Design：Roger FAQ",
+              "url": "https://www.rogerlinndesign.com/about/roger-faq"
+            },
+            {
+              "title": "Roger Linn Design：MPC60 Software Version 3.1 Operator’s Manual",
+              "url": "https://uploads-ssl.webflow.com/5ad24a891dee8925107423d0/5e6a62824b8ea67027e11b8f_mpc60_v310_manual.pdf"
+            },
+            {
+              "title": "Roger Linn Design：Version 3.10 Software Upgrade",
+              "url": "https://www.rogerlinndesign.com/support/support-3-10-overview"
+            },
+            {
+              "title": "Sound On Sound：DJ Premier，Paul Tingen，2007 年 7 月",
+              "url": "https://www.soundonsound.com/people/dj-premier"
+            },
+            {
+              "title": "Alex Ball：Akai MPC60 - A Sampling Masterpiece",
+              "url": "https://www.youtube.com/watch?v=mx9uu-5rHx0"
+            },
+            {
+              "title": "Wikimedia Commons：File:Akai MPC60.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Akai_MPC60.jpg"
+            },
+            {
+              "title": "Roger Linn Design：Legacy Products",
+              "url": "https://www.rogerlinndesign.com/support/support-legacy-products"
+            }
+          ],
+          "photo": {
+            "author": ". The original uploader was Kimi95 at Italian Wikipedia .",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akai_MPC60.jpg",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "id": "place-b334c6c22171d0a0",
+            "caption": "原版 Akai MPC60 上面板，可見十六個打擊墊、抬起的螢幕與前方腕墊；背面接孔未入鏡。非 MPC60-II，亦非藝人工作室照片。Matt Friedman／Wikimedia Commons，CC BY 3.0。",
+            "alt": "原版灰白色 Akai MPC60，上面板左側排列十六個打擊墊，右上方螢幕標有 MPC60，前緣為黑色腕墊。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-20:gear-studio"
+        }
+      ],
       "source": {
         "name": "樂器專欄｜規格、聲音與使用者故事",
         "description": "從器材規格、操作方式和實際作品切入，逐篇核對型號、音樂人使用紀錄、照片授權與影片來源。",
