@@ -58196,6 +58196,584 @@
     "gearStories": {
       "rows": [
         {
+          "id": "gibson-eb-3",
+          "title": "Gibson EB-3：Jack Bruce 要的推弦，與老琴裡那套四段電路",
+          "deck": "30½ 吋弦長、大小不同的雙拾音器，還有隨年代改版的四段電路。Bruce 的私琴另做過改裝；挑一把二手 EB-3，得把演奏需求、年份和換件一起看。",
+          "brand": "Gibson",
+          "model": "EB-3（1960 年代短弦長版）",
+          "category": "貝斯",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "a-small-bass-with-two-voices",
+              "title": "小琴身裡，兩顆拾音器各有位置",
+              "body": "Gibson EB-3 特別的地方，是把短弦長、大小不同的雙拾音器和四段旋轉開關放在同一把貝斯上。靠近指板末端的大型雙線圈，與靠琴橋的迷你雙線圈，讓它不只靠一顆音色旋鈕改變聲音；拾音位置與濾波組合也能選。\n\n沿著 [Equipboard 的 Jack Bruce 使用線索](https://equipboard.com/items/gibson-eb-3?artists_page=2&load_section=artists)查下去，會碰到很實際的要求：他想推弦，也想讓貝斯帶著失真。這篇以 1960 年代的 Gibson 短弦長 EB-3 為範圍。[FlyGuitars 的型號沿革](https://www.flyguitars.com/gibson/bass/EB3.php)記載它在 1961 年推出、1979 年停產；後來相似外形的 SG Bass、Epiphone EB-3，不能直接當成同一套規格。"
+            },
+            {
+              "id": "scale-and-hardware",
+              "title": "30½ 吋，先改變手指要走的距離",
+              "body": "以 [Gibson 1964 年原廠型錄第 14 頁](https://www.vintageguitarandbass.com/gibson/catalogues/1964_14.php)為基準，EB-3 的弦長為 30½ 吋、20 格，採桃花心木琴頸與玫瑰木指板；桃花心木實心琴身則可由 [1963 年實琴檔案](https://www.flyguitars.com/gibson/bass/1963gibsonEB3.php)交叉核對。和 34 吋貝斯相比，同一把位的格距較短，跨格時手指需要移動的距離也較小。這是尺寸上的差異；好不好按，還得連琴頸厚度、弦徑與弦高一起判斷。短弦長也不直接告訴你低頻有多少：拾音器位置、電路、用弦與擴大方式，都會影響結果。對習慣長弦長琴的人，我會建議先試低把位跨格，再試高把位的連續樂句，確認縮短的距離是否真的合手。\n\n型錄也列出弦線消音機構。這項機械設計能讓玩家調整弦的衰減，買老琴時卻得確認零件是否還在，不能只看外觀相似就假定功能完整。本文所配的 [Commons 實琴照片](https://commons.wikimedia.org/wiki/File:Gibson_eb3_67.jpg)標示為約 1967 年，能看見全琴正面、兩顆拾音器和控制區；[同張圖的使用頁](https://en.wikipedia.org/wiki/Gibson_EB-3)另註明琴橋是非 Gibson 的替換件，因此它不是原廠琴橋的辨識範本，檔案也未標示它與 Bruce 有關。"
+            },
+            {
+              "id": "read-the-circuit",
+              "title": "四段開關，不能只背一張檔位表",
+              "body": "[Gibson 第一代接線圖](https://www.flyguitars.com/gibson/bass/EB3_schematic.php)畫出兩組音量、音色控制，以及 GA-90C 濾波電感。旋轉開關牽涉拾音器與濾波路徑，並非四段音量大小，也不是內建四種失真。這套被動電路的操作重點，是先固定擴大機設定，再比較各段與兩顆音量旋鈕的配合。試琴時，建議用同一句低音反覆切換，留意音量、音頭與收尾的變化，接著才調音色旋鈕。若每換一段就把擴大機重新調過，很容易弄不清差異來自哪裡。\n\n年份尤其重要：前述型號沿革記載，1972 年的改版牽涉楓木琴頸、拾音器移位與電路重整。早期琴的旋鈕位置，不能照後期說明表直接套用。若想找示範入口，[The Trogly's Guitar Show 的 1967 年 EB-3 影片](https://www.youtube.com/watch?v=t--immkJRIk)在發布者說明中標出 5:46 的演奏示範、8:00 的內部檢視與規格。它介紹的是另一把實琴，適合用來建立檢查順序，不宜當作所有年份的聲音標準。"
+            },
+            {
+              "id": "jack-bruce",
+              "title": "Jack Bruce 要的是能推弦的貝斯",
+              "body": "Bruce 在 [2014 年 MusicRadar 訪談](https://www.musicradar.com/news/bass/jack-bruce-talks-beloved-basses-baker-and-blowing-speakers-596528)說，Graham Bond 團裡的吉他手離開後，他用 Fender Bass VI 補上一些短獨奏；到了 Cream，他想找能推弦、又能產生特定失真聲音的樂器，EB-3 符合他的需要。這讓短弦長有了明確用途：他的句法想往吉他靠近，並非只因琴比較小。\n\n[Vintage Guitar 的 Bruce 專訪與附文](https://www.vintageguitar.com/2892/jack-bruce/)提供了更具體的線索。鼓手 Bruce Gary 回憶，這把 EB-3 曾用於《Disraeli Gears》至《Songs for a Tailor》、《Harmony Row》的時期，Dan Armstrong 還曾在開關第二段加入二極體，取得破音。這是關於特定改裝琴的回憶，不能把效果算在原廠電路頭上，也不能據此替每首歌補出完整錄音鏈。\n\nGary 還回憶，1984 年在紐約 Bottom Line，Bruce 重逢這把舊琴，第一場演了兩首便放下，當時他已習慣長弦長無格貝斯。這段現場經驗也提醒人：早年適合的尺寸，未必一輩子合手。這是 Gary 的轉述，並非該晚逐曲器材表。"
+            },
+            {
+              "id": "buying-an-old-eb3",
+              "title": "適合願意摸清控制、也願意查琴況的人",
+              "body": "如果你想試較短的格距，並願意花時間比較兩顆拾音器與旋轉開關的組合，1960 年代 EB-3 值得列入試琴名單。想靠它重現 Cream 的唱片聲音，還得另外查用弦、改裝與錄音條件；目前的證據不足以給出一套照抄設定。若只能買一把工作琴，也要把維修與找零件的時間算進去，並帶上自己常用的背帶站著試，確認持琴與換把是否順手。\n\n二手檢查要先看結構。[FlyGuitars 的 1963 年實琴檔案](https://www.flyguitars.com/gibson/bass/1963gibsonEB3.php)指出，琴頭、琴頸接合處，以及控制腔周圍都是需要留意的部位，並展示控制旋鈕附近延伸到琴身邊緣的裂紋。要求賣家提供這些位置的清楚照片，比只拍褪色漆面有用。\n\n接著請技師確認琴頸調整空間、琴橋與弦鞍、拾音器及焊點，逐段測試開關和四顆旋鈕。把換件、修補、缺少消音零件分別記下，再判斷是否符合自己的用途。即使標示同一年，琴況也可能相差很大；先確定它能穩定調整、演奏，再談外觀有多接近老照片。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "規格範圍",
+              "value": "1960 年代原版短弦長 EB-3；以 1964 年原廠型錄及 1963 年實琴檔案為基準"
+            },
+            {
+              "label": "弦長",
+              "value": "30½ 吋（774.7 mm）"
+            },
+            {
+              "label": "弦數與格數",
+              "value": "4 弦、20 格"
+            },
+            {
+              "label": "琴身",
+              "value": "實心桃花心木，SG 式雙缺角"
+            },
+            {
+              "label": "琴頸與指板",
+              "value": "桃花心木膠合琴頸、玫瑰木指板；不套用後期楓木琴頸版本"
+            },
+            {
+              "label": "拾音器",
+              "value": "頸端大型雙線圈＋橋端迷你雙線圈"
+            },
+            {
+              "label": "控制",
+              "value": "被動電路；每顆拾音器各一音量、一音色，另有四段旋轉開關"
+            },
+            {
+              "label": "消音機構",
+              "value": "原廠型錄列有弦線消音機構；二手個體需確認零件是否留存"
+            },
+            {
+              "label": "生產狀態",
+              "value": "原 Gibson EB-3 於 1961 年推出、1979 年停產"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Jack Bruce",
+              "work": "Cream《Disraeli Gears》時期；1984 年紐約 Bottom Line 演出",
+              "story": "Bruce 親述在 Cream 時期選 EB-3 是為了推弦與特定失真聲音。鼓手 Bruce Gary 回憶其專輯使用與改裝，亦記述 1984 年 Bruce 在 Bottom Line 重拾舊琴演兩首後放下。後者屬同伴回憶，不能推成逐曲錄音配置，也不代表原廠 EB-3 自帶那項破音改裝。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "The Thump of the Mudbucker! | 1967 Gibson EB-3 Electric SG Bass Faded Cherry | Review + Demo",
+              "channel": "The Trogly's Guitar Show",
+              "url": "https://www.youtube.com/watch?v=t--immkJRIk",
+              "verifiedAt": "2026-10-21"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Gibson EB-3／Jack Bruce 使用線索",
+              "url": "https://equipboard.com/items/gibson-eb-3?artists_page=2&load_section=artists"
+            },
+            {
+              "title": "FlyGuitars：Gibson EB3 型號沿革",
+              "url": "https://www.flyguitars.com/gibson/bass/EB3.php"
+            },
+            {
+              "title": "Gibson 1964 年原廠型錄第 14 頁（Vintage Guitar and Bass 典藏）",
+              "url": "https://www.vintageguitarandbass.com/gibson/catalogues/1964_14.php"
+            },
+            {
+              "title": "FlyGuitars：EB-3 第一代原廠接線圖",
+              "url": "https://www.flyguitars.com/gibson/bass/EB3_schematic.php"
+            },
+            {
+              "title": "MusicRadar：Jack Bruce talks beloved basses, Baker and blowing speakers",
+              "url": "https://www.musicradar.com/news/bass/jack-bruce-talks-beloved-basses-baker-and-blowing-speakers-596528"
+            },
+            {
+              "title": "Vintage Guitar：Jack Bruce — Shadows and (Erstwhile) Short-Scale Basses",
+              "url": "https://www.vintageguitar.com/2892/jack-bruce/"
+            },
+            {
+              "title": "FlyGuitars：1963 Gibson EB3 實琴檔案",
+              "url": "https://www.flyguitars.com/gibson/bass/1963gibsonEB3.php"
+            },
+            {
+              "title": "YouTube：The Trogly's Guitar Show — 1967 Gibson EB-3 Review + Demo",
+              "url": "https://www.youtube.com/watch?v=t--immkJRIk"
+            },
+            {
+              "title": "Wikimedia Commons：File:Gibson eb3 67.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Gibson_eb3_67.jpg"
+            },
+            {
+              "title": "Wikipedia：Gibson EB-3（照片換件註記）",
+              "url": "https://en.wikipedia.org/wiki/Gibson_EB-3"
+            }
+          ],
+          "photo": {
+            "author": "No machine-readable author provided. Jpkotta assumed (based on copyright claims).",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gibson_eb3_67.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "id": "place-50451417d6fe2417",
+            "caption": "約 1967 年 Gibson EB-3 實琴正面，可見琴頭、全指板、雙拾音器與控制區；琴橋為後換件，不作原廠琴橋範本。攝影：Jpkotta，CC BY-SA 3.0。",
+            "alt": "置於木地板上的紅棕色 Gibson EB-3 四弦貝斯，頸端大型拾音器、橋端迷你拾音器與四段旋轉開關清楚可見。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-21:gear-bass"
+        },
+        {
+          "id": "korg-wavedrum-wd-x",
+          "title": "Korg WAVEDRUM WD-X：敲擊之後，手掌還能改變聲音",
+          "deck": "2009 年銀色版把鼓皮振動、壓力與 DSP／PCM 發聲結合；從 Jamie Cullum 的巡演和寫歌方式，看這面停產電子鼓的用途與限制。",
+          "brand": "Korg",
+          "model": "WAVEDRUM WD-X（2009 年銀色版）",
+          "category": "鼓與打擊",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "touch-and-sound",
+              "title": "敲下去之後，手還能改變聲音",
+              "body": "Korg WAVEDRUM WD-X 特別的地方，是鼓皮振動本身會進入發聲過程。它一邊把鼓面、鼓框感測器收到的聲音交給 DSP 處理，一邊以敲擊觸發 PCM 音色；手掌加壓、指尖摩擦和鼓棒落點，都能成為演奏的一部分。它適合拿來探索同一面鼓在不同手法下的變化。[原廠手冊](https://cdn.korg.com/us/support/download/files/a237884bf33c1ad2e18706bc91ee8fa3.pdf)說明，部分音色可在敲擊後藉壓力改變音高或尾音。\n\n本文限定[2009 年推出的 WD-X](https://www.korg.com/us/products/drums/wavedrum_global_edition/index.php)銀色版，與 1994 年初代、Oriental、Global Edition 分開看。原廠已把它列入[停產產品](https://www.korg.com/us/support/download/)。配圖採用 woopsdez 的[Commons 照片](https://commons.wikimedia.org/wiki/File:Korg_WAVEDRUM_WD-X_%282009%29_on_stand.jpg)，可辨認銀色鼓框、控制區和支架局部，授權為 CC BY-SA 2.0。"
+            },
+            {
+              "id": "head-and-engine",
+              "title": "十吋鼓皮要調整，也要校準",
+              "body": "這面鼓保留了不少需要動手照料的部分。Paul White 在[Sound On Sound 的 2010 年評測](https://www.soundonsound.com/reviews/korg-wavedrum)中記錄：主體是塑膠，上方鼓框為金屬，十吋鼓皮以五顆張力螺栓固定。鼓框還有刻紋區，可供鼓棒刮奏。原廠允許以十吋 Remo 鼓皮替換，但也明說，換用不同鼓皮可能改變聲音。\n\n因此，鼓皮張力不能只憑一般軍鼓的習慣一路鎖緊。手冊要求換皮或調整張力後，重新校準鼓面、鼓框與壓力感測器；過緊會讓壓力感測失常。試機時若按壓沒有反應，先確認音色支援什麼動作，再檢查張力與校準，才有辦法判斷是否故障。\n\nWD-X 有 36 種演算法，搭配鼓面與鼓框各 100 種 PCM 音色；它們組成 100 組預設，另有 100 個使用者儲存位置。使用者區出廠時存的是預設的副本，價值在於能留下自己的修改。部分程式容許鼓面、鼓框各配不同聲音，另一些則共同分析敲擊方式，模擬康加鼓、軍鼓或木箱鼓等樂器。\n\n試奏時，可以先固定敲擊位置，再換用指腹、鼓棒或鼓刷，比較程式如何回應；接著保持力道，移動落點。這是依感測設計提出的比較方法，各程式對動作的反應仍要分別確認。只快速切過預設、每組重敲一下，反而不容易試出自己在意的細節。"
+            },
+            {
+              "id": "jamie-cullum",
+              "title": "Jamie Cullum 把它放進巡演，也拿來起稿",
+              "body": "[Equipboard 的 Wavedrum 條目](https://equipboard.com/items/korg-wave-drum)提供多位演奏者的線索；要確認使用情境，仍得追到訪談或現場紀錄。Jamie Cullum 的例子有[Korg 訪談與銀色 WD-X 配圖](https://www.korg.com/uk/features/artists/2013/010107/)可以對照。頁面標示 2013 年，內文明確談的是 2010 年為《The Pursuit》宣傳的歐洲巡演，並記載他在那次巡演每場都使用 Wavedrum。\n\nCullum 說，創作時會從 Wavedrum 的循環節奏開始，跟著節拍器即興約五分鐘。他偏好用手演奏，也提到鼓手試用鼓刷的經驗。對寫歌者來說，這提供了一種可參考的起稿方法：先有節奏，再即興找素材。訪談沒有交代循環如何錄製，也沒有指定哪首專輯錄音用了它，因此不能補上一套錄音鏈，或把巡演使用倒推成《The Pursuit》的錄音器材。"
+            },
+            {
+              "id": "stage-and-limits",
+              "title": "容易上手敲，深入編輯卻得翻手冊",
+              "body": "WD-X 適合已會用手或鼓棒控制力度、想把這些動作帶進合成音色的人。若工作目標是匯入自己的取樣，或把演奏存成 MIDI 再修正節奏，它就不合適：這一代沒有 MIDI、USB，也不能匯入自製 PCM。錄音要從音訊輸出取得，不能期待接上電腦後逐顆修改鼓點。\n\n面板只有三字元顯示器，編輯時得辨認縮寫；Live 模式可把常用程式安排成三個 bank、每個四組。White 的評測仍記錄部分音色或循環切換約需兩、三秒，快速選取鍵並不保證無縫換音色。排練時應把切換留在句子之間。延伸影片選用 KORG 頻道的[Geoff Brown 官方示範](https://www.youtube.com/watch?v=YNMbQvkds4E)，是 2009 年發表期的 WD-X 影片。\n\n另一個舞台限制來自它的感測方式：大音量喇叭的聲音或地板振動可能被重新拾取，形成回授。接上監聽後，需要連同擺位與感測設定一起試。若要把它加進既有鼓組，手冊允許使用一般十四吋三爪軍鼓架；裝台時還要一併安排外接電源、音訊線與插座位置。"
+            },
+            {
+              "id": "buying-used",
+              "title": "二手試機，先測壓力再看外觀",
+              "body": "買二手時，我會把鼓面、鼓框和壓力反應分開驗收：先用相同音色比較輕擊、重擊，再選可受壓力控制的程式，確認按壓與放手都有變化。接著試耳機、左右音訊輸出、旋鈕與按鍵，並核對變壓器是否符合原廠規格。\n\n也要問清楚是否換過鼓皮、換後有沒有校準。手冊特別提醒，長期把重物壓在鼓面，會使下方墊材與感測器變形。若出現 E.10 壓力感測錯誤，排除開機時壓住鼓面並依手冊校準後仍無法歸零，就應交由維修人員判斷。外觀漂亮、預設鼓聲敲得出來，都還不足以確認這面鼓最有意思的壓力控制仍然正常。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "發聲與感測",
+              "value": "DSP 合成與 PCM 音源；鼓面、鼓框感測器及壓力感測器"
+            },
+            {
+              "label": "鼓面",
+              "value": "10 吋、5 顆張力螺栓；手冊允許使用 HD-WD 或 10 吋 Remo 替換鼓皮"
+            },
+            {
+              "label": "演算法",
+              "value": "36 種：26 種 single-size、10 種 double-size"
+            },
+            {
+              "label": "PCM 與程式",
+              "value": "鼓面、鼓框各 100 種 PCM 音色；100 組預設、100 個使用者程式位置"
+            },
+            {
+              "label": "循環與快速選取",
+              "value": "100 組內建循環樂句；Live 模式 12 個位置，分為 3 個 bank"
+            },
+            {
+              "label": "連接",
+              "value": "左右各一個單聲道 phone 音訊輸出；立體聲 mini-phone 耳機輸出與 AUX IN"
+            },
+            {
+              "label": "尺寸與重量",
+              "value": "344 × 349 × 75 mm（寬 × 深 × 高）；2.0 kg"
+            },
+            {
+              "label": "供電",
+              "value": "DC 9V、1.7A；使用原廠指定外接變壓器"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Jamie Cullum",
+              "work": "2010 年《The Pursuit》歐洲巡演及同期創作",
+              "story": "Korg 訪談記載他在這次巡演每場使用 Wavedrum，並以循環節奏配合節拍器即興寫作；配圖可辨識銀色 WD-X。這份資料支持巡演與創作情境，未確認專輯特定曲目的錄音使用或循環錄製設備。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Korg WAVEDRUM Demo Performance (Part 1)",
+              "channel": "KORG",
+              "url": "https://www.youtube.com/watch?v=YNMbQvkds4E",
+              "verifiedAt": "2026-10-21"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Korg WAVEDRUM Owner’s Manual E2",
+              "url": "https://cdn.korg.com/us/support/download/files/a237884bf33c1ad2e18706bc91ee8fa3.pdf"
+            },
+            {
+              "title": "Korg WAVEDRUM Global Edition：WD-X 型號沿革",
+              "url": "https://www.korg.com/us/products/drums/wavedrum_global_edition/index.php"
+            },
+            {
+              "title": "Korg Downloads：停產打擊樂器列表",
+              "url": "https://www.korg.com/us/support/download/"
+            },
+            {
+              "title": "Wikimedia Commons：Korg WAVEDRUM WD-X (2009) on stand",
+              "url": "https://commons.wikimedia.org/wiki/File:Korg_WAVEDRUM_WD-X_%282009%29_on_stand.jpg"
+            },
+            {
+              "title": "Sound On Sound：Korg Wavedrum，Paul White，2010 年 4 月",
+              "url": "https://www.soundonsound.com/reviews/korg-wavedrum"
+            },
+            {
+              "title": "Equipboard：Korg Wave Drum",
+              "url": "https://equipboard.com/items/korg-wave-drum"
+            },
+            {
+              "title": "Korg：Jamie Cullum — On stage, in the studio and at home",
+              "url": "https://www.korg.com/uk/features/artists/2013/010107/"
+            },
+            {
+              "title": "KORG：Korg WAVEDRUM Demo Performance (Part 1)",
+              "url": "https://www.youtube.com/watch?v=YNMbQvkds4E"
+            }
+          ],
+          "photo": {
+            "author": "woopsdez",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korg_WAVEDRUM_WD-X_(2009)_on_stand.jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "id": "place-cc9fe9fdbf94f94b",
+            "caption": "Korg WAVEDRUM WD-X，2009 年推出的銀色版；畫面可見鼓面、鼓框、控制區與支架局部。攝影：woopsdez／Wikimedia Commons，CC BY-SA 2.0。",
+            "alt": "銀色 WAVEDRUM WD-X 裝在支架上，淺色鼓皮旁可見刻紋鼓框與黑色控制面板，後方放著混音器。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-21:gear-drums"
+        },
+        {
+          "id": "boss-ds-2",
+          "title": "BOSS DS-2：中頻切換、共用旋鈕，與 Frusciante 的失真選擇",
+          "deck": "Turbo II 的中頻提升讓 DS-2 多了一種主奏選擇，但兩個模式共用設定。從原廠手冊與 Frusciante 的訪談，看它能做什麼、又有哪些限制。",
+          "brand": "BOSS",
+          "model": "DS-2 Turbo Distortion",
+          "category": "效果器",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "two-voices",
+              "title": "特別之處，在切換後的中頻",
+              "body": "BOSS DS-2 最值得注意的，是同一顆踏板裡有兩種失真取向：Turbo I 提供基礎破音，Turbo II 加入明顯的中頻提升。對要在伴奏與主奏間轉換的人，這比單純把失真量加大更有意思；你可以先比較音符的突出程度，再決定需要多少增益。[BOSS 官方產品頁](https://www.boss.info/us/products/ds-2/)記載它於 1987 年推出，採離散元件類比電路，截至本次查核仍列在產品目錄。\n\n外觀辨識也有個方便的起點：DS-2 的面板有 LEVEL、TONE、DIST 和 TURBO 四個控制位置，右側另有 REMOTE 接孔。看二手照片時，要確認機身寫的是 DS-2，別把同為橘色外殼的 DS-1 當成同一顆。"
+            },
+            {
+              "id": "controls",
+              "title": "先分清失真量與輸出音量",
+              "body": "DIST 決定失真深度，LEVEL 調整效果開啟後的輸出音量，TONE 則改變音色明暗。三者分開操作很重要：如果覺得踏下去不夠突出，先判斷缺的是音量、中頻，還是失真量，不必每次都把 DIST 往右轉。官方把 Turbo II 描述為帶共振中頻提升的聲音；切換後仍應重比音量，避免只因聲音較大，就以為細節一定較清楚。\n\nTONE 採主動式設計，官方說明它會改變高、低頻，但使用者只有一顆旋鈕，不能像三段等化器那樣逐段指定增減。比較兩個模式時，可以先把 TONE 固定，聽完再調。一次只動一項控制，較容易分辨是模式改變了頻率重心，還是音色旋鈕讓高頻變多；不必急著把所有旋鈕轉到某張藝人照片的位置。\n\n依這組控制配置，我會建議先固定一段和弦或單音，讓開關效果前後的音量接近，再比較兩個模式。低失真時也可以試著收小吉他音量；手冊的設定範例就列有這種用法。想找示範，可參考由[Roland 官方影片庫](https://www.roland.com/us/rtv/guitar_boss/distortion_overdrive_pedals/)收錄的[BOSSchannel Sound Check](https://www.youtube.com/watch?v=Wg1ZOcV5O9E)，但示範錄音不能代替你自己的吉他與音箱搭配。"
+            },
+            {
+              "id": "remote-switch",
+              "title": "雙模式，共用一組設定",
+              "body": "DS-2 的本體踏板只負責效果開關。依[原廠英文手冊](https://static.roland.com/assets/media/pdf/DS-2_eng01_W.pdf)，要用腳切換 Turbo I／II，須在 REMOTE 接上 FS-5L 等相容外接腳踏開關，並把 TURBO 旋鈕放在 II（REMOTE）。少了這一步，就不能照預期遙控模式。\n\n兩個模式共用 LEVEL、TONE、DIST，沒有各自儲存設定的位置。因此，它適合在同一組旋鈕設定下換一種失真取向；如果你要伴奏小聲、主奏大聲，還要分別設定失真量，選購時就得把這個限制算進去。外接開關也會占去額外的踏板盤空間。"
+            },
+            {
+              "id": "frusciante",
+              "title": "Frusciante 的 DS-2，要放回整套器材裡看",
+              "body": "[Equipboard 的 DS-2 條目](https://equipboard.com/items/boss-ds-2-turbo-distortion-pedal)提供了一條線索：John Frusciante 的踏板盤曾放了兩顆。更直接的說法來自吉他技師 Dave Lee。他在[BOSS 的訪談](https://articles.boss.info/behind-the-board-dave-lee-john-frusciante-red-hot-chili-peppers/)確認，兩顆 DS-2 確實曾同時上板；但他沒有交代兩顆各自負責哪首歌，也沒提供旋鈕數值，不能替它們編出一顆伴奏、一顆獨奏的分工。\n\n這份訪談還解釋了當時的基礎聲音：Lee 用 CE-1 的前級調到重彈才開始失真，再由 CE-1 把訊號分送至兩顆 Marshall 音箱頭。DS-2 是加在這個基礎上的選擇。這也提醒讀者，照抄一顆失真踏板的旋鈕，並不能連同前後級的反應一起複製。\n\n到了《Unlimited Love》時期，[2022 年 Total Guitar 訪談及器材導覽](https://www.guitarworld.com/features/john-frusciante-red-hot-chili-peppers-unlimited-love)裡，Frusciante 說自己通常使用 DS-2，也用了失真較少的 SD-1。這能確認 DS-2 在該時期的使用情境，卻不足以把專輯每一段獨奏都歸給它。同一份器材導覽裡，DS-2 旁邊仍有較低失真的選項；比較 Frusciante 的聲音時，也得保留這項差別。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合誰，以及二手試機該做什麼",
+              "body": "DS-2 適合想用少量旋鈕取得失真、又需要另一種中頻取向的吉他手。若你需要兩套完全獨立的音量與等化設定，它的共用控制就未必合適。訊號連接是單聲道輸入、單聲道輸出，旁通採緩衝方式；想接兩部音箱的人，仍須另外處理訊號分配。它也沒有乾濕混合旋鈕；貝斯手若想保留未失真的低音基底，試機時尤其要確認能否接受整路訊號經過失真處理。\n\n供電可用九伏特電池或原廠指定的 PSA 系列變壓器。別只確認指示燈會亮：接上樂器後，還要比較效果開啟與關閉時是否都正常出聲。\n\n買二手時，建議帶熟悉的電源、導線與樂器，逐一轉動旋鈕，聽有沒有異常斷訊或接觸噪音，再測試本體開關和兩個 Turbo 模式。有外接開關使用需求，就連 REMOTE 一起測。打開電池艙查看接頭、電線及漏液痕跡；用電池時，收工要拔掉 INPUT 導線，因為插入接頭就會接通電源，CHECK 燈熄滅不代表完全不耗電。\n\n本篇採用的[Commons 照片](https://commons.wikimedia.org/wiki/File:BOSS_DS-2_Turbo_Distortion.jpg)可辨識標準橘色 DS-2 的正面與控制配置，授權為 CC BY-SA 4.0；底標與內部沒有入鏡，無法判定產地、年份或電路批次。若賣家以特定年份或產地加價，請他補底標與序號照片，別只靠橘色外殼判斷。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "電路",
+              "value": "離散元件類比失真電路"
+            },
+            {
+              "label": "模式",
+              "value": "Turbo I／Turbo II；Turbo II 具有明顯中頻提升"
+            },
+            {
+              "label": "面板控制",
+              "value": "LEVEL、TONE、DIST、TURBO 選擇旋鈕及效果開關踏板"
+            },
+            {
+              "label": "旁通",
+              "value": "Buffered bypass（緩衝旁通）"
+            },
+            {
+              "label": "輸入／輸出阻抗",
+              "value": "輸入 1 MΩ；輸出 1 kΩ；建議負載 10 kΩ 以上"
+            },
+            {
+              "label": "接孔",
+              "value": "6.35 mm INPUT、OUTPUT、REMOTE，以及 DC IN"
+            },
+            {
+              "label": "外接模式切換",
+              "value": "可接 FS-5L 等相容腳踏開關；TURBO 須設在 II（REMOTE）"
+            },
+            {
+              "label": "供電",
+              "value": "DC 9 V；6F22／6LR61 九伏特電池或另購 PSA 系列變壓器"
+            },
+            {
+              "label": "尺寸",
+              "value": "73 × 129 × 59 mm（寬 × 深 × 高）"
+            }
+          ],
+          "artists": [
+            {
+              "name": "John Frusciante",
+              "work": "Red Hot Chili Peppers《Unlimited Love》時期的錄音與巡演前排練器材",
+              "story": "2022 年 Total Guitar 訪談附錄介紹該時期的排練踏板盤，Frusciante 親口說通常使用 DS-2，也使用失真較少的 SD-1。前任吉他技師 Dave Lee 另在 BOSS 訪談確認，過去曾把兩顆 DS-2 同時放上踏板盤。這些資料能確認使用情境，但沒有提供兩顆的分工、完整設定，也不足以判定《Unlimited Love》每首歌或每段獨奏使用哪顆失真器。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "BOSS DS-2 TURBO Distortion [BOSS Sound Check]",
+              "channel": "BOSSchannel",
+              "url": "https://www.youtube.com/watch?v=Wg1ZOcV5O9E",
+              "verifiedAt": "2026-10-21"
+            }
+          ],
+          "sources": [
+            {
+              "title": "BOSS：DS-2 TURBO Distortion 官方產品頁",
+              "url": "https://www.boss.info/us/products/ds-2/"
+            },
+            {
+              "title": "BOSS：DS-2 Owner’s Manual（英文，2017）",
+              "url": "https://static.roland.com/assets/media/pdf/DS-2_eng01_W.pdf"
+            },
+            {
+              "title": "Equipboard：Boss DS-2 Turbo Distortion",
+              "url": "https://equipboard.com/items/boss-ds-2-turbo-distortion-pedal"
+            },
+            {
+              "title": "Guitar World／Total Guitar：John Frusciante 談 Unlimited Love（2022）",
+              "url": "https://www.guitarworld.com/features/john-frusciante-red-hot-chili-peppers-unlimited-love"
+            },
+            {
+              "title": "BOSS：Behind the Board — Dave Lee with John Frusciante",
+              "url": "https://articles.boss.info/behind-the-board-dave-lee-john-frusciante-red-hot-chili-peppers/"
+            },
+            {
+              "title": "Wikimedia Commons：File:BOSS DS-2 Turbo Distortion.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:BOSS_DS-2_Turbo_Distortion.jpg"
+            },
+            {
+              "title": "BOSSchannel：BOSS DS-2 TURBO Distortion [BOSS Sound Check]",
+              "url": "https://www.youtube.com/watch?v=Wg1ZOcV5O9E"
+            },
+            {
+              "title": "Roland RTV：Distortion & Overdrive Pedals 官方影片庫",
+              "url": "https://www.roland.com/us/rtv/guitar_boss/distortion_overdrive_pedals/"
+            }
+          ],
+          "photo": {
+            "author": "Kuriosatempel",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:BOSS_DS-2_Turbo_Distortion.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-318c21eb4368e72b",
+            "caption": "標準橘色雙模式款 BOSS DS-2 Turbo Distortion，2021 年拍攝。照片呈現機身正面、四個控制旋鈕與黑色踏板；未涵蓋底標及內部，無法認定製造年份或電路批次。攝影：Johan Rosén；Commons 上傳者：Kuriosatempel，CC BY-SA 4.0。",
+            "alt": "橘色 BOSS DS-2 Turbo Distortion 正面，面板可見四個控制旋鈕、Turbo I／II、REMOTE 標示及黑色 BOSS 踏板。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-21:gear-effects"
+        },
+        {
+          "id": "yamaha-fg-180",
+          "title": "Yamaha FG-180：從 Elliott Smith 的彈法，談合板老琴的用處",
+          "deck": "一把量產木吉他如何進入音樂人的工作現場？從原版型錄、音孔拾音器與修復紀錄，分清紅標的吸引力和二手琴的現實。",
+          "brand": "Yamaha",
+          "model": "FG-180",
+          "category": "吉他",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-fg180",
+              "title": "合板，也能是一把認真工作的琴",
+              "body": "Yamaha FG-180 的特別之處，是一把連面板都用合板的量產木吉他，進了專業音樂人的器材清單，也被帶上舞台。修復師 Jake Wildwood 接手的原版紅標琴，面板是雲杉合板，背側板也是桃花心木合板；買它的理由不必建立在「老琴都是全單板」這種誤會上。[修復實例](https://jakewildwood.blogspot.com/2023/11/1960s-yamaha-fg-180-red-label-jumbo.html)\n\n本文談的是已停產的早期 FG-180。Yamaha 的[館藏資料](https://www.yamaha.com/en/about/experience/innovation-road/collection/detail/3001/)把起點列在 1966 年；獨立整理的[美國市場型號檔案](https://yamahavintagefg.com/wp-content/uploads/2017/12/Yamaha-Acoustic-Guitar-Archive-v6.4.4-FG-Vintage-US-Only.pdf)則將 FG-180 列為 1966 至 1974 年，另列 FG-180-1。這個市場範圍不能拿來替每把紅標琴斷年，也別把後綴省略後當成同一版本。"
+            },
+            {
+              "id": "design-and-handling",
+              "title": "先看箱體，再談木材名稱",
+              "body": "[1971 年 Selmer 型錄](https://www.vintageguitarandbass.com/selmer/catalogues/1971_gibson_hofner_yamaha_21.php)稱它為 Jumbo，列出全長 1,020 mm、寬 411 mm，搭配二十格玫瑰木指板與插銷式玫瑰木琴橋。這些數字最直接的用途，是提醒買家先坐下抱琴：右臂跨過箱體後是否舒服，比只看正面照片可靠。全長也不是有效弦長，不能拿來計算弦張力。\n\n設計者植田秀男在[Yamaha 訪談](https://usa.yamaha.com/products/contents/guitars_basses/articles/craftsmanship/005/index.html)回憶，當時希望低音突出、高音甜而延續，為此做了一百多把原型。他們還把完成的琴留在高濕、乾燥與低溫環境中觀察變形。這說明設計時在意的聲音與耐用性；經過半世紀，每把二手琴的結構和整修狀態仍要另外檢查。\n\nWildwood 在另一份[修復筆記](https://jakewildwood.blogspot.com/2022/08/1960s-yamaha-fg-180-red-label-jumbo.html)中，把較輕的音樑與箱體輪廓，連結到飽滿低音和清楚中頻；他偏好拿這類琴伴奏，對撥片單音主奏的高頻表現則有所保留。他也不喜歡自己經手那把琴較厚的琴頸，客人卻有人很愛。這些是修復者的比較經驗，提供了試琴方向：帶一段刷弦、一段指彈和一段高把位旋律，確認你要的反應，也摸清那把琴的頸型，別只聽賣家彈低音和弦。"
+            },
+            {
+              "id": "elliott-smith",
+              "title": "Elliott Smith 要的是手指也撥得出來的音量",
+              "body": "[Equipboard 的 FG-180 頁面](https://equipboard.com/items/yamaha-fg-180)把 Elliott Smith 列為使用者，這條線索可以接到兩種不同證據。[Mixdown 的器材專文](https://mixdownmag.com.au/features/gear-rundown-elliott-smith/)依護板等外觀辨識他手中的 FG-180；刊載的舞台照片也看得到音孔拾音器。不過照片未標演出日期，文中對拾音器只說外觀像 Bill Lawrence A-300，不能把型號猜測寫成確定的整套器材配置。\n\n更有意思的是[Sweet Adeline 保存的 Gearbox 訪談](https://www.sweetadeline.net/faq.html)。Smith 說自己多半不用撥片，也會咬指甲，因此喜歡那把 Yamaha 有較大的音量；擴音則使用 Lawrence 音孔拾音器直接輸出。他提到用中規格弦、全琴降一個全音，演奏原本標準調弦的舊歌時再夾移調夾。這些是他親口談的彈法，但訪談明說他想不起型號，因此只能與照片辨識互相參照，不能據此宣稱《Either/Or》每軌木吉他都出自 FG-180。"
+            },
+            {
+              "id": "matthew-caws",
+              "title": "Matthew Caws 的清單，和不能張冠李戴的錄音",
+              "body": "Nada Surf 的 Matthew Caws 在 2012 年談《The Stars Are Indifferent to Astronomy》時，[Premier Guitar 訪談](https://www.premierguitar.com/nada-surf-caws-and-effect)所列器材包含一把 1971 年、Nippon Gakki 紅標版 FG-180。他說寫歌常從木吉他和基本和弦開始，用卡帶機留下片段；隨手能錄、不必盯著螢幕，是他喜歡這種工作方式的理由。\n\n但談到〈When I Was Young〉那段近似十二弦的聲部，他明確說用的是 Gibson J-200，加上採 Nashville 調弦的 Guild F-50 疊錄。FG-180 確實在他的器材清單裡，這首歌的木吉他卻另有交代。對想循著作品買琴的人，這個差別比「某某也有一把」更有用。"
+            },
+            {
+              "id": "versions",
+              "title": "紅標不只一代，照片也要看個體",
+              "body": "2016 年的 FG180-50TH 是另一把琴。[Yamaha 當年的發表資料](https://archive.yamaha.com/ja/news_release/2016/16020202/)寫明它用了全單板箱體、A.R.E. 處理面板、新的削切音樑與雙向調整桿；復古外觀延續了原版，內部設計已有變動。這些規格不能倒填到六、七○年代的 FG-180 上。\n\n本文的[Commons 照片](https://commons.wikimedia.org/wiki/File:Yamaha_FG-180_Red_Label_(by_Jim_Hutcheson).jpg)由 Jim Hutcheson 拍攝，採 CC BY 2.0 授權，呈現原版紅標 FG-180 的完整正面。這個個體未裝護板，面板留有輪廓痕跡；檔案未確認製造年與產地，也不是文中音樂人的用琴。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合願意試琴，也願意留維修預算的人",
+              "body": "如果用途是自彈自唱、刷弦或找創作伴奏琴，FG-180 值得試；若只是想買一把省事的第一把木吉他，我會先比較整修完成後的總成本。它當年屬於量產產品，不代表今天的每把二手琴都划算。這次沒有同日、同市場、同狀況的成交比較，因此不列現價。\n\nWildwood 的修復實例做了琴頸角度重設、琴衍整平修整，並換上骨製下弦枕。[同一把琴的示範影片](https://www.youtube.com/watch?v=EHvhUm87SXo)也在發布者說明中交代這些處理；它展示的是整修後的個體，不能替所有原版老琴保證狀態。\n\n看二手琴時，請賣家提供正常調弦下的弦高、下弦枕剩餘高度與維修紀錄，再由技師評估琴頸角度、琴橋黏合和面板變形。試彈低把位和弦，也逐格確認打弦與延音。尤其當弦仍很高、下弦枕卻已磨得很低時，先問清楚還能怎麼修，再談紅標值多少。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "版本範圍",
+              "value": "早期原版 FG-180；已停產，不含 FG-180-1、FG180-50TH 或後來的 FG Red Label 系列"
+            },
+            {
+              "label": "箱體與弦數",
+              "value": "六弦木吉他；1971 年 Selmer 型錄稱 Jumbo"
+            },
+            {
+              "label": "面板",
+              "value": "雲杉合板；原版紅標實物修復紀錄確認"
+            },
+            {
+              "label": "背板與側板",
+              "value": "桃花心木合板；原版紅標實物修復紀錄確認"
+            },
+            {
+              "label": "指板與格數",
+              "value": "玫瑰木指板、20 格；依 1971 年 Selmer 型錄"
+            },
+            {
+              "label": "琴橋",
+              "value": "插銷式玫瑰木琴橋；依 1971 年 Selmer 型錄"
+            },
+            {
+              "label": "外形尺寸",
+              "value": "全長 1,020 mm、寬 411 mm；依 1971 年 Selmer 型錄，非有效弦長"
+            },
+            {
+              "label": "弦鈕",
+              "value": "獨立式鍍鉻弦鈕；依 1971 年 Selmer 型錄"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Elliott Smith",
+              "work": "舞台自彈自唱照片，以及 Gearbox 訪談所述的演奏與擴音方式",
+              "story": "Mixdown 將刊載的舞台照片用琴辨識為 FG-180，照片可見音孔拾音器，但未標明演出日期或曲目。Sweet Adeline 保存的 Gearbox 訪談記錄他多半不用撥片、採全琴降一個全音及 Lawrence 音孔拾音器直接輸出的做法；該訪談沒有確認吉他型號。兩者支持使用情境與彈法，不能證明特定專輯或歌曲的錄音用琴。"
+            },
+            {
+              "name": "Matthew Caws",
+              "work": "2012 年《The Stars Are Indifferent to Astronomy》時期的 Premier Guitar 訪談",
+              "story": "訪談器材清單明列 1971 年 Nippon Gakki 紅標 FG-180，確認它是 Caws 當時的使用器材之一。文章沒有把它對應到特定錄音軌；〈When I Was Young〉的木吉他疊錄反而明確使用 J-200 與 Nashville 調弦的 Guild F-50，因此不把該曲歸給 FG-180。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "1960s Yamaha FG-180 jumbo guitar",
+              "channel": "Jake Wildwood & Co",
+              "url": "https://www.youtube.com/watch?v=EHvhUm87SXo",
+              "verifiedAt": "2026-10-21"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Yamaha：FG180 館藏資料",
+              "url": "https://www.yamaha.com/en/about/experience/innovation-road/collection/detail/3001/"
+            },
+            {
+              "title": "Yamaha Vintage FG：美國市場歷代型號檔案",
+              "url": "https://yamahavintagefg.com/wp-content/uploads/2017/12/Yamaha-Acoustic-Guitar-Archive-v6.4.4-FG-Vintage-US-Only.pdf"
+            },
+            {
+              "title": "1971 Selmer 型錄第 21 頁：Yamaha 民謠吉他",
+              "url": "https://www.vintageguitarandbass.com/selmer/catalogues/1971_gibson_hofner_yamaha_21.php"
+            },
+            {
+              "title": "Yamaha：新舊 FG 設計者訪談",
+              "url": "https://usa.yamaha.com/products/contents/guitars_basses/articles/craftsmanship/005/index.html"
+            },
+            {
+              "title": "Jake Wildwood：2022 年 FG-180 修復筆記",
+              "url": "https://jakewildwood.blogspot.com/2022/08/1960s-yamaha-fg-180-red-label-jumbo.html"
+            },
+            {
+              "title": "Equipboard：Yamaha FG-180",
+              "url": "https://equipboard.com/items/yamaha-fg-180"
+            },
+            {
+              "title": "Mixdown：Gear Rundown: Elliott Smith",
+              "url": "https://mixdownmag.com.au/features/gear-rundown-elliott-smith/"
+            },
+            {
+              "title": "Sweet Adeline：FAQ 收錄的 Gearbox 訪談",
+              "url": "https://www.sweetadeline.net/faq.html"
+            },
+            {
+              "title": "Premier Guitar：Nada Surf: Caws and Effect",
+              "url": "https://www.premierguitar.com/nada-surf-caws-and-effect"
+            },
+            {
+              "title": "Yamaha：2016 年 FG180-50TH 發表資料",
+              "url": "https://archive.yamaha.com/ja/news_release/2016/16020202/"
+            },
+            {
+              "title": "Wikimedia Commons：Jim Hutcheson 的 Yamaha FG-180 紅標照片",
+              "url": "https://commons.wikimedia.org/wiki/File:Yamaha_FG-180_Red_Label_(by_Jim_Hutcheson).jpg"
+            },
+            {
+              "title": "Jake Wildwood：2023 年 FG-180 修復紀錄",
+              "url": "https://jakewildwood.blogspot.com/2023/11/1960s-yamaha-fg-180-red-label-jumbo.html"
+            },
+            {
+              "title": "Jake Wildwood & Co：1960s Yamaha FG-180 jumbo guitar",
+              "url": "https://www.youtube.com/watch?v=EHvhUm87SXo"
+            }
+          ],
+          "photo": {
+            "author": "Jim Hutcheson",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamaha_FG-180_Red_Label_(by_Jim_Hutcheson).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-33ff6b1dbd441a55",
+            "caption": "2007 年拍攝的原版 Yamaha FG-180 紅標個體，完整正面可見琴頭、指板、音孔與琴橋；此琴未裝護板，製造年與產地未確認。非文中藝人用琴。攝影：Jim Hutcheson，CC BY 2.0。",
+            "alt": "原木色 Yamaha FG-180 紅標木吉他立在木凳上，正面未裝護板，音孔內可見紅色型號標籤。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-21:gear-guitar"
+        },
+        {
           "id": "rickenbacker-4001",
           "title": "Rickenbacker 4001：Geddy Lee 如何讓兩顆拾音器各做各的事",
           "deck": "分路輸出與琴橋拾音器上的小電容，讓這把老貝斯留下不少調整空間。從 Geddy Lee 的舞台接法，也能看見它需要花工夫的地方。",
@@ -58634,6 +59212,395 @@
     },
     "cityStories": {
       "rows": [
+        {
+          "id": "cyndi-time-after-time-clocks",
+          "city": "",
+          "cityEn": "",
+          "artist": "Cyndi Lauper",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "搬進浴室仍聽得見的舊鐘",
+          "work": "Time After Time",
+          "year": "1983",
+          "accent": "sage",
+          "title": "Cyndi Lauper 把吵人的時鐘，寫進了〈Time After Time〉",
+          "deck": "一只搬進浴室還嫌吵的鐘，連著她與戀人兼經紀人的生活；Rob Hyman 則帶來自己的感情經驗，和她一起完成這首歌。",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 7,
+          "people": [
+            "Cyndi Lauper",
+            "Rob Hyman",
+            "David Wolff",
+            "Rick Chertoff",
+            "Eric Bazilian",
+            "Bill Wittman"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "clock-in-the-shower",
+              "title": "搬進浴室，還是太吵",
+              "body": "Cyndi Lauper 向 Apple Music 回憶，她曾把一只鐘搬進浴室，放在淋浴區的地毯上，關好門，躺在床上卻仍聽得到。原本心愛的 Betty Boop 造型鐘，被當時兼任經紀人的男友爬上高架床時碰落摔碎；他從母親家拿來另一只鐘補償，偏偏那只舊鐘走得格外響。〈Time After Time〉開頭躺在床上聽鐘聲的畫面，就從這件事而來。[Lauper 的逐曲訪談](https://music.apple.com/us/album/shes-so-unusual/400603643)\n\n這首歌收在 1983 年 10 月 14 日發行的《She's So Unusual》。那段經驗讓開頭多了一層很生活的意思：她想起戀人，也因為他留下的東西實在太吵。把時鐘挪遠、隔一道門，聲音仍然跟著回到床邊；這個有點惱人的細節，被她保留在一首談陪伴的歌裡。[Apple Music 專輯資料](https://music.apple.com/us/album/shes-so-unusual/400603643)"
+            },
+            {
+              "id": "love-and-management",
+              "title": "David Wolff 同時是戀人與經紀人",
+              "body": "這位男友是 David Wolff。《Interview》在 2013 年重刊的一篇八○年代訪談，留下了兩人如何開始共事的另一面。Lauper 說，他們先同居，後來才有經紀關係；最初兩人還刻意避開一起工作，免得影響感情。可是她找經紀人時，Wolff 總會提醒她該問哪些問題，工作終究被帶回家，於是兩人決定合作。[《Interview》舊訪談](https://www.interviewmagazine.com/music/new-again-cyndi-lauper)\n\n在那次對談裡，她也肯定 Wolff 的策略能力，認為他能協助自己的創作面向市場。談到工作安排，她說兩人會商量，也有她想做、他不那麼喜歡的事。戀人與經紀人這兩個身分，在他們的日常裡很難切開。[她對 Wolff 的描述](https://www.interviewmagazine.com/music/new-again-cyndi-lauper)\n\n把兩次談話放在一起，能讀到不同時期的她如何描述這段關係。八○年代的對談談到了共事的幫助，多年後的逐曲回顧則挑出令人煩惱的生活插曲。那只鐘沒有概括整段戀愛，卻讓歌裡那個抽象的「你」，多了一個具體的動作與物件。"
+            },
+            {
+              "id": "space-for-her-own-songs",
+              "title": "她想在自己的唱片裡寫歌",
+              "body": "錄這張個人首作時，Lauper 已有將近十年的職業演唱經驗。Dale Sherman 為國會圖書館撰寫的專輯文章記錄，她早年在翻唱樂團裡長時間工作，自己的創作產出有限；後來組成 Blue Angel，得以寫唱自己的材料，並在 1980 年發行同名專輯。然而唱片表現不如預期，樂團解散後還有經紀人的訴訟。到了 1982 年秋天，她簽進 Portrait Records，開始準備個人專輯。[國會圖書館的專輯專文](https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/ShesSoUnusual.pdf)\n\n唱片公司的起初安排，是讓她演唱 Chertoff 蒐集來的歌曲。這篇專文也指出，製作過程容許她拒絕部分選曲、重新處理歌曲，並參與編曲。到了她自己向 Apple Music 回顧時，說法更直接：製作人已經有歌，她還是要寫，因為這是自己的專輯。〈Time After Time〉是在這種拉鋸中出現的共同創作；她要唱進去的內容，包括自己的感情與日常。[Lauper 談寫作空間](https://music.apple.com/us/album/shes-so-unusual/400603643)\n\n她在 2019 年的國會圖書館訪談裡，還說得更清楚：最初受聘是來當主唱，後來她對選曲愈來愈堅持，會直接說哪些歌願意唱、哪些不唱。她喜歡與 Hyman、Bazilian 合作，但也要求有討論的空間。〈Time After Time〉成功後，她便拿這首歌當理由，要求更多寫作機會；依她回憶，第二張專輯仍免不了爭論。寫成一首歌，並沒有讓她從此不必再爭取。[Lauper 談創作主導權](https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/CyndiLauperInterview.pdf)"
+            },
+            {
+              "id": "writing-with-rob",
+              "title": "Rob Hyman 帶來另一段感情經驗",
+              "body": "與 Lauper 一起寫歌的是 The Hooters 的 Rob Hyman。Smooth 的歌曲考據整理指出，當時 Hyman 正走出一段關係，Lauper 與 Wolff 也有感情上的難題；Hyman 寫下把回憶裝進行李箱的意象，讓她很有感觸。兩人坐在鋼琴旁動筆，把各自的經驗放進同一份歌詞。家裡的鐘來自她，行李箱的意象來自他；理解這段合作時，也得把共同作者的經歷算進去。[Smooth 的創作背景整理](https://www.smoothradio.com/features/the-story-of/time-after-time-cyndi-lauper-lyrics-facts-video/)\n\nLauper 在美國國會圖書館 2019 年的訪談中，說明了她與 Hyman 的工作方式：可以放鬆談彼此在意的事，她先記下來，再挑選、組合。歌名則是從《TV Guide》看到的電影名稱借來的。她原先只打算暫用，後來每次換掉都覺得不對，便留下〈Time After Time〉。[國會圖書館訪談](https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/CyndiLauperInterview.pdf)\n\n談到 Hyman，她曾在《Interview》說，他是個溫暖的人，自己很容易向他敞開。她也坦承獨自寫作時容易先否定自己，有人一起工作反而能鼓勵她繼續。這份信任讓共同創作有了具體做法：先把還沒整理好的話說出來，再一起找能唱的部分。[Lauper 談合作](https://www.interviewmagazine.com/music/new-again-cyndi-lauper)"
+            },
+            {
+              "id": "one-more-song",
+              "title": "專輯快完成時，製作人還要一首",
+              "body": "Hyman 在 Roland 的訪談裡回憶，團隊已在寒冷的倉庫裡做了幾個月試錄，靠一台暖爐取暖，他與 Eric Bazilian 都覺得專輯接近完成，製作人 Rick Chertoff 卻認為還缺一首歌。〈Time After Time〉就在這個要求下成形。Hyman 特別記得使用的 JUNO-60 合成器第 61 號音色；這一次，他們沒有先做獨立 demo，而是直接進入二十四軌錄音。他形容 Lauper 的人聲即使不是第一遍，也已十分接近。[Hyman 的 Roland 訪談](https://articles.roland.com/rob-hyman-the-hooters-time-after-time-and-the-juno-60/)\n\n他同時把功勞分給其他人：Chertoff 提出再寫一首，Bazilian 彈吉他，錄音師 Bill Wittman 負責取得好聲音。最後補上的低音線也用了 JUNO。依 Hyman 的說法，主歌只有低音域的鋪底與持續音，低音線到副歌才進來，走的是他喜歡的雷鬼節奏。[Hyman 談錄音分工與低音](https://articles.roland.com/rob-hyman-the-hooters-time-after-time-and-the-juno-60/)\n\n這提供了一個回頭聽原版的入口：留意主歌轉向副歌時，下方的節奏怎麼加入。共同作者除了陪她把話寫完，也用自己熟悉的音樂語彙參與編曲；從訪談列出的分工來看，最後留下的錄音包含了兩位作者、製作人、吉他手與錄音師各自的選擇。"
+            },
+            {
+              "id": "two-clocks",
+              "title": "兩只鐘錶，以及先發哪首歌",
+              "body": "歌裡還有另一件計時工具。Lauper 告訴國會圖書館，Chertoff 當時有一只指針倒退的手錶，拿給大家看，她便把這個現象寫進歌詞。同一首歌於是收進了戀人帶來的舊鐘，以及製作人出狀況的手錶；那些看似抽象的時間意象，有各自的主人與來處。[Lauper 談鐘與手錶](https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/CyndiLauperInterview.pdf)\n\n這首歌也牽涉專輯發行時的一次選擇。Lauper 在同一場訪談說，團隊曾想以它作為首支單曲，她卻堅持先發〈Girls Just Want to Have Fun〉：她認為應先用快歌，再接抒情曲。從選曲、共同寫作到推出歌曲的先後，她都提出了自己的做法。[Lauper 談首支單曲的選擇](https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/CyndiLauperInterview.pdf)\n\n重訪〈Time After Time〉，可以先從這些線索開始：開場的鐘聲敘述、回憶與行李箱的聯繫、走到副歌才加入的低音。它們分別來自不同的人，也經過不同的創作步驟。先聽 1983 年專輯版，留意這些部分如何接在一起，再回頭看訪談裡兩位作者各自記住了什麼。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1980",
+              "event": "Lauper 所屬的 Blue Angel 發行同名專輯，收錄她參與創作的材料。"
+            },
+            {
+              "date": "1983",
+              "event": "《She's So Unusual》製作末期，Lauper 與 Rob Hyman 共同寫成並錄製〈Time After Time〉。"
+            },
+            {
+              "date": "1983-10-14",
+              "event": "《She's So Unusual》發行，收錄〈Time After Time〉。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Time After Time",
+            "artist": "Cyndi Lauper",
+            "note": "從 1983 年《She's So Unusual》專輯版開始。依共同作者 Rob Hyman 的訪談，留意主歌的低音鋪底，以及副歌才加入的低音線；再對照 Lauper 談鐘聲與手錶的創作回憶。"
+          },
+          "sources": [
+            {
+              "title": "Apple Music｜She's So Unusual：Lauper 逐曲訪談與專輯資料",
+              "url": "https://music.apple.com/us/album/shes-so-unusual/400603643"
+            },
+            {
+              "title": "Interview｜New Again: Cyndi Lauper（2013 年重刊八○年代訪談）",
+              "url": "https://www.interviewmagazine.com/music/new-again-cyndi-lauper"
+            },
+            {
+              "title": "Library of Congress｜She's So Unusual，Dale Sherman 專文",
+              "url": "https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/ShesSoUnusual.pdf"
+            },
+            {
+              "title": "Smooth｜The Story of... 'Time After Time' by Cyndi Lauper",
+              "url": "https://www.smoothradio.com/features/the-story-of/time-after-time-cyndi-lauper-lyrics-facts-video/"
+            },
+            {
+              "title": "Library of Congress｜Cyndi Lauper 訪談，2019-05-24",
+              "url": "https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/CyndiLauperInterview.pdf"
+            },
+            {
+              "title": "Roland｜Rob Hyman: The Hooters, Time After Time, and the JUNO-60",
+              "url": "https://articles.roland.com/rob-hyman-the-hooters-time-after-time-and-the-juno-60/"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-10-21:cyndi-time-after-time-clocks"
+        },
+        {
+          "id": "severance-four-chords-piano",
+          "city": "",
+          "cityEn": "",
+          "artist": "Theodore Shapiro",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "四個和弦與被剪碎的鋼琴音",
+          "work": "人生切割術 Severance・Main Titles",
+          "year": "2022",
+          "accent": "sage",
+          "title": "《人生切割術》把鋼琴倒放、剪碎，做成片頭的故障聲",
+          "deck": "四個和弦從電子試作移到鋼琴，兩種琴聲分擔旋律與和弦。Theodore Shapiro 和片頭動畫師的訪談，留下了這段音樂如何定型的線索。",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 7,
+          "people": [
+            "Theodore Shapiro",
+            "Ben Stiller",
+            "Oliver Latta",
+            "Chris Lane",
+            "Rob Moose",
+            "Gabriel Cabezas",
+            "Chris Fogel",
+            "David Donnelly"
+          ],
+          "topics": [
+            "影像與配樂",
+            "製作幕後",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "four-chords",
+              "title": "電子試作裡的一小段",
+              "body": "2020 年 2 月，作曲者 Theodore Shapiro 和導演、執行製作人 Ben Stiller 坐下來聽《人生切割術》的早期音樂。Stiller 對一首電子試作的中段有了反應，那裡只有四個和弦。Shapiro 後來改用鋼琴彈奏同一組和弦，片頭主題就在這次換音色的嘗試中成形。他在 [Inverse 訪談](https://www.inverse.com/severance-composer-theodore-shapiro-interview-apple-tv)裡，把這段過程說得很具體：先有電子版本，再有鋼琴，最後才找到整部影集可以沿用的方向。\n\n這部影集於 2022 年 2 月 18 日首播。馬克帶領的團隊接受手術，把工作記憶與私人記憶分開；這個設定在 [Apple 的首集介紹](https://tv.apple.com/tw/episode/%E5%9C%B0%E7%8D%84%E8%A3%A1%E7%9A%84%E5%A5%BD%E6%B6%88%E6%81%AF/umc.cmc.s80mx1ic96pu6ewupz8pfasf?showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx)裡已經寫明。同一個人有兩套互不相通的生活，配樂要怎麼處理？Shapiro 最早也順著這條分界思考：公司 Lumon 內部用冷調電子聲，外部世界則用較有機的音色。後來他在 [/Film 訪談](https://www.slashfilm.com/826702/severance-composer-on-how-that-eerie-theme-came-together-and-the-easter-egg-you-probably-didnt-catch-interview/)裡確認，最後留下的是一個主要主題。作曲的重心轉向兩個世界共有的謎團，也就是這群人在公司裡究竟做著什麼工作。"
+            },
+            {
+              "id": "two-piano-colors",
+              "title": "和弦與旋律，各用一種鋼琴",
+              "body": "主題定型時，Shapiro 把直立式鋼琴音色交給和弦，平台式鋼琴音色交給旋律。他在 [Song Exploder 官方逐字稿](https://songexploder.net/wp-content/uploads/2025/03/Song-Exploder-Severance-Transcript.pdf)中說，兩種鋼琴的安排呼應了劇中上班、下班兩個自我的概念；他也確認，這些鋼琴聲使用取樣音源，以 MIDI 製作。與取樣鋼琴並置的，還有 Rob Moose、Gabriel Cabezas 參與錄製的現場弦樂。\n\n四個和弦不斷循環，低音則停留在 C。第一個 C 小和弦和低音相合，後面的和弦改變時，與同一顆低音產生不同程度的摩擦。依 Shapiro 在[同份逐字稿](https://songexploder.net/wp-content/uploads/2025/03/Song-Exploder-Severance-Transcript.pdf)的解釋，張力與鬆開就從這裡交替發生。回頭聽時，可以先追蹤低音，再注意上方和弦的變化，不必急著替每個音找劇情答案。\n\n有人確實這樣解謎：四個和弦是否各代表一個角色？[Bandcamp Daily 訪談](https://daily.bandcamp.com/features/theodore-shapiro-severance-interview)把問題直接交給 Shapiro。他說自己沒有這套具體對應，許多決定出於直覺，寫完後才理解它們如何運作。兩種鋼琴呼應雙重自我，是他說過的構想；每個和弦對應誰，則仍是觀眾的解讀。"
+            },
+            {
+              "id": "broken-piano",
+              "title": "把鋼琴剪成近似雜訊的聲音",
+              "body": "片頭還有一層容易被認作電子雜訊的聲音。接受 [/Film 訪問](https://www.slashfilm.com/826702/severance-composer-on-how-that-eerie-theme-came-together-and-the-easter-egg-you-probably-didnt-catch-interview/)時，Shapiro 說明了做法：把一個鋼琴音倒放，再從音訊檔裡切掉小片段，製造斷續、卡住的效果；越接近結尾，加入的失真越多。這些操作都作用在鋼琴聲上，讓同一種聲源逐漸失去原先容易辨認的樣子。\n\n他在[訪談中](https://www.slashfilm.com/826702/severance-composer-on-how-that-eerie-theme-came-together-and-the-easter-egg-you-probably-didnt-catch-interview/)把這個聲音決定連到「自我逐漸磨損」的概念。這也是比較原曲與純鋼琴翻奏時，值得留意的一處：琴鍵可以重現音高與和弦，但倒放、刪切及失真屬於錄音處理，未必會跟著樂譜一起留下。重彈同樣的旋律，並不會自動重現這段音訊的斷裂。\n\n鋼琴後來也繼續提供新的材料。Shapiro 告訴 [Inverse](https://www.inverse.com/severance-composer-theodore-shapiro-interview-apple-tv)，第二季合作的聲音設計師 Chris Lane 做了一批新音色，來源全是鋼琴，其中包括敲擊琴身側面再加工的聲音。這個方法把注意力從琴鍵移向整件樂器：需要打擊感時，也能從同一個聲源另找做法。"
+            },
+            {
+              "id": "animation-timing",
+              "title": "動畫師等到音樂，才排出動作的時間",
+              "body": "片頭動畫的製作，提供了另一個方向的證詞。創作者 Oliver Latta 在 [Art of the Title 訪談](https://www.artofthetitle.com/title/severance/)裡回憶，起初做動畫測試時還沒有正式音樂，他先用暫時配樂，把主角上班、下班的想法排出來。等 Shapiro 與 Stiller 寄來候選音樂，他才有條件把畫面的起伏說得更清楚。\n\n他印象中，第一封信有四首風格不同的曲子。他指出其中一首較合適，也提出希望的走向：開頭慢，中段升起，末段再落下。後來收到的新版本，讓他能依音樂安排各個場景的位置。這段[往返過程](https://www.artofthetitle.com/title/severance/)把音樂與動畫接了起來：動畫師提出起伏的需求，作曲者交回版本，畫面再依音樂安排。\n\nLatta 對音樂的感謝，落在很實際的工作上：原先不確定的場景位置，終於有了安排的依據。這段製作過程適合和成品一起看：片頭裡那些奇異的身體與動作，除了各自的造形，還得在短短一段音樂裡依次出現。觀察它們何時密集、何時收束，可以回到動畫師當初提出的節奏需求，而不必把每一次變形都讀成劇情預告。"
+            },
+            {
+              "id": "return-to-main-titles",
+              "title": "從原聲帶第一軌開始比較",
+              "body": "第一季原聲帶在 2022 年 2 月 18 日發行，開場曲正式列名為〈Main Titles〉，長約一分二十秒。[Qobuz 的作品資料與演職員欄](https://www.qobuz.com/us-en/album/severance-season-1-apple-tv-original-series-soundtrack-theodore-shapiro/o8azogb42atac)列出 Shapiro 負責作曲與製作、Chris Fogel 負責錄音與混音、David Donnelly 負責母帶處理。整張專輯有十九軌，片頭曲之後接著〈Labor Of Love〉與〈Kimono Hallway〉，可由曲目表找到延伸聆聽的入口。\n\n循環的片頭，也可以拿來對照另一種鋼琴處理。Shapiro 在 [Bandcamp Daily 訪談](https://daily.bandcamp.com/features/theodore-shapiro-severance-interview)談到第二季第四集開頭時，說那段音樂花了較久才找到方向。Stiller 想要一種飄忽、接近恐怖卻又不能直接當成恐怖片的感覺，兩人試過幾種方案，最後留下稀疏而不協和的鋼琴。Shapiro 說，那些段落沒有跟著節拍器錄音，而是自由即興，因此有了不受固定拍點約束的流動感。\n\n這讓比較有了明確的對象：片頭用反覆和弦維持張力，第四集的相關段落則放開固定拍點。兩者仍以鋼琴為重要材料，但寫法服務的是不同畫面。作曲者已經說明了演奏與錄音方式，聽的時候便可以留意：哪些地方容易抓住下一拍，哪些地方需要等演奏者決定下一個音何時進來。\n\n若只想先聽一首，就從原聲帶的〈Main Titles〉開始。把它和第一季片頭放在一起比較，先追蹤固定低音，再注意後段被剪碎、逐漸失真的聲音，最後看動畫如何在這段時間裡安排動作。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2020-02",
+              "event": "Theodore Shapiro 與 Ben Stiller 一同討論早期音樂；電子試作中的四個和弦成為後續鋼琴主題的起點。"
+            },
+            {
+              "date": "2022-02-18",
+              "event": "《人生切割術》首集與第一季原聲帶推出，〈Main Titles〉列為原聲帶第一軌。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Main Titles（Severance: Season 1 原聲帶）",
+            "artist": "Theodore Shapiro",
+            "note": "建議對照第一季片頭，留意固定低音、循環和弦與後段逐漸失真的鋼琴聲；比較線索來自作曲者及動畫師訪談。"
+          },
+          "sources": [
+            {
+              "title": "Inverse｜How Severance Season 2 Doubled Down On Its Secret Weapon（Theodore Shapiro 訪談）",
+              "url": "https://www.inverse.com/severance-composer-theodore-shapiro-interview-apple-tv"
+            },
+            {
+              "title": "Apple TV｜《人生切割術》第一季第一集〈地獄裡的好消息〉",
+              "url": "https://tv.apple.com/tw/episode/%E5%9C%B0%E7%8D%84%E8%A3%A1%E7%9A%84%E5%A5%BD%E6%B6%88%E6%81%AF/umc.cmc.s80mx1ic96pu6ewupz8pfasf?showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+            },
+            {
+              "title": "Song Exploder｜Theodore Shapiro – Severance (Main Title Theme)，第 289 集官方逐字稿",
+              "url": "https://songexploder.net/wp-content/uploads/2025/03/Song-Exploder-Severance-Transcript.pdf"
+            },
+            {
+              "title": "Bandcamp Daily｜“Severance” Composer Theodore Shapiro Has Heard Your Theories",
+              "url": "https://daily.bandcamp.com/features/theodore-shapiro-severance-interview"
+            },
+            {
+              "title": "/Film｜Severance Composer On How That Eerie Theme Came Together And The Easter Egg You Probably Didn't Catch",
+              "url": "https://www.slashfilm.com/826702/severance-composer-on-how-that-eerie-theme-came-together-and-the-easter-egg-you-probably-didnt-catch-interview/"
+            },
+            {
+              "title": "Art of the Title｜Severance (2022)，Oliver Latta 與 Teddy Blanks 訪談",
+              "url": "https://www.artofthetitle.com/title/severance/"
+            },
+            {
+              "title": "Qobuz｜Severance: Season 1 (Apple TV+ Original Series Soundtrack)",
+              "url": "https://www.qobuz.com/us-en/album/severance-season-1-apple-tv-original-series-soundtrack-theodore-shapiro/o8azogb42atac"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-21:severance-four-chords-piano"
+        },
+        {
+          "id": "ali-toumani-hotel-mande",
+          "city": "巴馬科",
+          "cityEn": "Bamako",
+          "artist": "Ali Farka Touré・Toumani Diabaté",
+          "lens": "現場與相遇",
+          "category": "現場與相遇",
+          "anchor": "Hotel Mandé 的吉他與 kora 合奏",
+          "work": "In the Heart of the Moon・Debe",
+          "year": "2005",
+          "accent": "sage",
+          "title": "巴馬科旅館裡，Ali 與 Toumani 錄下未先排練的合奏",
+          "deck": "原本的客串構想，成了《In the Heart of the Moon》。從三個下午的錄音、曲中的人名到客席樂手名單，追看這次合作如何留下作品。",
+          "publishedAt": "2026-10-21",
+          "reviewedAt": "2026-10-21",
+          "readingMinutes": 6,
+          "people": [
+            "Ali Farka Touré",
+            "Toumani Diabaté",
+            "Nick Gold",
+            "Jerry Boys",
+            "Tom Leader",
+            "Ry Cooder",
+            "Joachim Cooder",
+            "Orlando「Cachaíto」López"
+          ],
+          "topics": [
+            "現場與相遇",
+            "製作幕後",
+            "音樂人筆記"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "巴馬科",
+              "aliases": [
+                "Bamako"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Hotel Mandé",
+              "aliases": [
+                "Hôtel Mandé",
+                "Hotel Mande"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "bring-the-instruments",
+              "title": "吉他帶來了，kora 也帶來了",
+              "body": "Toumani Diabaté 帶來 kora，Ali Farka Touré 帶來吉他，一首彈上五到十分鐘，錄完便接著下一首。Toumani 在 2006 年接受《愛爾蘭時報》訪問時，這樣回憶《In the Heart of the Moon》的錄製過程。依他的回憶，兩人沒有事先排練，花了六小時錄下合奏。[Toumani 的訪談](https://www.irishtimes.com/culture/independence-day-1.1035465)\n\n錄音地點是巴馬科的 Hotel Mandé。法國國家圖書館把錄音時間記為 2004 年 7 月；《The National》回顧這次合作時，則記下旅館會議室、三個下午，以及未先排練的合奏。兩名熟悉舊曲的演奏者，就在旅館的一間會議室裡，讓曲子一首接一首進行。[館藏錄音資料](https://catalogue.bnf.fr/ark:/12148/cb457811027)、[錄音經過回顧](https://www.thenationalnews.com/arts-culture/music/music-as-medicine-the-last-notes-of-ali-farka-toure-1.491414)\n\n旅館名稱在資料中有出入：《All About Jazz》寫成 Hotel Bamako；法國國家圖書館與《The National》都記為 Hotel Mandé，本文依後兩者標示地點，不將兩個名稱當成已確認的別名。[當年的專輯介紹](https://www.allaboutjazz.com/in-the-heart-of-the-moon-ali-farka-toure-world-circuit-review-by-nenad-georgievski)、[館藏地點記錄](https://catalogue.bnf.fr/ark:/12148/cb457811027)\n\n這些演奏後來成為一張十二曲、約五十四分鐘的專輯，於 2005 年 6 月 27 日發行。這是 Apple Music 與 Africultures 列出的日期；本文引用的 MusicBrainz 條目屬美國版，另列同年 9 月 13 日，須區分版本。回頭看這張唱片，最初的計畫其實只是一段客串。[美國版資料](https://musicbrainz.org/release/8f0a20e5-cd5b-485a-aaf1-9af7eaba13a3)、[專輯資料](https://music.apple.com/us/album/in-the-heart-of-the-moon/1471581781)"
+            },
+            {
+              "id": "shared-repertoire",
+              "title": "原本只打算客串",
+              "body": "《All About Jazz》在唱片發行當年的介紹提到，起初的構想是讓 Toumani 客串 Ali 的新專輯；合奏之後，才有了製作雙人專輯的想法。兩人選用熟悉的素材，包括五、六○年代的曲子，以及 Ali 先前演奏過的作品，並以它們繼續即興。先有一起彈奏的經驗，唱片的規模才隨之改變。[當年的專輯介紹](https://www.allaboutjazz.com/in-the-heart-of-the-moon-ali-farka-toure-world-circuit-review-by-nenad-georgievski)\n\nToumani 來自曼丁的 griot 傳統，這類音樂人的工作也包括講述歷史、傳授知識。[人物與音樂背景](https://www.allaboutjazz.com/in-the-heart-of-the-moon-ali-farka-toure-world-circuit-review-by-nenad-georgievski) 他使用的 kora 有二十一條弦，演奏者用雙手拇指與食指撥弦。Toumani 在《Seven Days》的訪談中說明，低音、旋律與即興可以同時進行。一名演奏者已能兼顧數個聲部，加入吉他後，便多了一個可以接續樂句的搭檔。[kora 的演奏特性](https://www.sevendaysvt.com/music/kora-kora-kora-2136834/)\n\n他在同一訪談裡也把 griot 家庭比作學校：人們學習彈奏，也學習說話與講故事。把這段說明放回兩人的選曲，就更容易理解，熟悉一首舊曲包含的知識，會超出演奏指法本身。曲子如何傳下來、為誰而奏，也在這份傳統之內。[Toumani 談口述傳統](https://www.sevendaysvt.com/music/kora-kora-kora-2136834/)\n\nToumani 起初仍想排練。他告訴《愛爾蘭時報》，選的是五○至七○年代的曲目，但兩人還沒有一起彈過這些歌。Ali 回應說，自己會跟著他彈。熟悉旋律，和熟悉彼此如何演奏，終究是兩件事；這次他們選擇在錄音中完成後者。已知的曲子提供共同依據，誰先帶出樂句、另一人怎麼延伸，則留給當下的合作。[排練提議與回應](https://www.irishtimes.com/culture/independence-day-1.1035465)\n\n從這些記錄來看，六小時之前的準備，分散在兩人各自長年的曲目經驗裡。到了會議室，才把這些經驗放在同一首歌上試。"
+            },
+            {
+              "id": "recording-and-production",
+              "title": "六小時的合奏，還有其他人的工作",
+              "body": "兩人拿起樂器前，製作團隊先得找地方安置設備。Africultures 記錄，Nick Gold 與 Jerry Boys 帶著從倫敦空運來的行動錄音設備，在巴馬科尋找音響條件合適、又容得下樂手的空間，最後選中旅館會議室。這六小時的合奏，前面還有場地與器材的準備。[錄音籌備記錄](https://africultures.com/disques/?no=896)\n\n至於是否每首都一次錄成，兩份來源的記載有出入。《The National》概括為單次錄下；Africultures 則記載三次、每次兩小時，並明列一首因暴風雨而重錄的例外。兩者都提到未先排練，但對重錄情況的說法不同；受暴風雨影響的曲名也未見於這兩份記錄。[錄音經過回顧](https://www.thenationalnews.com/arts-culture/music/music-as-medicine-the-last-notes-of-ali-farka-toure-1.491414)、[重錄情況](https://africultures.com/disques/?no=896)\n\n唱片背後有明確分工：Nick Gold 擔任製作人，Jerry Boys 負責錄音。Nonesuch 後來介紹兩人的第二張合作專輯時，也確認沿用這個製作組合。[廠牌的製作紀錄](https://www.nonesuch.com/journal/ali-farka-toure-toumani-diabate-last-album-together-out-on-world-circuit-nonesuch-2009-12-03) 第一張專輯的唱片資料則列出 Boys 的混音，以及他和 Tom Leader 的母帶處理工作，另有補充錄音。Toumani 所說的六小時，指向核心合奏的形成；發行版本還經過其他人的演奏與後續製作。[唱片製作名單](https://musicbrainz.org/release/8f0a20e5-cd5b-485a-aaf1-9af7eaba13a3)\n\n客席樂手也分散在不同曲目。〈Mamadou Boutiquier〉列有 Ry Cooder 的鋼琴與 Joachim Cooder 的打擊樂；〈Gomni〉則有 Orlando「Cachaíto」López 的貝斯，以及打擊樂手參與。這些名單讓「雙人專輯」的意思更準確：吉他與 kora 是合作的中心，完成的唱片仍容納了其他人的演奏。[逐曲演奏名單](https://musicbrainz.org/release/8f0a20e5-cd5b-485a-aaf1-9af7eaba13a3)"
+            },
+            {
+              "id": "names-in-the-music",
+              "title": "〈Debe〉裡，Ali 叫了搭檔的名字",
+              "body": "要從一首歌進入這張唱片，可以先選開場的〈Debe〉。Africultures 指出，這是曼丁 griot 在婚禮等傳統儀式中會演奏的曲目；這個版本裡，Ali 呼喚 Diabaté 的名字，稱讚他讓舊曲與前人得以延續的本事。熟悉的樂曲之中，於是留下了這次合作中特定的人與回應。[〈Debe〉的背景與曲中話語](https://africultures.com/disques/?no=896)\n\n依這段記載，可以留意 Ali 何時加入人聲，以及說話前後兩件樂器如何接續。唱片的逐曲資料將〈Debe〉列為 Ali 的吉他、人聲與 Toumani 的 kora；接下來的〈Kala〉則列出吉他與 kora。兩曲列出的聲部不同，可以先比較人聲與弦樂器的關係，再留意純粹以吉他、kora 合奏時，樂句怎麼接續。[開場兩曲的演奏資料](https://musicbrainz.org/release/8f0a20e5-cd5b-485a-aaf1-9af7eaba13a3)\n\n有些曲名還帶著日常人物的記憶。〈Mamadou Boutiquier〉所紀念的是巴馬科一名商人；據 Africultures 記錄，Ali 認識他，並向 Toumani 提起這首歌。選曲因此也涉及兩人各自記得什麼、願意向搭檔帶來什麼。一個商人的名字被保存在歌裡，認識他的人又把歌帶進下一次合奏；新版本保留的，也有這樣一段傳唱的經過。[曲名背後的人物](https://africultures.com/disques/?no=896)"
+            },
+            {
+              "id": "follow-the-pair",
+              "title": "沿著曲目與名單往下聽",
+              "body": "Toumani 在 2010 年向《The National》介紹第二張合作專輯時，談起他與 Ali 的分工，把對方形容為支撐音樂的長者：Ali 維持基本線條，讓他自由探索，再回來。這是演奏者對兩人分工的說明，也提供了一種聆聽順序。可以先追著吉他的樂句，再把注意力移到 kora，留意一方維持音型時，另一方如何延伸。[Toumani 回顧合奏方式](https://www.thenationalnews.com/arts-culture/music/music-as-medicine-the-last-notes-of-ali-farka-toure-1.491414)\n\n這樣的分工也讓比較舊版本變得有意思。專輯後段的〈Kadi Kadi〉、〈Gomni〉與〈Hawa Dolo〉，《All About Jazz》指出都來自 Ali 過去的曲目。若要延伸聆聽，可以尋找他先前的錄音，再回到與 Toumani 的合作版，留意旋律重複幾次、兩件樂器在何處接續，以及一段樂句如何收尾。曲名相同，演奏的長度、陪伴旋律的樂器，卻是可以分別比較的項目。[曲目來源說明](https://www.allaboutjazz.com/in-the-heart-of-the-moon-ali-farka-toure-world-circuit-review-by-nenad-georgievski)\n\n也可以留在這張專輯裡，依序播放〈Debe〉、〈Mamadou Boutiquier〉與〈Gomni〉，按名單尋找人聲、鋼琴與貝斯。先認出各首增加了哪些聲部，再回到一直在其中的吉他與 kora，聽兩位搭檔怎麼替彼此留下位置。[逐曲演奏資料](https://musicbrainz.org/release/8f0a20e5-cd5b-485a-aaf1-9af7eaba13a3)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2004-07",
+              "event": "Ali Farka Touré 與 Toumani Diabaté 在巴馬科 Hotel Mandé 錄製合奏；法國國家圖書館館藏記錄確認錄音月份與地點。"
+            },
+            {
+              "date": "2005-06-27",
+              "event": "《In the Heart of the Moon》發行；Apple Music 與 Africultures 的專輯資料均列此日期。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Hotel Mandé",
+              "detail": "位於巴馬科，2004 年 7 月兩人在旅館會議室錄製專輯的核心合奏。配圖呈現所在城市與尼日河景觀，並非旅館或錄音室照片。",
+              "query": "Hotel Mandé Bamako",
+              "photo": {
+                "author": "Original uploader was Marouen at fr.wikipedia",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamako_et_fleuve_Niger.jpg",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+                "id": "place-fa4e0391445d2c29",
+                "caption": "巴馬科與尼日河的城市景觀；呈現錄音地所在城市的範圍，並非 Hotel Mandé 或 2004 年錄音現場。",
+                "alt": "巴馬科的建築與尼日河景觀。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Debe",
+            "artist": "Ali Farka Touré・Toumani Diabaté",
+            "note": "選擇《In the Heart of the Moon》專輯版；依曲目資料留意 Ali 的人聲與吉他、Toumani 的 kora，再與下一首〈Kala〉比較。"
+          },
+          "sources": [
+            {
+              "title": "The Irish Times｜INDEPENDENCE DAY：Toumani Diabaté 訪談（2006-04-07）",
+              "url": "https://www.irishtimes.com/culture/independence-day-1.1035465"
+            },
+            {
+              "title": "法國國家圖書館｜In the Heart of the Moon 館藏與錄音資料",
+              "url": "https://catalogue.bnf.fr/ark:/12148/cb457811027"
+            },
+            {
+              "title": "The National｜Music as medicine: the last notes of Ali Farka Touré（2010-05-11）",
+              "url": "https://www.thenationalnews.com/arts-culture/music/music-as-medicine-the-last-notes-of-ali-farka-toure-1.491414"
+            },
+            {
+              "title": "Apple Music｜In the Heart of the Moon 專輯資料",
+              "url": "https://music.apple.com/us/album/in-the-heart-of-the-moon/1471581781"
+            },
+            {
+              "title": "All About Jazz｜In the Heart of the Moon 專輯介紹（2005-08-17）",
+              "url": "https://www.allaboutjazz.com/in-the-heart-of-the-moon-ali-farka-toure-world-circuit-review-by-nenad-georgievski"
+            },
+            {
+              "title": "Seven Days｜Kora! Kora! Kora!：Toumani Diabaté 訪談（2009-04-22）",
+              "url": "https://www.sevendaysvt.com/music/kora-kora-kora-2136834/"
+            },
+            {
+              "title": "Africultures｜In the heart of the moon：錄音與曲目背景",
+              "url": "https://africultures.com/disques/?no=896"
+            },
+            {
+              "title": "Nonesuch Records｜Ali Farka Touré 與 Toumani Diabaté 合作專輯製作紀錄（2009-12-03）",
+              "url": "https://www.nonesuch.com/journal/ali-farka-toure-toumani-diabate-last-album-together-out-on-world-circuit-nonesuch-2009-12-03"
+            },
+            {
+              "title": "MusicBrainz｜In the Heart of the Moon：逐曲演奏與製作名單",
+              "url": "https://musicbrainz.org/release/8f0a20e5-cd5b-485a-aaf1-9af7eaba13a3"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "photo": {
+            "author": "Original uploader was Marouen at fr.wikipedia",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bamako_et_fleuve_Niger.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "id": "place-fa4e0391445d2c29",
+            "caption": "巴馬科與尼日河的城市景觀；呈現錄音地所在城市的範圍，並非 Hotel Mandé 或 2004 年錄音現場。",
+            "alt": "巴馬科的建築與尼日河景觀。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-21:ali-toumani-hotel-mande"
+        },
         {
           "id": "utada-hanataba-mother",
           "city": "倫敦",
