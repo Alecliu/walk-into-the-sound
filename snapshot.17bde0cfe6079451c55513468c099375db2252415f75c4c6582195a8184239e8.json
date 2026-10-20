@@ -58217,6 +58217,838 @@
     "cityStories": {
       "rows": [
         {
+          "id": "utada-hanataba-mother",
+          "city": "倫敦",
+          "cityEn": "London",
+          "artist": "宇多田光",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "寫詞用的筆記本與筆電",
+          "work": "花束を君に",
+          "year": "2016",
+          "accent": "sage",
+          "title": "宇多田光的〈花束を君に〉，怎麼把母親寫進晨間劇主題曲？",
+          "deck": "宇多田光寫母親，晨間劇製作人想要能陪伴日常的歌。〈花束を君に〉的寫詞、宣傳與動畫 MV，留下了兩者如何相遇的紀錄。",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 6,
+          "people": [
+            "宇多田光",
+            "藤圭子",
+            "落合將",
+            "沖田英宣",
+            "梶望",
+            "辻恵子",
+            "小川純子",
+            "小中志展"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "影像與配樂"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "倫敦",
+              "aliases": [
+                "London"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "laptop",
+              "title": "先把筆記本放下",
+              "body": "回憶《Fantôme》的作詞過程，宇多田光先談到一個很實際的問題：筆記散得太開。她原本一邊反覆播放伴奏，一邊走路、進咖啡店，把想到的字記在本子上；字跡散在十幾二十頁，回頭整理很費力。後來交稿時間緊迫，她改坐到家裡的筆電前，把候選詞句排在螢幕上，逐一替換。她在 2016 年訪談裡說，〈花束を君に〉與〈真夏の通り雨〉的題材都很敏感，寫起來格外慢。[宇多田光訪談](https://realsound.jp/2016/09/post-9393_2.html)\n\n她對這張專輯的用字也有明確要求。過去寫英文，有時是因為音節合適，有時是想換一種語言重述意思；這次她希望只留下必要的字句，寫出自然、好懂，又有美感的日語。這是她對自己當時寫法的要求，並沒有否定過去作品裡英文的用途。換工具解決了整理的麻煩，選什麼字，仍然得一句一句決定。[宇多田光談日語歌詞](https://realsound.jp/2016/09/post-9393_2.html)\n\n〈花束を君に〉於 2016 年 4 月 15 日正式數位發行，並成為 NHK 晨間劇《とと姉ちゃん》的主題曲。一段母女關係，要透過每天早晨播放的歌曲，交到不認識這對母女的觀眾手裡。[官方作品資料](https://www.universal-music.co.jp/utada-hikaru/products/uv1hs-00003/)"
+            },
+            {
+              "id": "mother",
+              "title": "她記得的藤圭子",
+              "body": "母親藤圭子於 2013 年 8 月離世。當月 26 日，宇多田光在官網發表聲明，音樂媒體 rockin’on 保存了全文。她寫到母親長年受精神疾病所苦，家人一直不知道怎樣才能幫上忙；寫到人的性情時，筆下卻很具體：母親膽小又倔強，反應快，喜歡笑，也有冒失得讓人掛心的一面。即使悲傷的記憶很多，她想起母親時，浮現的仍是那張笑臉。[2013 年公開聲明](https://rockinon.com/news/detail/87726)\n\n把這段自述放在歌曲旁邊，母親便有了更具體的樣子。女兒記得母親病中的痛苦，也記得她可愛的地方，兩者留在同一份文字裡。這份聲明寫於歌曲發行近三年前，當時是在回應外界對母親離世的種種猜測。讀者可以藉此理解她記憶裡的母親，卻不必把每句歌詞逐一配成生平事件。[聲明全文與發表背景](https://rockinon.com/news/detail/87726)\n\n到了《Fantôme》的訪談，她又補上一層創作上的困難：母親生前，有些事情不能公開，她會約束自己的表達。母親離世後，她一度以為再也寫不出音樂，真正動筆時卻發現，自己能更自由地選擇字句。這段自述讓「寫給母親」有了具體的代價與過程，並非只要決定紀念，就能順利完成一首歌。[宇多田光談母親與創作](https://realsound.jp/2016/09/post-9393_4.html)"
+            },
+            {
+              "id": "morning",
+              "title": "交給晨間劇的歌",
+              "body": "這首私人色彩濃厚的作品，還得回答電視製作人的委託。《とと姉ちゃん》的製作統籌落合將說，劇集取材自貼近日常生活的雜誌，因此他希望主題曲能陪伴不同處境的人。他特地到倫敦聽宇多田光完成的歌，聽到的是帶著哀愁、卻又明亮的曲調；對原本熟悉她作品的他而言，這個方向也有些出乎意料。[落合將訪談](https://thetv.jp/feature/drama-academy/90/awards/interview/6/)\n\n宇多田光自己也談過這項委託如何影響寫詞。因為歌曲將用於廣受觀看的晨間劇，她比平常更有意識地放寬詞意，希望不同處境的人都能從中找到自己的關係。她所設想的是一首輕盈、向外敞開的歌。這與落合將的描述可以對照：製作人提出陪伴日常的期待，她則在寫詞時，思考怎樣讓更多人進入歌曲。[宇多田光談主題曲的寫法](https://realsound.jp/2016/09/post-9393_2.html)\n\n倫敦也是當時製作安排的現實條件。參與專輯製作的沖田英宣回憶，宇多田光住在當地，孩子還小，團隊便以和當地樂手及聲音工作者合作為前提。他也記得，製作初期她就把歌詞與人聲列為重點。[製作團隊訪談](https://realsound.jp/2017/02/post-11417.html/amp)\n\n這些說法把創作拉回日常：她是失去母親的女兒，也是要安排育兒與工作的母親；一首寫給重要之人的歌，仍需要找人演奏、協調製作，最後交到另一群製作者手上。"
+            },
+            {
+              "id": "listeners",
+              "title": "先聽到歌，再知道母親",
+              "body": "負責宣傳的梶望在同一份團隊訪談中，說明了一個刻意的安排：起初讓歌曲、歌詞先出現，暫緩以歌手本人露面作為宣傳中心。他不希望聽眾一開始便被指定只能從母親的故事理解作品。至於開頭的淡妝意象，他解釋，在創作者的私人背景裡連著母親的告別，聽眾卻也可能想到伴侶準備出門的日常。[梶望談歌曲的傳達](https://realsound.jp/2017/02/post-11417.html/amp)\n\n梶望回憶，團隊在 2016 年 4 月 4 日公開新宣傳照並讓新歌曝光，接下來幾個月收集聽眾對歌詞的感想，也安排文字問答，讓歌迷透過文字與她交流。他在 2017 年訪談中將本人出演 MV 的公開日說成 9 月 6 日，並提到《Fantôme》於 9 月 28 日發行。[梶望回顧宣傳時序](https://realsound.jp/2017/02/post-11417.html/amp)\n\n不過，本人出演 MV 的公開日，本文採用同期官方紀錄的 2016 年 9 月 2 日：9 月 1 日的預告已寫明隔天公開，9 月 2 日的公告也確認影片推出。這與梶望回憶的 9 月 6 日不一致；上述來源未說明四天落差的原因。[9 月 1 日官方預告](https://www.universal-music.co.jp/utada-hikaru/news/2016-09-01/)[9 月 2 日官方公告](https://www.universal-music.co.jp/utada-hikaru/news/2016-09-02/)\n\n歌推出後，有人認出了母親這條線索。宇多田光回憶，那些回應讓她感到被理解，而不只是被同情，也鼓勵她繼續完成專輯其餘歌詞。[宇多田光談聽眾回應](https://realsound.jp/2016/09/post-9393_2.html)\n\n於是，歌曲有了兩種可以並存的讀法。知道藤圭子的故事，會多理解女兒選字時的難處；不知道背景的人，也能從自己的關係出發。製作團隊保留這個先後順序，讓一首歌不必在第一次播放前，就附上一份規定好的解釋。"
+            },
+            {
+              "id": "paper",
+              "title": "花束交到影像團隊手裡",
+              "body": "歌曲剛發行時，先出現的是動畫 MV。唱片公司在 2016 年 4 月 15 日的公告中，已介紹將辻恵子的拼貼作品製成動畫，當天公開其中一部分。[官方發行公告](https://www.universal-music.co.jp/utada-hikaru/news/2016-04-15/)\n\n到了 5 月 13 日，約九十秒的較長版本公開。美術創作者辻恵子留下的製作紀錄，列出小川純子負責導演、小中志展負責動畫，自己製作拼貼圖像。小川在附載的創作說明中，把收花的人設定成一位認識自己、選擇生活方式的女性；晨間劇片頭裡穿藍衣的女孩，則成為送花者。辻恵子還寫到，較長版本裡穿紅衣的女性走向海，變成人魚。[辻恵子的製作紀錄](https://tsujikeiko.blogspot.com/2016/04/hanataba.html)\n\n辻恵子還補充，自己學生時期經常用水彩畫人魚，所以看到小川的分鏡出現這個形象時，感到格外驚訝。人魚出自導演的構想，卻也碰巧連到畫者的舊題材。[辻恵子的回憶](https://tsujikeiko.blogspot.com/2016/04/hanataba.html)\n\n這些角色是影像團隊對歌曲的回應。花束到了別人的作品裡，便有了新的動作與收件人；歌曲所留出的餘地，在這裡成了可以看見的敘事選擇。\n\n回到錄音，可以把注意力放在人聲和字句的關係上。宇多田光談《Fantôme》時說，為了讓日語與歌聲站到前面，她刻意減少伴奏音軌，也更仔細地唱出文字。這提供了一個具體的聆聽方向：比較完整歌曲與動畫短版，留意相同的聲音，在沒有畫面、以及有人送出花束的畫面裡，各自把你的注意力帶向哪裡。[宇多田光談演唱與編曲](https://realsound.jp/2016/09/post-9393_4.html)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2013-08-26",
+              "event": "宇多田光就母親藤圭子離世發表公開聲明，記下母親的性情與自己的記憶；rockin’on 同日刊載全文。"
+            },
+            {
+              "date": "2016-04-15",
+              "event": "〈花束を君に〉正式數位發行，為 NHK 晨間劇《とと姉ちゃん》主題曲。"
+            },
+            {
+              "date": "2016-05-13",
+              "event": "依辻恵子的製作紀錄，約九十秒的動畫 MV 較長版本公開。"
+            },
+            {
+              "date": "2016-09-02",
+              "event": "宇多田光本人出演的新版〈花束を君に〉MV 公開；日期依 9 月 1 日官方預告及 9 月 2 日公告。梶望在 2017 年訪談中回憶為 9 月 6 日，來源未說明差異原因。"
+            }
+          ],
+          "places": [
+            {
+              "name": "倫敦",
+              "detail": "宇多田光當時的生活與專輯製作城市；製作統籌落合將也曾前往聽取完成的主題曲。配圖為城市景觀，不指認住家或錄音室。",
+              "query": "London",
+              "photo": {
+                "author": "QuintusPetillius",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_22.12.2019.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-d712d5d8a882cdf4",
+                "caption": "從泰晤士河南岸望向倫敦金融城，前景為千禧橋。這是 2019 年的城市景觀，並非宇多田光的住家、錄音室或試聽現場。",
+                "alt": "泰晤士河、前景的千禧橋與對岸倫敦金融城建築。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "花束を君に",
+            "artist": "宇多田光",
+            "note": "可搜尋完整歌曲與辻恵子參與的動畫短版，比較人聲、文字與送花畫面的關係。聆聽方向依本人訪談及製作紀錄提出。"
+          },
+          "sources": [
+            {
+              "title": "Real Sound｜宇多田光《Fantôme》訪談：寫詞方式與聽眾回應",
+              "url": "https://realsound.jp/2016/09/post-9393_2.html"
+            },
+            {
+              "title": "Universal Music Japan｜〈花束を君に〉官方作品資料",
+              "url": "https://www.universal-music.co.jp/utada-hikaru/products/uv1hs-00003/"
+            },
+            {
+              "title": "Universal Music Japan｜2016 年 4 月 15 日歌曲與動畫 MV 公開公告",
+              "url": "https://www.universal-music.co.jp/utada-hikaru/news/2016-04-15/"
+            },
+            {
+              "title": "rockin’on｜宇多田光就母親離世發表的公開聲明",
+              "url": "https://rockinon.com/news/detail/87726"
+            },
+            {
+              "title": "Real Sound｜宇多田光《Fantôme》訪談：母親、演唱與編曲",
+              "url": "https://realsound.jp/2016/09/post-9393_4.html"
+            },
+            {
+              "title": "ザテレビジョン｜《とと姉ちゃん》製作統籌落合將談主題曲",
+              "url": "https://thetv.jp/feature/drama-academy/90/awards/interview/6/"
+            },
+            {
+              "title": "Real Sound｜沖田英宣、梶望談宇多田光復出作品的製作與傳達",
+              "url": "https://realsound.jp/2017/02/post-11417.html/amp"
+            },
+            {
+              "title": "辻恵子創作紀錄｜〈花束を君に〉動畫 MV 的美術與團隊分工",
+              "url": "https://tsujikeiko.blogspot.com/2016/04/hanataba.html"
+            },
+            {
+              "title": "Universal Music Japan｜2016 年 9 月 1 日新版 MV 公開預告",
+              "url": "https://www.universal-music.co.jp/utada-hikaru/news/2016-09-01/"
+            },
+            {
+              "title": "Universal Music Japan｜2016 年 9 月 2 日本人出演 MV 公開公告",
+              "url": "https://www.universal-music.co.jp/utada-hikaru/news/2016-09-02/"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "電影與影集",
+            "經典歌曲"
+          ],
+          "photo": {
+            "author": "QuintusPetillius",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_22.12.2019.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-d712d5d8a882cdf4",
+            "caption": "從泰晤士河南岸望向倫敦金融城，前景為千禧橋。這是 2019 年的城市景觀，並非宇多田光的住家、錄音室或試聽現場。",
+            "alt": "泰晤士河、前景的千禧橋與對岸倫敦金融城建築。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-20:utada-hanataba-mother"
+        },
+        {
+          "id": "coco-remember-me-two-meanings",
+          "city": "",
+          "cityEn": "",
+          "artist": "Kristen Anderson-Lopez・Robert Lopez・Germaine Franco",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "〈Remember Me〉的舞台版、搖籃曲版與重逢版",
+          "work": "可可夜總會 Coco・Remember Me",
+          "year": "2017",
+          "accent": "sage",
+          "title": "《可可夜總會》的〈Remember Me〉，怎麼同時當招牌曲與搖籃曲？",
+          "deck": "導演給詞曲作者的難題，是讓同一首歌隨演唱者改變意思。從留下搖籃曲給女兒的日常，到 Germaine Franco 的編曲工作，追查三個版本如何成形。",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 6,
+          "people": [
+            "Kristen Anderson-Lopez",
+            "Robert Lopez",
+            "Germaine Franco",
+            "Lee Unkrich",
+            "Adrian Molina",
+            "Michael Giacchino",
+            "Camilo Lara",
+            "Benjamin Bratt",
+            "Gael García Bernal",
+            "Gabriella Flores",
+            "Libertad García Fonzi",
+            "Anthony Gonzalez",
+            "Ana Ofelia Murguía"
+          ],
+          "topics": [
+            "影像與配樂",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-song-on-two-scales",
+              "title": "階梯上的歌，後來唱給了一個孩子",
+              "body": "《可可夜總會》讓〈Remember Me〉先出現在巨星 Ernesto de la Cruz 的表演裡：舞者與煙火伴著他，腳下的階梯向上升起。到了後來，同一首歌卻由父親 Héctor 唱給年幼的 Coco。導演 Lee Unkrich 在 2018 年 1 月 10 日播出的《Fresh Air》訪談中解釋，前一種演法帶著明星的自我中心，後一種則是父親離家時，用來與孩子保持聯繫的搖籃曲。觀眾先認識一首招牌歌，之後才知道它原來屬於哪一段關係。[《Fresh Air》導演訪談](https://freshairarchive.org/segments/coco-filmmakers-explore-connection-loved-ones-past)\n\n這個差別牽動了電影的核心衝突。小男孩 Miguel 想成為音樂人，家族卻因為祖先離家追求音樂、未再回來的往事而禁止音樂。他以為必須在家人與音樂之間選邊；歌曲的另一種唱法，讓觀眾有機會重新理解這道禁令背後的家族故事。Unkrich 說，開發期間情節改過許多次，這首歌卻從早期留下，始終是故事穩定的一部分。[同一訪談的歌曲與劇情說明](https://freshairarchive.org/segments/coco-filmmakers-explore-connection-loved-ones-past)"
+            },
+            {
+              "id": "the-writing-constraint",
+              "title": "沒有藏起來的第二段歌詞",
+              "body": "寫歌的難題，早在動畫完成前就交到了 Kristen Anderson-Lopez 與 Robert Lopez 手上。兩人在《Bullseye》回憶，Unkrich 要的是一首能隨歌手與編曲產生兩種意思的歌。他們曾想過，是否讓角色到亡靈世界後，才找到歌曲缺失的部分；後來選擇了更嚴格的做法：保留同一套和弦進行、旋律與歌詞，讓演出本身完成轉變。[《Bullseye》詞曲作者訪談逐字稿](https://maximumfun.org/transcripts/bullseye-with-jesse-thorn/transcript-bullseye-with-jesse-thorn-academy-award-winning-songwriters-kristen-anderson-lopez-and-robert-lopez/)\n\n這項選擇給重看電影的人留下一個可以核對的線索：先前聽到的話並沒有被新歌詞推翻。歌名裡請人記住自己的意思，放在明星身上，可以連著名聲與觀眾；放在父女之間，則連著暫時分離與下一次相見。音樂已經交代過的內容，會因為人物關係被揭開而改變分量。\n\nRobert 在訪談裡也提到，歌曲最後也做成了能熱鬧演出的 mariachi 版本。於是，寫旋律時就必須容得下兩種表演尺度：能站上大舞台，也能縮小到一個大人對著孩子唱歌。觀眾可以據此留意，快慢改變之後，一句話會被唱成怎樣的語氣，不只比較哪一版更熱鬧。[《Bullseye》的版本轉換說明](https://maximumfun.org/transcripts/bullseye-with-jesse-thorn/transcript-bullseye-with-jesse-thorn-academy-award-winning-songwriters-kristen-anderson-lopez-and-robert-lopez/)"
+            },
+            {
+              "id": "songs-left-for-children",
+              "title": "他們真的會留歌給女兒",
+              "body": "兩位作者對父女段落的理解，有很日常的出處。Kristen 在 2023 年的 GRAMMY.com 訪談說，夫妻為了電影工作，常得把孩子留在家中；他們會另外寫些搖籃曲，讓兩個女兒能和保母一起唱。她談〈Remember Me〉時想到的，就是父母不在身邊時，仍有一首孩子認得、可以唱出來的歌。[GRAMMY.com 詞曲作者訪談](https://www.grammy.com/news/bobby-lopez-kristen-anderson-lopez-songwriters-behind-the-hits-let-it-go-up-here-coco/)\n\nRobert 還記得動筆那天的情形：孩子出門上學後，他坐到鋼琴前，連衣服都還沒換好。他說，這首歌與〈Let It Go〉的創作時間其實很接近，當時兩部電影同時進行。觀眾接觸作品的先後，與作者寫歌的先後，是兩回事。\n\n在他們家，孩子可以跟著另一位照顧者唱，歌曲也就不需要父母每次在場才能延續。寫進電影後，這個原本用在家庭生活裡的辦法，成了 Héctor 與女兒之間可以反覆使用的聯繫。Robert 也在這次訪談說明，速度放慢、編曲簡化時，他們希望旋律中的音符和和弦進行仍然維持原樣。這些調整提供了回頭比較的依據：除了歌詞說了什麼，也可以留意伴奏減少後，人聲與旋律之間的關係。[GRAMMY.com 的創作時間與編曲說明](https://www.grammy.com/news/bobby-lopez-kristen-anderson-lopez-songwriters-behind-the-hits-let-it-go-up-here-coco/)"
+            },
+            {
+              "id": "franco-and-the-score",
+              "title": "旋律之外，還有編曲與配器的人",
+              "body": "從詞曲走到電影裡的聲音，還有 Germaine Franco 的工作。Pixar Post 記錄製作團隊的音樂簡報，確認她替〈Remember Me〉編曲、配器並參與製作，也與共同導演 Adrian Molina 合寫片中其他歌曲。她參與《可可夜總會》的時間超過四年；一首歌能在不同角色口中換出面貌，需要有人把這種差別落實到演奏安排。[Pixar Post 製作報導](https://pixarpost.com/2017/11/the-music-of-coco.html)\n\n報導並引述 Kristen 說，團隊收到的風格方向是 bolero ranchero，希望歌曲帶有一九二〇、三〇年代的感覺。從這個創作方向來看，虛構巨星的招牌曲有了年代依據，也較能讓人相信它會在後來繼續流傳。〈Remember Me〉因此同時有兩項工作：讓人相信它是一首舊日名曲，也讓它能被一家人私下傳唱。[Pixar Post 的風格與編曲紀錄](https://pixarpost.com/2017/11/the-music-of-coco.html)\n\n官方製作名單另列出，Miguel 與 Héctor 合唱的〈Un Poco Loco〉由 Franco 作曲、Molina 作詞。沿著曲名查下去，可以看到同一部片裡不同的合作組合。[迪士尼官方音樂製作名單](https://www.disneymusiccredits.com/album/coco/)\n\n全片的原創配樂則由 Michael Giacchino 作曲。華特迪士尼唱片在 2017 年 11 月 10 日的發行公告，記載配樂使用八十三人管弦樂團，Franco 參與配器工作，也探索 guitarrón、民俗豎琴、marimba 等樂器的運用。原聲帶當天正式推出。[唱片公司發行公告](https://www.prnewswire.com/news-releases/coco-soundtrack-available-today-album-features-original-songs-a-memorable-score-and-traditional-mexican-sounds-300553940.html)\n\n這份公告還談到角色生活裡聽得見的傳統歌曲。Franco 與音樂顧問 Camilo Lara 一起處理這部分，讓音樂進入 Miguel 所在的小鎮。這也讓片中的禁令有了具體的對照：家裡不准碰音樂，外面的生活卻有歌聲。讀製作名單時，可以把角色演唱的歌曲、環境裡的音樂與襯托劇情的配樂分開來看，才不會把不同的工作都算在同一位作曲者身上。[唱片公司對歌曲、配樂與環境音樂的說明](https://www.prnewswire.com/news-releases/coco-soundtrack-available-today-album-features-original-songs-a-memorable-score-and-traditional-mexican-sounds-300553940.html)"
+            },
+            {
+              "id": "three-recordings-to-compare",
+              "title": "把三個版本放在一起",
+              "body": "要沿著製作線索回頭聽，可以先找英文版原聲帶的三軌：〈Remember Me (Ernesto de la Cruz)〉由 Benjamin Bratt 演唱；〈Lullaby〉列出 Gael García Bernal，以及為年幼 Coco 發聲的 Gabriella Flores、Libertad García Fonzi；〈Reunion〉則是 Anthony Gonzalez 與 Ana Ofelia Murguía，對應 Miguel 與年老的 Coco。官方名單也把這三軌的製作列給 Franco 與 Lopez 夫妻。[迪士尼官方音樂製作名單](https://www.disneymusiccredits.com/album/coco/)\n\n比較時，可以先留意速度、伴奏規模與句尾的處理，再回到人物：誰在唱，又是唱給誰聽？從舞台歌手、父親到下一代孩子，歌曲的聽眾跟著換了。依照作者所說的寫作限制，最值得追的正是旋律與歌詞維持相同時，演唱如何交代不同關係；不必把每次出現都當成另一首作品。\n\n畫面也有可核對的細節。迪士尼的製作介紹說，團隊把攝影機裝在音樂人的吉他上，拍下演奏供動畫師參考，讓角色的彈奏對得上正確音符。Ernesto 唱歌時，團隊還增加了臉部動畫控制系統，讓他的喉結移動，喉部與臉頰也隨歌唱震動。這些微小動作有各自的製作安排，可以與吉他演奏的動畫一起留意。[迪士尼動畫製作介紹](https://www.disney.com.au/movies/coco/7funfacts)\n\n下次比較這幾段，可以把注意力從歌詞移到琴上的手，再看歌手面前究竟是觀眾，還是一位熟悉這首歌的家人。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2017-11-10",
+              "event": "華特迪士尼唱片宣布《Coco》原聲帶當日正式發行。"
+            },
+            {
+              "date": "2018-01-10",
+              "event": "《Fresh Air》播出 Lee Unkrich、Adrian Molina 訪談，說明〈Remember Me〉如何從巨星表演轉為父女搖籃曲。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Remember Me (Lullaby)",
+            "artist": "Gael García Bernal、Gabriella Flores、Libertad García Fonzi",
+            "note": "選用英文版原聲帶的搖籃曲版本；可與 Benjamin Bratt 的 Ernesto de la Cruz 版、Anthony Gonzalez 與 Ana Ofelia Murguía 的 Reunion 版比較。聆聽方向依據詞曲作者訪談與官方製作名單。"
+          },
+          "sources": [
+            {
+              "title": "Fresh Air：Lee Unkrich、Adrian Molina 談《Coco》（2018-01-10）",
+              "url": "https://freshairarchive.org/segments/coco-filmmakers-explore-connection-loved-ones-past"
+            },
+            {
+              "title": "Bullseye：Kristen Anderson-Lopez、Robert Lopez 訪談逐字稿",
+              "url": "https://maximumfun.org/transcripts/bullseye-with-jesse-thorn/transcript-bullseye-with-jesse-thorn-academy-award-winning-songwriters-kristen-anderson-lopez-and-robert-lopez/"
+            },
+            {
+              "title": "GRAMMY.com：Lopez 夫妻談〈Remember Me〉的創作（2023-04-04）",
+              "url": "https://www.grammy.com/news/bobby-lopez-kristen-anderson-lopez-songwriters-behind-the-hits-let-it-go-up-here-coco/"
+            },
+            {
+              "title": "Pixar Post：Source. Score. Originals.《Coco》的音樂製作（2017-11-29）",
+              "url": "https://pixarpost.com/2017/11/the-music-of-coco.html"
+            },
+            {
+              "title": "Walt Disney Music Credits：《Coco》官方音樂製作名單",
+              "url": "https://www.disneymusiccredits.com/album/coco/"
+            },
+            {
+              "title": "Walt Disney Records：《Coco》原聲帶正式發行公告（2017-11-10）",
+              "url": "https://www.prnewswire.com/news-releases/coco-soundtrack-available-today-album-features-original-songs-a-memorable-score-and-traditional-mexican-sounds-300553940.html"
+            },
+            {
+              "title": "Disney：7 Things You Didn't Know About Coco",
+              "url": "https://www.disney.com.au/movies/coco/7funfacts"
+            }
+          ],
+          "interests": [
+            "動畫與遊戲",
+            "歌曲裡的人",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-20:coco-remember-me-two-meanings"
+        },
+        {
+          "id": "sean-mason-a-good-day-brushes",
+          "city": "芒特弗農",
+          "cityEn": "Mount Vernon",
+          "artist": "Sean Mason",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "鼓刷、琴凳與同室即興",
+          "work": "A Good Day",
+          "year": "2026",
+          "accent": "sage",
+          "title": "Sean Mason 的〈A Good Day〉：全程用鼓刷，和舞者一起錄音",
+          "deck": "三位樂手、兩位舞者，每首最多錄兩次。從一對鼓刷的選擇，看這首九月新作如何在共同演奏中成形。",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 6,
+          "people": [
+            "Sean Mason",
+            "Felix Moseholm",
+            "Domo Branch",
+            "Reyna Nuñez",
+            "LeAndre Douglas",
+            "LaTasha Barnes",
+            "Todd Whitelock",
+            "Mark Wilder"
+          ],
+          "topics": [
+            "新歌觀察",
+            "音樂人筆記"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "芒特弗農",
+              "aliases": [
+                "Mount Vernon",
+                "Mount Vernon, New York"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York City",
+                "NYC"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "brushes",
+              "title": "鼓刷一直留在手上",
+              "body": "錄製 Sean Mason 的〈A Good Day〉時，鼓手 Domo Branch 整首使用鼓刷。即使演奏的力道往上推，Branch 也維持這個選擇；低音提琴手 Felix Moseholm 則守住穩定的律動。這是音樂人官網記下的一個編曲決定：讓節奏有推進力，也保留較柔軟的觸感。認識這首新曲，可以先從鼓手手裡的工具開始。[官方單曲介紹](https://seanmason.net/blogs/news-and-announcements/sean-mason-a-good-day-state-of-the-art)\n\n〈A Good Day〉於 2026 年 9 月 18 日發行，是《State of the Art》的第二支單曲。發行商 CORE PORT 的目錄把五位參與者逐一列出：Mason 彈鋼琴，Moseholm 拉低音提琴，Branch 打鼓，另外還有 Reyna Nuñez 與 LeAndre Douglas，職務是動作藝術家。這份名單很適合當作聆聽的起點：三件樂器之外，還有兩個人以身體回應音樂。[CORE PORT 發行與演出名單](https://www.coreport.jp/catalog/jazz_inst/rpoz-21168.html)\n\n官網對影像的文字說明，還記下一個很近的座位：Nuñez 坐在 Mason 身旁的琴凳上，隨音樂律動；Douglas 則起身在房間裡跳舞。琴凳也成了舞者參與演奏的位置。讀這段製作紀錄再看官方影像，可以留意樂手與舞者之間的距離，以及動作如何隨著演奏改變。[官方影像說明](https://seanmason.net/blogs/news-and-announcements/sean-mason-a-good-day-state-of-the-art)"
+            },
+            {
+              "id": "before-session",
+              "title": "新曲先經過俱樂部",
+              "body": "這群人的合作有一段前史。2022 年，Mason 與 Nuñez、Douglas 參與了編舞家 LaTasha Barnes 的《The Jazz Continuum》，探索爵士與舞蹈的關係。新專輯讓這份合作延續到鋼琴三重奏的錄音裡；舞者的腳步、聲音與動作，都在演奏進行時影響樂手的反應。[官方專輯製作紀錄](https://seanmason.net/blogs/news-and-announcements/state-of-the-art-sean-mason-s-new-2026-jazz-album)\n\n依官網的製作紀錄，三重奏在紐約 Dizzy’s Club 首演這批曲目前不到一週，Mason 才把自己獨奏鋼琴的錄音交給兩位樂手。曲子先在台上經過共同演奏，兩天後，樂手與舞者才一起進錄音室。單人寫下的旋律，要經過現場試演，以及錄音時另外四人的回應，才成為唱片上的版本。[官方製作時間順序](https://seanmason.net/blogs/news-and-announcements/sean-mason-secure-the-bag-state-of-the-art)\n\n交付曲目的時間有兩種表述：官網寫首演前不到一週，Mason 在訪談中則說進棚前不到一週。兩者採用的時間點不同，也都未列出交付日期，尚無法把這段準備期精確對齊到日曆上。他在訪談裡補充，樂手會打電話詢問段落或和弦，先把音樂談清楚，再一起排練。[Mason 回憶準備過程](https://slangofages.com/slang-of-ages-interview-series-sean-mason-brings-jazz-and-dance-together-on-state-of-the-art-2026/)\n\nCORE PORT 將〈A Good Day〉的錄音日期記為 2026 年 1 月 13 日，地點是 Mount Vernon 的錄音室。到了九月，這次合作才以單曲形式發表；錄音發生的時間與讀者第一次能正式取得作品的時間，相隔了八個月。[單曲錄音資料](https://www.coreport.jp/catalog/jazz_inst/rpoz-21168.html)"
+            },
+            {
+              "id": "room",
+              "title": "錄音室裡，五個人靠近一些",
+              "body": "專輯前六首錄於 Mount Vernon 的 Oktaven Audio。[官方錄音地點](https://seanmason.net/blogs/news-and-announcements/state-of-the-art-sean-mason-s-new-2026-jazz-album)\n\n錄音室本身的介紹顯示，這裡主要處理古典、爵士與原聲音樂，設有一間長 42 呎、寬 30 呎、高 13 呎的主錄音空間，也有最多六間大小不同的隔音空間。樂手可以如何分開、又如何互相看見，是進棚後需要選擇的條件。[Oktaven Audio 空間資料](https://www.oktavenaudio.com/)\n\nMason 在 Preston Frazier 的訪談裡說，他希望大家盡量靠近，減少隔間與聲音屏障，讓舞者留在樂手身邊。這也使 Branch 必須控制音量，同時保持演奏強度。舞者既在房間裡，也進入了樂手要處理的聲音平衡；鼓刷的選擇，可以放回這種近距離合奏的條件來理解。[Slang of Ages 訪談](https://slangofages.com/slang-of-ages-interview-series-sean-mason-brings-jazz-and-dance-together-on-state-of-the-art-2026/)\n\n官網特別說明，兩位舞者的腳步與聲音就在錄音當下出現，沒有等樂手錄完後才疊加。這讓演出名單上的「動作藝術家」有了具體的工作內容：他們一面接收音樂，一面以身體發聲，三重奏則在同一次演奏裡回應。聽這張唱片時，除了分辨三件樂器，也可以留意那些無法只用鋼琴、貝斯或鼓來解釋的聲響。[舞者如何參與錄音](https://seanmason.net/blogs/news-and-announcements/state-of-the-art-sean-mason-s-new-2026-jazz-album)\n\n錄音與混音由 Todd Whitelock 負責，母帶後製是 Mark Wilder。Mason 擔任作曲及製作，演奏中的互動則由五位參與者共同完成；發行資料保留了這幾種不同的分工。[CORE PORT 製作名單](https://www.coreport.jp/catalog/jazz_inst/rpoz-21168.html)"
+            },
+            {
+              "id": "two-takes",
+              "title": "每首最多錄兩次，留出不同走法",
+              "body": "整批錄音室曲目在一次錄音工作中完成，每首最多兩個 take。Mason 在訪談中補充，第二次可以換一種處理方式，未必沿用第一次的走法；錄完之後，樂手也一起聽、交換意見，參與版本的選擇。限制重錄次數，仍然容得下比較與判斷。[Slang of Ages 訪談](https://slangofages.com/slang-of-ages-interview-series-sean-mason-brings-jazz-and-dance-together-on-state-of-the-art-2026/)\n\nMason 還說，曲子雖然事先寫好，進棚時卻沒有使用樂譜，大家都把音樂記在腦中。他希望樂手能彼此對看；自己準備換段落時，就開口提示。〈Secure the Bag〉裡有一聲準備回到主旋律的招呼，混音師曾問是否要把它調小，他選擇保留。這個製作決定提供了另一條聆聽線索：留意樂句之間的人聲，辨認樂手如何通知同伴接著往下走。[背譜演奏與保留口頭提示](https://slangofages.com/slang-of-ages-interview-series-sean-mason-brings-jazz-and-dance-together-on-state-of-the-art-2026/)\n\n對〈A Good Day〉，他特別提到曲中轉調的段落：曲子要讓人容易進入，也要在和聲裡給獨奏者可走的路。這個說法提供了具體的聆聽問題：旋律已經熟悉之後，伴奏的和聲如何移動，鋼琴又怎麼接下去？[作曲者談〈A Good Day〉](https://slangofages.com/slang-of-ages-interview-series-sean-mason-brings-jazz-and-dance-together-on-state-of-the-art-2026/)\n\n樂評人 Tim Larsen 在 10 月 15 日的《Jazz Views》文章裡，注意到 Mason 先用較重的觸鍵反覆彈奏音型，再轉為輕觸。他也提到錄音裡穿插的拍手與呼喊。依他的觀察，重聽時可以把注意力分給鋼琴力道的變化與旁人的回應，也可以先跟著低音提琴走，再聽鋼琴的重複音型如何變化，把不同樂器的線條分開來聽。[Jazz Views 樂評](https://jazzviews.net/sean-mason-state-of-the-art/)\n\nLarsen 對前一首〈Secure the Bag〉的描述，則著重 Branch 用鼓刷做出的衝勁，以及低音提琴共同建立的 shuffle 節奏。把他的兩段觀察放在一起，聆聽重點便更明確：同一套鋼琴、貝斯與鼓的編制，如何在相鄰曲目裡改變重音、觸鍵與節奏感。[Jazz Views 的兩首曲目觀察](https://jazzviews.net/sean-mason-state-of-the-art/)"
+            },
+            {
+              "id": "next-listen",
+              "title": "把相鄰兩首連著播放",
+              "body": "〈A Good Day〉的旋律也引出了 Nuñez 自己的記憶。官方單曲介紹記錄，她第一次聽 Mason 彈這首曲子，便聯想到成長時聽的 Mary J. Blige；Mason 認同那份溫暖、樂觀的聯想。這段交流也顯示，舞者會帶著自己的聆聽經驗進入合作。[官方單曲介紹](https://seanmason.net/blogs/news-and-announcements/sean-mason-a-good-day-state-of-the-art)\n\n接著可以把專輯開場的〈Secure the Bag〉與第二首〈A Good Day〉連著播放。前者由 Moseholm 的反覆低音動機起頭。Mason 在官方說明裡，把它的律動分成較寬鬆、通透，以及收緊、乾燥的兩種感覺，前一種還讓他想到 Duke Ellington 的〈Chinoiserie〉。鼓刷貫穿兩種處理方式，讓比較有了共同的參照。製作紀錄也記下 Nuñez 臨時拿起鈴鼓、把它融入身體動作的插曲。鈴鼓加入前後，樂手如何回應這個原先沒安排的聲音，是另一處可以回頭確認的細節。[〈Secure the Bag〉製作介紹](https://seanmason.net/blogs/news-and-announcements/sean-mason-secure-the-bag-state-of-the-art)\n\n完整專輯於 10 月 16 日發行，[官網已提供數位版本](https://seanmason.net/)。最後一首另外收進 Dizzy’s Club 的〈One United〉現場錄音；那是 2023 年《The Southern Suite》已有曲目的新演出版本。沿著曲序聽到最後，可以再比較錄音室裡五人的互動，與俱樂部觀眾加入後的現場回應。[官方曲目與版本資料](https://seanmason.net/blogs/news-and-announcements/state-of-the-art-sean-mason-s-new-2026-jazz-album)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2022",
+              "event": "Sean Mason 與 Reyna Nuñez、LeAndre Douglas 開始在 LaTasha Barnes 的《The Jazz Continuum》合作。"
+            },
+            {
+              "date": "2026-01-13",
+              "event": "依 CORE PORT 單曲資料，〈A Good Day〉在 Mount Vernon 錄製。"
+            },
+            {
+              "date": "2026-09-18",
+              "event": "〈A Good Day〉正式發行，成為《State of the Art》的第二支單曲。"
+            },
+            {
+              "date": "2026-10-16",
+              "event": "《State of the Art》發行，收錄〈A Good Day〉及〈One United〉的 Dizzy’s Club 現場版本。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Oktaven Audio",
+              "detail": "位於 Mount Vernon 的錄音室，官方資料確認《State of the Art》前六首在此錄製。配圖呈現同城公園環境，不是錄音室或本次錄音現場。",
+              "query": "Oktaven Audio 35 Grove St Mount Vernon New York",
+              "photo": {
+                "author": "Jim.henderson",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brom_Dyckman_Park_2021_jeh.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-1519231530be9cf2",
+                "caption": "Mount Vernon 市內的 Brom Dyckman Park，攝於 2021 年。此圖呈現錄音室所在城市的環境，並非 Oktaven Audio 或本次錄音現場。",
+                "alt": "Mount Vernon 的 Brom Dyckman Park 公園環境資料照。",
+                "scope": "area"
+              }
+            },
+            {
+              "name": "Dizzy’s Club",
+              "detail": "三重奏在此首演新曲；專輯另收錄在此演出的〈One United〉。配圖是 2015 年 Brussels Jazz Orchestra 的演出資料照。",
+              "query": "Dizzy's Club Jazz at Lincoln Center New York",
+              "photo": {
+                "author": "René Clement",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:BJO_in_Jazz_at_Lincoln_Center,_New_York_March_2015.JPG",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-5655553dcac50780",
+                "caption": "Brussels Jazz Orchestra 於 2015 年 3 月在紐約 Dizzy’s Club 演出。這是場館演出資料照，並非 Sean Mason 的新曲首演或錄音。",
+                "alt": "Brussels Jazz Orchestra 在紐約 Dizzy’s Club 演出的資料照片。",
+                "scope": "exact"
+              }
+            }
+          ],
+          "listen": {
+            "title": "A Good Day",
+            "artist": "Sean Mason",
+            "note": "依官方製作紀錄與訪談，先留意全程使用的鼓刷，再比較鋼琴觸鍵與轉調段落；可接著播放同專輯的〈Secure the Bag〉。"
+          },
+          "sources": [
+            {
+              "title": "Sean Mason：〈A Good Day〉官方單曲與影像說明",
+              "url": "https://seanmason.net/blogs/news-and-announcements/sean-mason-a-good-day-state-of-the-art"
+            },
+            {
+              "title": "CORE PORT：〈A Good Day〉發行日、錄音日期及製作名單",
+              "url": "https://www.coreport.jp/catalog/jazz_inst/rpoz-21168.html"
+            },
+            {
+              "title": "Sean Mason：《State of the Art》官方製作紀錄",
+              "url": "https://seanmason.net/blogs/news-and-announcements/state-of-the-art-sean-mason-s-new-2026-jazz-album"
+            },
+            {
+              "title": "Sean Mason：〈Secure the Bag〉官方製作介紹",
+              "url": "https://seanmason.net/blogs/news-and-announcements/sean-mason-secure-the-bag-state-of-the-art"
+            },
+            {
+              "title": "Oktaven Audio：錄音室與空間資料",
+              "url": "https://www.oktavenaudio.com/"
+            },
+            {
+              "title": "Slang of Ages：Preston Frazier 專訪 Sean Mason，2026-10-10",
+              "url": "https://slangofages.com/slang-of-ages-interview-series-sean-mason-brings-jazz-and-dance-together-on-state-of-the-art-2026/"
+            },
+            {
+              "title": "Jazz Views：Tim Larsen 評《State of the Art》，2026-10-15",
+              "url": "https://jazzviews.net/sean-mason-state-of-the-art/"
+            },
+            {
+              "title": "Sean Mason 官網：《State of the Art》現行發售資訊",
+              "url": "https://seanmason.net/"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "新歌觀察"
+          ],
+          "photo": {
+            "author": "Jim.henderson",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brom_Dyckman_Park_2021_jeh.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-1519231530be9cf2",
+            "caption": "Mount Vernon 市內的 Brom Dyckman Park，攝於 2021 年。此圖呈現錄音室所在城市的環境，並非 Oktaven Audio 或本次錄音現場。",
+            "alt": "Mount Vernon 的 Brom Dyckman Park 公園環境資料照。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-20:sean-mason-a-good-day-brushes"
+        },
+        {
+          "id": "angele-instinct-everyday-recordings",
+          "city": "布魯塞爾",
+          "cityEn": "Brussels",
+          "artist": "Angèle",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "〈Je compte〉裡的布魯塞爾雨聲",
+          "work": "Instinct",
+          "year": "2026",
+          "accent": "sage",
+          "title": "Angèle 把布魯塞爾的雨聲，留進新專輯《Instinct》",
+          "deck": "從家中的 demo、SebastiAn 的電子琶音，到混著救護車聲的原始人聲，循著製作紀錄，看 Angèle 如何決定合作與保留。",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 7,
+          "people": [
+            "Angèle",
+            "Tristan Salvati",
+            "Justice",
+            "SebastiAn",
+            "Caroline Polachek",
+            "Serban Ghenea",
+            "Elvira Anderfjärd",
+            "Luka Kloser",
+            "Oscar Holter"
+          ],
+          "topics": [
+            "新歌觀察",
+            "音樂人筆記"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "布魯塞爾",
+              "aliases": [
+                "Brussels",
+                "Bruxelles"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York",
+                "New York City",
+                "NYC"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Electric Lady Studios",
+              "aliases": [
+                "Electric Lady 錄音室"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "rain-in-the-track",
+              "title": "雨聲有了曲目位置",
+              "body": "依 NRJ 的訪談文字報導，〈Je compte〉裡有一段在布魯塞爾錄下的雨聲。Angèle 談新專輯時，也提到城市聲響、朋友說話與家犬叫聲，說明自己如何收集日常錄音，再放進歌曲。雨聲有可追溯的地點，也有她選擇保留的位置；想認識《Instinct》，可以先從這裡開始。[NRJ 訪談文字報導](https://www.nrj.fr/artistes/angele/actus/instinct-est-assez-frontal-angele-se-confie-sur-la-creation-de-son-nouvel-album-71367167)\n\nAngèle 的第三張錄音室專輯於 2026 年 10 月 16 日正式發行。官方曲序把〈Je compte〉排在第八首，前一首是與 Justice 合作的〈What You Want〉。電子製作與生活錄音在同一張唱片裡相鄰，合作名單很醒目，藏在歌曲裡的聲音卻得靠製作紀錄才知道來處。[Sony Music 發行紀錄](https://www.sonymusic.ca/press_release/angele-releases-third-album-instinct-a-bilingual-record-featuring-justice-soulwax-caroline-polachek-and-sebastian)\n\nNRJ 的文字報導將創作期描述為接近三年。Angèle 說，寫作需要的是與自己保持聯繫、安定下來，她不確定混亂是不是必要條件。這段創作期包含最初草稿到最後幾個月的修改。把她的說法與居家工作的紀錄放在一起看，日常採音與反覆製作，原來可以在同一張唱片裡並行。[NRJ 訪談文字報導](https://www.nrj.fr/artistes/angele/actus/instinct-est-assez-frontal-angele-se-confie-sur-la-creation-de-son-nouvel-album-71367167)\n\n不過，雨聲所在的段落，在另一份訪談中有不同描述。《La Voix du Nord》記下她談專輯開頭的引子，提及布魯塞爾雨聲，以及雨傘下、車內的環境聲；NRJ 則明指〈Je compte〉。兩份文字沒有交代是否用了不同錄音，或同一素材出現多次，暫時無法判定兩者的關係。循著雨聲聽下去時，可以將開場與第八首一起比較，保留這個尚未釐清的曲目線索。[La Voix du Nord 訪談](https://www.lavoixdunord.fr/instant/1746394/article/2026-10-15/angele-nous-raconte-son-nouvel-album-je-n-avais-que-la-pression-de-moi-meme-et-l)、[NRJ 訪談文字報導](https://www.nrj.fr/artistes/angele/actus/instinct-est-assez-frontal-angele-se-confie-sur-la-creation-de-son-nouvel-album-71367167)"
+            },
+            {
+              "id": "demos-at-home",
+              "title": "先不進錄音室",
+              "body": "在《Marie Claire》的訪談裡，Angèle 把製作過程分成幾個階段。最初，她常獨自在布魯塞爾家中寫詞、作曲、製作，狗在身旁。長期共同製作人 Tristan Salvati 會收到她寄去的歌曲，但兩人約好不立刻進錄音室。這段期間持續約一年，他更像提供回應的教練；〈Dis-le〉、〈Trop〉與〈Je compte〉等歌的雛形，都在這時形成。[Marie Claire 訪談](https://marieclaire.be/fr/angele-interview-album-instinct/)\n\n《20 Minutes》補上兩人重新開工的轉折：她先帶著電腦讓 Salvati 聽 demo，直到製作〈Une seule vie〉，兩人才認定找到了方向，接著持續做下去。她說，兩人不想再重複前兩張唱片的做法。寫好一首歌、讓搭檔聽見、決定正式一起製作，在這次工作中有不同的時間點。[20 Minutes 製作報導](https://www.20minutes.fr/tempo/4254999-20261016-vraiment-attendu-bouillonne-impatience-faire-studio-angele-revient-instinct)\n\n等到她覺得專輯已經成形，又出現下一個問題：某些段落還想往前推，自己的能力卻有邊界。她才進一步找來其他製作人。從這個順序看，客席名單並沒有先於歌曲決定一切；歌曲已有雛形，她也比較能說明，還希望別人幫忙做到什麼。[Marie Claire 訪談](https://marieclaire.be/fr/angele-interview-album-instinct/)"
+            },
+            {
+              "id": "different-collaborations",
+              "title": "合作可以從一段琶音開始",
+              "body": "2026 年 9 月 29 日先行發行的〈Love Triangle〉，連歌名都來自一次日常談話。依 Angèle 收錄在官方公告中的回憶，朋友在布魯塞爾的晚餐上討論三角關係，她便在桌下拿小紙片記下歌名。後來聽 SebastiAn 播放 demo 時，她被一段電子琶音吸引，想起了那張紙上的字；她與 SebastiAn、Salvati 花了幾小時，做出歌曲的初步版本。邀 Caroline Polachek 加入，則是希望讓另一位女性回應先前的敘事，兩人再從那個角度往下寫。[〈Love Triangle〉官方製作紀錄](https://www.sonymusic.ca/press_release/angele-devoile-love-triangle-feat-caroline-polachek-sebastian-le-dernier-extrait-avant-la-sortie-du-troisieme-album-dangele-instinct-le-16-octobr)\n\n分工也值得跟著聽：SebastiAn 擔任製作，Angèle 與 Salvati 共同製作，Serban Ghenea 負責混音；Angèle 唱英語，Polachek 在法語與英語之間切換。可以先注意兩人的段落如何交接，再回頭追那段促成歌曲雛形的琶音。一首合唱曲的故事，從聲音素材、詞的視角到最後混音，會經過不同的人。[〈Love Triangle〉官方製作紀錄](https://www.sonymusic.ca/press_release/angele-devoile-love-triangle-feat-caroline-polachek-sebastian-le-dernier-extrait-avant-la-sortie-du-troisieme-album-dangele-instinct-le-16-octobr)\n\n〈Au revoir〉又是另一種合作：它出自 Angèle 首次集體寫歌的場次，參與者包括 Elvira Anderfjärd、Luka Kloser 與 Oscar Holter。她在官方說明裡，把這首歌連到自己告別情感依賴的經驗，法語與英語交替則是當時覺得合適的寫法。對照兩首歌，除了認製作人的名字，也可以比較：換一種語言時，是誰在說話？歌曲裡的關係有沒有跟著改變？[Sony Music 發行紀錄](https://www.sonymusic.ca/press_release/angele-releases-third-album-instinct-a-bilingual-record-featuring-justice-soulwax-caroline-polachek-and-sebastian)"
+            },
+            {
+              "id": "recording-the-surroundings",
+              "title": "正式錄音室以外的聲音",
+              "body": "專輯也進入了紐約 Electric Lady Studios 等正式錄音室，但〈On verra〉保存的是更早的演唱。Angèle 告訴《La Voix du Nord》，她在租來的公寓裡寫歌時便錄下人聲，後來決定沿用，連路過救護車的聲音都聽得見。Sony 的發行資料則確認，那是紐約的救護車警笛。[La Voix du Nord 訪談](https://www.lavoixdunord.fr/instant/1746394/article/2026-10-15/angele-nous-raconte-son-nouvel-album-je-n-avais-que-la-pression-de-moi-meme-et-l)、[Sony Music 發行紀錄](https://www.sonymusic.ca/press_release/angele-releases-third-album-instinct-a-bilingual-record-featuring-justice-soulwax-caroline-polachek-and-sebastian)\n\n她對這個選擇的說明很直接：當時的人聲帶著她想保留的情緒。訪談也提到，她留下一些寫歌當天、用不理想的麥克風與條件錄成的演唱。這裡牽涉的取捨很具體：換到正式設備前重唱，可以得到另一份錄音，卻也必須重新決定，要不要放掉原先那一次表現。她選擇讓早期人聲繼續待在製作完成的歌曲裡。[La Voix du Nord 訪談](https://www.lavoixdunord.fr/instant/1746394/article/2026-10-15/angele-nous-raconte-son-nouvel-album-je-n-avais-que-la-pression-de-moi-meme-et-l)\n\nNRJ 發行當天的介紹，還把〈On verra〉、〈Je compte〉與〈Je sais〉並列為以鋼琴旋律承載內省書寫的曲目。這提供了另一組比較對象：留意歌聲與琴聲如何相處，再找環境錄音從哪裡進來。[NRJ 專輯介紹](https://www.nrj.fr/artistes/angele/actus/angele-instinct-un-nouvel-album-a-coeur-ouvert-71367174)\n\n唱片裡還有其他日常片段。《20 Minutes》列出朋友的語音訊息、餐廳談話、夜晚聚會結束時的片刻，以及雨中坐在車裡的聲音。報導也記下她的感想：製作得如此細緻，反而讓她忘了這是一張極私密的專輯。對照前面保留早期人聲的決定，日常素材如何與完成後的編曲共存，就成了值得細聽的部分。回頭播放時，可以先辨認它們與歌聲的距離：是獨立出現，還是與人聲重疊？停在段落交界，或穿過一整句旋律？報導提供了素材的線索，編曲如何安置它們，仍值得逐首比較。[20 Minutes 製作報導](https://www.20minutes.fr/tempo/4254999-20261016-vraiment-attendu-bouillonne-impatience-faire-studio-angele-revient-instinct)"
+            },
+            {
+              "id": "the-last-mix",
+              "title": "最後一首，自己完成混音",
+              "body": "最後一首〈NYC Blues〉也留著朋友交談的片段，Angèle 並親自完成了這首歌的混音。她向《Marie Claire》談起這項工作時，說那是過去不敢做的事；這次既能邀請更多製作人，也能把部分工作一路做到最後。[Sony Music 發行紀錄](https://www.sonymusic.ca/press_release/angele-releases-third-album-instinct-a-bilingual-record-featuring-justice-soulwax-caroline-polachek-and-sebastian)、[Marie Claire 訪談](https://marieclaire.be/fr/angele-interview-album-instinct/)\n\n她向《La Voix du Nord》補充，尾曲裡有自己在紐約錄到的城市聲響，有些甚至是在無意間收進去的。這讓尾曲與前面的雨聲、人聲錄音構成一組可比較的材料：有些聲音是事先採集，有些跟著演唱或所在環境一起進來，到了成品裡，都經過是否保留的選擇。[La Voix du Nord 訪談](https://www.lavoixdunord.fr/instant/1746394/article/2026-10-15/angele-nous-raconte-son-nouvel-album-je-n-avais-que-la-pression-de-moi-meme-et-l)\n\n可以把〈Je compte〉、〈Love Triangle〉與〈NYC Blues〉排成一段比較聆聽：先依訪談的線索找雨聲，再注意兩位歌手如何交接語言，最後聽朋友談話怎麼進入尾曲。第二次播放時，把注意力移到聲音出現前後的空隙，看看那些日常片段究竟占了多大位置。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-09-29",
+              "event": "〈Love Triangle〉正式發行；Sony Music 公布 SebastiAn、Angèle、Tristan Salvati 與 Serban Ghenea 的製作及混音分工。"
+            },
+            {
+              "date": "2026-10-16",
+              "event": "Angèle 第三張錄音室專輯《Instinct》由 GGL Records／Sony Music 正式發行。"
+            }
+          ],
+          "places": [
+            {
+              "name": "布魯塞爾",
+              "detail": "Angèle 在此居家寫作；NRJ 將布魯塞爾雨聲連到〈Je compte〉，La Voix du Nord 則提及專輯開場，兩份描述的關係尚未釐清。僅標示城市，不推定私人住址或採音位置。",
+              "query": "Brussels",
+              "photo": {
+                "author": "Julian Lupyan",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont_des_Arts,_Brussels,_Belgium.jpg",
+                "license": "CC0",
+                "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "id": "place-622b32369674d939",
+                "caption": "布魯塞爾藝術之丘，攝於 2025 年。這是城市範圍照片，不代表 Angèle 的住家或雨聲採集現場。",
+                "alt": "布魯塞爾藝術之丘的城市景觀。",
+                "scope": "area"
+              }
+            },
+            {
+              "name": "Electric Lady Studios",
+              "detail": "Sony Music 確認為《Instinct》的錄音地點之一，位於紐約；〈On verra〉原始人聲則依她自述錄於租住公寓，兩者不混為同一現場。",
+              "query": "Electric Lady Studios New York",
+              "photo": {
+                "author": "WarrenG313",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_Lady_Studios.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-5f613a4dfaa0d3e6",
+                "caption": "紐約 Electric Lady Studios 正面外觀，攝於 2016 年；為錄音地點的歷史外觀照片，非《Instinct》錄音當時的畫面。",
+                "alt": "紐約 Electric Lady Studios 錄音室的正面外觀。",
+                "scope": "exact"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Je compte",
+            "artist": "Angèle",
+            "note": "依 NRJ 訪談的布魯塞爾雨聲線索入手，並與另一份訪談提及的專輯開場比較；也可接著比較〈Love Triangle〉的雙語合作與〈NYC Blues〉的朋友談話。"
+          },
+          "sources": [
+            {
+              "title": "NRJ｜Angèle 談《Instinct》的創作與日常錄音（2026-10-14）",
+              "url": "https://www.nrj.fr/artistes/angele/actus/instinct-est-assez-frontal-angele-se-confie-sur-la-creation-de-son-nouvel-album-71367167"
+            },
+            {
+              "title": "Sony Music｜《Instinct》正式發行與製作資料（2026-10-16）",
+              "url": "https://www.sonymusic.ca/press_release/angele-releases-third-album-instinct-a-bilingual-record-featuring-justice-soulwax-caroline-polachek-and-sebastian"
+            },
+            {
+              "title": "Marie Claire｜Angèle 談獨自寫作、合作與混音（2026-10-13）",
+              "url": "https://marieclaire.be/fr/angele-interview-album-instinct/"
+            },
+            {
+              "title": "20 Minutes｜《Instinct》的製作轉折與生活聲音（2026-10-16）",
+              "url": "https://www.20minutes.fr/tempo/4254999-20261016-vraiment-attendu-bouillonne-impatience-faire-studio-angele-revient-instinct"
+            },
+            {
+              "title": "Sony Music｜〈Love Triangle〉發行、分工與創作自述（2026-09-29）",
+              "url": "https://www.sonymusic.ca/press_release/angele-devoile-love-triangle-feat-caroline-polachek-sebastian-le-dernier-extrait-avant-la-sortie-du-troisieme-album-dangele-instinct-le-16-octobr"
+            },
+            {
+              "title": "La Voix du Nord｜Angèle 談保留原始人聲與環境聲（2026-10-15）",
+              "url": "https://www.lavoixdunord.fr/instant/1746394/article/2026-10-15/angele-nous-raconte-son-nouvel-album-je-n-avais-que-la-pression-de-moi-meme-et-l"
+            },
+            {
+              "title": "NRJ｜《Instinct》發行介紹與鋼琴曲目（2026-10-16）",
+              "url": "https://www.nrj.fr/artistes/angele/actus/angele-instinct-un-nouvel-album-a-coeur-ouvert-71367174"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "新歌觀察"
+          ],
+          "photo": {
+            "author": "Julian Lupyan",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont_des_Arts,_Brussels,_Belgium.jpg",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "id": "place-622b32369674d939",
+            "caption": "布魯塞爾藝術之丘，攝於 2025 年。這是城市範圍照片，不代表 Angèle 的住家或雨聲採集現場。",
+            "alt": "布魯塞爾藝術之丘的城市景觀。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-20:angele-instinct-everyday-recordings"
+        },
+        {
+          "id": "daft-punk-giorgio-three-microphones",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Daft Punk・Giorgio Moroder",
+          "lens": "製作幕後",
+          "category": "製作幕後",
+          "anchor": "三支不同年代的麥克風",
+          "work": "Giorgio by Moroder",
+          "year": "2013",
+          "accent": "sage",
+          "title": "Daft Punk 錄〈Giorgio by Moroder〉，為什麼擺了三支麥克風？",
+          "deck": "Moroder 帶來口述，鼓手接下哼出的節奏，錄音與混音團隊再把素材組成作品。從逐曲署名追到兩個正式版本，看清楚這首歌裡各人的工作。",
+          "publishedAt": "2026-10-20",
+          "reviewedAt": "2026-10-20",
+          "readingMinutes": 8,
+          "people": [
+            "Thomas Bangalter",
+            "Guy-Manuel de Homem-Christo",
+            "Giorgio Moroder",
+            "Omar Hakim",
+            "John “JR” Robinson",
+            "Nathan East",
+            "James Genus",
+            "Chris Caswell",
+            "Guillaume Le Braz",
+            "Mick Guzauski"
+          ],
+          "topics": [
+            "製作幕後",
+            "音樂人筆記",
+            "唱片與物件"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles"
+              ]
+            },
+            {
+              "type": "街區",
+              "label": "好萊塢",
+              "aliases": [
+                "Hollywood"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "three-microphones",
+              "title": "錄的是回憶，麥克風也分年代",
+              "body": "Giorgio Moroder 面前擺了三支麥克風。依他在 2013 年接受《The Independent》訪問時的回憶，團隊準備用五、六○年代的麥克風對應他的少年往事，七○年代的款式對應那個時期，談到未來則用最新的一支。他問誰能聽出差別，錄音師回答，大概沒有人，但 Thomas Bangalter 知道。這是〈Giorgio by Moroder〉的人聲錄音安排：連講述往事的聲音，也有一條時間線。[Moroder 的訪談](https://www.the-independent.com/arts-entertainment/art/features/daft-punk-together-in-electric-dreams-8619794.html)\n\nMoroder 在 Red Bull Music Academy 的訪談中說，他在巴黎的錄音室談了約三小時的人生。Daft Punk 向他介紹專輯概念，卻沒有詳談這首歌會怎麼做；直到訪談前幾天，他才首次聽到成品，對自己的聲音如何融入音樂感到驚訝。口述先錄下來，歌曲的樣貌則留待後續製作完成。[Moroder 談口述錄音](https://daily.redbullmusicacademy.com/2013/04/giorgio-moroder-interview/)\n\n〈Giorgio by Moroder〉是《Random Access Memories》的第三軌。[官方專輯頁](https://www.daftpunk.com/randomaccessmemories/)將發行日列為 2013 年 5 月 17 日；[SonicScoop 的報導](https://sonicscoop.com/icons-mick-guzauski-on-engineering-and-mixing-daft-punks-random-access-memories/)卻寫 5 月 13 日，《The Independent》5 月 16 日的文章則寫週一上市。[當時報導](https://www.the-independent.com/arts-entertainment/art/features/daft-punk-together-in-electric-dreams-8619794.html)這些頁面未解釋日期差異，本文與時間軸採官方的 5 月 17 日。"
+            },
+            {
+              "id": "credits",
+              "title": "名字在歌名裡，職務仍要分開看",
+              "body": "唱片內頁的逐曲署名，替這場合作畫出了清楚分工：Moroder 與 Thomas Bangalter、Guy-Manuel de Homem-Christo 共同列名作者，表演欄則寫的是人聲；模組合成器署名 Daft Punk，鍵盤則列有 Chris Caswell 與 Daft Punk。歌名中的 Moroder 提供了故事與聲音，合成器演奏則有另一筆署名。[唱片內頁轉錄](https://albumlinernotes.com/Random_Access_Memories.html)\n\n同一份內頁另列 Guillaume Le Braz 負責錄製 Moroder 的聲音，Mick Guzauski 負責專輯混音，製作人是 Bangalter 與 Homem-Christo。Caswell 除了彈鍵盤，也負責專輯的管弦樂配器，並與 Daft Punk 共同列在編曲欄。於是，一段口述被錄下來、一個樂思交給管弦樂演奏、各層聲音最後被混合，能沿著不同職務找到參與者。\n\n節奏組的署名也值得停下來看。這首歌的貝斯列有 Nathan East、James Genus，鼓手列有 John「JR」Robinson、Omar Hakim。Guzauski 的訪談進一步說明，專輯錄音用過兩組節奏班底，正是 Robinson 搭 East、Hakim 搭 Genus。兩份資料合起來，才看得見歌名之外的合作陣容。[Guzauski 談錄音班底](https://sonicscoop.com/icons-mick-guzauski-on-engineering-and-mixing-daft-punks-random-access-memories/)"
+            },
+            {
+              "id": "hummed-rhythm",
+              "title": "先用嘴哼，再讓鼓手接下去",
+              "body": "Omar Hakim 談過其中一個很具體的工作片段。Ableton 訪談引用 Bangalter 的回憶：他把一段複雜的鼓節奏哼給 Hakim 聽，鼓手隨即把它打出來，還做得比他想像中更豐富。依 Bangalter 的估計，光是他描述的那個段落，大概只錄了兩次。[Ableton 訪談](https://www.ableton.com/en/blog/omar-hakim-human-rhythms/)\n\nHakim 在同一篇訪談裡確認自己記得那個情景。他喜歡對方心裡已有明確聲音，卻仍讓樂手試驗、延伸原來的想法。訪談留下的是一次口頭示範：製作人先把腦中的節奏哼出來，樂手用演奏回應，還能在原有想法上加出變化。明確的要求與即興的空間，在這個片段裡同時存在。\n\n他也提到，做電子舞曲的人未必按照鼓手熟悉的方式思考節奏；由於不親自演奏那件樂器，他們反而可能提出不同的用法。這段談話提供了一個回頭聽的問題：在這首以電子音樂前輩命名的作品裡，可以留意真人鼓如何處理反覆與變化，而不只把注意力放在合成器音色上。"
+            },
+            {
+              "id": "recording-and-editing",
+              "title": "先留下選擇，再決定聲音的位置",
+              "body": "Guzauski 的工作，是讓那些演奏留下足夠多的選擇。他向 SonicScoop 說明，錄鼓時既保留近距離、較緊密的聲音，也收錄房間的反射聲；當時還不知道每個段落最後會放在哪裡。這種錄法讓後續製作能調整空間感，無須在開錄時就把所有聲音固定成同一種距離。[錄音與混音訪談](https://sonicscoop.com/icons-mick-guzauski-on-engineering-and-mixing-daft-punks-random-access-memories/)\n\n專輯的基礎樂器還同時錄進數位系統與類比磁帶，之後再把磁帶轉入 Pro Tools。Guzauski 說，團隊會按歌曲或段落選擇版本：有時需要數位錄音較鮮明的衝擊，有時想用磁帶較柔和的瞬態。樂手演奏完成後，Daft Punk 仍透過剪輯安排歌曲；這裡的真人演奏，和電腦裡的重組一直相連。\n\n依同一篇訪談，管弦樂另到 Capitol Studios 錄製。錄音室位於好萊塢的 Capitol Records 大樓內。[Los Angeles Conservancy 建築紀錄](https://www.laconservancy.org/learn/historic-places/capitol-records-tower/) 這些是 Guzauski 對專輯製程的說明；〈Giorgio by Moroder〉的內頁同時列出節奏組與管弦樂，因此回頭看這套流程，正好能追問它的不同聲部如何在後期被放到一起。[逐曲編制](https://albumlinernotes.com/Random_Access_Memories.html)"
+            },
+            {
+              "id": "conway-mix",
+              "title": "Conway 的兩間工作室",
+              "body": "混音在洛杉磯好萊塢的 Conway 進行。Guzauski 告訴 Universal Audio，除了他使用的控制室，現場另有一間 Pro Tools 工作室，供 Daft Punk 增添聲部、聽取混音與剪輯素材；修改好的版本可以立刻送回他手上。兩邊的工作互相影響，曲子仍在調整，混音也已經開始。[Guzauski 談 Conway 的工作方式](https://www.uaudio.com/blogs/ua/artist-interview-mick-guzauski)\n\n他也說，錄音時主要靠麥克風位置取得想要的音色，壓縮與等化的幅度都很克制。以大鼓為例，四支麥克風讓他能分別取得鼓槌的清晰度、較厚的低頻與更深的共鳴，再調配不同收音的比例。這些選擇先在錄音階段做好，混音時才有素材可用。[大鼓收音說明](https://www.uaudio.com/blogs/ua/artist-interview-mick-guzauski)\n\nDaft Punk 後來加入合成器與電子聲音時，會拿先前錄好的樂器當作參照。這使「真人樂器與電子聲音怎麼擺在一起」成為具體的製作問題：後加的聲音要回頭聽已有的素材，再決定怎麼配合。\n\n在他的說法裡，保留動態也是選擇之一。團隊沒有把整張唱片做得越響越好，而是避免過度限制聲音的強弱。把這項選擇帶回〈Giorgio by Moroder〉，聆聽時便多了一個方向：除了辨認用了哪些樂器，也可以留意不同聲部的強弱如何改變注意力。"
+            },
+            {
+              "id": "two-versions",
+              "title": "把鼓拿掉，再帶回原曲",
+              "body": "2023 年 11 月 17 日，Daft Punk 發行《Random Access Memories》的 Drumless Edition。官方明確說明，這個版本移除了各曲的打擊樂聲部，〈Giorgio by Moroder〉也在其中。[官方 Drumless 介紹](https://daftpunk.com/drumless/)\n\n可以選原版中一段有鼓的樂段，先跟著鼓與貝斯走，再切到 Drumless 的對應段落，留意鍵盤、合成器或管弦樂如何提示轉折；最後回到原版，聽鼓聲加入後，注意力落在哪裡。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2013-05-17",
+              "event": "《Random Access Memories》發行，第三軌收錄〈Giorgio by Moroder〉；採官方日期，與 SonicScoop 所寫的 5 月 13 日不同，差異見正文。"
+            },
+            {
+              "date": "2023-11-17",
+              "event": "《Random Access Memories (Drumless Edition)》發行，包含移除打擊樂聲部的〈Giorgio by Moroder〉版本。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Conway Recording Studios",
+              "detail": "洛杉磯好萊塢的專輯混音場地。Guzauski 在控制室混音，Daft Punk 在另一間 Pro Tools 工作室同步修訂素材。配圖為同一錄音室內較早的器材照片。",
+              "query": "Conway Recording Studios Hollywood Los Angeles",
+              "photo": {
+                "author": "John Jennings",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerry_Finn_gear.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-e7298dd0bd6ba871",
+                "caption": "Conway 錄音室內 Jerry Finn 的器材，攝於 2003 年 9 月 11 日；呈現同一場地較早的工作設備，並非 Daft Punk 的錄音現場。",
+                "alt": "Conway 錄音室內 Jerry Finn 的錄音器材，2003 年攝。",
+                "scope": "exact"
+              }
+            },
+            {
+              "name": "Capitol Studios／Capitol Records 大樓",
+              "detail": "Guzauski 回憶專輯管弦樂在 Capitol Studios 錄製。錄音室位於 Capitol Records 大樓內；配圖呈現建築外觀。",
+              "query": "Capitol Studios Capitol Records Tower Hollywood Los Angeles",
+              "photo": {
+                "author": "Bob Kupbens",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capitol_Records_building.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-e80273e6530d76b9",
+                "caption": "Capitol Studios 所在的 Capitol Records 大樓外觀，攝於 2018 年 4 月 12 日；照片不是錄音室內景或 Daft Punk 錄音期間的紀錄。",
+                "alt": "好萊塢 Capitol Records 大樓外觀，2018 年攝。",
+                "scope": "exact"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Giorgio by Moroder",
+            "artist": "Daft Punk",
+            "note": "先找 2013 年原專輯版，再比較 2023 年 Drumless Edition 的同一段。依官方版本說明，後者移除了打擊樂聲部，可留意其他樂器如何提示段落。"
+          },
+          "sources": [
+            {
+              "title": "The Independent｜Daft Punk: Together in electric dreams",
+              "url": "https://www.the-independent.com/arts-entertainment/art/features/daft-punk-together-in-electric-dreams-8619794.html"
+            },
+            {
+              "title": "Red Bull Music Academy｜Interview: Giorgio Moroder",
+              "url": "https://daily.redbullmusicacademy.com/2013/04/giorgio-moroder-interview/"
+            },
+            {
+              "title": "Daft Punk 官方｜Random Access Memories",
+              "url": "https://www.daftpunk.com/randomaccessmemories/"
+            },
+            {
+              "title": "AlbumLinerNotes｜Random Access Memories 唱片內頁轉錄",
+              "url": "https://albumlinernotes.com/Random_Access_Memories.html"
+            },
+            {
+              "title": "SonicScoop｜Mick Guzauski 談 Random Access Memories 錄音與混音",
+              "url": "https://sonicscoop.com/icons-mick-guzauski-on-engineering-and-mixing-daft-punks-random-access-memories/"
+            },
+            {
+              "title": "Ableton｜Omar Hakim: Human Rhythms",
+              "url": "https://www.ableton.com/en/blog/omar-hakim-human-rhythms/"
+            },
+            {
+              "title": "Universal Audio｜Mick Guzauski 談 Random Access Memories 混音",
+              "url": "https://www.uaudio.com/blogs/ua/artist-interview-mick-guzauski"
+            },
+            {
+              "title": "Los Angeles Conservancy｜Capitol Records Tower",
+              "url": "https://www.laconservancy.org/learn/historic-places/capitol-records-tower/"
+            },
+            {
+              "title": "Daft Punk 官方｜Random Access Memories (Drumless Edition)",
+              "url": "https://daftpunk.com/drumless/"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "photo": {
+            "author": "John Jennings",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerry_Finn_gear.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-e7298dd0bd6ba871",
+            "caption": "Conway 錄音室內 Jerry Finn 的器材，攝於 2003 年 9 月 11 日；呈現同一場地較早的工作設備，並非 Daft Punk 的錄音現場。",
+            "alt": "Conway 錄音室內 Jerry Finn 的錄音器材，2003 年攝。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-20:daft-punk-giorgio-three-microphones"
+        },
+        {
           "id": "dolly-porter-always-love-you",
           "city": "",
           "cityEn": "",
