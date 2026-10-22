@@ -58196,6 +58196,402 @@
     "gearStories": {
       "rows": [
         {
+          "id": "electro-harmonix-small-clone-eh4600",
+          "title": "Electro-Harmonix Small Clone：一顆旋鈕、兩段深度，與 Nevermind 的吉他聲",
+          "deck": "從原音與變調訊號的混合方式，理解大盒 Small Clone 的操作取捨，再回到 Butch Vig 記得的錄音段落。",
+          "brand": "Electro-Harmonix",
+          "model": "Small Clone EH 4600 Full-Chorus（大盒版；規格以現行復刻版為準）",
+          "category": "效果器",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "one-knob-two-depths",
+              "title": "一顆旋鈕、兩段深度，選擇很直接",
+              "body": "Small Clone 特別的地方，是把 chorus 的操作集中在速度與深度：RATE 決定音高起伏多快，DEPTH 用兩段開關選擇變化幅度。想讓固定的吉他短句帶上持續變動的音高，伸手就能調；代價是沒有混合比例旋鈕，也不能把深度停在兩段之間。這種取捨，比「類比比較溫暖」更能說明它適合什麼工作。\n\n本文介紹 EH 4600 Full-Chorus 大盒版，操作規格以官方目前列售的復刻版為準。[EHX 產品頁](https://www.ehx.com/products/small-clone/)將復刻版推出年列為 2000；下文另回到 Cobain 使用早期 Small Clone 的錄音故事，兩個年代的器材分開看。"
+            },
+            {
+              "id": "signal-and-controls",
+              "title": "原音留下，另一份訊號持續變調",
+              "body": "[官方操作手冊](https://www.ehx.com/wp-content/uploads/2021/01/small-clone-manual.pdf)對原理的解釋很實用：電路讓輸入訊號的頻率稍微變動，再與未處理的原音混合，形成重疊的效果。DEPTH 改的是變動幅度，RATE 改的是升降循環的速度。因此，覺得起伏太快時應調 RATE；想保留速度、只減輕音高偏移，才輪到 DEPTH。\n\n也因此，將 RATE 調慢不等於把效果混小聲。這顆踏板沒有獨立的效果音量或乾濕比例控制，若兩段深度都不合適，單靠速度旋鈕未必能解決。試奏可以固定一個和弦或短句，先只切換深度，再比較速度，較容易分辨自己嫌的是哪一種變化。\n\n官方規格列的是單聲道與 true bypass。若踏板盤要分送兩台音箱，Small Clone 本身沒有左右聲道輸出可供安排；把它接進立體聲系統，也不會因此多出一組立體聲 chorus。"
+            },
+            {
+              "id": "cobain-and-vig",
+              "title": "Butch Vig 記得的兩處聲音",
+              "body": "[Equipboard 的 Small Clone 頁面](https://equipboard.com/items/electro-harmonix-small-clone-analog-chorus?cid=563001)把 Kurt Cobain 列為使用者，這是追查的起點。更具體的紀錄來自 [Guitar World 的器材專題](https://www.guitarworld.com/features/the-definitive-kurt-cobain-gear-guide)：Cobain 把 Small Clone 帶進 Sound City，參與《Nevermind》的錄音。製作人 Butch Vig 在文中指出，〈Smells Like Teen Spirit〉副歌前逐漸堆高的段落，以及〈Come As You Are〉，都用了這顆效果器。\n\n這段回憶把使用情境落在歌曲與段落，卻沒有交代完整旋鈕位置。可以據此理解 chorus 在那些錄音中的角色，不能據此開出一張保證重現專輯的設定單，也不能把整首歌所有吉他聲部都歸給 Small Clone。\n\n[Live Nirvana 的器材檔案](https://www.livenirvana.com/equipment/cleme/kurt2.php)另引述技師 Earnie Bailey：Cobain 可能擁有 SAD1024 與 MN3007 兩種晶片版本，至少兩顆曾把深度開關接成固定狀態。這裡的「可能」要留下；現有資料不足以把上述歌曲逐一配對到某顆晶片，更不能假定一顆未改裝的復刻版具有相同設定。"
+            },
+            {
+              "id": "space-and-demo",
+              "title": "適合少量調整，限制也在這裡",
+              "body": "若你需要的是一個常用的 chorus 設定，歌曲中主要以腳踏開關啟閉，這種面板相當直接。若工作需要細調效果比例、讓調變跟節拍同步，或在幾組設定之間快速切換，它的控制範圍就偏少：面板沒有混合旋鈕、tap tempo 或預設切換。\n\n大盒的空間也得算進去。官方外尺寸為 5.25 × 3.38 × 2.75 英吋，排踏板盤時還要預留頂部接頭與線材的轉彎空間，不能只看名稱裡的 Small。需要先找比較方向，可以從 [EHX 的 Dan Miller 示範](https://www.youtube.com/watch?v=T3mPmWiEQLo)開始：官方影片說明將 00:35 標為 chorus 設定、01:02 標為快速旋轉感設定。可以循著章節比較調變速度；官方描述仍需與自己的器材和彈法分開判斷。\n\n選購時可以準備兩種素材：有停頓的單音旋律，以及持續延音的和弦。用自己平常的乾淨音與失真音各試一次，留意效果啟閉後，樂句是否仍有需要的清楚度。每次只改一個控制，才容易判斷哪一段深度適合自己的編曲。若每首歌都要不同速度，現場彎腰改旋鈕也是必須考慮的負擔。"
+            },
+            {
+              "id": "used-unit-checks",
+              "title": "二手先看完整型號，再看供電",
+              "body": "挑二手時，先請賣家提供面板、電源座及底部照片，確認是 EH 4600 Full-Chorus 大盒版，並詢問改裝與維修紀錄。本文採用的 [Commons 照片](https://commons.wikimedia.org/wiki/File:Electro-Harmonix_SmallClone_Chorus_GuitarEffect_1189.jpg)由 Sky99 於 2009 年拍攝，採 CC BY-SA 3.0 授權；畫面能辨識型號、RATE、DEPTH 與腳踏開關，但看不到內部，不能拿它判定晶片或製造年份。\n\n現行手冊要求外接電源至少能供應 25mA，使用中心負極、2.1mm 接頭，電壓不得超過 10VDC；踏板在 9VDC 下約耗電 12mA。這些是該版手冊的條件，買較早或改過電源座的二手機，仍應依實物標示與對應文件確認，別只因面板相似就直接插電。\n\n若重視收藏年份，應另核對序號、電路照片與可追溯的購買資料，使用痕跡不能代替年代證明；若目的是演出，開關與供電是否可靠更值得先確認。\n\n實際檢查時，讓 RATE 走過全行程、切換兩段 DEPTH，確認調整有反應，再測試旁通、腳踏開關與接頭是否接觸不良。若使用電池，收琴後要拔掉 INPUT：手冊明說，只要輸入端插著線，電池就仍有耗電。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "規格適用版本",
+              "value": "官方目前列售的 Small Clone 大盒復刻版；產品頁列推出年為 2000"
+            },
+            {
+              "label": "電路類型",
+              "value": "類比 chorus"
+            },
+            {
+              "label": "控制",
+              "value": "RATE 旋鈕、兩段 DEPTH 開關、效果啟閉腳踏開關"
+            },
+            {
+              "label": "聲道",
+              "value": "單聲道；一組音訊輸入、一組音訊輸出"
+            },
+            {
+              "label": "旁通",
+              "value": "True bypass"
+            },
+            {
+              "label": "供電",
+              "value": "9V 電池；官方另列選購 9.6VDC／200mA 變壓器"
+            },
+            {
+              "label": "耗電",
+              "value": "約 12mA，於 9VDC 下"
+            },
+            {
+              "label": "外尺寸",
+              "value": "5.25 × 3.38 × 2.75 英吋，依官方產品頁標示順序"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Kurt Cobain",
+              "work": "Nirvana《Nevermind》：〈Smells Like Teen Spirit〉與〈Come As You Are〉",
+              "story": "Guitar World 的器材專題記錄 Cobain 將 Small Clone 帶進 Sound City，並引述製作人 Butch Vig，指認它用於〈Smells Like Teen Spirit〉副歌前的堆疊段落及〈Come As You Are〉。這是早期 Small Clone 的錄音紀錄，不是 2000 年推出之復刻版的使用證明；資料未確認各曲所用晶片、完整設定或每個吉他聲部的錄音鏈。Live Nirvana 對技師 Earnie Bailey 的引述亦只表示 Cobain 可能持有兩種晶片版本。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Electro-Harmonix Small Clone Analog Chorus Pedal (Demo by Dan Miller)",
+              "channel": "EHX",
+              "url": "https://www.youtube.com/watch?v=T3mPmWiEQLo",
+              "verifiedAt": "2026-10-23"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Electro-Harmonix EH-4600 Small Clone",
+              "url": "https://equipboard.com/items/electro-harmonix-small-clone-analog-chorus?cid=563001"
+            },
+            {
+              "title": "Electro-Harmonix：Small Clone 官方產品頁",
+              "url": "https://www.ehx.com/products/small-clone/"
+            },
+            {
+              "title": "Electro-Harmonix：Small Clone Full Chorus 操作手冊",
+              "url": "https://www.ehx.com/wp-content/uploads/2021/01/small-clone-manual.pdf"
+            },
+            {
+              "title": "Guitar World：Kurt Cobain's guitars, amps & pedals: the definitive guide",
+              "url": "https://www.guitarworld.com/features/the-definitive-kurt-cobain-gear-guide"
+            },
+            {
+              "title": "Live Nirvana：Kurt Cobain's Amplifiers and Effects Pedals",
+              "url": "https://www.livenirvana.com/equipment/cleme/kurt2.php"
+            },
+            {
+              "title": "EHX：Small Clone 官方示範，Dan Miller",
+              "url": "https://www.youtube.com/watch?v=T3mPmWiEQLo"
+            },
+            {
+              "title": "Wikimedia Commons：Electro-Harmonix SmallClone Chorus GuitarEffect 1189.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Electro-Harmonix_SmallClone_Chorus_GuitarEffect_1189.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Sky99",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electro-Harmonix_SmallClone_Chorus_GuitarEffect_1189.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "id": "place-fafed07e02756638",
+            "caption": "Electro-Harmonix Small Clone EH 4600 Full-Chorus 大盒版正面，Sky99 於 2009 年拍攝。可見 RATE、DEPTH、狀態燈、腳踏開關及頂部接線；未呈現底部與內部電路，拍攝年份不代表製造年份。CC BY-SA 3.0。",
+            "alt": "銀色大盒 Small Clone 效果器，紫色面板印有 EH 4600 FULL-CHORUS，中央為 RATE 旋鈕，左側為 DEPTH 開關，右側紅色狀態燈亮起。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-23:gear-effects"
+        },
+        {
+          "id": "danelectro-3021-shorthorn-original",
+          "title": "Danelectro 3021：Rory Gallagher 的錄音用琴，與一整塊木弦鞍",
+          "deck": "從纖維板琴身、同軸旋鈕到不可逐弦微調的琴橋，認識原版 3021 的用途，也看清名人改裝琴與原廠配置的距離。",
+          "brand": "Danelectro",
+          "model": "3021 Shorthorn（1960 年代原版，黑色雙拾音器）",
+          "category": "吉他",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 5,
+          "sections": [
+            {
+              "id": "a-frame-between-two-panels",
+              "title": "兩片纖維板之間，藏著木框",
+              "body": "Danelectro 3021 Shorthorn 最值得研究的地方，是它把電吉他做成木框、Masonite 硬質纖維板與兩顆口紅管拾音器的組合。這種結構加上同軸旋鈕、共用木製弦鞍，讓它的操作與整修都有自己的規矩。選它，值得先看這些細節，再看琴上連著哪位名人的名字。外表是一把雙缺角電吉他，內部卻不是整塊實木；選購時若只比較木材名稱，會忽略這個更根本的構造差異。\n\n本文談的是已停產的 1960 年代原版黑色雙拾音器 3021。[Vintage Guitar Info 器材檔案](https://www.guitarhq.com/dano.html) 將它列在 Standard Shorthorn 家族，記錄了纖維板面背與木框結構；同家族還有單拾音器及其他顏色的不同編號。後來的 DC-59 復刻沿用外形，不能直接套用原版規格。看到賣場寫「Jimmy Page 型」，仍得往下查年份、控制器與琴橋。"
+            },
+            {
+              "id": "controls-and-bridge",
+              "title": "兩個旋鈕位置，四個控制動作",
+              "body": "3021 的兩組圓形旋鈕各有上下兩層，提供兩顆拾音器的音量與音色控制。它把四個控制功能收在兩個位置，試琴時要分層轉動，確認各自的作用；只轉上層，會漏掉一半可用的調整。口紅管的名稱則來自拾音器的管狀外殼，不能光看外觀就認定老琴與復刻的內部規格相同。\n\n原式口紅管拾音器的線圈包著條狀磁鐵，收在金屬管內，沒有一排可逐弦旋轉的磁柱螺絲。若某根弦特別突出，別預設能靠轉磁柱處理。試琴時先固定音箱設定，分別聽兩顆拾音器的六弦平衡，再請技師檢查高度與零件狀況，會比同時轉動好幾個控制更容易找出問題。\n\n更直接影響演奏的是琴橋。[Forsyths 維修工作室的原版／復刻比較](https://www.forsyths.co.uk/content/71-danelectro-reissues-how-do-they-compare-to-the-originals) 說明，原式金屬底板上是一整塊玫瑰木弦鞍，可以調整整體八度音準，卻沒有六根弦各自的微調空間。換弦規或改調弦後，應逐弦比較空弦與十二格，不能只把空弦調準就結束。該文實際拆看的老琴是 6027 Deluxe，因此這裡只採用其對原式琴橋、拾音器與控制結構的說明，不把那把琴的試彈音色移植給 3021。"
+            },
+            {
+              "id": "rory-in-the-studio",
+              "title": "Rory Gallagher 把它留在錄音室",
+              "body": "[Equipboard 的 3021 條目](https://equipboard.com/items/danelectro-3021-shorthorn-guitar) 提供了一條很值得追的線索：Rory Gallagher 用過這個型號。回到 [Guitarist 刊於 MusicRadar 的器材報導](https://www.musicradar.com/news/guitars/rory-gallaghers-gear-the-key-guitars-amps-and-effects-546815)，用途就具體了：它參與 1973 年《Tattoo》裡〈A Million Miles Away〉與〈Cradle Rock〉的錄音。報導也明說，這是錄音室用琴，兩首歌後來常在現場演奏，他卻沒有把這把 Dano 帶上台使用。\n\n弟弟 Donal 在另一篇 [MusicRadar 訪談](https://www.musicradar.com/news/guitars/in-pictures-rory-gallaghers-blues-guitars-628095) 也提到這兩首歌與那把廉價買來的 Danelectro，並回憶 Rory 要求器材在錄音室或舞台上有實際用途。這是家人的回憶，不必改寫成 Rory 本人的購琴宣言。兩份報導支持的是特定錄音用途，沒有交代每條吉他軌、旋鈕位置或完整訊號鏈；聽唱片時，不宜把所有吉他聲都算到它頭上。\n\n這個案例也提醒了想重現〈Cradle Rock〉的讀者：先決定參考《Tattoo》錄音，還是某場現場版本。歌曲相同，使用的吉他未必相同；一張演出照片無法回答錄音室裡發生了什麼。"
+            },
+            {
+              "id": "page-onstage",
+              "title": "Page 的舞台，和後來展出的改裝琴",
+              "body": "Jimmy Page 的例子則有明確演出影像。[Led Zeppelin 官方頁面](https://www.ledzeppelin.com/video/white-summer-royal-albert-hall-1970) 將〈White Summer〉片段標為 1970 年 1 月 9 日 Royal Albert Hall 演出，出自 2003 年官方 DVD。對應的 [YouTube 官方影片](https://www.youtube.com/watch?v=ny6lXZccpCY) 在約 00:22–00:30 的畫面可辨認黑色雙缺角琴身、大面積淺色護板與兩顆口紅管拾音器，也能看到 Page 坐著彈奏。這段影像讓讀者有一個具體場合可對照，不能據此推定同名作品的錄音版本也用了相同配置。\n\n本文採用的 [Commons 展場照片](https://commons.wikimedia.org/wiki/File:Jimmy_Page%27s_Rig_-_1961_Danelectro_Model_3021,_ca.1962_Harmony_Sovereign_H1260_(serial_no._9631111260),_2%C3%97_Marshall_1959_Super_Lead,_Super_Bass,_3%C3%97_4%C3%9712in._cab.,_etc._-_Play_It_Loud._MET_(2019-05-13_19.09.34_by_Eden,_Janine_and_Jim).jpg) 拍於 2019 年，右側是標示為 1961 年製的 Page 藏琴，旁邊另有 Harmony 木吉他與音箱。它已裝上 Badass 琴橋；Forsyths 也記錄了 Page 的換橋改裝。因此照片能用來辨識他的 3021，卻不適合當成原廠木弦鞍的示意圖。"
+            },
+            {
+              "id": "buying-an-original",
+              "title": "買老琴，先確認調得好的範圍",
+              "body": "我的選購判斷是：原版 3021 適合願意為一把琴安排固定弦規、調弦與整修時間的人。若需要頻繁換弦規，或希望每根弦的八度音準都能獨立調整，原式木弦鞍會增加取捨。喜歡外形的讀者，也可以把後期復刻列入比較，但應依那個版本的結構判斷。\n\n二手檢查先從琴頸開始。前述器材檔案與維修比較都指出，原版使用不可調的琴頸補強結構，不能預設轉一轉調整桿就能修正弧度。請賣方提供目前弦規、弦高與琴頸狀況，最好帶著預計使用的調弦方式請技師評估。接著查木弦鞍磨損、琴橋周圍有無改裝孔洞，測試每層旋鈕、切換與插孔是否正常。改裝可以有實用價值，但估價前要確認換過什麼、原零件是否還在；把「原裝程度」與「目前能否好好演奏」分開問，才知道錢花在哪裡。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "版本",
+              "value": "1960 年代原版 Standard Shorthorn 3021；已停產"
+            },
+            {
+              "label": "琴身",
+              "value": "雙缺角木框結構，Masonite 硬質纖維板面板與背板"
+            },
+            {
+              "label": "3021 原版配色",
+              "value": "黑色"
+            },
+            {
+              "label": "拾音器",
+              "value": "2 顆口紅管單線圈拾音器"
+            },
+            {
+              "label": "控制",
+              "value": "2 組同軸雙層旋鈕，分別控制兩顆拾音器的音量與音色"
+            },
+            {
+              "label": "琴頸接合",
+              "value": "螺栓固定式"
+            },
+            {
+              "label": "琴頸補強",
+              "value": "不可調式補強結構"
+            },
+            {
+              "label": "原式琴橋",
+              "value": "金屬底板搭配單塊玫瑰木弦鞍；照片中的 Page 藏琴已換裝 Badass 琴橋"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Rory Gallagher",
+              "work": "《Tattoo》（1973）：〈A Million Miles Away〉、〈Cradle Rock〉",
+              "story": "Guitarist／MusicRadar 的器材報導明確將 3021 Shorthorn 列為這兩首歌的錄音用琴，並指出 Gallagher 沒有把它用於舞台演出。Donal Gallagher 的另一篇訪談也提到兩首錄音與該把 Danelectro。證據沒有細分吉他軌、拾音器設定或完整錄音鏈，不能推論整張專輯或後來的現場版本都使用它。"
+            },
+            {
+              "name": "Jimmy Page",
+              "work": "Led Zeppelin，1970 年 1 月 9 日 Royal Albert Hall〈White Summer〉",
+              "story": "官方演出頁確認日期與影片出處；已檢視的 YouTube 預覽影格約 00:22–00:30 可見 Page 坐著彈奏黑色 Shorthorn，琴身、護板及雙口紅管拾音器可辨識。這支持該場演出的使用情境，不證明同名作品的錄音器材，也未據此判定調弦、旋鈕或音箱設定。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Led Zeppelin : White Summer (Live at Royal Albert Hall 1970)",
+              "channel": "Led Zeppelin",
+              "url": "https://www.youtube.com/watch?v=ny6lXZccpCY",
+              "verifiedAt": "2026-10-23"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Danelectro 3021 Shorthorn Guitar",
+              "url": "https://equipboard.com/items/danelectro-3021-shorthorn-guitar"
+            },
+            {
+              "title": "Vintage Guitar Info：Danelectro、Silvertone、Coral 器材檔案",
+              "url": "https://www.guitarhq.com/dano.html"
+            },
+            {
+              "title": "Forsyths：Danelectro 原版與復刻的維修比較",
+              "url": "https://www.forsyths.co.uk/content/71-danelectro-reissues-how-do-they-compare-to-the-originals"
+            },
+            {
+              "title": "Guitarist／MusicRadar：Rory Gallagher's gear",
+              "url": "https://www.musicradar.com/news/guitars/rory-gallaghers-gear-the-key-guitars-amps-and-effects-546815"
+            },
+            {
+              "title": "MusicRadar：Rory Gallagher's blues guitars，含 Donal Gallagher 訪談",
+              "url": "https://www.musicradar.com/news/guitars/in-pictures-rory-gallaghers-blues-guitars-628095"
+            },
+            {
+              "title": "Led Zeppelin 官方：White Summer，Royal Albert Hall 1970",
+              "url": "https://www.ledzeppelin.com/video/white-summer-royal-albert-hall-1970"
+            },
+            {
+              "title": "Led Zeppelin 官方 YouTube：White Summer 現場片段",
+              "url": "https://www.youtube.com/watch?v=ny6lXZccpCY"
+            },
+            {
+              "title": "Wikimedia Commons：Jimmy Page 的 1961 年 Danelectro 3021 展場照片",
+              "url": "https://commons.wikimedia.org/wiki/File:Jimmy_Page%27s_Rig_-_1961_Danelectro_Model_3021,_ca.1962_Harmony_Sovereign_H1260_(serial_no._9631111260),_2%C3%97_Marshall_1959_Super_Lead,_Super_Bass,_3%C3%97_4%C3%9712in._cab.,_etc._-_Play_It_Loud._MET_(2019-05-13_19.09.34_by_Eden,_Janine_and_Jim).jpg"
+            }
+          ],
+          "photo": {
+            "author": "Eden, Janine and Jim from New York City",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Page%27s_Rig_-_1961_Danelectro_Model_3021,_ca.1962_Harmony_Sovereign_H1260_(serial_no._9631111260),_2%C3%97_Marshall_1959_Super_Lead,_Super_Bass,_3%C3%97_4%C3%9712in._cab.,_etc._-_Play_It_Loud._MET_(2019-05-13_19.09.34_by_Eden,_Janine_and_Jim).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-e02d3e25e11ae6dc",
+            "caption": "2019 年大都會博物館 Play It Loud 展場：右側為 Jimmy Page 的 1961 年 Danelectro 3021，已換裝 Badass 琴橋，並非原廠木弦鞍配置。照片同時包含左側 Harmony 木吉他與背景音箱。攝影：Eden, Janine and Jim，CC BY 2.0。",
+            "alt": "展櫃右側的黑色 Danelectro 3021，可見雙口紅管拾音器、淺色護板、兩組堆疊旋鈕與改裝琴橋；左側為木吉他。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-23:gear-guitar"
+        },
+        {
+          "id": "roland-tr-808-original",
+          "title": "Roland TR-808：〈Sexual Healing〉進錄音室前，節奏已經寫好了",
+          "deck": "類比鼓聲、步進編程與十一組分離輸出，讓節奏機成為錄音的起點；原版的調音、同步與記憶限制，也得一起理解。",
+          "brand": "Roland",
+          "model": "TR-808 Rhythm Composer（原版類比硬體）",
+          "category": "錄音與其他",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "signal-role",
+              "title": "節奏可以先寫好，鼓聲也能拆開錄",
+              "body": "TR-808 特別的地方，是把類比鼓聲、步進編程與分離輸出放在同一台機器裡。先決定每一下落在哪裡，再把大鼓、小鼓分別送進混音器，節奏便能成為整首歌的錄音起點。它用電路產生聲音，沒有載入自訂鼓取樣的功能；想換一套真鼓錄音，並不是它的工作。它輸出的是自己產生的音訊，所以除了節奏怎麼寫，錄音介面要留幾個輸入、哪些聲音先混在一起，也都是使用前要決定的事。\n\n本文談的是已於 1983 年停產的原版類比硬體。[Roland 官方回顧](https://www.roland.com/Global/products/rc_tr-808/)收在同名軟體的產品頁，兩者規格必須分開讀。這張 [Commons 原版照片](https://commons.wikimedia.org/wiki/File:Roland_TR-808_(large).png)能看清旋鈕和十六個步進鍵，背面接孔則未入鏡。"
+            },
+            {
+              "id": "sound-controls",
+              "title": "大鼓尾音能拉長，音高卻沒有專用旋鈕",
+              "body": "原版大鼓提供 Level、Tone、Decay；小鼓則有 Level、Tone、Snappy。[原廠規格表](https://support.roland.com/hc/en-us/articles/201963539-TR-808-Technical-Specifications)把這些控制列得很清楚。Decay 調整大鼓尾音，並不等於可逐音編寫低音旋律的調音功能。要讓大鼓跟著和弦換音，得另外規劃取樣或其他處理，不能把現代製作裡泛稱的「808 bass」功能全算在這台原機身上。\n\n編曲上可以先比較短尾音與長尾音怎麼佔據兩次擊發之間的空隙，再決定低音樂器要留多少位置。調整時把兩者一起播放，檢查大鼓尾音是否遮住下一個低音，比單看旋鈕位置更有用。\n\n聲音的分配也有取捨：三組通鼓各可切換成康加鼓，Rim Shot 與 Claves、Hand Clap 與 Maracas 也各自共用位置。切換後沿用同一組節奏資料。Accent 則會加重同一步上發聲的樂器，無法像逐音力度編輯那樣，只挑其中一下小鼓。這些限制會直接影響配器；寫節奏前，先決定每組位置要留下哪種聲音，比最後才發現兩個聲音不能各寫一軌省事。[原版手冊第 3–4 頁](https://cdn.roland.com/assets/media/pdf/TR-808_OM.pdf)說明了這套分工。"
+            },
+            {
+              "id": "recording-workflow",
+              "title": "背面的分離輸出，決定錄音時能改多少",
+              "body": "編程時先選樂器，再按亮它要發聲的步點；十六個按鍵也不表示每個 pattern 只能十六步，使用兩個 Part 可寫到三十二步。這種介面適合反覆修改短句，但要輪流切換樂器查看，不能一次攤開所有鼓的節奏。以四拍、每拍四步的設定來說，可以先建立大鼓骨架，切到小鼓補上重拍，再用鈸聲細分時間；若只想改鈸，便回到鈸的選擇位置，不必把整個 pattern 重寫。\n\n錄音可以先接 Master Out，快速留下整體；需要分別處理時，再用十一組 Multi Out。這裡有個實際差別：插入某個分離輸出，就會把該聲音從 Master Out 移除，而且總音量旋鈕不控制分離輸出。若只錄總輸出，插著的大鼓線可能就是大鼓消失的原因。分軌後可各自安排 EQ 或殘響，也能只重調大鼓的音量，不必連小鼓一起改。[手冊第 6 頁](https://cdn.roland.com/assets/media/pdf/TR-808_OM.pdf)有明確說明。\n\n背面的五針 DIN 是同步介面，原機沒有 MIDI；想跟電腦工程一起跑，必須另行安排相容的同步設備或錄音對齊方式。插頭長得像，不能當成相同協定。"
+            },
+            {
+              "id": "marvin-gaye",
+              "title": "〈Sexual Healing〉進錄音室前，節奏已經準備好了",
+              "body": "[Equipboard 的 Marvin Gaye 頁面](https://equipboard.com/pros/marvin-gaye)把他與 TR-808 連在一起，但只引向器材使用名單。更具體的製作過程，來自 [Electronic Sound 對錄音師 Mike Butcher 的訪談](https://www.electronicsound.co.uk/features/time-machine/marvin-gaye-sexual-healing/)。\n\nButcher 回憶，製作《Midnight Love》時，Gaye 帶來家中錄好的簡單卡帶示範；他第一次聽到〈Sexual Healing〉，內容就是已編好的 TR-808。節奏在進錄音室前已準備，Gaye 的鼓手參與其中，訪談也提及奧斯坦德其他年輕音樂人的協助。不能把它縮寫成 Gaye 獨自完成所有編程。\n\n他還記得，Gaye 會以一、兩小節為單位工作，由他在磁帶上執行補錄；正式人聲留到製作後段才加入。這段回憶讓鼓機的角色很具體：它可以先承擔編曲骨架，再逐層加入演奏與歌聲。這是錄音師對工作過程的描述，並未交代每個鼓聲的旋鈕位置或完整效果器接法。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合願意接線與維護的人",
+              "body": "如果你想反覆寫短節奏、直接轉旋鈕，再把各聲部錄進混音器，原版 TR-808 的操作有明確吸引力。若主要需求是大量換鼓組、精細編輯每一下力度，或開啟電腦工程就恢復全部設定，購買前應先比較自己的工作方式。可從 [Red Bull Music Academy 的 First Patch 入門影片](https://www.youtube.com/watch?v=CHV2ui-PEBY)認識這台器材，別只憑歌曲裡的一個大鼓聲決定。\n\n二手檢查建議逐一測試十六個按鍵、各組切換開關、旋鈕及所有輸出，也要確認機身電壓與改裝紀錄。只聽總輸出，無法確認每個分離插孔都正常。原機用三顆 1.5V 乾電池維持記憶；手冊要求每年更換，關機前須將模式設為 MANUAL PLAY 或 PLAY。請賣家依[手冊第 3、8 頁](https://cdn.roland.com/assets/media/pdf/TR-808_OM.pdf)示範斷電後仍能保留節奏，並檢查電池槽有無漏液痕跡。若機器已加裝 MIDI 或調音控制，應另外索取安裝與維修資料；原廠手冊只能解釋原始設計，無法替改裝品質背書。把這些測試做完，再談外觀和收藏價值。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "音源",
+              "value": "類比合成鼓音源，非取樣播放式音源"
+            },
+            {
+              "label": "節奏記憶",
+              "value": "32 組：12 組 Basic Rhythm 與 4 組 Intro／Fill In，各有 A、B 變化"
+            },
+            {
+              "label": "步進編程",
+              "value": "16 個步進鍵；單小節可設定 1–32 步，分為 1st Part 與 2nd Part"
+            },
+            {
+              "label": "音訊輸出",
+              "value": "Master Out Hi／Lo；11 組 Multi Out 分離輸出"
+            },
+            {
+              "label": "同步",
+              "value": "五針 DIN Sync In／Out，附輸入／輸出切換；無原生 MIDI"
+            },
+            {
+              "label": "觸發輸出",
+              "value": "3 組：Cowbell、Hand Clap／Maracas、Accent；脈衝規格為 +15V、20ms"
+            },
+            {
+              "label": "尺寸與重量",
+              "value": "508 × 305 × 105 mm（寬 × 深 × 高）；5 kg"
+            },
+            {
+              "label": "記憶備份",
+              "value": "3 顆 1.5V 乾電池；關機保存須使用 MANUAL PLAY 或 PLAY 模式"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Marvin Gaye",
+              "work": "〈Sexual Healing〉／《Midnight Love》錄音",
+              "story": "錄音師 Mike Butcher 在 Electronic Sound 訪談中回憶，初聽〈Sexual Healing〉示範時，內容就是預先編好的 TR-808；Gaye 的鼓手參與了準備。這支持鼓機作為錄音前編曲骨架的使用情境，不能據此認定 Gaye 獨自完成全部編程，也無法還原旋鈕設定或完整錄音鏈。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "First Patch - Roland TR-808 | Red Bull Music Academy",
+              "channel": "Red Bull Music Academy",
+              "url": "https://www.youtube.com/watch?v=CHV2ui-PEBY",
+              "verifiedAt": "2026-10-23"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Roland：TR-808 Software Rhythm Composer（原版歷史與版本差異）",
+              "url": "https://www.roland.com/Global/products/rc_tr-808/"
+            },
+            {
+              "title": "Roland：TR-808 Technical Specifications（原版硬體）",
+              "url": "https://support.roland.com/hc/en-us/articles/201963539-TR-808-Technical-Specifications"
+            },
+            {
+              "title": "Roland：TR-808 原版使用手冊",
+              "url": "https://cdn.roland.com/assets/media/pdf/TR-808_OM.pdf"
+            },
+            {
+              "title": "Equipboard：Marvin Gaye",
+              "url": "https://equipboard.com/pros/marvin-gaye"
+            },
+            {
+              "title": "Electronic Sound：Marvin Gaye ‘Sexual Healing’／Mike Butcher 訪談",
+              "url": "https://www.electronicsound.co.uk/features/time-machine/marvin-gaye-sexual-healing/"
+            },
+            {
+              "title": "Red Bull Music Academy：First Patch - Roland TR-808",
+              "url": "https://www.youtube.com/watch?v=CHV2ui-PEBY"
+            },
+            {
+              "title": "Wikimedia Commons：File:Roland TR-808 (large).png",
+              "url": "https://commons.wikimedia.org/wiki/File:Roland_TR-808_(large).png"
+            }
+          ],
+          "photo": {
+            "author": "Roland_TR-808_&_909.jpg : Brandon Daniel derivative work: Clusternote ( talk )",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roland_TR-808_(large).png",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "id": "place-0e8f0ac2bb04bee2",
+            "caption": "1980 年代原版 Roland TR-808 的正面面板，可見音色旋鈕、聲音切換與十六個步進鍵；背面接孔未入鏡。Brandon Daniel 攝影，Clusternote 裁切及修圖，CC BY-SA 2.0。",
+            "alt": "原版 Roland TR-808 正面，橘色型號字樣下方排列十六個彩色步進鍵，上方為各鼓聲旋鈕與切換開關。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-23:gear-studio"
+        },
+        {
           "id": "music-man-stingray-pre-ernie-ball",
           "title": "Music Man StingRay：Chic 的錄音，與琴橋上四個消音器",
           "deck": "1970 年代原版 StingRay 把雙頻 EQ 與逐弦消音放在同一把琴上。從 Bernard Edwards 的錄音到 Carol Kaye 的示範，看看它能調整什麼，又有哪些老琴問題要親自確認。",
@@ -59650,6 +60046,514 @@
     },
     "cityStories": {
       "rows": [
+        {
+          "id": "eason-bicycle-wyman-letter",
+          "city": "",
+          "cityEn": "",
+          "artist": "陳奕迅・黃偉文",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "〈單車〉手稿附記",
+          "work": "單車",
+          "year": "2001",
+          "accent": "sage",
+          "title": "〈單車〉歌詞後面，黃偉文還寫了一封給陳奕迅的信",
+          "deck": "一次電單車上的擁抱，被黃偉文寫進歌，也寫進給歌手的附信。從兩人的交稿習慣，到二十年後的告別，沿著留下來的文字讀〈單車〉。",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 7,
+          "people": [
+            "陳奕迅",
+            "黃偉文",
+            "柳重言",
+            "陳輝陽",
+            "林子祥",
+            "曾比特",
+            "夏韶聲",
+            "陳小霞",
+            "姚若龍",
+            "鄧超",
+            "俞白眉"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-note-after-the-lyrics",
+              "title": "歌詞後面，還有一段童年",
+              "body": "黃偉文交給陳奕迅的〈單車〉手稿，最後還有一段私人說明。他把記憶拉回小學一年級：坐在父親的電單車上，從背後抱住父親。按他後來公開的自述，那是他記得唯一一次與父親的擁抱。這段經歷也交到了歌手手上，讓陳奕迅知道歌裡的孩子在想什麼。[星島記錄了這段自述及手稿附記](https://www.stheadline.com/realtime-entertainment/2180841/黃偉文趕及父親離世前說原諒-單車歌詞道心聲)。\n\n歌名叫〈單車〉，童年回憶裡的車卻是電單車。比起車種，這段說明留下的關鍵是那個位置：父親在前面，孩子從後面抱著他。對讀者而言，手稿提供了一個進入歌曲的尺度；談論父愛之前，可以先看見這個孩子記住的接觸，以及他反覆提起它的方式。\n\n〈單車〉收進二〇〇一年四月十三日發行的《Shall We Dance? Shall We Talk!》，專輯由陳輝陽監製；歌曲的詞由黃偉文寫，曲與編曲則署名柳重言。陳奕迅唱出的父子故事，經過了幾個人的工作。[Apple Music 專輯資料](https://music.apple.com/hk/album/shall-we-dance-shall-we-talk/542593700)、[JOOX 歌曲署名](https://www.joox.com/hk/single/ccKtUHvIoWhQb4d4J5PP_w==)。"
+            },
+            {
+              "id": "letters-for-a-singer",
+              "title": "陳奕迅指定要收的信",
+              "body": "到了二〇二〇年九月，黃偉文公開手稿，也說起他與陳奕迅維持十幾年的習慣：交詞時，會多寫一些歌詞以外的話。他記得第一封大概是〈那一夜有沒有說〉，陳奕迅表示這種溝通有助演繹，後來便要求繼續收到。篇幅有時只有幾句，有時達兩三頁，甚至比歌詞更長。[東網當時轉錄了黃偉文的說明](https://hk.on.cc/hk/bkn/cnt/entertainment/20200906/bkn-20200906103236355-0906_00862_001.html)。\n\n其他歌手偶爾也會收到這樣的附信，陳奕迅因為主動提出，成為固定的收件人。黃偉文後來改以 Word 檔交稿，也認為對方已能掌握歌詞，才停止這個習慣。這一來一往很具體：詞人補上背景，歌手回覆哪種方式對自己有幫助，往後交歌就沿用下去。\n\n〈單車〉的附記因此值得與成品一起讀。詞人願意把家裡的事交代給歌手，歌手也要求知道文字從哪裡來。歌聲之外的那幾句說明，記下了兩人怎麼合作。按東網的資料，〈那一夜有沒有說〉收在一九九七年的《與我常在》，比〈單車〉早四年；到了這首父子題材的歌，隨詞附信已是兩人延續下來的溝通方式。[東網報導](https://hk.on.cc/hk/bkn/cnt/entertainment/20200906/bkn-20200906103236355-0906_00862_001.html)。"
+            },
+            {
+              "id": "asking-for-affection",
+              "title": "兒子還在等一個擁抱",
+              "body": "黃偉文說起這首作品時，特別在意兒子的埋怨有沒有被理解。《香港01》在二〇二二年的文章中引述他二〇〇四年的專欄：他原本寫的是對父親的埋怨，唱片公司卻在父親節前後派台，有人便把它接收成讚頌父愛。他在意的是父親不肯把愛明白表達出來。[香港01 引述的專欄內容](https://www.hk01.com/眾樂迷/766675/聲生不息-曾比特唱-單車-回憶父愛-爆喊背後可能係解錯歌詞)。\n\n這個說法能和歌詞互相對照。開頭先質問父親，怎麼能假定孩子已經明白一切；到了副歌，孩子又想繼續靠在父親身邊。讀到這裡，埋怨與依戀都有位置：他記得那次靠近，也還想得到更多。歌詞沒有因為保留了一段幸福回憶，就停止向父親提出要求。[JOOX 刊載的歌詞](https://www.joox.com/hk/single/ccKtUHvIoWhQb4d4J5PP_w==)。\n\n後來的演唱者也帶來了各自的經驗。香港01 記錄，二〇二二年五月一日播出的《聲生不息》中，林子祥與曾比特合唱〈單車〉，中段加入夏韶聲的〈空凳〉。報導轉述，林子祥談到自己因工作，沒有給兒子足夠的溝通時間；曾比特則談起早逝的父親。同一首歌，讓已為人父的人和失去父親的人，各自找到可以開口的位置。[香港01 的節目報導](https://www.hk01.com/眾樂迷/766675/聲生不息-曾比特唱-單車-回憶父愛-爆喊背後可能係解錯歌詞)。"
+            },
+            {
+              "id": "a-version-that-was-not-made",
+              "title": "歌手談起自己的女兒",
+              "body": "二〇一九年，〈單車〉曾有機會換一套歌詞。陳奕迅向《金羊網》記者胡廣欣談到，為電影《銀河補習班》商討歌曲時，他與導演鄧超、俞白眉考慮過製作國語版。他卻對新詞能否與原有旋律配合、編曲該怎麼處理有所猶豫。最後他邀請陳小霞另寫一首歌，由姚若龍填詞，成為〈相信你的人〉。[金羊網訪談，搜狐刊載](https://www.sohu.com/a/327757814_119778)。\n\n在同一篇訪談裡，已為人父的陳奕迅也談到女兒。他說自己曾因說話太兇，隔天向她道歉。這個細節讓歌手與作品之間多了一層關係：他當年接過別人的童年，唱一個希望父親表達愛的兒子；多年後受訪，說的是自己如何面對孩子。\n\n他也說，女兒有些事情會選擇跟他談，他便分享自己在同樣年紀的經驗，讓她思考怎麼處理。這是訪談裡另一段親子日常，與黃偉文筆下渴望交流的兒子，可以放在一起閱讀。至於那個沒有完成的國語改編計畫，留下的問題同樣實際：熟悉的旋律換了語言，原來的人物口吻還能保留多少？"
+            },
+            {
+              "id": "the-later-farewell",
+              "title": "二十年後的另一句話",
+              "body": "二〇二一年十一月二十一日，黃偉文公開父親離世的消息，仍借用了騎車的意象。據星島當日報導，他寫道，自己趕得及告訴父親「我唔嬲你啦」，意思是不再生他的氣。[星島當日報導](https://www.stheadline.com/realtime-entertainment/2180841/黃偉文趕及父親離世前說原諒-單車歌詞道心聲)。\n\n這句話發生在唱片問世二十年後。它能替詞人的故事補上一個後來的時間點，卻沒有替歌中的孩子取消當年的要求。手稿裡的擁抱、寫給歌手的說明，以及多年後公開的告別，記錄的是不同時候能夠說出口的話。閱讀時讓它們保留先後，比替整首歌安排一個從頭到尾相同的心情，更貼近這些留下來的文字。\n\n若要循著這些資料再聽一次，可以從二〇〇一年的專輯版本開始，先留意第一段主歌如何提出問題，再聽副歌怎樣回到父親身邊。把兩段連著比較，比只抽出最熟悉的旋律，更能對照黃偉文給陳奕迅的那段說明。聽到孩子想留下時，也別漏掉他先前提出的要求。[專輯版本](https://music.apple.com/hk/album/shall-we-dance-shall-we-talk/542593700)、[歌詞對照](https://www.joox.com/hk/single/ccKtUHvIoWhQb4d4J5PP_w==)。\n\n也可以接著找林子祥、曾比特的合唱版本，依節目報導所述，留意〈空凳〉如何接入，再對照兩位歌手各自談到的父子經驗。[演出內容記錄](https://www.hk01.com/眾樂迷/766675/聲生不息-曾比特唱-單車-回憶父愛-爆喊背後可能係解錯歌詞)。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1997",
+              "event": "〈那一夜有沒有說〉收錄於《與我常在》；黃偉文後來回憶，第一封隨詞交給陳奕迅的附信大概始於這首歌。"
+            },
+            {
+              "date": "2001-04-13",
+              "event": "收錄〈單車〉的專輯《Shall We Dance? Shall We Talk!》發行。"
+            },
+            {
+              "date": "2020-09",
+              "event": "黃偉文公開〈單車〉手稿，說明與陳奕迅維持十幾年的隨詞附信習慣。"
+            },
+            {
+              "date": "2021-11-21",
+              "event": "黃偉文公開父親離世的消息，寫下自己趕及向父親表達不再生氣。"
+            },
+            {
+              "date": "2022-05-01",
+              "event": "《聲生不息》播出林子祥與曾比特合唱〈單車〉、中段加入〈空凳〉的版本。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "單車",
+            "artist": "陳奕迅",
+            "note": "先找《Shall We Dance? Shall We Talk!》專輯版本，對照第一段主歌的質問與副歌的依戀；另可按節目報導，找林子祥、曾比特的〈單車〉／〈空凳〉合唱版本比較。"
+          },
+          "sources": [
+            {
+              "title": "星島日報：黃偉文趕及父親離世前說原諒，《單車》歌詞道心聲",
+              "url": "https://www.stheadline.com/realtime-entertainment/2180841/黃偉文趕及父親離世前說原諒-單車歌詞道心聲"
+            },
+            {
+              "title": "東網：黃偉文談隨歌詞交給陳奕迅的「情書」",
+              "url": "https://hk.on.cc/hk/bkn/cnt/entertainment/20200906/bkn-20200906103236355-0906_00862_001.html"
+            },
+            {
+              "title": "Apple Music：Shall We Dance? Shall We Talk! 專輯資料",
+              "url": "https://music.apple.com/hk/album/shall-we-dance-shall-we-talk/542593700"
+            },
+            {
+              "title": "JOOX：〈單車〉詞曲、編曲署名與歌詞",
+              "url": "https://www.joox.com/hk/single/ccKtUHvIoWhQb4d4J5PP_w=="
+            },
+            {
+              "title": "香港01：黃偉文的創作解說與林子祥、曾比特合唱版本",
+              "url": "https://www.hk01.com/眾樂迷/766675/聲生不息-曾比特唱-單車-回憶父愛-爆喊背後可能係解錯歌詞"
+            },
+            {
+              "title": "金羊網胡廣欣訪談：陳奕迅談〈單車〉國語版構想及親子相處（搜狐刊載）",
+              "url": "https://www.sohu.com/a/327757814_119778"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "經典歌曲",
+            "現場演出"
+          ],
+          "dailyKey": "2026-10-23:eason-bicycle-wyman-letter"
+        },
+        {
+          "id": "psycho-strings-without-mutes",
+          "city": "",
+          "cityEn": "",
+          "artist": "Bernard Herrmann",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "弱音器・The Murder",
+          "work": "驚魂記 Psycho・The Murder",
+          "year": "1960",
+          "accent": "sage",
+          "title": "《驚魂記》的浴室配樂，為什麼要讓弦樂拿掉弱音器？",
+          "deck": "希區考克原先要求浴室段落不放配樂。Herrmann 留下的弦樂，靠進場時機、弱音器與聲部安排，讓尖銳音群有了前後文。",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 6,
+          "people": [
+            "Bernard Herrmann",
+            "Alfred Hitchcock",
+            "Saul Bass",
+            "David Arnold",
+            "Rebekah Edewards",
+            "Susan Hagan"
+          ],
+          "topics": [
+            "影像與配樂",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "before-the-strings",
+              "title": "浴簾後有人，配樂卻還沒進來",
+              "body": "1960 年《驚魂記》（Psycho）的浴室段落，並非從 Marion 開始淋浴就鋪滿音樂。Film Independent 的作曲家 Aaron Gilmartin 指出，連人影走進浴室時，配樂都仍未響起；攻擊開始，高音弦樂才突然介入。這個先後次序值得留意：要理解那幾下尖叫般的聲音，可以先回頭看它出現之前，電影讓觀眾等了多久。[Film Independent 的配樂分析](https://www.filmindependent.org/blog/know-the-score-anatomy-of-a-great-film-score-psycho/)\n\n更出人意料的是，導演 Alfred Hitchcock（希區考克）原先要求這場殺人戲不要配樂。洛杉磯愛樂刊載、改寫自 Herrmann 傳記作者 Steven C. Smith 的節目說明，轉述了作曲家的回憶：Bernard Herrmann 還是寫了音樂，讓導演聽過後，希區考克撤回原來的決定。今天與畫面緊緊相連的聲音，是製作過程中改變方案才留下的。[洛杉磯愛樂節目說明](https://www.laphil.com/works/psycho-a-narrative-for-string-orchestra)"
+            },
+            {
+              "id": "longtime-collaborators",
+              "title": "片頭與公路上的同一段音樂",
+              "body": "接下《驚魂記》時，Herrmann 已替希區考克的五部電影寫過配樂，包括《迷魂記》與《北西北》。這讓浴室段落的分歧有了具體背景：提出另一種做法的，是已熟悉導演工作方式的合作夥伴。TCM 的製作回顧也記下，Herrmann 趁導演離開期間寫好這段音樂，待他回來再配上畫面展示。[TCM 製作回顧](https://www.tcm.com/articles/191164/behind-the-camera-psycho)\n\n兩人還調整了 Marion 帶著偷來的錢開車離去的段落。依 TCM 轉述 Herrmann 的說法，希區考克先想到用她腦中想像的聲音增加焦慮，作曲家則建議把片頭音樂帶回來。同一組音樂因此從字幕走進人物的旅程，讓看似普通的駕車鏡頭接續片頭已建立的緊張感。[TCM 製作回顧](https://www.tcm.com/articles/191164/behind-the-camera-psycho)\n\n片頭也有配樂先行的製作順序：TCM 記載，Herrmann 先寫出主題，字幕設計師 Saul Bass 再依音樂製作動畫，讓字樣呈現切裂、拉扯的動態。音樂與影像的配合，從片頭就已開始。[TCM 製作回顧](https://www.tcm.com/articles/191164/behind-the-camera-psycho)"
+            },
+            {
+              "id": "black-and-white-orchestra",
+              "title": "一支只留下弦樂的樂團",
+              "body": "Herrmann 為整部片選擇了純弦樂編制。BAFTA 刊登的 David Arnold 導讀把這項限制說得很清楚：沒有木管、銅管或打擊樂，但仍能在低音提琴的低音與小提琴的高音之間移動，改變音色和演奏方法。少了幾類樂器，不代表所有段落只能使用同一種聲音。[David Arnold 的 BAFTA 導讀](https://www.bafta.org/stories/behind-mask-music-psycho/)\n\n洛杉磯愛樂的資料把這種選擇連到 Herrmann 所稱的黑白聲音，用來呼應電影的黑白影像。這是作曲家對編制的構想；黑白不等於沒有層次，同一個弦樂家族仍有高低、厚薄與尖銳程度的差別。[洛杉磯愛樂節目說明](https://www.laphil.com/works/psycho-a-narrative-for-string-orchestra)\n\n這些尖銳弦樂究竟在模仿什麼，也有不同解讀。Smith 的節目說明列出刀刺、Marion 的叫聲及鳥鳴等說法，並轉述 Herrmann 被問及意圖時，只回答了「恐懼」。具體聯想可以成立，卻不必全都當成作曲家預先設定的答案。[洛杉磯愛樂節目說明](https://www.laphil.com/works/psycho-a-narrative-for-string-orchestra)\n\n如果帶著這份編制表回看電影，可以把注意力放到聲音怎麼變化：低音與高音各在什麼時候出現，樂句是延續還是突然斷開。浴室裡最醒目的高音，只佔這套弦樂寫法的一部分；前面的段落也在決定那一刻會有多大的反差。"
+            },
+            {
+              "id": "mutes-and-murder",
+              "title": "弱音器拿掉以後，還有音符的安排",
+              "body": "其中一個關鍵物件是弱音器。Arnold 解釋，它會柔化弦樂音色；浴室段落拿掉弱音器，讓用力演奏的高音顯得更明亮、尖銳。他特別提醒，若只在戲仿或廣告裡聽過這段聲音，可能忽略它與前面配樂的差距。[BAFTA 導讀](https://www.bafta.org/stories/behind-mask-music-psycho/)\n\n皇家霍洛威學院音樂學者 Tim Summers 的分析補上另一個細節：〈Prelude〉的開頭雖然帶著強烈力度記號，樂器仍被要求加上弱音器。因此，理解這個對比時，除了音量，也要留意音色。[Summers 的樂譜分析](https://www.royalholloway.ac.uk/research-and-education/subjects/music/about-us/teacherhubmusic/bernard-herrmanns-film-music-psycho-and-others/)\n\n到了浴室的〈The Murder〉，弦樂聲部依次進入，累積成彼此緊鄰、互相碰撞的音群；後半段，小提琴與中提琴交替使用撥弦和拉奏，低音弦樂反覆作半音下行。Summers 指出，這裡主要依靠重複音高、極端音域與演奏動作，而非一條長旋律。若只記住開頭的尖叫，很容易把後面的變化漏掉。[Summers 的樂譜分析](https://www.royalholloway.ac.uk/research-and-education/subjects/music/about-us/teacherhubmusic/bernard-herrmanns-film-music-psycho-and-others/)"
+            },
+            {
+              "id": "players-and-bows",
+              "title": "從樂手手上的弓，拆開這些聲音",
+              "body": "樂手的解釋，能把「恐怖弦樂」說得更具體。2018 年，WBUR 記者 Andrea Shea 採訪參與《驚魂記》配樂演出的音樂家。中提琴手 Rebekah Edewards 拿起樂器示範浴室段落，強調小提琴、中提琴都到了很高的音域；她也指出，反覆出現的材料會讓人一直等著變化到來。[WBUR 樂手訪談報導](https://www.wbur.org/news/2018/10/31/boston-pops-psycho-score-halloween)\n\n低音提琴手 Susan Hagan 則從另一端談起：她的聲部沒有太多快速音符。她向記者示範輕盈的段落，也示範用琴弓木質部分輕敲琴弦、產生打擊效果的 col legno 技法。這項示範提供一個很實用的聆聽問題：遇到短促、帶敲擊感的聲音時，可以先辨認它是不是弦樂製造的，而不急著把它當成額外加入的打擊樂。[WBUR 樂手訪談報導](https://www.wbur.org/news/2018/10/31/boston-pops-psycho-score-halloween)\n\n把兩位樂手的說法並排，高音域的集中攻擊與低音聲部的節奏、質地，就有了各自可追蹤的線索。下次比較錄音時，也可以暫時把注意力從小提琴移開，留給中提琴與低音提琴。"
+            },
+            {
+              "id": "a-later-recording",
+              "title": "找錄音時，先認出 1975 年的版本",
+              "body": "想離開畫面研究這份配樂，可以找 Herrmann 親自指揮 National Philharmonic Orchestra 的 1975 年錄音。Dragon’s Domain 的發行資料確認演出者與年份；廠牌轉載的 Film Score Monthly 評論則明確說明，這是重新錄製 1960 年配樂的版本。作曲者親自指揮，和直接收錄電影當年的聲軌，是兩件不同的事。[廠牌錄音資料](https://buysoundtrax.myshopify.com/products/psycho-bernard-herrmanns-complete-music-for-alfred-hitchcocks-classic-suspense-thriller?_pos=1&_sid=eeebdb381&_ss=r)、[Film Score Monthly 重錄版評論](https://buysoundtrax.myshopify.com/blogs/news/fsm-reviews-dragons-domain-re-release-of-pyscho-by-bernard-herrmann)\n\n版本還會影響找曲目的方式。這次再版把部分短段落合成一軌，曲目表將〈The Bathroom〉、〈The Murder〉與〈The Body〉列在一起；搜尋時只找〈The Murder〉，可能不會看到這個完整名稱。[廠牌曲目表](https://buysoundtrax.myshopify.com/products/psycho-bernard-herrmanns-complete-music-for-alfred-hitchcocks-classic-suspense-thriller?_pos=1&_sid=eeebdb381&_ss=r)\n\n比較時，可以先看電影裡音樂進場的位置，再聽重錄版中各聲部加入的次序，最後回到〈Prelude〉，對照加上弱音器的弦樂。電影保留了配樂與畫面、其他聲音的關係，重錄版則方便單獨追蹤樂器。也不妨讓〈The Murder〉繼續播放到高音攻擊之後，追蹤撥弦與低音下行如何接手。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1960",
+              "event": "《驚魂記》上映，採用 Bernard Herrmann 為弦樂團寫作的配樂。"
+            },
+            {
+              "date": "1975",
+              "event": "Herrmann 指揮 National Philharmonic Orchestra，重新錄製《驚魂記》配樂。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "The Murder（《驚魂記》配樂）",
+            "artist": "Bernard Herrmann",
+            "note": "可找 Herrmann 指揮 National Philharmonic Orchestra 的 1975 年重錄版，再與電影段落比較。部分再版將此曲與 The Bathroom、The Body 合為一軌。"
+          },
+          "sources": [
+            {
+              "title": "Film Independent｜Anatomy of a Great Film Score — Psycho",
+              "url": "https://www.filmindependent.org/blog/know-the-score-anatomy-of-a-great-film-score-psycho/"
+            },
+            {
+              "title": "洛杉磯愛樂｜Psycho: A Narrative for String Orchestra",
+              "url": "https://www.laphil.com/works/psycho-a-narrative-for-string-orchestra"
+            },
+            {
+              "title": "TCM｜Behind the Camera — Psycho",
+              "url": "https://www.tcm.com/articles/191164/behind-the-camera-psycho"
+            },
+            {
+              "title": "BAFTA｜David Arnold: Behind the Mask — Music in Psycho",
+              "url": "https://www.bafta.org/stories/behind-mask-music-psycho/"
+            },
+            {
+              "title": "Tim Summers／Royal Holloway｜Bernard Herrmann’s Film Music: Psycho and Others",
+              "url": "https://www.royalholloway.ac.uk/research-and-education/subjects/music/about-us/teacherhubmusic/bernard-herrmanns-film-music-psycho-and-others/"
+            },
+            {
+              "title": "WBUR｜Why Psycho and Its Slashing String Score Still Thrills",
+              "url": "https://www.wbur.org/news/2018/10/31/boston-pops-psycho-score-halloween"
+            },
+            {
+              "title": "Dragon’s Domain／BuySoundtrax｜Psycho 錄音資料與曲目",
+              "url": "https://buysoundtrax.myshopify.com/products/psycho-bernard-herrmanns-complete-music-for-alfred-hitchcocks-classic-suspense-thriller?_pos=1&_sid=eeebdb381&_ss=r"
+            },
+            {
+              "title": "Film Score Monthly／廠牌轉載｜Psycho 1975 年重錄版評論",
+              "url": "https://buysoundtrax.myshopify.com/blogs/news/fsm-reviews-dragons-domain-re-release-of-pyscho-by-bernard-herrmann"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-23:psycho-strings-without-mutes"
+        },
+        {
+          "id": "miyaxx-stones-remember-rain",
+          "city": "",
+          "cityEn": "",
+          "artist": "Miyaxx",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "一段近似鯨鳴的吉他取樣",
+          "work": "Hold Your Ego Out Like A Sun・Stones Remember Rain",
+          "year": "2026",
+          "accent": "sage",
+          "title": "Miyaxx 把一段像鯨鳴的吉他，做成了〈Stones Remember Rain〉",
+          "deck": "九月發行的新作裡，Lea Thomas 與 John Thayer 把即興錄音變成取樣，也把山區夏夜放進歌曲。沿著一段吉他聲，追兩人如何共同寫作。",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 7,
+          "people": [
+            "Lea Thomas",
+            "John Thayer",
+            "Heba Kadry"
+          ],
+          "topics": [
+            "新歌觀察",
+            "製作幕後",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "guitar-whale",
+              "title": "吉他先變成了鯨鳴",
+              "body": "Lea Thomas 的一段吉他聲，成了〈Stones Remember Rain〉的起點。搭檔 John Thayer 在 EARMILK 訪談中回憶，兩人在錄音室即興時，錄到近似鯨鳴的音色，便把它取樣，再圍繞這段聲音做成作品。先出現的是一個值得留下的聲響，曲子才隨之成形。[EARMILK 雙人訪談](https://earmilk.com/2026/08/19/miyaxx-interview/)\n\n這首曲子收在 Miyaxx 首張專輯《Hold Your Ego Out Like A Sun》，官方曲目頁確認於 2026 年 9 月 16 日隨專輯發行。它長兩分三十六秒，排在十一首曲目的第十首，全碟總長三十四分二十七秒。從這段短曲入手，可以先看兩人怎麼處理一把吉他，再回頭追索整張唱片的材料。[官方曲目頁](https://miyaxx.bandcamp.com/track/stones-remember-rain)、[Qobuz 曲序與時長](https://www.qobuz.com/us-en/album/hold-your-ego-out-like-a-sun-miyaxx-amp-lea-thomas-amp-john-thayer/oy4rurf9vepx1)\n\n「像鯨鳴」是 Thayer 對吉他錄音的描述。帶著這條線索播放時，可以留意原本的吉他聲經過處理後，還剩下多少可辨認的輪廓，以及一小段錄音反覆出現，如何成為整首作品的重心。"
+            },
+            {
+              "id": "long-collaboration",
+              "title": "換了團名，合作已經走了十多年",
+              "body": "Miyaxx 由 Thomas 與 Thayer 組成；兩人是生活中的伴侶，也已用不同方式合作十多年。專輯官方介紹把 Thomas 的歌曲、人聲與吉他，和 Thayer 的打擊樂、錄音及電子處理放在一起。新團名之下，已有一段長時間累積的工作關係。[官方專輯介紹](https://miyaxx.bandcamp.com/album/hold-your-ego-out-like-a-sun)\n\n這段關係在更早的訪談已有具體紀錄。2021 年，Thomas 向 Guitar Girl Magazine 介紹《Mirrors to the Sun》時，稱 Thayer 為共同製作人、鼓手，以及她當時所有唱片的錄音與混音師。她說，因為他在開錄之前就已參與歌曲，兩人有時間先談樂器、編曲與想要的情緒，再決定錄法。她當時也常試不同調弦，藉此尋找新的和弦形狀與和聲，再試著讓人聲旋律配合那些聲音。[Guitar Girl Magazine 訪談](https://guitargirlmag.com/interviews/tone-talk/tone-talk-with-lea-thomas/)\n\n到了《Cosmos Forever》，兩人又與樂手一起錄音。Thomas 在 2024 年接受 Under the Radar 採訪時，回憶 2020 年深秋寫作與錄音的經驗：她邀樂團到林間屋舍工作幾天，在歌曲中留下開放段落，讓大家邊演奏邊回應彼此，大部分內容以現場合奏錄下。她特別提到錄音時樂手圍成一圈，窗外就是樹林。她記得屋外沒有風，樹葉也已落盡，室內的聲音因此顯得突出。那首約八分鐘的〈River Runs Through〉，正是她特意留出空間讓樂團伸展的一曲；依她的回憶，這樣的環境讓大家更專注地聽彼此、回應彼此。[Under the Radar：早期合作的錄音方式](https://www.undertheradarmag.com/news/premiere_lea_thomas_shares_new_single_river_runs_through/)\n\n這讓 Miyaxx 的即興有了前情：兩人早已熟悉如何替未定型的段落留下空間。新計畫再把這種合作延伸到錄音之後，讓留下來的片段也能被拆解、重組。"
+            },
+            {
+              "id": "working-at-night",
+              "title": "錄下演奏，再拆開聲音",
+              "body": "兩人把自己的方向稱作「nighttime fuzz folk」。Thomas 在訪談裡先給了一個日常的解釋：他們總在晚上碰面做這個計畫。她說，Miyaxx 讓她能試較抽象的歌曲結構；Thayer 則提到，專輯多數曲目經過他的模組系統與外接器材處理。錄下演奏後繼續拆解音訊，是他看重的自由。[EARMILK 談創作方式](https://earmilk.com/2026/08/19/miyaxx-interview/)\n\nThayer 也說明了另一種寫法：如果 Thomas 帶來一首適合這個計畫的歌，兩人會先錄下基本版本，再試著用其他曲目中奏效的樂器擴展它。有些作品則從即興錄音裡挑選、剪輯而來。〈Stones Remember Rain〉屬於由一個特殊音色發展成曲的例子。從他的說明來看，兩人沒有固定誰先交出成品、誰再接手的順序；一首歌可以先有雛形，也可以先有一小段值得繼續加工的聲音。[EARMILK 談歌曲的不同起點](https://earmilk.com/2026/08/19/miyaxx-interview/)\n\n新專輯的製作名單寫著：全碟由兩人共同創作、演奏與製作，Thayer 在 Friendly Gain 負責錄音和混音，Heba Kadry 負責母帶處理，Thomas 也做了視覺設計。聲音經過不同工序才成為唱片，而 Thomas 的工作也包括共同製作。[官方製作名單](https://miyaxx.bandcamp.com/album/hold-your-ego-out-like-a-sun)\n\nQobuz 在〈Stones Remember Rain〉列出的職務，則包括 Thomas 的作曲、人聲、吉他，以及 Thayer 的作曲與鼓，兩人都有製作署名。帶著這份名單回頭聽那段鯨鳴般的音色，可以追問：演奏者留下的動作，經過電子加工後，還能辨認出多少？[Qobuz 曲目工作人員](https://www.qobuz.com/us-en/album/hold-your-ego-out-like-a-sun-miyaxx-amp-lea-thomas-amp-john-thayer/oy4rurf9vepx1)\n\n〈Stones Remember Rain〉所呈現的寫作順序尤其清楚：先保留即興所得，再圍繞取樣完成作品。聲音處理從這一步就參與了作曲。"
+            },
+            {
+              "id": "recorded-and-invented",
+              "title": "山區的聲音，有些錄下來，有些做出來",
+              "body": "兩人住在卡茲奇爾山區，生活環境確實進了這張唱片。MAGNET 的逐曲解說裡，Thayer 說〈Everything Leans Towards Light〉把 Thomas 疊成合唱的人聲，與卡茲奇爾夏夜的聲音放在一起；〈Laying Down Your Name〉則用了夏季暴風雨來臨前的錄音，鳥還在叫，雷聲已經出現。[MAGNET 逐曲解說](https://magnetmagazine.com/2026/10/12/magnet-exclusive-miyaxx-goes-track-by-track-on-hold-your-ego-out-like-a-sun/)\n\n到了〈Stones Remember Rain〉，他列出的材料是風琴持續音、吉他迴圈，以及讓吉他接近鯨歌的嘗試。把這幾首並置，就有一個很具體的比較方法：一邊是麥克風收進來的環境，一邊是樂器加工後令人聯想到的生物聲。兩種材料都能放進同一張唱片，聽的時候卻值得分開辨認。[MAGNET：〈Stones Remember Rain〉](https://magnetmagazine.com/2026/10/12/magnet-exclusive-miyaxx-goes-track-by-track-on-hold-your-ego-out-like-a-sun/)\n\n先播放只有四十五秒的〈Laying Down Your Name〉，再切到兩分三十六秒的〈Stones Remember Rain〉，可以把注意力放在聲音來源：前者有被錄下的天候變化，後者有被反覆使用的樂器片段。第八首〈The Shape You Make Returning〉則長達五分二十二秒，提供了另一種篇幅。專輯把這些短曲與較長的歌並列，聆聽時也可以跟著材料的差異調整焦點。[Qobuz 曲目時長](https://www.qobuz.com/us-en/album/hold-your-ego-out-like-a-sun-miyaxx-amp-lea-thomas-amp-john-thayer/oy4rurf9vepx1)"
+            },
+            {
+              "id": "listen-in-sequence",
+              "title": "把第九首與第十首接著放",
+              "body": "九月二十三日，樂評人 Jeff Gemmill 在 The Old Grey Cat 把〈Carry Your Love〉稱為專輯裡最接近傳統歌曲的一首，接著將〈Stones Remember Rain〉歸向氛圍音樂。他對全碟的描述還包括無詞和聲、電吉他、木吉他與電子聲響。這份樂評提供了一條相鄰曲目的比較線索。[The Old Grey Cat 樂評](https://oldgreycat.blog/2026/09/23/first-impressions-hold-your-ego-out-like-a-sun-by-miyaxx/)\n\n可以先連著播放第九、十首：沿著〈Carry Your Love〉的歌句往下聽，再把注意力移到〈Stones Remember Rain〉中持續的聲音與反覆的片段。試著分辨什麼在推動段落前進：是歌句，是節奏，還是音色本身的變化。\n\n接著讓專輯繼續走到末曲。Thayer 在逐曲解說中指出，那裡用十二弦吉他再奏出貫穿專輯的旋律動機，也是全碟處理最少、最接近民謠的一首。再回到第二首〈What Gathers At Dusk〉，比較同一動機經過人聲處理與木吉他 fuzz 實驗的版本，追一段旋律如何換過聲音。[MAGNET：第二首與末曲](https://magnetmagazine.com/2026/10/12/magnet-exclusive-miyaxx-goes-track-by-track-on-hold-your-ego-out-like-a-sun/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2021-07-12",
+              "event": "Guitar Girl Magazine 刊出 Thomas 訪談，記錄 Thayer 已參與她作品的製作、演奏、錄音與混音。"
+            },
+            {
+              "date": "2026-09-16",
+              "event": "Miyaxx 發行首張專輯《Hold Your Ego Out Like A Sun》，收錄〈Stones Remember Rain〉。"
+            },
+            {
+              "date": "2026-10-12",
+              "event": "MAGNET 刊出兩位成員的逐曲解說，交代環境錄音、吉他處理與反覆旋律動機。"
+            }
+          ],
+          "places": [
+            {
+              "name": "卡茲奇爾山區",
+              "detail": "MAGNET 確認兩人在這個山區生活，並收錄 Thayer 對專輯中卡茲奇爾夏夜錄音的說明。地理範圍限於山區，不定位其住處或錄音室。",
+              "query": "Catskill Mountains New York",
+              "photo": {
+                "author": "Daniel Case",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catskills_panorama_from_Shawangunks.jpg",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "id": "place-066e39f92ff898bb",
+                "caption": "卡茲奇爾山區遠景，2013 年從肖旺岡山脊拍攝。照片呈現區域景觀，並非 Miyaxx 的住處、錄音室或取樣現場。",
+                "alt": "從肖旺岡山脊遠望卡茲奇爾山區的全景照片",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Stones Remember Rain",
+            "artist": "Miyaxx",
+            "note": "依兩位成員的製作解說，留意近似鯨鳴的吉他取樣、吉他迴圈與風琴持續音；也可連著播放前一首〈Carry Your Love〉作比較。"
+          },
+          "sources": [
+            {
+              "title": "EARMILK｜Miyaxx 雙人訪談（2026-08-19）",
+              "url": "https://earmilk.com/2026/08/19/miyaxx-interview/"
+            },
+            {
+              "title": "Miyaxx 官方 Bandcamp｜Stones Remember Rain",
+              "url": "https://miyaxx.bandcamp.com/track/stones-remember-rain"
+            },
+            {
+              "title": "Qobuz｜Hold Your Ego Out Like A Sun 發行資料、曲序與工作人員",
+              "url": "https://www.qobuz.com/us-en/album/hold-your-ego-out-like-a-sun-miyaxx-amp-lea-thomas-amp-john-thayer/oy4rurf9vepx1"
+            },
+            {
+              "title": "Miyaxx 官方 Bandcamp｜專輯介紹與製作名單",
+              "url": "https://miyaxx.bandcamp.com/album/hold-your-ego-out-like-a-sun"
+            },
+            {
+              "title": "Guitar Girl Magazine｜Tone Talk with Lea Thomas（2021-07-12）",
+              "url": "https://guitargirlmag.com/interviews/tone-talk/tone-talk-with-lea-thomas/"
+            },
+            {
+              "title": "Under the Radar｜Lea Thomas 談 River Runs Through 錄音（2024-09-09）",
+              "url": "https://www.undertheradarmag.com/news/premiere_lea_thomas_shares_new_single_river_runs_through/"
+            },
+            {
+              "title": "MAGNET｜Miyaxx 逐曲解說（2026-10-12）",
+              "url": "https://magnetmagazine.com/2026/10/12/magnet-exclusive-miyaxx-goes-track-by-track-on-hold-your-ego-out-like-a-sun/"
+            },
+            {
+              "title": "The Old Grey Cat｜Hold Your Ego Out Like a Sun 樂評（2026-09-23）",
+              "url": "https://oldgreycat.blog/2026/09/23/first-impressions-hold-your-ego-out-like-a-sun-by-miyaxx/"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "photo": {
+            "author": "Daniel Case",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catskills_panorama_from_Shawangunks.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "id": "place-066e39f92ff898bb",
+            "caption": "卡茲奇爾山區遠景，2013 年從肖旺岡山脊拍攝。照片呈現區域景觀，並非 Miyaxx 的住處、錄音室或取樣現場。",
+            "alt": "從肖旺岡山脊遠望卡茲奇爾山區的全景照片",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-23:miyaxx-stones-remember-rain"
+        },
+        {
+          "id": "stromae-papaoutai-studio-street",
+          "city": "",
+          "cityEn": "",
+          "artist": "Stromae",
+          "lens": "MV 場景",
+          "category": "MV 場景",
+          "anchor": "攝影棚裡的虛構住宅街",
+          "work": "Papaoutai",
+          "year": "2013",
+          "accent": "sage",
+          "title": "Stromae 的〈Papaoutai〉：那條像模型的住宅街，是在棚內搭出來的",
+          "deck": "找不到合適外景，導演 Raf Reyntjens 便在攝影棚搭出住宅街。縮小的門、僵住的父親與成對舞者，讓一首追問父親的歌有了具體場景。",
+          "publishedAt": "2026-10-23",
+          "reviewedAt": "2026-10-23",
+          "readingMinutes": 7,
+          "people": [
+            "Stromae",
+            "Raf Reyntjens",
+            "Coralie Barbier",
+            "Yves Verstraete",
+            "Rik Zang",
+            "Marion Motin",
+            "Karl Ruben Noel",
+            "Tight Eyez",
+            "Grichka Rootz",
+            "Helena Overlaet-Michiels"
+          ],
+          "topics": [
+            "MV 場景",
+            "影像與配樂",
+            "製作幕後"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-door-at-child-height",
+              "title": "一扇只有孩子高度的門",
+              "body": "〈Papaoutai〉裡的住宅有個比例問題：車庫窄小，門只到孩子的高度。Stromae 團隊 Mosaert 的作品介紹特別指出這些設計，室內還用強迫透視製造縱深。這條街看似可以住人，尺寸卻刻意偏離日常；它容納的是一個男孩和一位如人偶般僵住的父親。[Mosaert 製作介紹](https://mosaert.com/project/stromae-papaoutai/)\n\n父親明明在畫面裡，孩子仍然得不到回應。這個安排是創作上的選擇：Pitchfork 的訪談文字整理記錄，Stromae 覺得直接讓父親消失太容易，於是自己扮成櫥窗人偶。角色占著父親的位置，卻無法提供孩子期待的互動。歌名把法語「Papa où t’es?」連成一個詞，意思是「爸爸，你在哪裡？」父親就在孩子面前，這個提問卻仍然成立。[Pitchfork 訪談整理](https://pitchfork.com/news/stromae-breaks-down-his-music-videos-watch/)、[Songlexikon 歌名釋義](https://songlexikon.de/songs/papaoutai/)\n\n從這些設定來看，Raf Reyntjens 執導的這個空間，一面讓人認得那是家，一面保留尺寸上的不對勁。人偶父親出現在裡面，住宅本身也不必完全遵守日常的比例。"
+            },
+            {
+              "id": "building-the-street",
+              "title": "找不到實景，便從零搭一條街",
+              "body": "Reyntjens 在 2025 年的訪談中回憶，團隊最初打算外景拍攝，尋找帶有人造感的郊區住宅環境。一直沒有合適地點，他才決定改到攝影棚拍攝。美術設計 Yves Verstraete 用便宜材料與庫存舊家具從零搭景；棚內空間有限，團隊便調整佈景透視，讓住宅看起來大得足以供人生活。[導演談搭景經過](https://www.short-stuff.com/stromaept4)\n\n製作時程相當緊：搭景用了四天，攝影指導 Rik Zang 趁施工同步架燈，正式拍攝的預算則只有兩天。於是，片中供舞者活動的盡頭封閉的街道，是一個為鏡頭建造的表演空間。它有實體材料、有家具，也有人在裡面移動，故事中的住宅區卻是虛構的。[Reyntjens 訪談](https://www.short-stuff.com/stromaept4)\n\nMosaert 的介紹補上了成片的尺度：房子像縮小模型，室內的深度也經過設計。若想比較這種效果，可以留意人物站近門框或車庫時，身體與建築的大小關係，再看鏡頭如何交代房間。這比替那條街尋找一個現實地址，更接近團隊當時真正解決的問題。[場景比例說明](https://mosaert.com/project/stromae-papaoutai/)\n\n拍完後，導演才從美術設計師口中得知，佈景靈感來自附近一處準備拆除的住宅區。他後來去看，認為若早點找到，可能就不會選擇棚拍。這是導演事後的回憶；他沒有在訪談裡提供該處地址，也沒有說影片曾到那裡取景。[導演回憶場景靈感](https://www.short-stuff.com/stromaept4)"
+            },
+            {
+              "id": "clothes-and-screenplay",
+              "title": "故事的起點，來自服裝設計師",
+              "body": "這個概念也有清楚的合作署名。導演上傳至 Vimeo 的作品頁寫明，劇本源於 Coralie Barbier 的原始構想；她與 Britt Angé 同時負責服裝。影片由 Caviar 製作，Reyntjens 執導，Helena Overlaet-Michiels 負責剪接與合成。Barbier 的名字同時出現在構想與服裝兩個位置，兩項工作都參與了角色的塑造。[導演版製作名單](https://vimeo.com/68050922)\n\nReyntjens 說，最初已有故事構想，卻還不是可拍攝的劇本；他與 Stromae 來回討論了三週，才把它整理完成。到了現場，Stromae 仍會提出新點子。[導演談劇本合作](https://www.short-stuff.com/stromaept4)\n\n服裝與歌曲的連結，兩人後來也談過。2016 年接受《Le Temps》訪問時，Barbier 說，替 Stromae 做表演服裝的階段，他們會為每首歌設計一種圖案，靈感直接來自歌曲。Stromae 則說，他們想用衣服區分不同曲目的角色，從另一個角度解釋歌曲，並舉〈Papaoutai〉為例。依這個工作方法回看，服裝值得與房屋、家具放在一起理解：它參與了角色的設定。[Stromae 與 Barbier 專訪](https://www.letemps.ch/societe/styles/lhabit-pop-stromae-stromae-habits-pop)\n\n美術姓名的拼法有一處差異：導演訪談寫 Yves Verstraete，Vimeo 製作名單則寫 Yves Verstraeten；本文沿用訪談拼法，保留兩份資料的出入。[導演訪談](https://www.short-stuff.com/stromaept4)、[Vimeo 製作名單](https://vimeo.com/68050922)\n\n導演署名則以導演作品頁與 Mosaert 名單為據。Songlexikon 正文也寫 Reyntjens，文末影片書目卻另列 Adam Nael，該條目內部並不一致。[導演作品頁](https://vimeo.com/68050922)、[Mosaert 名單](https://mosaert.com/project/stromae-papaoutai/)、[Songlexikon 條目](https://songlexikon.de/songs/papaoutai/)"
+            },
+            {
+              "id": "dancing-relationships",
+              "title": "每一對舞者，都有自己的動作",
+              "body": "男孩由 Karl Ruben Noel 飾演，Marion Motin 擔任編舞，兩人的名字都列在導演的製作名單中。影片裡其他成人與孩子的組合，也各自以舞蹈演出親子關係。依導演回憶，成人舞者在劇本動筆前就已敲定，之後還得尋找能與他們搭配的兒童舞者。這些舞者各有所長，編舞則拆成短段，讓每一組的關係能在有限時間裡被看見。Reyntjens 說，剪接需要在舞蹈與故事之間找到平衡，不能讓其中一邊把另一邊擠掉。[演出名單](https://vimeo.com/68050922)、[導演訪談](https://www.short-stuff.com/stromaept4)\n\nMotin 對工作分配的說法更具體。她在 Short Stuff 訪談中指出，自己編排了 Stromae 與男孩的動作，但不會替所有舞者決定每一步。遇到以 krump 見長的 Tight Eyez，她負責協調，並由熟悉這種舞蹈的 Grichka Rootz 協助帶領編舞。這些分工保留了舞者各自的專長。[Motin 談〈Papaoutai〉編舞](https://www.short-stuff.com/interviews/stromae1)\n\n她第一次與 Stromae 合作時，也沒有先帶一套完成的舞步來。她想先觀察他的身體如何移動，再一起發展動作。她也說，後來排練時會先示範舞步；如果他覺得不自在，兩人就重新調整。這讓編舞能配合他的動作方式，而不只是要求他照樣完成。這個做法適合拿來理解片中的動與不動：舞蹈既能表現互動，身體停住時也能讓關係發生變化。觀看時不妨選一對親子，追蹤誰先動、另一個人如何回應，再與主角父子的段落比較。[Motin 談工作方法](https://www.short-stuff.com/interviews/stromae1)"
+            },
+            {
+              "id": "back-to-the-song",
+              "title": "把人偶留在畫面，回頭聽聲音",
+              "body": "〈Papaoutai〉MV 於 2013 年 6 月 6 日公開；歌曲收進《Racine carrée》，Universal Music 的德國 CD 目錄列出專輯發行日為同年 8 月 16 日。影片與唱片可以分開比較：先聽歌曲如何組織那個反覆出現的提問，再看導演把提問交給誰。[NRJ 的作品回顧](https://www.nrj.fr/artistes/stromae/actus/stromae-retour-sur-le-hit-phenomene-papaoutai-71326638)、[官方唱片資料](https://www.universal-music.de/stromae/musik/racine-carree-192851)\n\n佛萊堡大學流行文化與音樂研究中心參與出版的 Songlexikon，分析了曲中的鋼琴、吉他與合成器節奏，也指出主歌接近說話的唱法，以及副歌反覆字句的安排。它列出鋼琴演奏者 Aron Ottignon、吉他演奏者 Papa Dizzy 與 Stromae；導演版製作名單則分別列出鋼琴與吉他的編曲職務。回頭聽時，可以先抓住鋼琴和人聲，再留意其他聲部何時加入，讓舞步暫時退出注意力。[Songlexikon 曲目分析](https://songlexikon.de/songs/papaoutai/)、[音樂製作名單](https://vimeo.com/68050922)\n\n聲音與角色的分配也值得比較：唱歌的是 Stromae，畫面裡追問、試圖接近父親的卻是孩子。Songlexikon 將男孩理解為歌詞聲音的視覺化身。同一個人既提供歌聲，又在影像中扮演不回應的父親，孩子則用動作承擔了追問。[Songlexikon 的角色分析](https://songlexikon.de/songs/papaoutai/)\n\n這篇分析還記下影片的收尾：男孩坐到父親身旁，也停成相似的人偶姿態。前面曾經活躍的身體，在沙發上變得僵直；父子以相似的姿勢並排坐著。若要重看一個段落，就把這個結尾與街上成對舞者的互動接著比較，留意孩子的動作如何從尋求回應，走到模仿父親。[Songlexikon 的結尾分析](https://songlexikon.de/songs/papaoutai/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2013-06-06",
+              "event": "〈Papaoutai〉MV 公開，由 Raf Reyntjens 執導、Marion Motin 擔任編舞。"
+            },
+            {
+              "date": "2013-08-16",
+              "event": "收錄〈Papaoutai〉的《Racine carrée》德國 CD 版本發行；日期依 Universal Music 產品目錄。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Papaoutai",
+            "artist": "Stromae",
+            "note": "可先聽原曲的鋼琴、人聲與後續加入的聲部，再搜尋 2013 年官方 MV，比較孩子、父親及其他親子舞者的動作。聆聽線索依 Songlexikon 分析與製作名單整理。"
+          },
+          "sources": [
+            {
+              "title": "Mosaert｜Stromae — Papaoutai：場景說明與製作名單",
+              "url": "https://mosaert.com/project/stromae-papaoutai/"
+            },
+            {
+              "title": "Short Stuff｜Raf Reyntjens 談〈Papaoutai〉，2025-12-17",
+              "url": "https://www.short-stuff.com/stromaept4"
+            },
+            {
+              "title": "Raf Reyntjens｜PAPAOUTAI：導演作品頁與製作名單",
+              "url": "https://vimeo.com/68050922"
+            },
+            {
+              "title": "Short Stuff｜Marion Motin 談 Stromae 的編舞，2025-12-05",
+              "url": "https://www.short-stuff.com/interviews/stromae1"
+            },
+            {
+              "title": "Le Temps｜Stromae 與 Coralie Barbier 服裝訪談，2016-04-22",
+              "url": "https://www.letemps.ch/societe/styles/lhabit-pop-stromae-stromae-habits-pop"
+            },
+            {
+              "title": "Pitchfork｜Stromae Breaks Down His Music Videos，2022-05-19",
+              "url": "https://pitchfork.com/news/stromae-breaks-down-his-music-videos-watch/"
+            },
+            {
+              "title": "Songlexikon｜Papaoutai：音樂與角色分析",
+              "url": "https://songlexikon.de/songs/papaoutai/"
+            },
+            {
+              "title": "NRJ｜Stromae: retour sur le hit phénomène «Papaoutai»",
+              "url": "https://www.nrj.fr/artistes/stromae/actus/stromae-retour-sur-le-hit-phenomene-papaoutai-71326638"
+            },
+            {
+              "title": "Universal Music｜Racine carrée 德國 CD 發行資料",
+              "url": "https://www.universal-music.de/stromae/musik/racine-carree-192851"
+            }
+          ],
+          "interests": [
+            "MV 與地點",
+            "製作幕後",
+            "歌曲裡的人",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-10-23:stromae-papaoutai-studio-street"
+        },
         {
           "id": "greco-javanaise-red-circles",
           "city": "巴黎",
