@@ -58196,6 +58196,576 @@
     "gearStories": {
       "rows": [
         {
+          "id": "fender-mustang-bass-original",
+          "title": "Fender Mustang Bass：30 吋短弦長，與逐弦控制的延音",
+          "deck": "原版 Mustang 的巧思不只在尺寸：一組分離式拾音器、兩顆旋鈕，加上逐弦消音設計。從 Tina Weymouth 的改裝琴現場，到 Justin Meldal-Johnsen 的錄音經驗，看它如何進入編曲，也看清證據與版本的界線。",
+          "brand": "Fender",
+          "model": "Mustang Bass（1960–70 年代美國原版；規格以 1966–67 年型錄為準）",
+          "category": "貝斯",
+          "publishedAt": "2026-10-24",
+          "reviewedAt": "2026-10-24",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-it-matters",
+              "title": "短弦長之外，還能決定音符拖多久",
+              "body": "Mustang Bass 特別的地方，是把短弦長、單組拾音器與逐弦消音放在同一把琴上。控制板只有音量和音色旋鈕，琴橋卻讓四根弦各自調整弦高、音準與延音。對需要把低音收得俐落的編曲，這套機械設計很值得研究：音符怎麼結束，也能在琴上處理。[Fender 1966–67 年型錄](https://www.vintageguitarandbass.com/fender/catalogues/1966-67_15.php)已明列每根弦各有消音器。\n\n本文談的是 1960 至 70 年代美國製原版，規格以這份早期型錄為準。這一代已停產；後來沿用 Mustang 名稱的復刻、PJ 配置和簽名款，應各按自己的規格判讀。[Vintage Guitar and Bass 的型號檔案](https://www.vintageguitarandbass.com/fender/bass/Mustang.php)也整理了原版不同年份的外觀變化，不能把所有老 Mustang 當成同一批零件。"
+            },
+            {
+              "id": "short-scale",
+              "title": "30 吋改變的是手指要走的距離",
+              "body": "30 吋指的是上弦枕至琴橋的標稱弦長，約 762 毫米，不是整支琴頸的長度。相較常見的 34 吋貝斯，相同音程的品格距離較短；左手常覺得低把位伸展吃力的人，可以先比較這個差異。19 格則是原版型錄列出的範圍，別把其他版本的琴頸資料搬過來。\n\n[Fender 的短弦長說明](https://www.fender.com/articles/instruments/is-a-short-scale-bass-right-for-you)談到短弦長較鬆的手感。以相同弦材、粗細與調弦比較，縮短弦長會降低所需張力；換上不同結構或粗細的弦，結果也會跟著變。我的選購建議是帶著平常的力道試低音弦，檢查音頭與打弦聲，再比較連續八分音符的控制感。只看「30 吋」便斷言一定厚、一定鬆，會漏掉弦與設定的影響。"
+            },
+            {
+              "id": "pickup-and-mutes",
+              "title": "兩塊拾音器外殼，一組控制",
+              "body": "原版的 split pickup 是一組分離式拾音器，兩半可以分別調整，讓不同弦的輸出取得平衡。琴上沒有兩組拾音器的混合控制；演奏時可比較撥弦位置、手指或撥片，再搭配那顆音色旋鈕，而不是期待旋鈕提供多套拾音組合。\n\n琴橋的消音設計則直接處理弦的振動。早期型錄把它的用途寫得很明白：讓演奏者控制延音長短。因此看二手琴時，除了弦鞍能否調整，也要檢查消音部件是否仍在、能否正常接觸琴弦。缺少這些零件的老琴，操作上就不再完整保留型錄描述的功能。\n\n配圖採用 [Michael Calore 拍攝、CC BY 2.0 授權的 Commons 照片](https://commons.wikimedia.org/wiki/File:Fender_Mustang_Bass_(60%27s)_body.jpg)：檔案標示為 1960 年代 Mustang Bass，可見琴身、分離式拾音器、控制板及琴橋，沒有拍到琴頭；配圖用於辨識器材，不指認為兩位音樂人的用琴。"
+            },
+            {
+              "id": "tina-weymouth",
+              "title": "〈Psycho Killer〉現場，要連改裝一起看",
+              "body": "[Equipboard 的 Tina Weymouth 條目](https://equipboard.com/pros/tina-weymouth?gear=bass-guitars)提供了她使用 Mustang 的照片線索。更具體的場合，是 Talking Heads 在 1978 年《The Old Grey Whistle Test》演奏〈Psycho Killer〉；[No Treble 的演出介紹](https://www.notreble.com/buzz/2018/04/04/talking-heads-psycho-killer-live-1978/)確認了節目、年份與曲目。\n\n[這段演出影片的 0:15](https://www.youtube.com/watch?v=jzIuZ-mrIL0&t=15s)及 3:14 能看到 Weymouth 持琴演奏。不過，前述 Vintage Guitar and Bass 檔案明說她使用的 Mustang 已經改裝。這段畫面能證明的是該場使用情境，不能拿來保證未改裝原版也有相同聲音，更不能反推〈Psycho Killer〉錄音室版本的用琴。想沿著她的例子選琴，先分清現場那把琴的改動，比只找相同外形更有用。"
+            },
+            {
+              "id": "justin-meldal-johnsen",
+              "title": "JMJ 在密集編曲裡找低音的位置",
+              "body": "Justin Meldal-Johnsen 在 [2017 年 MusicRadar 訪談](https://www.musicradar.com/news/justin-meldal-johnsen-on-his-fender-road-worn-mustang-bass-its-something-that-could-really-fill-a-void-for-people)確認，他那把 Daphne Blue Mustang 是 1966 年原版，也是後來簽名款的參考。他回憶，面對密集的合成器編曲，自己曾過度使用 EQ 與其他處理；約在 2010 年製作 M83《Hurry Up, We’re Dreaming》期間，逐漸發現老 Mustang 能讓貝斯保有位置。\n\n他常在與 Beck 合作時使用它，卻認為它不適合當時 Nine Inch Nails 的工作。這個限制很有參考價值：挑琴仍須放回實際編曲。訪談沒有逐曲列出 M83 的用琴或完整錄音鏈，因此不能推成整張專輯的統一配置；聲音表現也應保留為他的使用感受。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合短距離的手感，未必適合你的每一場演出",
+              "body": "如果你想縮短低把位的伸展距離，接受單組拾音器的控制方式，也願意研究短音與消音，原版 Mustang 值得列入試琴名單。若工作需要快速切換不同拾音位置，這套原廠配置的選擇就有限。短弦長也不等於重量、平衡或琴頸厚度一定合適，仍要把候選琴掛上背帶，按自己的曲目試過。\n\n買二手時，我會先把可演奏狀態與收藏原裝度分開檢查：逐格試音，確認琴頸調整空間、弦鞍螺絲、輸出插孔和兩顆旋鈕，再請店家交代拾音器、護板及消音部件是否更換。若主打原裝，要求零件與日期照片；外觀磨損本身不會回答這些問題。\n\n[Fender 官方的年份辨識說明](https://support.fender.com/hc/en-gb/articles/42521696369947-How-can-I-find-out-when-my-American-made-instrument-was-manufactured)提醒，琴頸日期只代表那個零件的製造時間，序號也可能跨年重疊。需要拆頸確認時交給有經驗的技師，不要只憑一串號碼付出年份溢價。先問清楚售價包含哪些原件，以及哪些調整已完成。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "規格適用版本",
+              "value": "美國原版；以下主要依 Fender 1966–67 年型錄，非後期復刻或簽名款"
+            },
+            {
+              "label": "弦數",
+              "value": "4 弦"
+            },
+            {
+              "label": "標稱弦長",
+              "value": "30 吋（762 毫米）"
+            },
+            {
+              "label": "品格數",
+              "value": "19 格"
+            },
+            {
+              "label": "拾音器",
+              "value": "1 組分離式拾音器；兩半可分別調整弦間輸出平衡"
+            },
+            {
+              "label": "控制",
+              "value": "1 音量、1 音色"
+            },
+            {
+              "label": "琴橋調整",
+              "value": "各弦弦鞍可分別調整高度與前後位置"
+            },
+            {
+              "label": "原廠消音設計",
+              "value": "每根弦各有消音器，可控制延音；二手個體須另查零件是否保留"
+            },
+            {
+              "label": "琴頸調整",
+              "value": "設有 truss rod 琴頸調整桿"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Tina Weymouth",
+              "work": "Talking Heads：1978 年《The Old Grey Whistle Test》演奏〈Psycho Killer〉",
+              "story": "No Treble 確認演出場合，影片 0:15 與 3:14 可見她持 Mustang 演奏。器材檔案指出這把琴已改裝；這是現場使用紀錄，不能證明原廠配置的聲音，也不能推定錄音室版本使用同一把琴。"
+            },
+            {
+              "name": "Justin Meldal-Johnsen",
+              "work": "M83《Hurry Up, We’re Dreaming》製作期間",
+              "story": "他在 2017 年 MusicRadar 訪談中，回憶約 2010 年製作該專輯時使用老 Mustang 的經驗，並確認自己的藍色原版為 1966 年琴。訪談未提供逐曲用琴表或完整錄音鏈。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Talking Heads Psycho Killer Old Grey Whistle Test",
+              "channel": "William Throop",
+              "url": "https://www.youtube.com/watch?v=jzIuZ-mrIL0",
+              "verifiedAt": "2026-10-24"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Fender 1966–67 型錄第 15 頁：Mustang Bass（Vintage Guitar and Bass 存檔）",
+              "url": "https://www.vintageguitarandbass.com/fender/catalogues/1966-67_15.php"
+            },
+            {
+              "title": "Vintage Guitar and Bass：Fender Mustang Bass 型號檔案",
+              "url": "https://www.vintageguitarandbass.com/fender/bass/Mustang.php"
+            },
+            {
+              "title": "Fender：Is a Short-Scale Bass Right for You?",
+              "url": "https://www.fender.com/articles/instruments/is-a-short-scale-bass-right-for-you"
+            },
+            {
+              "title": "Wikimedia Commons：Fender Mustang Bass (60's) body.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Fender_Mustang_Bass_(60%27s)_body.jpg"
+            },
+            {
+              "title": "Equipboard：Tina Weymouth 的貝斯使用線索",
+              "url": "https://equipboard.com/pros/tina-weymouth?gear=bass-guitars"
+            },
+            {
+              "title": "No Treble：Talking Heads: Psycho Killer, Live 1978",
+              "url": "https://www.notreble.com/buzz/2018/04/04/talking-heads-psycho-killer-live-1978/"
+            },
+            {
+              "title": "William Throop：Talking Heads Psycho Killer Old Grey Whistle Test（0:15）",
+              "url": "https://www.youtube.com/watch?v=jzIuZ-mrIL0&t=15s"
+            },
+            {
+              "title": "William Throop：Talking Heads Psycho Killer Old Grey Whistle Test（完整影片）",
+              "url": "https://www.youtube.com/watch?v=jzIuZ-mrIL0"
+            },
+            {
+              "title": "MusicRadar：Justin Meldal-Johnsen 談原版與 Road Worn Mustang Bass（2017-11-21）",
+              "url": "https://www.musicradar.com/news/justin-meldal-johnsen-on-his-fender-road-worn-mustang-bass-its-something-that-could-really-fill-a-void-for-people"
+            },
+            {
+              "title": "Fender：美國製樂器的年份辨識說明",
+              "url": "https://support.fender.com/hc/en-gb/articles/42521696369947-How-can-I-find-out-when-my-American-made-instrument-was-manufactured"
+            }
+          ],
+          "photo": {
+            "author": "Michael Calore",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fender_Mustang_Bass_(60%27s)_body.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-2750dd078e105789",
+            "caption": "1960 年代 Fender Mustang Bass 原版，年代依 Commons 檔案說明。畫面涵蓋琴身與部分琴頸，可見分離式拾音器、控制板及琴橋，未包含琴頭；不指認為文中音樂人的用琴。攝影：Michael Calore，CC BY 2.0。",
+            "alt": "淺藍色 Fender Mustang Bass 琴身及部分琴頸，帶紅褐色護板、兩半黑色拾音器、兩顆旋鈕與金屬琴橋。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-24:gear-bass"
+        },
+        {
+          "id": "paiste-2002-sound-edge-hi-hat-14",
+          "title": "Paiste 2002 Sound Edge 14 吋：波浪下鈸，與 Alex González 的兩種用法",
+          "deck": "下鈸的波浪邊為排氣留下空間；Maná 鼓手的配置則提供了完整踩鈸與拆開做疊鈸的使用實例。",
+          "brand": "Paiste",
+          "model": "2002 Sound Edge Hi-Hat 14 吋（標準配對；規格依現行官方頁）",
+          "category": "鼓與打擊",
+          "publishedAt": "2026-10-24",
+          "reviewedAt": "2026-10-24",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "wavy-bottom",
+              "title": "腳踩合起來時，波浪邊才是重點",
+              "body": "Paiste 2002 Sound Edge 14 吋踩鈸的特別之處，是下鈸邊緣規律的起伏。上下鈸合攏時，波浪間仍留有空隙；Cymbal Wiki 收錄的 Paiste 舊型錄與官網說明，把避免兩片鈸之間的 air lock 列為這項設計的目的。對重視腳踩閉合聲的鼓手，這是值得試的結構差異，不能只用「亮」或「大聲」帶過。[Sound Edge 歷史資料](https://cymbal.wiki/wiki/Paiste_Sound_Edge_Hi-Hat)\n\n這篇談標準 14 吋配對。[現行產品頁](https://www.paiste.com/en/products/models/120)仍列有此尺寸，並把閉合的 chick 聲列為突出、延音列為中等；這些是原廠分類，不是本文的實測結論。同頁的 13、15、17 吋各有尺寸，不能拿別人的 15 吋使用紀錄替 14 吋背書。"
+            },
+            {
+              "id": "alloy-and-playing",
+              "title": "2002 是系列名稱，手與腳仍決定聲音",
+              "body": "[2002 系列官方資料](https://www.paiste.com/en/products/series/s2002)標示系列始於 1971 年，使用 CuSn8 青銅，也稱 2002 Bronze。因此，名稱裡的 2002 不能拿來判定製造年份。這對找二手鈸尤其實用：賣場只寫「2002 hi-hat」還不夠，仍須確認尺寸與 Sound Edge 型號。\n\n原廠把這組的重量等級列為 Medium，卻沒有給每一片固定的公克數。重量分級適合當比較起點，不能用來斷言所有年代、所有實物都一樣重。合金名稱也說不完操作差異：依 [Paiste 的鈸片構造說明](https://www.paiste.com/en/about/everything-cymbals/cymbal-anatomy)，踩鈸由兩片相對安裝的鈸組成，踏板負責開合；鼓棒敲緊閉鈸面、半開鈸面或邊緣，各是不同的演奏方式，快速踩合才產生短促的 chick。\n\n原廠也提醒，尺寸與厚度必須一起看：在厚度相同時，較大的鈸通常音高較低、延音較長；同尺寸較厚的鈸，音高則通常較高。這是比較方向，仍要實際試過整組配對，才能決定取捨。\n\n所以試這組鈸時，我會把注意力放在同一段節奏從緊閉、微開到閉合的變化，而不只敲一下開放聲。波浪邊處理的是接觸與排氣問題，選擇是否合用，還要把自己的踩法放進去。"
+            },
+            {
+              "id": "alex-gonzalez",
+              "title": "Alex González 的配置，不只一組踩鈸",
+              "body": "[Equipboard 的 14 吋條目](https://equipboard.com/items/paiste-14-2002-sound-edge-hi-hats--2)提供了 Maná 鼓手 Alex González 的線索，並指向 Modern Drummer 的巡演器材影片。社群標註先帶路，具體情境則回到可讀的報導。\n\n[Drummerszone 於 2020 年的報導](https://drummerszone.com/news/alex-gonzlez-extreme-man-tour-kit-from-dw-drums-paiste-cymbals-and-remo-drumheads/namm-2020-66-13878/article/?language=2)記錄了 NAMM 展出的兩套 DW 不鏽鋼鼓組，說明它們為 Maná 的 2019 年 Rayando El Sol 巡演打造；隨文列出的官方鈸片清單，同時有 13 與 14 吋 2002 Sound Edge。\n\n[Paiste 的 González 藝人頁](https://www.paiste.com/en/musicians/alex-gonzalez)也列有這兩個尺寸，還記錄另一種用途：把一片 14 吋 Sound Edge 下鈸放在三片疊鈸的中間。這是很具體的配置細節，但疊鈸已是另一種組合，不能拿它的聲音代表標準上下配對。這些資料能確認型號出現在他的器材配置，沒有逐首列出巡演曲目或錄音用鈸，因此也不宜把 Maná 某張唱片的踩鈸聲直接歸給這一組。"
+            },
+            {
+              "id": "try-in-context",
+              "title": "適合把腳踩聲當成節奏一部分的人",
+              "body": "依原廠對 chick 與開放聲的描述，我會把它放進「希望腳踩閉合有明確存在感」的試鈸名單。若偏好柔和、低存在感的踩鈸聲，則更需要實際比較；Medium 是相對分類，無法保證它在你的小排練室裡剛好合適。\n\n[Paiste 官方的 Classic Setup 示範](https://www.youtube.com/watch?v=WpQlvyXqRo0)可作為聆聽入口。影片說明明列 14 吋 2002 Sound Edge，並註明由 Reto Wild 演奏；另有 crash 與 ride 參與，聆聽時可以先追蹤踩鈸的開合，再回頭比較它與其餘鈸片的比例。\n\n到店裡，我會依 [原廠的試鈸建議](https://www.paiste.com/en/about/everything-cymbals/selection-and-testing)，帶平常用的鼓棒、用正常演奏音量，分別試腳踩、緊閉、微開與開合節奏，再與自己的 ride 或 crash 比較。讓另一個人演奏，走遠一些聽，也比一直坐在鼓椅上更容易判斷它在整組聲音裡的位置。\n\n如果常在小編制或低音量場合工作，試聽時也要留意踩鈸會不會遮住其他樂器。官方指南把場地大小與合奏音量列為選擇條件；大型舞台上的使用紀錄有參考價值，自己的工作環境仍得親自試。"
+            },
+            {
+              "id": "used-pair",
+              "title": "買二手，先拆開看上下片",
+              "body": "確認賣的是完整配對，還是只有 top 或 bottom；請賣家分別拍清兩片的型號、尺寸與邊緣。Sound Edge 下鈸原本就有規律波浪，局部凹傷卻是另一回事。本文選用的 [Commons 照片](https://commons.wikimedia.org/wiki/File:2006-07-06_hihat3.jpg)攝於 2006 年，標示為 14 吋 2002 Sound Edge，畫面可見紅色標誌、上下鈸與 Pearl H2000 Eliminator 踩鈸架；它能展示外形，拍攝日期不能當製造年份。\n\n檢查重點放在邊緣裂痕、缺口，以及中心孔是否磨成不規則形狀。[Paiste 的保養說明](https://www.paiste.com/en/about/everything-cymbals/usage-and-care)提醒，金屬直接摩擦會造成中心孔磨損，邊緣碰傷也會增加破裂風險；上鈸鎖得過緊，則妨礙自由擺動。把這些提醒用在二手檢查，比只看表面擦得多亮有用。單買下片來搭現有上片，可以另找合意的組合，但要當成混搭配對重新試聽。最後裝上運作正常的踩鈸架，確認開合順暢，再用平常的力度試一輪。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "尺寸",
+              "value": "14 吋"
+            },
+            {
+              "label": "材料",
+              "value": "CuSn8 青銅；原廠亦稱 2002 Bronze"
+            },
+            {
+              "label": "組成與演奏方式",
+              "value": "上下兩片原聲踩鈸；鼓棒敲擊，踩鈸架踏板控制開合"
+            },
+            {
+              "label": "下鈸結構",
+              "value": "Sound Edge 波浪狀邊緣"
+            },
+            {
+              "label": "重量等級",
+              "value": "Medium；現行官方頁未列固定公克數"
+            },
+            {
+              "label": "延音分類",
+              "value": "Medium（原廠相對分類）"
+            },
+            {
+              "label": "音量分類",
+              "value": "Medium（原廠相對分類）"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Alex González",
+              "work": "Maná：2019 年 Rayando El Sol 巡演鼓組的 2020 NAMM 展示報導",
+              "story": "Drummerszone 在巡演鼓組展示報導中列出的官方配置含 14 吋 2002 Sound Edge；Paiste 藝人頁也列有同尺寸配對，另記錄將該型號下片放在疊鈸中層。這些是器材配置紀錄，未能指認某首歌曲或專輯的錄音用鈸。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "PAISTE CYMBALS - Series Spotlight - 2002 (Classic Setup)",
+              "channel": "Paiste Cymbals",
+              "url": "https://www.youtube.com/watch?v=WpQlvyXqRo0",
+              "verifiedAt": "2026-10-24"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Cymbal Wiki：Paiste Sound Edge Hi-Hat 歷史型錄與官網文字",
+              "url": "https://cymbal.wiki/wiki/Paiste_Sound_Edge_Hi-Hat"
+            },
+            {
+              "title": "Paiste：2002 Sound Edge Hi-Hat 官方產品頁",
+              "url": "https://www.paiste.com/en/products/models/120"
+            },
+            {
+              "title": "Paiste：2002 系列官方資料",
+              "url": "https://www.paiste.com/en/products/series/s2002"
+            },
+            {
+              "title": "Paiste：Cymbal Anatomy",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/cymbal-anatomy"
+            },
+            {
+              "title": "Equipboard：Paiste 14\" 2002 Sound Edge Hi-Hats",
+              "url": "https://equipboard.com/items/paiste-14-2002-sound-edge-hi-hats--2"
+            },
+            {
+              "title": "Drummerszone：Alex González 的 Maná 巡演鼓組",
+              "url": "https://drummerszone.com/news/alex-gonzlez-extreme-man-tour-kit-from-dw-drums-paiste-cymbals-and-remo-drumheads/namm-2020-66-13878/article/?language=2"
+            },
+            {
+              "title": "Paiste：Alex Gonzalez 官方藝人配置",
+              "url": "https://www.paiste.com/en/musicians/alex-gonzalez"
+            },
+            {
+              "title": "Paiste Cymbals：2002 Classic Setup 官方示範",
+              "url": "https://www.youtube.com/watch?v=WpQlvyXqRo0"
+            },
+            {
+              "title": "Paiste：Selection & Testing",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/selection-and-testing"
+            },
+            {
+              "title": "Wikimedia Commons：File:2006-07-06 hihat3.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:2006-07-06_hihat3.jpg"
+            },
+            {
+              "title": "Paiste：Usage and Care",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/usage-and-care"
+            }
+          ],
+          "photo": {
+            "author": "Stephan Czuratis ( Jazz-face )",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:2006-07-06_hihat3.jpg",
+            "license": "CC BY-SA 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+            "id": "place-f99b345919074eb8",
+            "caption": "14 吋 Paiste 2002 Sound Edge 踩鈸，2006 年拍攝的紅色標誌實物；可見上下鈸、波浪下鈸邊緣與 Pearl H2000 Eliminator 踩鈸架。製造年份未確認。攝影：Stephan Czuratis（Jazz-face），CC BY-SA 2.5。",
+            "alt": "裝在 Pearl 踩鈸架上的 Paiste 2002 Sound Edge 14 吋踩鈸，上片有紅色標誌，下片邊緣呈規律波浪。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-24:gear-drums"
+        },
+        {
+          "id": "pro-co-rat-2",
+          "title": "Pro Co RAT 2：削掉高頻之前，先決定要多少失真",
+          "deck": "從放大、削波到 FILTER，讀懂三顆旋鈕的分工，也釐清 Graham Coxon 器材表裡的標準版與改裝版。",
+          "brand": "Pro Co",
+          "model": "RAT 2（黑色斜面外殼標準版；規格以現行產品頁為準）",
+          "category": "效果器",
+          "publishedAt": "2026-10-24",
+          "reviewedAt": "2026-10-24",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "what-makes-it-different",
+              "title": "先弄懂那顆反方向的 FILTER",
+              "body": "RAT 2 最值得研究的地方，是失真量與高頻可以分開處理。DISTORTION 把訊號推向失真，FILTER 則順時針削掉更多高頻；覺得聲音太尖時，旋鈕要往右轉。這種操作讓同一顆踏板能在保留明亮邊緣與收斂高頻之間調整，不必每次都靠減少失真解決。本文談的是 Pro Co RAT 2 標準版，規格以[日本代理商 Moridaira 的現行產品頁](https://moridaira.jp/rat-distortion/rat2/)為準。\n\n它採全類比電路，面板只有三個旋鈕。選題起點是 [Equipboard 的 RAT 2 藝人資料](https://equipboard.com/items/proco-rat-2-distortion)，其中列有 Graham Coxon；這份社群清單提供了訪談線索，不能直接當作某張唱片的錄音器材表。"
+            },
+            {
+              "id": "circuit-and-controls",
+              "title": "放大、削波，再把高頻收回來",
+              "body": "[Fantail Audio 的 RAT 2 維修紀錄](https://www.fantailaudio.com/proco-rat)把電路順序交代得很清楚：運算放大器提供可調增益，後面的成對二極體削波，再經過被動低通濾波與 JFET 輸出緩衝。照這個順序理解，DISTORTION 增加的是進入削波段的驅動程度；FILTER 處理的則是已經產生失真的訊號。它能削高頻，卻沒有一顆獨立低頻旋鈕讓你補回厚度。\n\n[原廠操作說明書](https://images.equipboard.com/uploads/item/manual/844/pro-co-rat-2-manual.pdf)也將 DISTORTION 定義為運算放大器的增益控制，VOLUME 才負責總輸出。實際試機可以先固定失真量，慢慢掃過 FILTER，再用 VOLUME 把開啟與旁通的音量拉近。這是依控制設計提出的比較方法：先排除音量差，才比較得出自己需要多少高頻。\n\n若把失真量壓低、輸出提高，代理商也列出推動音箱的用法。不過，提高送進音箱的電平後，結果還取決於音箱剩餘的乾淨音量空間，不能把 VOLUME 的刻度直接當成獨奏會增加多少音量。\n\n試機時也別只彈單音。可以用同一組設定輪流彈低音弦的節奏、開放和弦與高把位旋律，再決定哪一段需要保留清楚的邊緣、哪一段可以讓高頻退後。這顆踏板沒有各頻段獨立控制，選好 FILTER 的位置，等於替整段演奏做一次取捨；若每換一句就得重新轉旋鈕，問題可能是你需要另一組設定，而非更高的失真量。"
+            },
+            {
+              "id": "graham-coxon",
+              "title": "Coxon 的 RAT，得把版本分開看",
+              "body": "2018 年 5 月的 [Premier Guitar 專訪](https://www.premierguitar.com/artists/graham-coxon-the-curious-flights-of-an-art-pop-aerialist)同時把 RAT 2 與 Turbo RAT 列進 Coxon 的器材表。談到 Blur〈Go Out〉的現場吉他聲，他回憶自己用了 SG、短促回聲與 RAT 失真，對殘響則保留了不確定語氣。這段訪談能確認他談的是 RAT，卻沒有指出那首歌用的是哪一款。\n\n另一個更具體的場合，是同年 That Pedal Show 為他介紹另一套效果器盤。[節目官方紀錄](https://www.thatpedalshow.com/TPS-videodatabase/graham-coxon-extra-bits,-tones-&-an-alternative-board-%E2%80%93-that-pedal-show)說明，他希望 Dan 組一套方便攜帶、可供不同創作計畫使用的配置，清單明列「ProCo RAT2 Pack Rat Mod By JHS」。這顆是改裝 RAT 2，不能拿來代表標準版的全部聲音或功能。這則故事有意思的地方，是熟悉的失真器如何被放進另一套工作配置；它沒有提供任何 Blur 錄音室版本的證明。"
+            },
+            {
+              "id": "who-it-fits",
+              "title": "適合願意一起調增益與濾波的人",
+              "body": "如果需要一顆控制直接、能用失真量與高頻取捨安排節奏和主奏的踏板，RAT 2 值得列入試機名單。想單獨調整中頻、保留可混合的乾淨訊號，或在腳下一次叫出幾組設定，這三顆旋鈕就不夠了。標準版沒有那些控制，購買前應先確定自己需要的是哪種調整方式。\n\n想先找示範，可看 Sweetwater 的 Don Carr 所做的 [RAT 2 示範影片](https://www.youtube.com/watch?v=0OqIo6BNTjE)；[Sweetwater 原始介紹](https://www.sweetwater.com/insync/pro-co-rat-2-distortionfuzzoverdrive-pedal-demo/)確認了示範者與型號。試自己的器材時，可以照前面的順序，將增益、濾波與輸出分開比較，而不是只照抄畫面上的旋鈕角度。\n\n它的輸入、輸出各只有一個 1/4 吋插孔，接線採單聲道；手冊要求使用 TS 樂器導線。若原本的效果器盤已經做成立體聲，要先安排 RAT 2 放在哪個分流位置，不能把左右兩路當成一組訊號直接插進去。"
+            },
+            {
+              "id": "buying-used",
+              "title": "二手先試開關，再談年份",
+              "body": "買二手時，先反覆切換效果與旁通，確認兩種狀態都能穩定出聲，再逐一轉動旋鈕、輕晃插頭，檢查接點是否斷續。Fantail Audio 那顆送修 RAT 2 曾出現燈亮卻沒有聲音、偶爾音量極小的情況，最後確認是腳踏開關故障。這是一個維修個案，足以提醒檢查方式，不能推成整個型號的故障率。\n\n電源也要看實物。此次核對的現行規格是 9V 電池，或中心負極、5.5 × 2.1 mm 插頭的 9V 直流供電；買舊機仍應請賣家提供插孔、標示與改裝紀錄。手冊提醒，插著 INPUT 就會接通電池，用完應拔線。若賣家用特定晶片或年份加價，先要求能支持說法的照片與資料。\n\n本文選用 [Shunichi kouroki 的 Commons 照片](https://commons.wikimedia.org/wiki/File:Proco_RAT2_angled_view.jpg)，授權為 CC BY 2.0。照片拍於 2012 年，可見黑色斜面 RAT 2 的頂面與前側；它沒有展示底標、電源孔或內部電路，不能據此判定製造年份或晶片版本。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "電路類型",
+              "value": "全類比失真效果器"
+            },
+            {
+              "label": "控制",
+              "value": "DISTORTION、FILTER、VOLUME"
+            },
+            {
+              "label": "FILTER 操作",
+              "value": "高頻削減控制；順時針減少高頻"
+            },
+            {
+              "label": "旁通",
+              "value": "True Hardwire／True Bypass"
+            },
+            {
+              "label": "音訊接孔",
+              "value": "1/4 吋 TS 輸入 × 1、輸出 × 1；單聲道"
+            },
+            {
+              "label": "供電",
+              "value": "9V 電池或 9V DC；現行版電源插頭為 5.5 × 2.1 mm、中心負極，變壓器另購"
+            },
+            {
+              "label": "現行版尺寸",
+              "value": "90 × 103 × 80 mm（寬 × 深 × 高；依 Moridaira 產品頁）"
+            },
+            {
+              "label": "現行版重量",
+              "value": "640 g（依 Moridaira 產品頁）"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Graham Coxon",
+              "work": "2018 年 Premier Guitar 專訪與 That Pedal Show 替代效果器盤介紹",
+              "story": "Premier Guitar 的 2018 年專訪器材表明列 RAT 2 與 Turbo RAT；Coxon 談〈Go Out〉現場聲音時只稱 RAT，未確認具體版本。同年 That Pedal Show 官方資料則記載，為不同創作計畫準備的便攜效果器盤包含 JHS Pack Rat 改裝 RAT 2。可確認器材清單與節目場合，不能將改裝版等同標準版，也不能據此指定 Blur 某首歌的錄音用機。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Pro Co Rat 2 Distortion/Fuzz/Overdrive Pedal Demo - Sweetwater Sound",
+              "channel": "Sweetwater",
+              "url": "https://www.youtube.com/watch?v=0OqIo6BNTjE",
+              "verifiedAt": "2026-10-24"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Moridaira：RAT2 官方代理產品頁",
+              "url": "https://moridaira.jp/rat-distortion/rat2/"
+            },
+            {
+              "title": "Equipboard：Pro Co RAT 2 與藝人使用線索",
+              "url": "https://equipboard.com/items/proco-rat-2-distortion"
+            },
+            {
+              "title": "Fantail Audio：ProCo Rat 2 維修紀錄",
+              "url": "https://www.fantailaudio.com/proco-rat"
+            },
+            {
+              "title": "Pro Co Owner’s Instructions（Equipboard 保存的原廠說明書）",
+              "url": "https://images.equipboard.com/uploads/item/manual/844/pro-co-rat-2-manual.pdf"
+            },
+            {
+              "title": "Premier Guitar：Graham Coxon—The Curious Flights of an Art-Pop Aerialist",
+              "url": "https://www.premierguitar.com/artists/graham-coxon-the-curious-flights-of-an-art-pop-aerialist"
+            },
+            {
+              "title": "That Pedal Show：Graham Coxon Extra Bits, Tones & An Alternative Board",
+              "url": "https://www.thatpedalshow.com/TPS-videodatabase/graham-coxon-extra-bits,-tones-&-an-alternative-board-%E2%80%93-that-pedal-show"
+            },
+            {
+              "title": "YouTube／Sweetwater：Pro Co Rat 2 示範",
+              "url": "https://www.youtube.com/watch?v=0OqIo6BNTjE"
+            },
+            {
+              "title": "Sweetwater inSync：RAT 2 示範原始介紹",
+              "url": "https://www.sweetwater.com/insync/pro-co-rat-2-distortionfuzzoverdrive-pedal-demo/"
+            },
+            {
+              "title": "Wikimedia Commons：Proco RAT2 angled view.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Proco_RAT2_angled_view.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Shunichi kouroki",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Proco_RAT2_angled_view.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-3fa84b360aa7fbe0",
+            "caption": "Pro Co RAT 2 黑色斜面外殼版，2012 年攝影；可見頂面、前側、三個旋鈕與腳踏開關，未展示底標、電源孔或內部電路。攝影：Shunichi kouroki／CC BY 2.0。",
+            "alt": "木桌上的黑色 Pro Co RAT 2，斜角可見三顆旋鈕、RAT 標誌、金屬腳踏開關與前側 Pro Co 標誌。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-24:gear-effects"
+        },
+        {
+          "id": "squier-j-mascis-jazzmaster",
+          "title": "Squier J Mascis Jazzmaster：兩套控制，與 MJ Lenderman 的特殊調弦",
+          "deck": "雙電路、調整過的琴橋配置，以及早期樣本裡近似 P-90 的拾音器構造，讓這把量產簽名琴值得仔細辨認。",
+          "brand": "Squier",
+          "model": "J Mascis Jazzmaster（Vintage White／金色陽極處理鋁護板；指板版本分述）",
+          "category": "吉他",
+          "publishedAt": "2026-10-24",
+          "reviewedAt": "2026-10-24",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-this-jazzmaster",
+              "title": "把兩套控制留在一把量產琴上",
+              "body": "Squier J Mascis Jazzmaster 特別的地方，是把 Jazzmaster 的雙電路保留下來，再配上 Adjusto-Matic 琴橋與向前移的浮動搖座。你可以先設好兩組音量、音色，在演奏中切換；它也有自己的硬體取捨，不能只憑外形當作老 Jazzmaster 的平價複製品。對想摸清這套操作、又不以收藏老琴為目的的人，這個組合很有吸引力。\n\n[Equipboard 的型號頁](https://equipboard.com/items/squier-j-mascis-jazzmaster/)提供藝人使用線索，但社群名單不能證明某張唱片用了它。[Fender 的設計介紹](https://www.fender.com/articles/instruments/artist-signature-specs-squier-j-mascis-jazzmaster)確認這款合作始於 2011 年，也說明搖座前移是為了增加琴弦越過琴橋的折角。本文談的是 Vintage White、金色鋁護板的 Squier 型號。"
+            },
+            {
+              "id": "hardware-and-pickups",
+              "title": "拾音器外殼相似，裡面未必相同",
+              "body": "[官方產品規格](https://www.fender.com/products/j-mascis-jazzmaster)列出椴木琴身、C 型楓木琴頸、25.5 吋弦長、9.5 吋指板弧度與 21 格 jumbo 琴衍。這些數字能幫你挑試琴重點：較在意琴頸厚薄的人要親自握握看，習慣小琴衍的人則值得比較按弦與推弦時的控制感。購買前最好帶著常用的彈法試：刷和弦時右手會不會碰到開關、坐姿下手臂放在哪裡，以及高把位推弦是否順手。規格表負責告訴你尺寸，這些動作才是在確認它能否配合你的習慣。\n\n拾音器尤其值得辨清。[Tym Guitars 在 2013 年的拆檢](https://tymguitars.com.au/blogs/blog/8322962-j-mascis-squier-jazzmaster)記錄，其樣本在 Jazzmaster 式外殼下使用可調極柱與底部兩條磁鐵，構造近似 P-90。這是對早期樣本的觀察，不能替每個後續批次背書。若你的目標是某種老 Jazzmaster 聲音，應比較拾音器本身，不要只認白色長方形外殼。\n\n同篇拆檢也指出搖座沒有傳統的鎖定機構。浮動搖座提供音高變化，並不等於有雙鎖式系統的功能；試琴時，回到原音高是否穩定，比想像它能做多大的動作更實際。"
+            },
+            {
+              "id": "two-circuits",
+              "title": "先學會切換，再判斷哪個旋鈕失靈",
+              "body": "依[Fender 的控制教學](https://www.fender.com/articles/instruments/demystifying-the-jazzmaster-controls)，Lead 電路由下方音量、音色旋鈕配合三段拾音器選擇器操作，可選琴頸、琴橋或兩者。切到 Rhythm 電路後，只使用琴頸拾音器，改由上方兩個滾輪控制；此時下方旋鈕與三段開關不參與控制。\n\n因此，可以把 Rhythm 預先調低音量，再用 Lead 保留另一組設定。這是依電路功能提出的用法，不代表切換會自動增加失真。第一次比較時，不妨先把兩套音量調到接近，再改動音色，會比較容易分清楚自己需要的是音量差還是明暗差。熟悉之後，再決定要不要把其中一套留給歌曲較安靜的段落。\n\nFender 也解釋，兩套音色控制使用不同阻值，所以同樣只開琴頸拾音器，Rhythm 仍會較暗。買二手琴試開關時，先辨清正在使用哪套電路，免得把正常停用的控制誤判成故障。"
+            },
+            {
+              "id": "mj-lenderman",
+              "title": "MJ Lenderman 留給一首歌的調弦",
+              "body": "2025 年 2 月 1 日，MJ Lenderman 隨《Manning Fireworks》巡演到阿拉巴馬州伯明罕的 Saturn；Premier Guitar 的 Chris Kies 在演出前訪問樂團。[同月刊出的器材紀錄](https://www.premierguitar.com/videos/rig-rundown/mj-lenderman)指出，他把 Squier J Mascis Jazzmaster 調成 C–G–D–G–G–E，用於〈You’re Every Girl to Me〉。這讓一把簽名琴有了很具體的工作：保留那首歌需要的調弦。\n\n這則紀錄支持的是巡演中的特定用途，沒有證明 Squier 錄過這首歌的唱片版本，也未交代它的製造年份或指板版本。[完整 Rig Rundown](https://www.youtube.com/watch?v=KOsIjo3LmPE)的官方章節把 7:23 標為這把琴的介紹、8:05 標為歌曲調弦；可從這兩處接著看。"
+            },
+            {
+              "id": "buying-and-versions",
+              "title": "挑二手琴，先問版本與改裝",
+              "body": "它適合想用雙電路切換設定、願意熟悉浮動搖座的人。若你只想插線後靠一組旋鈕完成所有操作，上方開關與滾輪也會增加需要記住的設定；若追求特定年代的 Jazzmaster 配置，前述琴橋與早期拾音器構造就值得逐項比較。\n\n指板不能混寫。Tym 的早期樣本是玫瑰木，查閱當日的官方產品頁則列有 Rosewood 與 Indian Laurel 兩種選項。截至查閱日，官方仍列售此型號，但今天頁面的規格不宜直接套在每把早期二手琴上。向賣家要序號、購入資料及改裝清單，比只問「是不是 J Mascis」有用。\n\n本文的[Commons 照片](https://commons.wikimedia.org/wiki/File:Fender_Squier_J_Mascis_Jazzmaster_-_body.jpg)拍於 2014 年，只展示琴身與部分指板，能看清金色護板、琴橋及搖座，沒有琴頭或序號，不能拿它判讀製造年份。實際驗琴則建議逐格檢查雜音與琴衍磨耗，兩套電路都測一次，確認插孔接觸、搖桿配件及使用搖桿後的音準恢復。若琴橋或拾音器換過，請賣家列出零件型號。改裝價值也要回到你的需要：換了拾音器、琴橋，不代表一定比較適合；原零件有沒有保留，則關係到日後能否恢復原配置。把必要的整理費用算進去，再比較同版本的二手報價。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "琴身",
+              "value": "椴木（Basswood）"
+            },
+            {
+              "label": "琴頸",
+              "value": "楓木，C 型輪廓"
+            },
+            {
+              "label": "弦長",
+              "value": "25.5 吋（648 mm）"
+            },
+            {
+              "label": "指板弧度",
+              "value": "9.5 吋（241 mm）"
+            },
+            {
+              "label": "琴衍",
+              "value": "21 格，Jumbo"
+            },
+            {
+              "label": "上弦枕寬度",
+              "value": "1.675 吋（42.5 mm）"
+            },
+            {
+              "label": "指板版本",
+              "value": "官方產品頁分列 Rosewood 與 Indian Laurel；二手琴須依實琴版本核對"
+            },
+            {
+              "label": "琴橋與搖座",
+              "value": "Adjusto-Matic 琴橋、復古式浮動搖座"
+            },
+            {
+              "label": "護板",
+              "value": "單層金色陽極處理鋁護板"
+            }
+          ],
+          "artists": [
+            {
+              "name": "MJ Lenderman",
+              "work": "2025 年《Manning Fireworks》巡演；〈You’re Every Girl to Me〉",
+              "story": "Premier Guitar 在伯明罕 Saturn 演出前記錄，此琴用於〈You’re Every Girl to Me〉，採 C–G–D–G–G–E 調弦。這是巡演配置證據，未確認唱片錄音用途、製造年份或指板版本。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "MJ Lenderman & the Wind Rig Rundown with Jon Samuels, Xandy Chelmis & Landon George",
+              "channel": "Premier Guitar",
+              "url": "https://www.youtube.com/watch?v=KOsIjo3LmPE",
+              "verifiedAt": "2026-10-24"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Squier J Mascis Jazzmaster",
+              "url": "https://equipboard.com/items/squier-j-mascis-jazzmaster/"
+            },
+            {
+              "title": "Fender：Artist Signature Specs: Squier J Mascis Jazzmaster",
+              "url": "https://www.fender.com/articles/instruments/artist-signature-specs-squier-j-mascis-jazzmaster"
+            },
+            {
+              "title": "Fender：J Mascis Jazzmaster 官方產品頁",
+              "url": "https://www.fender.com/products/j-mascis-jazzmaster"
+            },
+            {
+              "title": "Tym Guitars：J Mascis Squier Jazzmaster（2013-07-17）",
+              "url": "https://tymguitars.com.au/blogs/blog/8322962-j-mascis-squier-jazzmaster"
+            },
+            {
+              "title": "Fender：Jazzmaster Guide: Controls Explained and Popular Models",
+              "url": "https://www.fender.com/articles/instruments/demystifying-the-jazzmaster-controls"
+            },
+            {
+              "title": "Premier Guitar：MJ Lenderman & the Wind Rig Rundown（2025-02-19）",
+              "url": "https://www.premierguitar.com/videos/rig-rundown/mj-lenderman"
+            },
+            {
+              "title": "Premier Guitar YouTube：MJ Lenderman & the Wind Rig Rundown",
+              "url": "https://www.youtube.com/watch?v=KOsIjo3LmPE"
+            },
+            {
+              "title": "Wikimedia Commons：Fender Squier J Mascis Jazzmaster - body.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Fender_Squier_J_Mascis_Jazzmaster_-_body.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Interested Bystandr",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fender_Squier_J_Mascis_Jazzmaster_-_body.jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-8f21c05e201ce911",
+            "caption": "2014 年拍攝的 Squier J Mascis Jazzmaster，Vintage White／金色護板版本。畫面包含琴身與部分指板，可見雙拾音器、Adjusto-Matic 琴橋及浮動搖座；琴頭未入鏡，拍攝年份不代表製造年份。攝影：Interested Bystandr，CC BY 2.0。",
+            "alt": "白色 Squier J Mascis Jazzmaster 琴身正面，配金色護板、兩顆白色拾音器、上下兩組控制與搖桿。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-24:gear-guitar"
+        },
+        {
           "id": "electro-harmonix-small-clone-eh4600",
           "title": "Electro-Harmonix Small Clone：一顆旋鈕、兩段深度，與 Nevermind 的吉他聲",
           "deck": "從原音與變調訊號的混合方式，理解大盒 Small Clone 的操作取捨，再回到 Butch Vig 記得的錄音段落。",
@@ -60046,6 +60616,285 @@
     },
     "cityStories": {
       "rows": [
+        {
+          "id": "caetano-dadi-leaozinho-bass",
+          "city": "里約熱內盧",
+          "cityEn": "Rio de Janeiro",
+          "artist": "Caetano Veloso・Dadi Carvalho",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "〈O Leãozinho〉的電貝斯伴奏",
+          "work": "O Leãozinho",
+          "year": "1977／1992",
+          "accent": "sage",
+          "title": "〈O Leãozinho〉裡的「小獅子」，後來親自為這首歌彈貝斯",
+          "deck": "Caetano Veloso 把朋友 Dadi 寫進〈O Leãozinho〉。從兩人相識的博塔弗戈公寓，到 1992 年的電貝斯伴奏，兩份錄音留下了這段友誼的不同分工。",
+          "publishedAt": "2026-10-24",
+          "reviewedAt": "2026-10-24",
+          "readingMinutes": 7,
+          "people": [
+            "Caetano Veloso",
+            "Dadi Carvalho",
+            "Jaques Morelenbaum",
+            "João Gilberto",
+            "Jorge Ben"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "現場與相遇",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "里約熱內盧",
+              "aliases": [
+                "Rio de Janeiro"
+              ]
+            },
+            {
+              "type": "街區",
+              "label": "博塔弗戈",
+              "aliases": [
+                "Botafogo"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "first-hearing",
+              "title": "排練時聽見一首寫給自己的歌",
+              "body": "Dadi 在 2015 年接受《Correio》訪問時回憶，第一次聽見〈O Leãozinho〉時，正在 Phonogram 的錄音室，和 Armandinho、Gustavo、Mú 一起排練。這幾個人當時替展開個人事業的 Moraes Moreira 伴奏，後來組成 A Cor do Som。[《Correio》人物訪談](https://www.correio24horas.com.br/guia-de-fim-de-semana/musica/com-historias-de-bastidores-dadi-carvalho-celebra-sua-longa-carreira-0215)、[TV Brasil 文字簡介中的樂團經歷](https://tvbrasil.ebc.com.br/estudiomovel/episodio/dadi-carvalho-e-sara-antunes-0)\n\n一起排練的 Mú 是他的弟弟，也是作曲者與鍵盤手。[《NewMag》的兄弟與團員介紹](https://newmag.com.br/sao-historias-gostosas-de-ler/)、[Mú 的音樂人資料](https://www.discografia.discosdobrasil.com.br/interprete/mu-carvalho)\n\n歌名可譯作「小獅子」。但 Dadi 向《Folha de S.Paulo》回憶，自己當初以為 Caetano Veloso 寫的是兒子，因為歌曲有點像唱給孩子的。他沒有立刻把歌裡的稱呼和自己連在一起。[《Folha》訪問 Dadi 與 Caetano](https://www1.folha.uol.com.br/ilustrada/2015/01/1571679-dadi-e-luminoso-diz-caetano-sobre-o-musico-que-inspirou-o-leaozinho.shtml)\n\n要認識這位「小獅子」，可以先看他想穿在身上的一句話。Dadi 告訴《Correio》，他很想做一件上衣，寫明自己是〈Jorge da Capadócia〉原始錄音的貝斯手。他約十一歲時反覆聽 Jorge Ben 的《Samba Esquema Novo》，後來真的替童年偶像演奏。比起名人履歷，那件上衣的構想，更直接說出了他珍惜的工作。[《Correio》訪談](https://www.correio24horas.com.br/guia-de-fim-de-semana/musica/com-historias-de-bastidores-dadi-carvalho-celebra-sua-longa-carreira-0215)\n\n日後寫回憶錄，他也沒有把這次獻歌鋪成長篇故事。《Folha》報導，書裡只用一個段落交代；出版社曾希望他多寫一些，他卻說自己沒有太多可補充的內容。對讀者而言，這首歌是認識他的入口，書裡還有他作為樂手的其他經歷。[Dadi 談書中的獻歌篇幅](https://www1.folha.uol.com.br/ilustrada/2015/01/1571679-dadi-e-luminoso-diz-caetano-sobre-o-musico-que-inspirou-o-leaozinho.shtml)"
+            },
+            {
+              "id": "botafogo-friendship",
+              "title": "博塔弗戈公寓裡認識的朋友",
+              "body": "Caetano 記得，兩人相識於里約熱內盧博塔弗戈的 Novos Baianos 公寓。談起歌名，他給的解釋很簡單：兩人都是獅子座，Dadi 年輕得多，他有時便叫對方「小獅子」。寫歌時，他同時想著這位朋友，以及正在籌備的《Bicho》。同片的〈Tigresa〉與〈A Grande Borboleta〉，分別以母虎和大蝴蝶命名；動物的稱呼也連著這張唱片的構想。[Caetano 的創作回憶](https://www1.folha.uol.com.br/ilustrada/2015/01/1571679-dadi-e-luminoso-diz-caetano-sobre-o-musico-que-inspirou-o-leaozinho.shtml)\n\n那間公寓的樣子，也留在 Dadi 的回憶裡。《Correio》訪談提到，他們用懸掛的布分隔房間。到了《Hoje em Dia》的訪問，他把共同生活說得更日常：早上踢球，下午玩音樂，晚上聊天。演出和收入並不總是充足，共居久了也有難處，但那段生活讓他學到很多。[公寓的布簾](https://www.correio24horas.com.br/guia-de-fim-de-semana/musica/com-historias-de-bastidores-dadi-carvalho-celebra-sua-longa-carreira-0215)、[Dadi 談樂團生活](https://www.hojeemdia.com.br/entretenimento/baixista-da-nata-da-mpb-dadi-lanca-livro-recheado-de-historias-1.286545)\n\nDadi 對《Jornal do Commercio》談過另一場公寓裡的相聚：João Gilberto 第一次來訪，大家在客廳圍著他坐，他唱到天亮。這是 Dadi 多年後受訪的回憶。他也記得，樂團為《Acabou Chorare》的曲目排練了一年，真正進錄音室時，工作反而很快就完成了。[Dadi 的電話訪談](https://jc.uol.com.br/canal/cultura/noticia/2014/12/02/dadi-conta-historias-dos-bastidores-da-musica-popular-158902.php)\n\n同一篇電話訪談也談到，他怎麼成為團員。Baby Consuelo 告訴他，樂團要在里約演出，正在找貝斯手；他隔天便去排練。他回憶，自己和 Pepeu 聽的音樂很接近，都聽很多 Jimi Hendrix，很快便合得來。把這段經歷放在獻歌之前，Dadi 的位置就更清楚了：Caetano 認識他時，他已經在這群音樂人之間演奏、生活。[Dadi 回憶加入 Novos Baianos](https://jc.uol.com.br/canal/cultura/noticia/2014/12/02/dadi-conta-historias-dos-bastidores-da-musica-popular-158902.php)"
+            },
+            {
+              "id": "bicho-recording",
+              "title": "原版的口哨與四位和聲",
+              "body": "〈O Leãozinho〉收在 1977 年發行的《Bicho》，由 Caetano 作曲。查唱片研究者 Maria Luiza Kfouri 整理的 Discografia Brasileira，這首歌的演奏名單列出 Caetano 的木吉他與口哨；和聲則是 Regina Corrêa、Marizinha、Evinha 和 Malu。聽這個版本時，可以循著名單辨認木吉他、口哨和人聲各自的位置。[《Bicho》曲目與演奏資料](https://discografia.discosdobrasil.com.br/discos/bicho)\n\n同一張唱片的〈Odara〉列有鼓、電貝斯、鋼琴、吉他與銅管等樂器；到了〈O Leãozinho〉，列出的編制小得多。兩首歌的和聲名單卻有相同的四個名字。若從〈Odara〉接著聽〈O Leãozinho〉，可以比較同一組人聲放進不同伴奏時，聽感有什麼變化。[《Bicho》逐曲名單](https://discografia.discosdobrasil.com.br/discos/bicho)\n\n原版這一軌沒有列出 Dadi 參與演奏。歌曲已經寫給他，但唱片上的演出者仍須一一看清楚；他後來親自為這首歌伴奏，留在另一份錄音裡。\n\n這也讓唱片上的署名有了閱讀順序：先看是哪一首、哪一版，再看每個人負責什麼。〈Odara〉的電貝斯署名是 Arnaldo Brandão，不能把那個職務移到同張專輯的其他歌曲；〈O Leãozinho〉則把 Caetano 的木吉他和口哨分開列出。即使是同一位演出者，在錄音裡也能擔任不同角色。[兩首歌的分軌署名](https://discografia.discosdobrasil.com.br/discos/bicho)"
+            },
+            {
+              "id": "dadi-on-bass",
+              "title": "十五年後，由「小獅子」彈貝斯",
+              "body": "1992 年發行的雙 CD《Circuladô Vivo》，收錄了另一個〈O Leãozinho〉。距離《Bicho》發行已有十五年，這次逐曲資料在樂器演奏欄，只列 Dadi Carvalho 的電貝斯；編曲署名為 Jaques Morelenbaum 與 Caetano Veloso。相較原版的木吉他、口哨及和聲，這個現場版本把伴奏交到了歌曲主角手上。[《Circuladô Vivo》唱片資料](https://discografia.discosdobrasil.com.br/discos/circulado-vivo)\n\n把曲目表往前、往後各看一首，這個安排更容易理解。前一首〈Você É Linda〉列有大提琴、木吉他、電吉他、鼓與打擊樂，後一首〈Itapuã〉也列有多種樂器；Dadi 在這兩首裡同樣彈電貝斯。到了夾在中間的〈O Leãozinho〉，資料列出的伴奏只剩他的電貝斯。這張現場專輯收錄的曲目，並沒有從頭到尾沿用同一套編制。[現場專輯的相鄰曲目](https://discografia.discosdobrasil.com.br/discos/circulado-vivo)\n\n比較兩個版本時，可以把注意力放在伴奏和唱句的關係：原版有哪些聲部可以輪流辨認，現場版又如何以電貝斯支撐歌唱。被問到與 Dadi 一起演這首歌的感受時，Caetano 向《Folha》表示，那讓他非常喜悅，也很自豪。[Caetano 談同台演出](https://www1.folha.uol.com.br/ilustrada/2015/01/1571679-dadi-e-luminoso-diz-caetano-sobre-o-musico-que-inspirou-o-leaozinho.shtml)\n\nDadi 在這張現場專輯裡也不只彈貝斯。〈Debaixo Dos Caracóis Dos Seus Cabelos〉把他和 Caetano、Luiz Brasil 都列為木吉他手。循著曲目表聽下去，可以辨認這位樂手如何隨曲目換到不同樂器；〈O Leãozinho〉只是其中一次分工，卻恰好也是寫給他的那首歌。[Dadi 的木吉他署名](https://discografia.discosdobrasil.com.br/discos/circulado-vivo)"
+            },
+            {
+              "id": "sister-and-emails",
+              "title": "把朋友的回信收進書裡",
+              "body": "到了 2014 年，Dadi 出版回憶錄《Meu Caminho É Chão e Céu》。他向《Hoje em Dia》說，自己先為唱片寫了一段文字，才開始認真考慮寫書；他在電腦上寫，由從事校對工作的手足幫忙修改，兩人來回傳稿，三個月完成，當時是 2008 年。稿子擱了幾年，準備出版時他又重讀、刪去一些內容。[《Hoje em Dia》談回憶錄的訪問](https://www.hojeemdia.com.br/entretenimento/baixista-da-nata-da-mpb-dadi-lanca-livro-recheado-de-historias-1.286545)\n\n至於初稿為何等了幾年才出版，兩份訪談說法不同。2014 年 12 月 1 日的《Hoje em Dia》引述他說，寄稿給 Record 後十天便簽約，之後事情擱著；隔日《Jornal do Commercio》的報導則引述他說，延後是因為找不到出版社。兩篇都記載初稿於 2008 年完成，但等待出版的原因無法據此確定。[簽約後擱置的說法](https://www.hojeemdia.com.br/entretenimento/baixista-da-nata-da-mpb-dadi-lanca-livro-recheado-de-historias-1.286545)、[找不到出版社的說法](https://jc.uol.com.br/canal/cultura/noticia/2014/12/02/dadi-conta-historias-dos-bastidores-da-musica-popular-158902.php)\n\n書裡還需要音樂朋友的文字。Dadi 原本不好意思開口，直到截稿期限逼近，才寄信給 Caetano、Arnaldo 等人，詢問能否寫幾句。據他回憶，隔天便收到許多回覆。他說收到信時很感動，也有些自豪。[Dadi 談邀稿與回信](https://www.hojeemdia.com.br/entretenimento/baixista-da-nata-da-mpb-dadi-lanca-livro-recheado-de-historias-1.286545)\n\n讀到這裡，可以把〈O Leãozinho〉的兩份錄音排在一起：先聽《Bicho》，辨認 Caetano 的口哨與四位和聲；再換到《Circuladô Vivo》，跟著 Dadi 的電貝斯聽完同一首歌。唱片裡留著一個明確的變化：收到獻歌的朋友，後來自己來伴奏了。[原版名單](https://discografia.discosdobrasil.com.br/discos/bicho)、[現場版名單](https://discografia.discosdobrasil.com.br/discos/circulado-vivo)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1977",
+              "event": "《Bicho》發行，收錄 Caetano Veloso 創作的〈O Leãozinho〉。"
+            },
+            {
+              "date": "1992",
+              "event": "《Circuladô Vivo》發行，收有 Dadi 以電貝斯伴奏的〈O Leãozinho〉。"
+            },
+            {
+              "date": "2014",
+              "event": "Dadi 的回憶錄《Meu Caminho É Chão e Céu》出版，並接受《Hoje em Dia》訪問，談寫作與向朋友邀稿的經過。"
+            }
+          ],
+          "places": [
+            {
+              "name": "博塔弗戈（Botafogo）",
+              "detail": "Caetano 回憶兩人相識於這一街區的 Novos Baianos 公寓。未確認公寓門牌；配圖只呈現博塔弗戈海灘及周邊景觀。",
+              "query": "Botafogo Rio de Janeiro",
+              "photo": {
+                "author": "Brigiti Bandini",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_de_Botafogo,_RJ.jpg",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "id": "place-b564c173b85b30b0",
+                "caption": "2015 年的博塔弗戈海灘、海灣與沿岸建築，呈現兩人相識街區的周邊景觀；不是當年的公寓或排練現場。",
+                "alt": "博塔弗戈海灣前景可見水面與木樁，對岸排列著海濱建築和帆船。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "O Leãozinho",
+            "artist": "Caetano Veloso",
+            "note": "建議比較《Bicho》（1977）與《Circuladô Vivo》（1992）版本：前者的錄音資料列有木吉他、口哨與四位和聲，後者列 Dadi Carvalho 的電貝斯伴奏。"
+          },
+          "sources": [
+            {
+              "title": "Guilherme Genestreti／Folha de S.Paulo：Dadi 與 Caetano 訪談（2015-01-08）",
+              "url": "https://www1.folha.uol.com.br/ilustrada/2015/01/1571679-dadi-e-luminoso-diz-caetano-sobre-o-musico-que-inspirou-o-leaozinho.shtml"
+            },
+            {
+              "title": "Roberto Midlej／Correio：Com histórias de bastidores, Dadi Carvalho celebra sua longa carreira（2015-02-01）",
+              "url": "https://www.correio24horas.com.br/guia-de-fim-de-semana/musica/com-historias-de-bastidores-dadi-carvalho-celebra-sua-longa-carreira-0215"
+            },
+            {
+              "title": "Elemara Duarte／Hoje em Dia：Baixista da nata da MPB, Dadi lança livro recheado de histórias（2014-12-01）",
+              "url": "https://www.hojeemdia.com.br/entretenimento/baixista-da-nata-da-mpb-dadi-lanca-livro-recheado-de-historias-1.286545"
+            },
+            {
+              "title": "José Teles／Jornal do Commercio：Dadi conta historias dos bastidores da música popular（2014-12-02）",
+              "url": "https://jc.uol.com.br/canal/cultura/noticia/2014/12/02/dadi-conta-historias-dos-bastidores-da-musica-popular-158902.php"
+            },
+            {
+              "title": "Maria Luiza Kfouri／Discografia Brasileira：《Bicho》唱片與逐曲演奏資料",
+              "url": "https://discografia.discosdobrasil.com.br/discos/bicho"
+            },
+            {
+              "title": "Maria Luiza Kfouri／Discografia Brasileira：《Circuladô Vivo》唱片與逐曲演奏資料",
+              "url": "https://discografia.discosdobrasil.com.br/discos/circulado-vivo"
+            },
+            {
+              "title": "TV Brasil／Estúdio Móvel：Dadi Carvalho e Sara Antunes（文字簡介，2013-01-14；節目標示播出日 2013-01-24）",
+              "url": "https://tvbrasil.ebc.com.br/estudiomovel/episodio/dadi-carvalho-e-sara-antunes-0"
+            },
+            {
+              "title": "Christovam de Chevalier／NewMag：São histórias gostosas de ler（2026-10-17；核對 Dadi 與 Mú 的兄弟及團員關係）",
+              "url": "https://newmag.com.br/sao-historias-gostosas-de-ler/"
+            },
+            {
+              "title": "Maria Luiza Kfouri／Discografia Brasileira：Mú Carvalho（音樂人資料，未標示發布日期）",
+              "url": "https://www.discografia.discosdobrasil.com.br/interprete/mu-carvalho"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "現場演出",
+            "經典歌曲"
+          ],
+          "photo": {
+            "author": "Brigiti Bandini",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_de_Botafogo,_RJ.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-b564c173b85b30b0",
+            "caption": "2015 年的博塔弗戈海灘、海灣與沿岸建築，呈現兩人相識街區的周邊景觀；不是當年的公寓或排練現場。",
+            "alt": "博塔弗戈海灣前景可見水面與木樁，對岸排列著海濱建築和帆船。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-24:caetano-dadi-leaozinho-bass"
+        },
+        {
+          "id": "nightmare-whats-this-before-script",
+          "city": "",
+          "cityEn": "",
+          "artist": "Danny Elfman",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "〈What’s This?〉與動畫分鏡",
+          "work": "聖誕夜驚魂 The Nightmare Before Christmas・What’s This?",
+          "year": "1993",
+          "accent": "sage",
+          "title": "Selick 回憶《聖誕夜驚魂》：〈What’s This?〉先開工，劇本還沒寫完",
+          "deck": "依導演 Henry Selick 的回憶，歌曲先給了動畫長度與節奏。從製作回憶與報導中的時序分歧，追到 Danny Elfman 的寫歌方式、配器與傑克的聲音分工。",
+          "publishedAt": "2026-10-24",
+          "reviewedAt": "2026-10-24",
+          "readingMinutes": 6,
+          "people": [
+            "Danny Elfman",
+            "Tim Burton",
+            "Henry Selick",
+            "Caroline Thompson",
+            "Steve Bartek",
+            "Chris Sarandon"
+          ],
+          "topics": [
+            "影像與配樂",
+            "製作幕後",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-song-before-the-scene",
+              "title": "傑克先有了歌，才有走進雪地的動作",
+              "body": "傑克離開萬聖城，穿過通往另一個節日的入口，眼前出現雪與聖誕世界。〈What’s This?〉就在這次發現中展開：一個只熟悉萬聖節的角色，突然有太多東西需要弄懂。這是 Song Exploder 對《聖誕夜驚魂》這段情節的介紹，也是理解歌曲的一個起點——接連冒出的問題，本來就是戲的一部分。[節目介紹](https://songexploder.net/danny-elfman)\n\n導演 Henry Selick 在 2015 年的訪談中回憶，團隊從〈What’s This?〉開始製作時，完整劇本還沒完成。這段由 Cartoon Brew 於 2018 年刊出的回憶，是本文標題的依據；開工時序在其他報導裡另有說法。[Selick 訪談](https://www.cartoonbrew.com/feature-film/henry-selick-looks-back-on-25-years-of-nightmare-before-christmas-163558.html)\n\n這部 1993 年的停格動畫，故事與角色出自 Tim Burton，導演是 Selick，配樂與傑克的歌聲則由 Danny Elfman 負責。把這幾項分工拆開，才看得見一首歌如何經過不同人的手，變成角色的表演。[D23 作品紀錄](https://d23.com/a-to-z/nightmare-before-christmas-the-film/)"
+            },
+            {
+              "id": "ten-songs-before-the-script",
+              "title": "十首歌，先替劇本占好了位置",
+              "body": "Elfman 在 D23 的訪談中說，當時劇本仍在等待成形，Selick 已需要可以開始製作的材料，他與 Burton 因而先寫歌。依他的回憶，十首歌曲約在三十天內寫成，每隔三天便有一首可以放給 Burton 聽。這三十天指的是他回憶中的寫歌階段。[Elfman 談合作方式](https://d23.com/a-monster-partnership-celebrating-the-collaboration-of-tim-burton-and-danny-elfman/)\n\nElfman 後來接受 Billboard 訪問時，說 Burton 帶著圖畫、詩句與故事片段，逐段講給他聽。他有時已在腦中聽見歌曲，便想立刻開始寫；做完示範錄音，放給 Burton 聽過，兩人才接著處理下一段故事。[兩人如何逐段寫歌](https://stereogum.com/2020695/danny-elfman-talks-the-nightmare-before-christmas-released-25-years-ago-today/interviews)\n\n編劇 Caroline Thompson 的記憶提供了另一個角度。她在 D23 的製作回顧裡說，自己加入得較晚，Elfman 已寫好歌曲，〈Kidnap the Sandy Claws〉的段落也已進入製作，片子仍沒有劇本。她接到的工作，因此帶著已經存在的歌曲與影像進度。Thompson 還記得，一張坐輪椅、穿白袍的角色圖特別吸引她：那個角色掀開頭蓋，伸手抓自己的腦子。她說，就在看見這張圖時，莎莉的故事開始變得清楚。這段回憶也說明，除了已完成的歌曲，角色圖像同樣能提供寫作線索，讓編劇繼續發展人物關係。[Thompson 的製作回憶](https://d23.com/25-years-of-making-nightmares/)\n\n這裡的時間順序，資料卻有分歧。Stereogum 轉刊的 Billboard 訪談，在談完〈What’s This?〉的音樂影響後，寫成 Thompson 完成完整劇本，電影才進入製作。這是報導的敘述，並非 Elfman 的直接引言；它與 Selick、Thompson 所述歌曲段落已先開工的回憶不一致。[Billboard 報導中的時序](https://stereogum.com/2020695/danny-elfman-talks-the-nightmare-before-christmas-released-25-years-ago-today/interviews)\n\n本文依兩位直接參與者對具體歌曲段落的回憶，採用「完整劇本完成前，已有歌曲段落開始製作」這個有限說法，不推及全片各部門的開工順序。現有來源未解釋差異，無法把兩種表述接成一致時序。Billboard 在本文用來說明 Elfman 的寫歌方法與音樂影響，不作開工時序的佐證。[Selick 的說法](https://www.cartoonbrew.com/feature-film/henry-selick-looks-back-on-25-years-of-nightmare-before-christmas-163558.html)／[Thompson 的說法](https://d23.com/25-years-of-making-nightmares/)\n\n對動畫師而言，這種順序有相當實際的幫助。Selick 說，拿到歌曲，就已知道這段要完成什麼敘事任務，以及有多少時間可用；Thompson 再補起歌曲之間的故事。從他的說明來看，先寫好的音樂讓分鏡有了依據，也限制了某段時間能輪到哪些角色出場。[導演談歌曲與分鏡](https://www.cartoonbrew.com/feature-film/henry-selick-looks-back-on-25-years-of-nightmare-before-christmas-163558.html)"
+            },
+            {
+              "id": "a-rhythm-for-questions",
+              "title": "那些接連的問句，有自己的音樂來歷",
+              "body": "〈What’s This?〉為什麼讓傑克唱得這麼急？Elfman 在 Billboard 訪談中，把快速、連續的歌詞連到 Gilbert 與 Sullivan 的作品。他為整部電影參考的音樂，也包括 Kurt Weill 的《三便士歌劇》及 Cole Porter、Gershwin 等人的音樂劇。他希望歌曲帶有較早年代的氣息；快速、密集的語句，則是他特別指出的寫法。[Billboard 訪談，刊於 Stereogum](https://stereogum.com/2020695/danny-elfman-talks-the-nightmare-before-christmas-released-25-years-ago-today/interviews)\n\nElfman 在 Song Exploder 裡把入口交代得更細：歌聲開始前，先有弦樂與鋼片琴，再加入豎琴。那時音樂仍在做場景配樂，對應傑克初見聖誕城；他認為自己常用鋼片琴，可能與柴可夫斯基芭蕾音樂的影響有關。節目官方逐字稿第 2 至 4 頁保留了這些說明，以及他如何從寫下歌詞，逐漸找到快速的語句節奏。[Song Exploder 官方逐字稿](https://songexploder.net/transcripts/danny-elfman-transcript.pdf)\n\n示範錄音還得轉成樂團可以演奏的譜。逐字稿第 5 頁中，Elfman 特別提到配器者 Steve Bartek，說他會把示範帶中的樂器聲部仔細寫上譜，讓樂團清楚表達原有構想。這也留下另一個比較方向：從電子示範錄音到管弦樂演奏，同一份音樂安排如何換成真實樂器的聲音。[配器工作的說明](https://songexploder.net/transcripts/danny-elfman-transcript.pdf)\n\n依照這些線索回頭比較，可以把注意力放在歌聲進來的前後：先辨認替場景開門的器樂，再追蹤問句如何占滿樂句。這樣比較，可以追蹤配樂如何轉入角色開口歌唱的段落。"
+            },
+            {
+              "id": "two-voices-one-jack",
+              "title": "唱歌與說話，由兩個人接成同一個傑克",
+              "body": "傑克開口唱歌是 Elfman，說對白則是 Chris Sarandon；迪士尼的作品紀錄列出了這項分工。[D23 配音紀錄](https://d23.com/a-to-z/nightmare-before-christmas-the-film/)\n\nSarandon 在 2019 年接受 ComicBook.com 訪問時回憶，試音現場播放 Elfman 的錄音，也給他看已完成的動畫片段。製作方需要一個能接近 Elfman 聲音的演員，這些材料就成了他的參照。對他而言，傑克已經有歌唱的模樣，說話的表演得從這個基礎接下去。[Sarandon 談試音](https://comicbook.com/horror/news/chris-sarandon-interview-nightmare-before-christmas-fright-night/)\n\n但對白場景的做法仍有發揮空間。他說，錄製那些台詞時，對應的動畫尚未完成；Selick 會調整重音，也會請他給出不同的念法。團隊選擇、組合錄音後，才依據聲音製作停格動作。在他的比較裡，歌唱受到音符與編曲約束，台詞則可以從語氣、停頓重新試起。[Sarandon 談錄音與動畫順序](https://comicbook.com/horror/news/chris-sarandon-interview-nightmare-before-christmas-fright-night/)\n\n這也提供一個觀看片段時的小問題：傑克從台詞轉入歌曲，角色的連續感是怎麼維持的？可以留意語氣和句尾的處理，不必只用音色是否完全相同來判斷。"
+            },
+            {
+              "id": "listen-to-the-transitions",
+              "title": "再回到歌曲前後的接縫",
+              "body": "Selick 最初擔心歌曲太多，後來卻在 Burton 也覺得歌曲太多時堅持全數保留。他在 Cartoon Brew 訪談裡說，完成電影後，已捨不得失去任何一首歌。[Selick 談保留歌曲](https://www.cartoonbrew.com/feature-film/henry-selick-looks-back-on-25-years-of-nightmare-before-christmas-163558.html)\n\n《聖誕夜驚魂》在 1993 年 10 月 29 日於美國全面上映；多年後，Song Exploder 於 2021 年 12 月 15 日推出這首歌的拆解訪談。電影與製作說明可以並排使用：前者讓人看完整段表演，後者提供回頭辨認聲音決定的依據。[上映紀錄](https://d23.com/a-to-z/nightmare-before-christmas-the-film/)／[第 224 集資料](https://songexploder.net/danny-elfman)\n\n若要從一首歌開始，就選電影原版的〈What’s This?〉，把前奏與結尾一併保留。先跟著器樂進入聖誕城，再看快速問句怎麼配合傑克的發現，最後留意歌曲結束後故事如何繼續。也可以先只聽聲音，再配著動畫看一次，比較自己從語氣想像的動作，和動畫師最後安排的表演。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1993-10-29",
+              "event": "《聖誕夜驚魂》於美國全面上映；D23 紀錄另列 10 月 13 日先行上映與 10 月 22 日擴大上映。"
+            },
+            {
+              "date": "2021-12-15",
+              "event": "Song Exploder 第 224 集推出，Danny Elfman 拆解〈What’s This?〉的創作與製作；官方提供完整逐字稿。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "What’s This?",
+            "artist": "Danny Elfman",
+            "note": "建議搜尋《聖誕夜驚魂》1993 年電影原版，保留前奏與結尾，依文中訪談線索比較器樂、快速問句與動畫動作。"
+          },
+          "sources": [
+            {
+              "title": "Song Exploder｜Episode 224: The Nightmare Before Christmas（2021-12-15）",
+              "url": "https://songexploder.net/danny-elfman"
+            },
+            {
+              "title": "D23｜Nightmare Before Christmas, Tim Burton’s The (film)",
+              "url": "https://d23.com/a-to-z/nightmare-before-christmas-the-film/"
+            },
+            {
+              "title": "D23｜A Monster Partnership（2018-10-02；改編自 2011 年春季訪談）",
+              "url": "https://d23.com/a-monster-partnership-celebrating-the-collaboration-of-tim-burton-and-danny-elfman/"
+            },
+            {
+              "title": "D23｜6 Terror-ific Stories from the Crew（2018-10-23）",
+              "url": "https://d23.com/25-years-of-making-nightmares/"
+            },
+            {
+              "title": "Cartoon Brew｜Henry Selick Looks Back On 25 Years Of Nightmare Before Christmas（2018-09-04；訪談錄於 2015 年）",
+              "url": "https://www.cartoonbrew.com/feature-film/henry-selick-looks-back-on-25-years-of-nightmare-before-christmas-163558.html"
+            },
+            {
+              "title": "Stereogum／Billboard｜Danny Elfman Talks The Nightmare Before Christmas（2018-10-29）",
+              "url": "https://stereogum.com/2020695/danny-elfman-talks-the-nightmare-before-christmas-released-25-years-ago-today/interviews"
+            },
+            {
+              "title": "Song Exploder｜第 224 集官方逐字稿：Danny Elfman — What’s This?",
+              "url": "https://songexploder.net/transcripts/danny-elfman-transcript.pdf"
+            },
+            {
+              "title": "ComicBook.com｜Chris Sarandon 談 The Nightmare Before Christmas（2019-10-16）",
+              "url": "https://comicbook.com/horror/news/chris-sarandon-interview-nightmare-before-christmas-fright-night/"
+            }
+          ],
+          "interests": [
+            "動畫與遊戲",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-24:nightmare-whats-this-before-script"
+        },
         {
           "id": "eason-bicycle-wyman-letter",
           "city": "",
