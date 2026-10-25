@@ -58196,6 +58196,426 @@
     "gearStories": {
       "rows": [
         {
+          "id": "simmons-sds-v-original",
+          "title": "Simmons SDS-V：四組機械記憶，與 Neil Peart 身後的電子通鼓",
+          "deck": "硬質六角鼓墊觸發類比音源，音色靠旋鈕與微調器設定。從原廠手冊與 Peart 的混合鼓組，看它能做什麼、又留下哪些限制。",
+          "brand": "Simmons",
+          "model": "SDS-V／SDS5（1980 年代原版類比系統；規格依原廠操作手冊）",
+          "category": "鼓與打擊",
+          "publishedAt": "2026-10-25",
+          "reviewedAt": "2026-10-25",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "analog-drum-synthesis",
+              "title": "六角鼓墊後面，是一座類比鼓合成器",
+              "body": "Simmons SDS-V 特別的地方，在於鼓手能用鼓棒演奏一套可調音高、彎音與衰減的類比音源。鼓墊負責觸發，聲音由插在主機裡的模組生成；想讓通鼓的尾音往下滑，不必換鼓皮，調整 Bend 就能改變它。這種把擊打動作與聲音設計接在一起的做法，比六角外形更值得研究。\n\n依 [Simmons 官方歷史](https://simmonsdrums.net/history)，SDS-V 也稱 SDS5，於 1981 年商業推出。本篇談已停產的原版類比系統；後來 SDS7 的 EPROM 取樣播放功能不屬於它。[Simmons Museum 的器材檔案](https://www.simmonsmuseum.com/?area=devices&id=4&view=details)記錄了它的七模組機架與不同音源卡，買二手時不能只數鼓墊，就假定音源配置完整。"
+            },
+            {
+              "id": "pads-and-response",
+              "title": "鼓墊很硬，音高卻不受面積限制",
+              "body": "[原廠操作手冊](https://www.simmonsmuseum.com/downloads/sdsv_manual.pdf)列出壓克力與聚碳酸酯材料，並說明敲擊面採硬質聚碳酸酯。小鼓墊為對角 14¼ 吋、厚 2¼ 吋，大鼓墊為對角 22 吋、厚 2¼ 吋；這是六角形的量法，不能當成圓形鼓皮的直徑。手冊也提醒，回彈主要來自鼓棒的彈性，毋須用重棒猛敲來取得最大音量。\n\n相同的小鼓墊可以接軍鼓或通鼓模組，聲音取決於所接的音源。Tone Pitch 決定音高，Decay 決定聲音消退的時間，Noise–Tone Balance 則改變噪聲與有音高成分的比例。通鼓模組的 Bend 會隨擊打力道改變，重擊使起始音高升高，再往下落；大鼓與軍鼓的 Bend 並不以同樣方式回應力度。調聲前先認清插的是哪張卡，比照抄別人的旋鈕位置有用。"
+            },
+            {
+              "id": "memories-and-connections",
+              "title": "四組音色，要用螺絲起子留下來",
+              "body": "每張鼓音源卡有四組「記憶」：第一組是固定原廠音色，第二組使用面板旋鈕，第三、第四組各靠一排微調器設定。手冊建議先在第二組調出需要的聲音，再用小螺絲起子把設定移到微調器。因此，按鈕能切換音色，卻沒有把當下旋鈕狀態一鍵寫入的操作。\n\n19 吋主機最多裝七張音源卡，可用各聲部獨立輸出分軌處理，也有左右聲道與單聲道混音輸出。鼓墊輸入和音序器觸發輸入分開，Sensitivity 只作用於鼓墊；接外部音序器時，不能靠它修正觸發電平。音量旋鈕也只控制混音輸出，分軌錄音時，轉小面板音量不等於獨立輸出一起變小；錄音介面的輸入增益仍得另外確認。這些操作與接線細節都可在[手冊的機架、記憶及錄音章節](https://www.simmonsmuseum.com/downloads/sdsv_manual.pdf)核對。\n\n本文的 [Commons 照片](https://commons.wikimedia.org/wiki/File:Simmons_SDS5_Electric_Drum.jpg)拍的是慕尼黑 Deutsches Museum 展示組：四個小鼓墊、一個大鼓墊，主機部分被鼓墊遮住。它能交代原版外形，無法證明每個插槽裡裝了什麼。"
+            },
+            {
+              "id": "neil-peart",
+              "title": "Neil Peart 轉身後的另一套鼓",
+              "body": "[Equipboard 的 SDS-V 條目](https://equipboard.com/items/simmons-sds-v)把 Neil Peart 與《Grace Under Pressure》連在一起，線索指向 DRUM!。回到 [Don Zulaica 的器材報導](https://drummagazine.com/mean-mean-stride-the-drums-of-neil-peart/)，可以確認那套配置包含四個紅色 Simmons 鼓墊、SDS-V 音源，以及原聲大鼓、軍鼓和鈸。Peart 在文中回憶，Radio City Music Hall 的五晚演出時，他已把電子鼓放在身後，當時還沒有旋轉台，得面向舞台後方演奏。\n\n[Rush 官方專輯頁](https://www.rush.com/albums/grace-under-pressure/)列出《Grace Under Pressure》於 1984 年四月發行，也在演奏名單中列出 Peart 的電子打擊樂職務。器材報導補上了型號與配置，但沒有逐曲錄音表，仍不能據此認定每一聲通鼓都出自 SDS-V。\n\n在 [1984 年《Modern Drummer》訪談存檔](https://www.cygnus-x1.net/links/rush/modern-drummer-04.1984.php)中，Peart 說他保留原聲通鼓，是因為兩者能做的表情不同。他會先把 Simmons 調成需要的聲音，再按它的限制改變打法。這個使用方式很有參考價值：電子鼓可以負責另一組聲部，原聲鼓的細微觸感仍有自己的位置。"
+            },
+            {
+              "id": "used-buying",
+              "title": "買二手，要連接線和觸發一起試",
+              "body": "SDS-V 適合願意調整類比鼓聲、也願意處理老設備接線的人。若主要需求是接上電腦就能選大量音色，或練習接近原聲鼓皮的手感，它的硬鼓墊與手動設定方式會增加負擔。這是依操作設計做的選擇判斷，並非實機試打心得。\n\n若要加在現有原聲鼓旁，先決定需要幾個電子聲部，再找對應的音源卡與鼓墊。七個插槽提供擴充空間，並不讓軍鼓卡兼具鈸聲功能；缺少哪張卡，也就少了那類音源。\n\n二手檢查可從手冊列出的功能逐項試：每張卡能否發聲、四組音色能否切換、輕重擊與 Sensitivity 是否正常、各個獨立輸出是否都有訊號。再檢查鼓墊裂痕、接座、支架固定處，以及電源版本。尤其原裝 XLR 鼓墊輸入以第 2 腳為訊號，輸出卻以第 3 腳為訊號；接頭長得熟悉，不代表接法符合今天手邊的線材。改裝機應索取接線與維修紀錄。\n\n延伸示範可看 [Sound Provider／Leonard de Leonard 的 SDS-V 影片](https://www.youtube.com/watch?v=blX9BOcG7gE)。發布者在說明中註明，機器加裝了前面板觸發介面，示範使用外部音序器，也經過部分 EQ 與動態處理。它列作鼓音源的示範參考；那套觸發操作與處理後的結果，不能直接當成原裝整套鼓的表現。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "音源與機架",
+              "value": "原版類比模組系統；標準 19 吋機架，最多七張音源卡。"
+            },
+            {
+              "label": "音源卡種類",
+              "value": "大鼓、軍鼓、通鼓、Hi-hat 與 Cymbal；實際配置依所裝音源卡而定。"
+            },
+            {
+              "label": "鼓墊材料",
+              "value": "壓克力與聚碳酸酯；敲擊面為硬質聚碳酸酯。"
+            },
+            {
+              "label": "小鼓墊尺寸",
+              "value": "對角 14¼ 吋 × 厚 2¼ 吋；依手冊規格頁，非圓形鼓皮直徑。"
+            },
+            {
+              "label": "大鼓墊尺寸",
+              "value": "對角 22 吋 × 厚 2¼ 吋；依手冊規格頁。"
+            },
+            {
+              "label": "每張鼓音源卡的音色設定",
+              "value": "四組：固定原廠預設、面板旋鈕設定，以及兩組由微調器設定的音色。"
+            },
+            {
+              "label": "觸發輸入範圍",
+              "value": "鼓墊輸入 5 mV 至 1.5 V；音序器輸入 1 V 至 15 V。Sensitivity 僅作用於鼓墊輸入。"
+            },
+            {
+              "label": "音訊輸出",
+              "value": "七個聲部獨立輸出、左／右聲道輸出及單聲道混音輸出；手冊標示為非平衡輸出。"
+            },
+            {
+              "label": "原裝 XLR 訊號腳位",
+              "value": "鼓墊輸入：第 2 腳為訊號、第 1／3 腳接地；音訊輸出：第 3 腳為訊號、第 1／2 腳接地。"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Neil Peart",
+              "work": "Rush《Grace Under Pressure》時期，以及 Radio City Music Hall 五晚演出",
+              "story": "DRUM! 記錄其四個紅色 Simmons 鼓墊搭配 SDS-V 音源，並引述他把電子通鼓與原聲大鼓、軍鼓及鈸放在身後演奏的回憶。1984 年 Modern Drummer 訪談亦確認後方混合鼓組的用法。證據支持該時期配置，不能推及專輯每首歌的個別鼓聲或完整錄音鏈。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Sound Of: Simmons SDS-V Analog Drum Machine ( Bass / Snare and Tom Tom Modules Only )",
+              "channel": "Sound Provider / Leonard de Leonard",
+              "url": "https://www.youtube.com/watch?v=blX9BOcG7gE",
+              "verifiedAt": "2026-10-25"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Simmons SDS-V（Neil Peart 使用線索）",
+              "url": "https://equipboard.com/items/simmons-sds-v"
+            },
+            {
+              "title": "Simmons 官方：The Simmons Story",
+              "url": "https://simmonsdrums.net/history"
+            },
+            {
+              "title": "Simmons Museum：SDS 5 器材檔案",
+              "url": "https://www.simmonsmuseum.com/?area=devices&id=4&view=details"
+            },
+            {
+              "title": "Simmons SDS V 原廠操作手冊（Simmons Museum 保存）",
+              "url": "https://www.simmonsmuseum.com/downloads/sdsv_manual.pdf"
+            },
+            {
+              "title": "Don Zulaica：Mean Mean Stride: The Drums Of Neil Peart，DRUM!，2013-09-12",
+              "url": "https://drummagazine.com/mean-mean-stride-the-drums-of-neil-peart/"
+            },
+            {
+              "title": "Rush 官方：Grace Under Pressure",
+              "url": "https://www.rush.com/albums/grace-under-pressure/"
+            },
+            {
+              "title": "Scott K. Fish：Interview: Neil Peart，Modern Drummer，1984 年四月（Cygnus-X1 轉錄存檔）",
+              "url": "https://www.cygnus-x1.net/links/rush/modern-drummer-04.1984.php"
+            },
+            {
+              "title": "Wikimedia Commons：File:Simmons SDS5 Electric Drum.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Simmons_SDS5_Electric_Drum.jpg"
+            },
+            {
+              "title": "Sound Provider／Leonard de Leonard：SDS-V 音源示範與發布者說明",
+              "url": "https://www.youtube.com/watch?v=blX9BOcG7gE"
+            }
+          ],
+          "photo": {
+            "author": "Ben Franske ( BenFranske )",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simmons_SDS5_Electric_Drum.jpg",
+            "license": "CC BY-SA 2.5",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+            "id": "place-c7ba58dbcc40b1e0",
+            "caption": "Simmons SDS-V／SDS5 原版系統的 Deutsches Museum 展示組，2006 年攝。可見四個小型六角鼓墊、一個大鼓墊與部分音源主機；完整音源卡配置及製造年份無法由照片確認。攝影：Ben Franske，CC BY-SA 2.5。",
+            "alt": "博物館展示的 Simmons SDS5 電子鼓，四個黑色小六角鼓墊分列兩側，前方為大鼓墊，後方音源主機部分被遮住。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-25:gear-drums"
+        },
+        {
+          "id": "mxr-carbon-copy-m169",
+          "title": "MXR Carbon Copy M169：三顆旋鈕，從固定回音到振盪聲響",
+          "deck": "20 至 600 毫秒的類比延遲、藏在底板內的調變控制，以及 Billie Joe Armstrong 與 Jim Root 在巡演中的不同安排。",
+          "brand": "MXR",
+          "model": "Carbon Copy Analog Delay M169（標準綠色版；規格依現行官方頁與手冊）",
+          "category": "效果器",
+          "publishedAt": "2026-10-25",
+          "reviewedAt": "2026-10-25",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "character",
+              "title": "把回音留在後面，也能讓它晃動",
+              "body": "MXR Carbon Copy M169 的特別之處，是用一條全類比 BBD 延遲路徑，配上可開關的調變，把回音的時間、份量與音高起伏分開處理。它沒有一排模式等著翻選；面板上只有 DELAY、REGEN、MIX 三顆旋鈕，以及 MOD 按鈕。[官方產品頁](https://www.jimdunlop.com/mxr-carbon-copy-analog-delay/)確認了這套配置與最長 600 毫秒的延遲。\n\n標準版偏暗的回音，是選它之前應先接受的聲音方向。設計者 Jeorge Tripps 在[設計者訪談](https://media.rockboard.de/warwick/uploads/1437716311__Tone_Report_Weekly_Issue_84.pdf)中，正是以較暗的重複聲區分標準版與 Bright。依這項特性判斷，想替主旋律加一層回聲、又不希望每一下都同樣搶眼的人，值得從它開始比較；若期待回音保留原音鮮明的高頻輪廓，就別只因「類比」兩字下決定。"
+            },
+            {
+              "id": "controls",
+              "title": "時間、次數、比例，是三件不同的事",
+              "body": "依 [M169 官方手冊](https://www.jimdunlop.com/content/manuals/M169.pdf)，DELAY 調整 20 至 600 毫秒的間隔，REGEN 決定重複次數，MIX 則改變效果音與原音的比例。回音太密，先看 DELAY；尾巴拖得太久，先減 REGEN；回音蓋過正在彈的句子，再處理 MIX。依這個順序試設定，比同時轉動三顆旋鈕更容易找出是哪個參數造成變化。\n\n600 毫秒也有具體界線：換算成四分音符，剛好是每分鐘 100 拍；若歌曲更慢，又想讓每次回音相隔一拍，標準 M169 的範圍便不夠。它沒有點拍速度按鍵，必須用旋鈕調時間。短促的一下回聲和較長的連續回音都能設定，但切歌時若需要不同間隔，就得重新調整，不能把小盒子的簡潔當成節拍同步功能。"
+            },
+            {
+              "id": "modulation",
+              "title": "MOD 為什麼藏了兩顆內部旋鈕",
+              "body": "在 [Tone Report 第 84 期的設計者訪談](https://media.rockboard.de/warwick/uploads/1437716311__Tone_Report_Weekly_Issue_84.pdf)裡，Bob Cedro 解釋，MOD 會讓延遲訊號產生輕微音高變動，用來模擬磁帶回音的轉速起伏；調得更深時，也能得到更明顯的合唱效果。這個描述針對回音，不能直接理解成整個原音都經過合唱處理。Tripps 也說，Bright 版與標準版的功能相同，差在調音，高頻較突出。因此標準版的暗色調是這個設計的選擇，不能概括成所有 BBD 延遲都必然一樣暗。\n\n速度與寬度的調整藏在底板內，面板只留開關。Cedro 說，這是為了維持三旋鈕配置，把細調留給設定後較少更動的用途。操作上的代價很實在：演出中能快速開關 MOD，卻不能伸手直接轉動調變深度。想先認識這顆踏板，可從 [Dunlop 官方示範影片](https://www.youtube.com/watch?v=ZU0ct39DeBI)入手；影片說明也明確標為 M169。"
+            },
+            {
+              "id": "artists",
+              "title": "一首歌的回音，與三顆踏板的分工",
+              "body": "[Equipboard 的 M169 條目](https://equipboard.com/items/mxr-carbon-copy-analog-delay)提供了 Billie Joe Armstrong 與 Jim Root 的使用線索，真正能落到演出場合的資料，則來自 Premier Guitar 的採訪報導。\n\nChris Kies 在 2013 年發表的 [Green Day Rig Rundown](https://www.premierguitar.com/videos/rig-rundown/green-day)，記錄了伊利諾州 DeKalb 的 NIU Convocation Center、99 Revolutions 巡演期間的器材配置。Armstrong 的效果器段落明確寫到，Carbon Copy 用於〈Kill the DJ〉。這比「某位樂手擁有它」更具體，但證據仍只到該次巡演用途，沒有提供可照抄的旋鈕位置，也不能拿來認定專輯錄音用了同一顆。\n\n2015 年的 [Slipknot Rig Rundown](https://www.premierguitar.com/videos/rig-rundown/slipknot)則記錄 Jim Root 的另一種安排：兩顆 Carbon Copy 採用不同的延遲與重複設定，舞台前方的另一塊踏板盤再放第三顆，用來製造振盪聲響。這套分工讓固定回音與特殊效果各有位置。報導沒有把三顆逐一對應到歌曲；能確認的是當時現場的功能分配。"
+            },
+            {
+              "id": "fit-and-used",
+              "title": "買二手之前，先確認自己需要哪一版",
+              "body": "我的選擇標準會是：需要少數幾種回音、願意用旋鈕找間距，而且喜歡帶音高晃動的延遲，M169 值得列入比較。若整場需要頻繁切換精確拍值、儲存多組設定或立體聲輸出，它的單聲道配置與簡單控制就會成為限制。這些是功能取捨，不代表類比電路適合所有音樂。若要接合成器，也應先看訊號電平：手冊標示最大輸入為 +5 dBV，測試頻率是 500 Hz。接上去之前先降低樂器輸出，再逐步調整，比假設任何鍵盤輸出都能直接開滿更穩妥。\n\n本文談的是綠色標準 M169，規格依現行官方頁與手冊；Mini、Deluxe、Bright 都要另查。[官方十周年版頁面](https://www.jimdunlop.com/mxr-carbon-copy-analog-delay-10th-anniversary-edition/)記載 Carbon Copy 在 2008 年推出，並明列銀色 M169A 十周年版已停產，不能把這個狀態套在仍列售的標準版。[本文採用的 Commons 照片](https://commons.wikimedia.org/wiki/File:MXR_M-166_Carbon_Copy_Analog_Delay.jpg)可辨識標準綠色面板；檔名雖寫 M-166，外觀與官方 M169 手冊封面相符，底板及內部電路則未入鏡。\n\n二手試機建議用符合手冊的 9V 電源，逐一測試旁通、效果啟動、三顆旋鈕與 MOD。請賣家在低回授時彈一個短音，再拉長延遲、增加重複，確認旋鈕確實改變相應功能，而不只看指示燈有亮。若 MOD 幾乎聽不出來，先詢問內部速度與寬度是否調過，不要直接判定故障；取得同意後再檢查電池漏液、接孔鬆動與非原廠改裝。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "延遲電路",
+              "value": "全類比 BBD（bucket-brigade）"
+            },
+            {
+              "label": "延遲時間",
+              "value": "20–600 ms"
+            },
+            {
+              "label": "外部控制",
+              "value": "MIX、REGEN、DELAY 三顆旋鈕；MOD 開關；效果／旁通腳踏開關"
+            },
+            {
+              "label": "調變控制",
+              "value": "內部 Width、Speed 微調；調變速度 0.2–2.2 Hz"
+            },
+            {
+              "label": "旁通",
+              "value": "True Hardwire Bypass"
+            },
+            {
+              "label": "輸入／輸出阻抗",
+              "value": "1 MΩ／1 kΩ"
+            },
+            {
+              "label": "最大輸入電平",
+              "value": "+5 dBV（500 Hz）"
+            },
+            {
+              "label": "供電與耗電",
+              "value": "9V DC 或一顆 9V 電池；耗電 26 mA"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Billie Joe Armstrong",
+              "work": "Green Day，2013 年 99 Revolutions 巡演中的〈Kill the DJ〉",
+              "story": "Premier Guitar 的 2013 年器材採訪文字明確記錄 Armstrong 使用 Carbon Copy 演奏〈Kill the DJ〉。採訪地點為 DeKalb 的 NIU Convocation Center，對象包括樂團技師。這支持當時的現場用途，未提供精確設定，也不能據此確認歌曲錄音室版本的器材。"
+            },
+            {
+              "name": "Jim Root",
+              "work": "Slipknot，2015 年 Cedar Rapids 演出前的 Rig Rundown",
+              "story": "Premier Guitar 記錄 Root 使用兩顆設定不同的 Carbon Copy，另在舞台前方踏板盤放第三顆製造振盪效果。這份紀錄確認了現場配置與分工，沒有逐顆對應曲目，也不證明特定專輯錄音採用同一套安排。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "MXR Carbon Copy Analog Delay",
+              "channel": "jimdunlopusa",
+              "url": "https://www.youtube.com/watch?v=ZU0ct39DeBI",
+              "verifiedAt": "2026-10-25"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：MXR M169 Carbon Copy",
+              "url": "https://equipboard.com/items/mxr-carbon-copy-analog-delay"
+            },
+            {
+              "title": "Dunlop：MXR Carbon Copy Analog Delay M169 官方產品頁",
+              "url": "https://www.jimdunlop.com/mxr-carbon-copy-analog-delay/"
+            },
+            {
+              "title": "Dunlop：M169 Carbon Copy 官方手冊，revD",
+              "url": "https://www.jimdunlop.com/content/manuals/M169.pdf"
+            },
+            {
+              "title": "Tone Report 第 84 期：Talking Circuits with Jeorge Tripps and Bob Cedro of MXR",
+              "url": "https://media.rockboard.de/warwick/uploads/1437716311__Tone_Report_Weekly_Issue_84.pdf"
+            },
+            {
+              "title": "Premier Guitar／Chris Kies：Rig Rundown: Green Day，2013-05-03",
+              "url": "https://www.premierguitar.com/videos/rig-rundown/green-day"
+            },
+            {
+              "title": "Premier Guitar／Chris Kies：Rig Rundown: Slipknot，2015-05-20",
+              "url": "https://www.premierguitar.com/videos/rig-rundown/slipknot"
+            },
+            {
+              "title": "Dunlop：Carbon Copy M169A 十周年版官方資料",
+              "url": "https://www.jimdunlop.com/mxr-carbon-copy-analog-delay-10th-anniversary-edition/"
+            },
+            {
+              "title": "jimdunlopusa：MXR Carbon Copy Analog Delay 官方示範",
+              "url": "https://www.youtube.com/watch?v=ZU0ct39DeBI"
+            },
+            {
+              "title": "Wikimedia Commons：File:MXR M-166 Carbon Copy Analog Delay.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:MXR_M-166_Carbon_Copy_Analog_Delay.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Roadside Guitars",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:MXR_M-166_Carbon_Copy_Analog_Delay.jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "id": "place-1c3570c09ae08529",
+            "caption": "MXR Carbon Copy 標準綠色版（M169）正面，可見 MIX、REGEN、DELAY、MOD 與腳踏開關；底板和內部電路未入鏡。Commons 檔名誤寫 M-166，型號依實際面板與官方 M169 手冊辨識。攝影：Roadside Guitars，CC BY-SA 2.0。",
+            "alt": "綠色 MXR Carbon Copy 標準版效果器正面，三顆黑色旋鈕、左上 MOD 按鈕與下方金屬腳踏開關清楚可見。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-25:gear-effects"
+        },
+        {
+          "id": "korg-ms-20-original",
+          "title": "Korg MS-20：兩道濾波器，與〈Open Eye Signal〉裡持續變化的音色",
+          "deck": "從原版的訊號路徑與接線限制，讀懂 Jon Hopkins 如何讓同一個音色逐漸演變，也釐清 mini、FS 與老機的差異。",
+          "brand": "Korg",
+          "model": "MS-20（1978 年推出的原版類比鍵盤；早、後期濾波器版本分述）",
+          "category": "合成器與鍵盤",
+          "publishedAt": "2026-10-25",
+          "reviewedAt": "2026-10-25",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-ms20",
+              "title": "兩道濾波器，分別控制",
+              "body": "Korg MS-20 特別的地方，是把高通與低通濾波器串在一起，兩邊都能獨立調整截止頻率與共振。你可以削去低頻，再收窄高頻，也能把某一端的共振推到自我振盪；改變聲音不必只靠換波形。這套設計適合把一條單音旋律慢慢推向不同質地，也讓轉旋鈕成為演奏的一部分。\n\n本文談的是 1978 年推出、如今已停產的原版類比 MS-20。[Korg 的復刻產品介紹](https://www.korg.com/us/products/synthesizers/ms_20fs/)明確區分原版與後續復刻。它有鍵盤，也有預先接好的訊號路徑；右側插孔提供進一步調變，並不要求每次發聲都先插滿導線。"
+            },
+            {
+              "id": "architecture",
+              "title": "先不接線，弄懂聲音怎麼走",
+              "body": "依[原版操作手冊](https://www.korg.com/us/support/download/manual/1/153/2441/)，兩個壓控振盪器先混合，經過高通、低通濾波器，再由放大器控制音量。第一個振盪器可選三角波、鋸齒波、可調脈寬波或白雜訊；第二個有不同的波形選項及 RING 檔。兩者可以調成不同音程，但仍由同一套單音鍵盤控制，兩個振盪器不等於兩音複音。\n\n練習時，可以固定音高，只比較高通與低通各自削去什麼，再加入 Peak。這是依控制配置提出的練習方式：一次保留一個變因，較容易弄清變化來自哪裡，也方便記錄要保留的設定。\n\n初次操作，我會建議照手冊的 Normal Setting 回到基礎音色，再一次只動一個控制：先比較振盪器，再動兩道濾波器，最後加入包絡。EG1 有延遲、起音與釋音控制；EG2 則提供 Hold、起音、衰減、持續電平與釋音，並預先連到音量與濾波器調變。這讓短促音符與緩慢變化可以從同一組聲源做起，不必立刻研究複雜接線。\n\n右下角的 ESP 則讓外部聲音參與控制：它能從輸入取得音高、音量與觸發資訊。這是另一種演奏入口，但要先調輸入電平、偵測範圍和音高對應；把麥克風插上去，並不等於已經完成設定。"
+            },
+            {
+              "id": "versions",
+              "title": "原版、mini、FS，買前先認清",
+              "body": "原版 MS-20 在生產途中換過濾波器電路，所以「老 MS-20」也不是單一電路版本。[Korg 的 mini 說明](https://www.korg.com/us/products/synthesizers/ms_20mini/page_1.php)指出，mini 採早期濾波器設計，機身與鍵盤縮至原版的 86%，接線孔改用小尺寸插頭，並增加 MIDI IN 與 USB-MIDI；VCA 也為降低底噪作過修改。這些差異會影響手指空間、線材與工作站整合，不能只比較外形。\n\n全尺寸 MS-20 FS 則提供早、後期兩種濾波器選擇，也有 MIDI 與 USB。二手賣場只寫「MS-20」，資訊仍不夠。[本文採用的 Commons 照片](https://commons.wikimedia.org/wiki/File:Korg_MS-20.jpg)由 Zinnmann 於 2007 年拍攝，可見原版鍵盤、面板與接線區，採 CC BY-SA 3.0 授權；照片不能用來判定內部濾波器版本。"
+            },
+            {
+              "id": "open-eye-signal",
+              "title": "〈Open Eye Signal〉：讓同一個音色持續改變",
+              "body": "[Equipboard 的 Jon Hopkins 器材頁](https://equipboard.com/pros/jon-hopkins?gear=keyboards-and-synthesizers&load_section=items)提供了 MS-20 使用線索，作品細節則要回到訪談。他在 [NME 的 2013 年問答](https://www.nme.com/blogs/nme-blogs/jon-hopkins-qa-on-mind-altering-new-album-immunity-768369)說，自己買的是 1970 年代末或 1980 年代初的老機，並將它稱為〈Open Eye Signal〉的核心聲音。這已足以區分原版與 mini，但不能進一步確定濾波器是哪一版。\n\n在 [XLR8R 的工作室訪談](https://xlr8r.com/gear/in-the-studio-jon-hopkins/)，Hopkins 說他以一個音色為起點，錄下很多次邊操作 MS-20、邊讓聲音逐漸演變的 take，沒有直接切換到另一個音色。他也說背景合唱感來自經過處理的自己的人聲。因此，不能把整首曲子的所有聲音都歸給這台合成器，更不能從這段訪談推算出完整接線與效果器順序。\n\n這個例子值得借用的是工作方法：先錄下連續變化，再處理素材，而不是只尋找一個固定設定。想延伸看音樂人介紹實機，可接著找 sonicstate 的 [Will Gregory：Korg MS20 對談](https://www.youtube.com/watch?v=0fy-VpPzUi0)。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合慢慢調音色的人，二手先驗功能",
+              "body": "MS-20 適合需要單音低音、主旋律，或願意把聲音錄下來反覆加工的人。若主要需求是雙手彈和弦，它的單音架構就不合適；想接進現有模組系統，也要留意鍵盤音高控制使用 Hz/V、觸發使用 S-Trig。[Gordon Reid 的 Sound On Sound 評測](https://www.soundonsound.com/reviews/korg-ms20-mini)對照原版與 mini，也提醒接線區主要開放控制與調變，不能任意重排整條內部音訊路徑。\n\n我會把二手試機拆成幾個動作：先不接導線，逐鍵測試發聲與音高；再分別聽兩個振盪器，確認濾波器、包絡及滑音控制都有反應。接著逐一測試插孔與 ESP，而不是只接受一段賣家預先錄好的音色示範。測試控制輸入時，也要確認訊號規格相容；不能因為插頭尺寸相同，就把不同系統直接當成可以互換。\n\n請賣家交代維修、更換零件與加裝介面紀錄，並確認機背電源標示。若購買理由是早期或後期濾波器，應請熟悉電路的人協助確認，不能只憑外觀相似、賣場標題或一張年代不明的照片付出價差。原廠手冊特別提醒，面板下的微調元件已在出廠時校準；音準不對時，先交由熟悉這款琴的維修者判斷，不要自行亂轉。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "音源架構",
+              "value": "單音類比合成；兩個壓控振盪器，混合後經高通、低通濾波器及音量放大器"
+            },
+            {
+              "label": "鍵盤",
+              "value": "37 鍵，C–C，三個八度"
+            },
+            {
+              "label": "VCO1 波形",
+              "value": "三角波、鋸齒波、可調脈寬波、白雜訊"
+            },
+            {
+              "label": "濾波器",
+              "value": "高通與低通串聯；各有獨立 Cutoff Frequency 與 Peak 控制，可自我振盪"
+            },
+            {
+              "label": "包絡",
+              "value": "EG1：Delay、Attack、Release；EG2：Hold、Attack、Decay、Sustain、Release"
+            },
+            {
+              "label": "低頻調變",
+              "value": "一組 Modulation Generator，提供可變形狀的三角類與矩形波輸出"
+            },
+            {
+              "label": "原版尺寸",
+              "value": "569 × 309 × 249 mm（寬 × 深 × 高；依原版手冊）"
+            },
+            {
+              "label": "原版重量",
+              "value": "7.7 kg（依原版手冊）"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Jon Hopkins",
+              "work": "〈Open Eye Signal〉／《Immunity》（2013）",
+              "story": "Hopkins 在 NME 訪談中說，1970 年代末或 1980 年代初的 MS-20 是這首曲子的核心聲音；在 XLR8R 訪談中，他描述以同一音色錄下多次即時調整，讓聲音逐漸演變。這些是本人對製作過程的敘述，未提供完整接線、效果器順序或濾波器電路版本；背景合唱感則另有人聲處理，不能全部算作 MS-20。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Will Gregory: Korg MS20 Live@dBs Music",
+              "channel": "sonicstate",
+              "url": "https://www.youtube.com/watch?v=0fy-VpPzUi0",
+              "verifiedAt": "2026-10-25"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Jon Hopkins 的鍵盤與合成器使用線索",
+              "url": "https://equipboard.com/pros/jon-hopkins?gear=keyboards-and-synthesizers&load_section=items"
+            },
+            {
+              "title": "Korg：MS-20 Original Owner's Manual",
+              "url": "https://www.korg.com/us/support/download/manual/1/153/2441/"
+            },
+            {
+              "title": "Korg：MS-20 mini Features",
+              "url": "https://www.korg.com/us/products/synthesizers/ms_20mini/page_1.php"
+            },
+            {
+              "title": "Korg：MS-20 FS 官方產品介紹",
+              "url": "https://www.korg.com/us/products/synthesizers/ms_20fs/"
+            },
+            {
+              "title": "NME／Lucy Jones：Jon Hopkins Q&A On Mind-Altering New Album ‘Immunity’（2013-06-14）",
+              "url": "https://www.nme.com/blogs/nme-blogs/jon-hopkins-qa-on-mind-altering-new-album-immunity-768369"
+            },
+            {
+              "title": "XLR8R／Patric Fallon：In the Studio: Jon Hopkins（2013-06-24）",
+              "url": "https://xlr8r.com/gear/in-the-studio-jon-hopkins/"
+            },
+            {
+              "title": "Sound On Sound／Gordon Reid：Korg MS20 Mini（2013 年 5 月）",
+              "url": "https://www.soundonsound.com/reviews/korg-ms20-mini"
+            },
+            {
+              "title": "sonicstate：Will Gregory: Korg MS20 Live@dBs Music（2018-12-03）",
+              "url": "https://www.youtube.com/watch?v=0fy-VpPzUi0"
+            },
+            {
+              "title": "Wikimedia Commons／Zinnmann：File:Korg MS-20.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Korg_MS-20.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Zinnmann",
+            "attribution": "I, Zinnmann",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korg_MS-20.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "id": "place-071c01e621a5f45d",
+            "caption": "原版 Korg MS-20，Zinnmann 於 2007 年拍攝；可見 37 鍵鍵盤、控制面板及插有導線的接線區，未展示內部濾波器版本。攝影：Zinnmann／Wikimedia Commons，CC BY-SA 3.0。",
+            "alt": "黑色原版 Korg MS-20 的正面斜俯視照片，顯示鍵盤、雙振盪器與濾波器旋鈕，以及右側接線區。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-25:gear-synth"
+        },
+        {
           "id": "fender-mustang-bass-original",
           "title": "Fender Mustang Bass：30 吋短弦長，與逐弦控制的延音",
           "deck": "原版 Mustang 的巧思不只在尺寸：一組分離式拾音器、兩顆旋鈕，加上逐弦消音設計。從 Tina Weymouth 的改裝琴現場，到 Justin Meldal-Johnsen 的錄音經驗，看它如何進入編曲，也看清證據與版本的界線。",
@@ -60616,6 +61036,353 @@
     },
     "cityStories": {
       "rows": [
+        {
+          "id": "amy-back-to-black-demo-cd",
+          "city": "倫敦",
+          "cityEn": "London",
+          "artist": "Amy Winehouse・Mark Ronson・The Dap-Kings",
+          "lens": "音樂熱點",
+          "category": "音樂熱點",
+          "anchor": "載著 Amy 示範人聲的 CD",
+          "work": "Back to Black・Rehab",
+          "year": "2006",
+          "accent": "sage",
+          "title": "《Back to Black》二十週年：Amy 不在場，Dap-Kings 怎麼跟著她錄音？",
+          "deck": "從本週 Roundhouse 的致敬演出，回到 Ronson 帶進錄音室的示範人聲：Dap-Kings 如何接手編曲，以及 Amy 如何決定哪些聲部留下。",
+          "publishedAt": "2026-10-25",
+          "reviewedAt": "2026-10-25",
+          "readingMinutes": 8,
+          "people": [
+            "Amy Winehouse",
+            "Mark Ronson",
+            "Salaam Remi",
+            "Dale Davis",
+            "Neal Sugarman",
+            "Binky Griptite",
+            "Gabriel Roth",
+            "Homer Steinweiss"
+          ],
+          "topics": [
+            "音樂熱點",
+            "製作幕後",
+            "現場與相遇",
+            "唱片與物件"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "倫敦",
+              "aliases": [
+                "London"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Roundhouse",
+              "aliases": [
+                "圓屋劇場"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York City"
+              ]
+            },
+            {
+              "type": "街區",
+              "label": "Bushwick",
+              "aliases": [
+                "布希維克"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "roundhouse",
+              "title": "二十週年的舞台，把伴奏也帶回來",
+              "body": "10 月 21 日，倫敦 Roundhouse 的《Back to Black》二十週年演出，由 Corinne Bailey Rae 唱起同名曲，Jessie Reyez 則以〈Rehab〉收尾專輯段落。10 月 23 日刊出的 [Rolling Stone 報導](https://au.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-102555/)逐一記下換手演唱的曲目。這張 2006 年的唱片，本週有了一個具體的重訪場合：不同歌手站到同一組伴奏前，接唱 Amy Winehouse 留下的作品。\n\n[場館紀錄](https://www.roundhouse.org.uk/whats-on/back-to-black/)列出的團隊包括原專輯製作人 Mark Ronson、Salaam Remi，以及由長期音樂總監 Dale Davis 參與帶領的 The Amy Winehouse Band。名單提醒我們，這次回顧也能從演奏與製作來看：歌曲如何從 Amy 的寫作與演唱，變成其他人可以接手、仍有清楚形狀的編曲？\n\n沿著這個問題回到錄音室，會碰到一張載著她示範人聲的 CD。Dap-Kings 錄製伴奏時，靠它跟上不在現場的主唱。[Griptite 的錄音回憶](https://www.guitarworld.com/features/binky-griptite-dap-kings)也記下了這個做法。\n\n本文的 [Roundhouse 外觀照片](https://commons.wikimedia.org/wiki/File:The_Roundhouse,_Chalk_Farm_Road,_London_NW1_-_geograph.org.uk_-_399270.jpg)拍於 2006 年 7 月，只用來辨認場館，並非本次演出現場。"
+            },
+            {
+              "id": "demo-cd",
+              "title": "主唱不在場，先讓示範人聲帶路",
+              "body": "Ronson 在 [GRAMMY.com 的訪談](https://www.grammy.com/news/mark-ronson-behind-the-hits-uptown-funk-barbie-the-album-valerie-videos-interview/)回憶錄製〈Rehab〉：Amy 無法到場，他便把 CD-J 播放器帶進錄音室，播放沒有伴奏的示範人聲，讓樂團跟著編曲的進程演奏。這個安排把她先前唱下的版本，帶進了另一場工作。\n\n吉他手 Binky Griptite 在 [Guitar World 訪談](https://www.guitarworld.com/features/binky-griptite-dap-kings)也記得，Ronson 先拿來 demo，樂手從中學歌，之後又帶來放有 Amy 暫錄人聲的 CD。Griptite 說，人聲讓他更能掌握感覺，但起初仍需要摸索。製作人記得的是如何把聲音帶進房間，吉他手記得的則是跟著人聲演奏時的摸索。\n\n兩份回憶說明了示範人聲的用途：樂手從 demo 學歌，演奏時又有她的聲音可以對照。至於每個節奏細節究竟由誰先提出，這些訪談沒有逐一說明。聽正式錄音時，可以留意人聲句子的長短與伴奏如何配合，但不能只憑成品替每個聲部判定作者。"
+            },
+            {
+              "id": "band-arrangement",
+              "title": "管樂聲部，留了一部分給樂手決定",
+              "body": "這批伴奏在布魯克林 Troutman Street 的 Daptone 錄音室完成。Amy 官方刊出的 [Neal Sugarman 訪談](https://amywinehouseofficial.substack.com/p/just-a-day-in-the-office-the-dap)列出 Dap-Kings 參與的六首作品，包括〈Rehab〉、〈You Know I’m No Good〉與〈Back to Black〉。Sugarman 本身是薩克斯風手，也是 Daptone 的共同創辦人；他回憶，Ronson 帶來的材料已有部分編寫完成，也會讓團員自行處理一些管樂線條。\n\n這讓「製作」多了可辨認的步驟：先有歌曲與示範版本，再由一群熟悉彼此的樂手補足聲部。Sugarman 說，他們與 Ronson 緊密討論編曲，尤其是管樂。他還記得，管樂共用一支麥克風，鼓組沒有採取每個鼓都貼近收音的方式，整組演奏錄到磁帶。編寫聲部之外，樂手的配合與錄音方式也一起留在了成品中。\n\nGriptite 對團名背後的聲音還有另一個提醒。他在同一份 [Guitar World 訪談](https://www.guitarworld.com/features/binky-griptite-dap-kings)強調，Dap-Kings 常被當成管樂很強的樂團，但吉他也是讓整組演奏運作的要件。下次播放這幾首歌，可以暫時把注意力移到人聲後方：吉他如何維持節奏，管樂又在哪裡進入。\n\n錄音地點的配圖採用 [2012 年 Bushwick 的 Irving Street 街景](https://commons.wikimedia.org/wiki/File:Irving_Street,_Bushwick.jpg)，僅作街區示意，並非 Daptone 錄音室或 Troutman Street。"
+            },
+            {
+              "id": "tape-drums",
+              "title": "控制室裡，鼓聲與眼前動作錯開了",
+              "body": "Ronson 向 [Tape Op 的 Larry Crane](https://tapeop.com/interviews/105/mark-ronson)描述過第一天錄音的一幕：工程師 Gabriel Roth 在控制台前調鼓聲，Homer Steinweiss 在窗外另一邊打鼓。他們從磁帶的再生磁頭監聽，因此 Ronson 看著鼓手，聽到的聲音卻與眼前動作不同步。\n\n這個小小的時間差，伴隨的是他對工作方法的重新認識。Ronson 說，以前他會用外掛試著做舊聲音，知道鼓的音色能改變年代感，卻還不懂 Daptone 如何擺麥克風、取得那種聲音。眼前則有一位鼓手，可以把他腦中一直尋找的鼓段真正演奏出來。\n\n他特別在意的是自由度：原本受限於一小節循環的鼓段，現在可以由 Steinweiss 加過門、依照需要改變演奏。這段回憶把「復古」拆成了具體的合作——鼓手提供變化，工程師取得聲音，製作人判斷它如何進入歌曲。若只把唱片的復古音色歸給某個效果器，就會漏掉這幾個人的工作。"
+            },
+            {
+              "id": "orchestra",
+              "title": "加上的聲部，仍要交回 Amy 判斷",
+              "body": "伴奏逐漸完整，也不代表每個製作提議都能直接留下。Ronson 在 2015 年的 [The FADER 訪談](https://www.thefader.com/2015/10/08/amy-winehouse-mark-ronson-interview)回憶，Amy 最初不喜歡加入管弦樂的想法；他先做了，直到播放〈Love Is a Losing Game〉給她聽，她才同意保留。這是 Ronson 對那次合作的敘述，也記下了她對這個版本的最後決定。\n\n同一份訪談還談到〈Back to Black〉的副歌。Ronson 曾因為字句不押韻而建議修改，Amy 保留了自己的寫法。從歌詞到伴奏，兩人的合作都有具體的取捨，不能只用一個人替另一個人「打造風格」來概括。\n\nDavis 在 10 月 23 日由 The Music 與 Universal Music Australia 合作刊出的[訪談](https://themusic.com.au/features/amy-winehouse-back-to-black-20th-anniversary-feature/7dVT4eDj4uU/23-10-26)提供了另一側的記憶：他打電話給 Amy 時，經常在答錄機裡聽見女聲團體的歌曲，也記得她當時喜歡 ska。他說，樂團還在演《Frank》時期的曲目，就已開始演奏後來收進《Back to Black》的〈Addicted〉。唱片尚未完成，部分新方向已經出現在她的聆聽與舞台曲目裡。把這段時間放回故事，Amy 對編曲的判斷也有了更具體的背景：她原本就帶著自己的曲目與音樂偏好進入合作。\n\nDavis 也記得兩位製作人的錄音原本各有性格。他認為，加入管弦樂、完成混音與母帶處理後，才聽來成為一體。Ronson 與 Dap-Kings 的工作，是其中一部分；Remi 的製作與最後的整合，也構成了這張唱片。\n\n這也給〈Love Is a Losing Game〉另一種重訪方式：先留意歌唱本身的句子，再注意周圍聲部如何安排。製作人曾經擔心她不接受的配器，最後成為她同意留下的版本。"
+            },
+            {
+              "id": "valerie",
+              "title": "把〈Valerie〉放在下一首",
+              "body": "Roundhouse 當晚最後讓眾歌手一起唱的，是 The Zutons 的〈Valerie〉。[Rolling Stone 的演出報導](https://au.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-102555/)把這首全體合唱與《Back to Black》的專輯段落分開記錄。把它放在歌單最後，也能接到錄音室裡的下一段合作。\n\nRonson 在 [GRAMMY.com 訪談](https://www.grammy.com/news/mark-ronson-behind-the-hits-uptown-funk-barbie-the-album-valerie-videos-interview/)說，後來他與 Amy、Dap-Kings 一起錄〈Valerie〉，收進自己的《Version》（2007）。他們先做了較柔和的 soul 版本，之後又加快速度重錄，採用了後一輪的演出。Sugarman 也在[官方文字訪談](https://amywinehouseofficial.substack.com/p/just-a-day-in-the-office-the-dap)中，將〈Valerie〉指出為他們確實與 Amy 同場錄製的例子。\n\n不過，首次見面的地點有不同記憶。Ronson 在上述 GRAMMY 訪談說，他帶 Amy 到錄音室見團員；Sugarman 則記得，初見是在 Greenpoint 街角，接著要去朋友地下室排練。現有資料不足以確認兩段回憶的先後與關係，因此只能保留分歧，不能把它們拼成同一次相遇。\n\n年份也有落差：Sugarman 訪談導言寫的是 2006 年的《Versions》，[Tape Op 導言](https://tapeop.com/interviews/105/mark-ronson)也把 Ronson 與 Amy 的〈Valerie〉寫在 2006 年。[Apple Music 的專輯資料](https://music.apple.com/us/album/version/259214420)則與 GRAMMY 一致，標為《Version》（2007）。本文採用後者的專輯名稱與發行年，不據此推定確切錄音日期。\n\n想繼續找長篇訪談，可從 [The Great Creators 節目介紹](https://www.thegreatcreators.com/episodes/ronson)找起。[Apple Podcasts](https://podcasts.apple.com/us/podcast/mark-ronson-on-his-instant-connection-with-amy/id1640546593?i=1000626462350)將 Guy Raz 訪問 Ronson 的這集列為 2023 年 9 月 12 日上架、第 52 集；[Guy Raz 發布的 YouTube 長訪談](https://www.youtube.com/watch?v=298V_huAuEE)也標示同日發布。這三個入口僅核對節目資訊與簡介，未將未完整核聽的影音發言納入本文。\n\n可以把〈Rehab〉與 Ronson 的〈Valerie〉版本接著播放：一首的伴奏曾跟著 CD 裡的示範人聲前進，另一首則讓主唱與樂手在同一場錄音裡試不同速度。兩首歌的合作方式已有可查的差別；接下來值得聽的，是樂手如何配合每一句歌的長短。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2006",
+              "event": "Amy Winehouse 發行《Back to Black》；Dap-Kings 參與 Ronson 製作的六首作品。"
+            },
+            {
+              "date": "2007",
+              "event": "Mark Ronson 的《Version》收錄與 Amy Winehouse、Dap-Kings 合作錄製的〈Valerie〉版本。"
+            },
+            {
+              "date": "2026-10-21",
+              "event": "倫敦 Roundhouse 舉行 Back to Black 20 致敬演出，由不同歌手與 The Amy Winehouse Band 演繹專輯曲目。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Roundhouse",
+              "detail": "倫敦 Camden 的演出場館；2026 年 10 月 21 日舉行 Back to Black 20。配圖為 2006 年建築外觀。",
+              "query": "Roundhouse Chalk Farm Road London",
+              "photo": {
+                "author": "R Sones",
+                "attribution": "R Sones",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Roundhouse,_Chalk_Farm_Road,_London_NW1_-_geograph.org.uk_-_399270.jpg",
+                "license": "CC BY-SA 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                "id": "place-89d8d1681c5ca928",
+                "caption": "Roundhouse 於 2006 年 7 月的建築外觀；並非 2026 年二十週年演出的現場照片。",
+                "alt": "倫敦 Chalk Farm Road 上的 Roundhouse 建築外觀。",
+                "scope": "exact"
+              }
+            },
+            {
+              "name": "Daptone 錄音室（專輯錄音地點）",
+              "detail": "布魯克林 Troutman Street 115 號，Dap-Kings 錄製《Back to Black》伴奏的地點。配圖只呈現 Bushwick 街區，並非錄音室外觀或內部。",
+              "query": "115 Troutman Street Brooklyn New York Daptone",
+              "photo": {
+                "author": "The All-Nite Images",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Irving_Street,_Bushwick.jpg",
+                "license": "CC BY-SA 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                "id": "place-26b6310ae7c42dc1",
+                "caption": "2012 年布魯克林 Bushwick 的 Irving Street 街景，僅作錄音室所在街區的環境示意；並非 Daptone 錄音室或 Troutman Street。",
+                "alt": "布魯克林 Bushwick 的 Irving Street 街道照片。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Rehab",
+            "artist": "Amy Winehouse",
+            "note": "先選《Back to Black》的正式錄音，再接著找 Mark Ronson feat. Amy Winehouse 的〈Valerie〉《Version》版本；依製作訪談，比較兩首歌的節奏與人聲配合。"
+          },
+          "sources": [
+            {
+              "title": "Roundhouse｜Amy Winehouse Back to Black 20：官方活動頁（活動日 2026-10-21；未標發布日）",
+              "url": "https://www.roundhouse.org.uk/whats-on/back-to-black/"
+            },
+            {
+              "title": "Rolling Stone｜Daniel Kreps，Amy Winehouse 二十週年致敬演出報導（2026-10-23）",
+              "url": "https://au.rollingstone.com/music/music-news/mark-ronson-jessie-reyez-amy-winehouse-tribute-concert-102555/"
+            },
+            {
+              "title": "GRAMMY.com｜Jessica Lipsky 訪問 Mark Ronson：〈Rehab〉與〈Valerie〉製作（原訪談 2023-09-26；2025-09-15 更新）",
+              "url": "https://www.grammy.com/news/mark-ronson-behind-the-hits-uptown-funk-barbie-the-album-valerie-videos-interview/"
+            },
+            {
+              "title": "Guitar World｜Andrew Daly 訪問 Binky Griptite（2024-01-23）",
+              "url": "https://www.guitarworld.com/features/binky-griptite-dap-kings"
+            },
+            {
+              "title": "Amy Winehouse 官方刊物｜Neal Sugarman 談 Dap-Kings 錄音（2026-07-01）",
+              "url": "https://amywinehouseofficial.substack.com/p/just-a-day-in-the-office-the-dap"
+            },
+            {
+              "title": "Tape Op 第 105 期｜Larry Crane 訪問 Mark Ronson",
+              "url": "https://tapeop.com/interviews/105/mark-ronson"
+            },
+            {
+              "title": "The FADER｜Alex Frank 訪問 Mark Ronson（2015-10-08）",
+              "url": "https://www.thefader.com/2015/10/08/amy-winehouse-mark-ronson-interview"
+            },
+            {
+              "title": "The Music｜Cyclone Wehner 訪問 Dale Davis；Universal Music Australia 合作內容（2026-10-23）",
+              "url": "https://themusic.com.au/features/amy-winehouse-back-to-black-20th-anniversary-feature/7dVT4eDj4uU/23-10-26"
+            },
+            {
+              "title": "Apple Music｜Mark Ronson《Version》專輯資料（此版本標示發行日 2007-04-16）",
+              "url": "https://music.apple.com/us/album/version/259214420"
+            },
+            {
+              "title": "照片｜Wikimedia Commons：Roundhouse 外觀；R Sones，2006-07-07，CC BY-SA 2.0",
+              "url": "https://commons.wikimedia.org/wiki/File:The_Roundhouse,_Chalk_Farm_Road,_London_NW1_-_geograph.org.uk_-_399270.jpg"
+            },
+            {
+              "title": "照片｜Wikimedia Commons：Irving Street, Bushwick；The All-Nite Images，2012-07-08，CC BY-SA 2.0",
+              "url": "https://commons.wikimedia.org/wiki/File:Irving_Street,_Bushwick.jpg"
+            },
+            {
+              "title": "延伸收聽資訊｜The Great Creators：Guy Raz 訪問 Mark Ronson（僅閱讀節目介紹）",
+              "url": "https://www.thegreatcreators.com/episodes/ronson"
+            },
+            {
+              "title": "延伸收聽資訊｜Apple Podcasts：The Great Creators 第 52 集（2023-09-12；僅核對節目頁）",
+              "url": "https://podcasts.apple.com/us/podcast/mark-ronson-on-his-instant-connection-with-amy/id1640546593?i=1000626462350"
+            },
+            {
+              "title": "延伸收聽資訊｜Guy Raz：Mark Ronson 長訪談，YouTube（2023-09-12；僅核對標題、頻道、日期與簡介）",
+              "url": "https://www.youtube.com/watch?v=298V_huAuEE"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "現場演出",
+            "經典歌曲"
+          ],
+          "photo": {
+            "author": "R Sones",
+            "attribution": "R Sones",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Roundhouse,_Chalk_Farm_Road,_London_NW1_-_geograph.org.uk_-_399270.jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "id": "place-89d8d1681c5ca928",
+            "caption": "Roundhouse 於 2006 年 7 月的建築外觀；並非 2026 年二十週年演出的現場照片。",
+            "alt": "倫敦 Chalk Farm Road 上的 Roundhouse 建築外觀。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-25:amy-back-to-black-demo-cd"
+        },
+        {
+          "id": "twin-peaks-music-editing",
+          "city": "",
+          "cityEn": "",
+          "artist": "Angelo Badalamenti・Lori Eschler",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "三十五毫米磁性錄音膠片",
+          "work": "雙峰 Twin Peaks・Laura Palmer’s Theme",
+          "year": "1990",
+          "accent": "sage",
+          "title": "《雙峰》的配樂還有一道工序：Lori Eschler 的變速與倒放",
+          "deck": "從〈Laura Palmer’s Theme〉的和聲轉折，到剪輯師對錄音的變速、倒放與疊合，追問一首曲子怎麼成為劇中的音樂。",
+          "publishedAt": "2026-10-25",
+          "reviewedAt": "2026-10-25",
+          "readingMinutes": 7,
+          "people": [
+            "Angelo Badalamenti",
+            "Lori Eschler",
+            "David Lynch",
+            "Julee Cruise"
+          ],
+          "topics": [
+            "影像與配樂",
+            "製作幕後",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "magnetic-film",
+              "title": "剪輯桌上的三十五毫米磁片",
+              "body": "《雙峰》的配樂，曾經要在三十五毫米磁性錄音膠片上動手處理。音樂剪輯師 Lori Eschler 在 2025 年接受 Cinema Femme 訪問時回憶，剛開始改造劇中音樂，她用的就是這種媒材，操作很費時；後來改用電子方式，才更方便修整倒放聲音，讓正放與倒放的交接更平順，形成漸漸湧起的效果。她參與原版前兩季的音樂剪輯，試播集除外，也繼續參與電影《雙峰：與火同行》。[Cinema Femme 訪談](https://cinemafemme.com/2025/05/19/an-editors-dream-lori-eschler-and-scott-ryan-on-always-music-in-the-air-the-sounds-of-twin-peaks/)\n\n她形容，通常的工作比較像協助作曲家處理時間與技術；到了《雙峰》，手邊的音樂素材卻容許她自由試驗。這讓配樂有了另一個值得追問的環節：Angelo Badalamenti 寫出旋律以後，誰決定它如何進入畫面？唱片上可以從頭播放的樂曲，到了影集中，還得找到適合人物動作與情節轉折的位置。[Eschler 談工作方式](https://cinemafemme.com/2025/05/19/an-editors-dream-lori-eschler-and-scott-ryan-on-always-music-in-the-air-the-sounds-of-twin-peaks/)\n\n混音還有很實際的播放條件要顧。Eschler 告訴研究者 Andreas Halskov，團隊處理對白、音效與音樂的最後混音時，要兼顧好的家庭劇院，也要讓最簡單的單聲道小喇叭播得合適。聲音可以奇異，電視機前的觀眾仍得聽清楚故事。[Halskov 訪問 Eschler](https://detroederum.wordpress.com/boger/tv-peaks/lori-eschler-frystak-credited-as-lori-l-eschler/)"
+            },
+            {
+              "id": "spoken-images",
+              "title": "先有口述的森林，再有音符",
+              "body": "Badalamenti 與導演 David Lynch 的合作始於 1986 年的《藍絲絨》。他在 LAist 訪談裡說，那次仍採取較傳統的導演與作曲家合作方式；後來才逐漸形成 Lynch 說話、自己在鍵盤上回應的做法。寫作的起點可以是一段描述，音符跟著描述調整。他也區分了兩種工作：獨自作曲時，可以拿紙筆寫，也可以先在鋼琴上即興再修改；與 Lynch 合作時，對方說出的內容會直接引導彈奏。[Apple Music 專輯介紹](https://music.apple.com/us/album/twin-peaks-soundtrack-from/374382340)／[LAist 訪談](https://laist.com/news/entertainment/angelo-badalamenti-david-lynch)\n\n〈Laura Palmer’s Theme〉便有這樣的創作回憶。Badalamenti 在 2015 年告訴 Spirit & Flesh，Lynch 帶著當時名為《Northwest Passage》的影集構想，坐到鍵盤旁。導演描述黑暗的樹林，再讓一名美麗而困擾的女孩走近；音樂隨她接近而攀升，最後跟著敘述返回林間。他用這段口述的想像場景，說明音符如何跟著導演的描述走。[Spirit & Flesh 訪談](https://spiritandfleshmag.com/interviews/interview-with-angelo-badalamenti/)\n\n值得沿著這段回憶聽的，是樂曲如何在兩種狀態之間移動。那段森林描述先給音樂一個方向，人物靠近又要求它改變；作曲家必須把連續的敘述，轉成有起伏、有返回路徑的段落。\n\nBadalamenti 也在同一訪談談到影集的特殊條件：人物每週回來，主題便有反覆使用的機會，可以透過重新編曲與配器累積成一組聲音素材。某段音樂甚至能低調到不引人注意，仍讓另一場戲和那個人物產生聯繫。對連續劇而言，寫出主題之後，還要考慮它往後能怎樣出現。[Badalamenti 談影集配樂](https://spiritandfleshmag.com/interviews/interview-with-angelo-badalamenti/)"
+            },
+            {
+              "id": "two-themes",
+              "title": "片頭主題與 Laura 的主題，要分開找",
+              "body": "找錄音時，曲名先要分清。Rhino 的原聲帶曲目表把〈Twin Peaks Theme〉與〈Laura Palmer’s Theme〉列為兩首曲子，另外收有 Julee Cruise 演唱的〈Falling〉；這張原聲帶於 1990 年發行。[Rhino 官方曲目表](https://store.rhino.com/products/music-from-twin-peaks-lp)\n\n訪談裡的叫法卻不完全一致。Spirit & Flesh 的文字把「Twin Peaks Theme」與「Laura Palmer’s theme」接在一起，隨後又出現「Twin Peaks Love Theme」。Halskov 的訪談又把「The Love Theme from Twin Peaks」作為 Laura 主題的別稱，而 Rhino 另列了〈Love Theme from Twin Peaks〉。這些用語與官方曲目表的分列方式不同，不能直接當成同一錄音的證明。找唱片版本時，仍須按曲目名稱分開辨認。[Spirit & Flesh 原文](https://spiritandfleshmag.com/interviews/interview-with-angelo-badalamenti/)／[Halskov 的曲名用法](https://detroederum.wordpress.com/boger/tv-peaks/angelo-badalamenti/)／[Rhino 曲目表](https://store.rhino.com/products/music-from-twin-peaks-lp)\n\nBadalamenti 在研究者 Andreas Halskov 的訪談中解釋，Lynch 相中的是〈Falling〉的器樂版本，讓它成為影集主題。談到 Laura 的主題時，他則把重點放在兩個相對的段落：前段以小調和弦帶出陰暗、預示不安的氣息，後段轉向大調和弦，對應 Laura 的情感。他也明確提到，構思這首曲子時自己坐在 Fender Rhodes 電鋼琴前。[Halskov 訪談](https://detroederum.wordpress.com/boger/tv-peaks/angelo-badalamenti/)\n\n依照這番說明，比較時可以先把片頭主題與 Laura 的主題各自完整播放，再辨認後者何時轉換和聲。兩首曲子的劇中功能與寫作線索不同，混用名稱，就會把不同的製作故事也混在一起。"
+            },
+            {
+              "id": "editing-sounds",
+              "title": "把聲音放慢，再與另一段疊起來",
+              "body": "旋律進入剪輯室後，還能繼續改變。Eschler 在 2025 年的 Sight and Sound 訪談中說，Lynch 希望音樂像參與故事的角色，有時要幾乎不被察覺地進場。隨著製作推進，她開始處理他稱為「mystery loops」的素材；其中有些管弦樂片段已被 Lynch 大幅放慢。[BFI／Sight and Sound 訪談](https://www.bfi.org.uk/sight-and-sound/interviews/backwards-through-backwoods-music-editors-lori-hurley-dean-eschler-twin-peaks)\n\n她也會拿 Badalamenti 新交來的音樂減速、倒放，再疊上另一段正向播放的素材。這是她對整體工作方法的回憶，訪談並未逐一列出哪些曲目經過這些處理。觀眾聽到的某段聲音，未必只是把一首曲子從頭放到尾；錄音可以被重新安排，形成不同的進場與持續方式。Eschler 回憶，她與 Lynch 漸漸建立了彼此能理解的用語，而這份工作和她後來多數較常規的音樂剪輯很不一樣。[Eschler 談變速與疊合](https://www.bfi.org.uk/sight-and-sound/interviews/backwards-through-backwoods-music-editors-lori-hurley-dean-eschler-twin-peaks)\n\n因此，研究《雙峰》的聲音，可以把問題拆得更細：旋律由誰寫出，錄音又經誰處理，最後在哪個位置接進場景。這幾個答案連起來，才看得見作曲與剪輯的分工。"
+            },
+            {
+              "id": "return-to-scene",
+              "title": "從一首曲子，回到一次進場",
+              "body": "Eschler 對〈Laura Palmer’s Theme〉的解釋，補上了剪輯端的考量。她告訴 Halskov，簡單反覆的小調片段可以伴隨陰暗線索出現；當線索連到 Laura，或人物開始回憶、共同哀悼，音樂便能走向較浪漫、悲傷的段落，再回到原先的神祕感。她看重的是整段發展能隨著故事移動，而不只是一條容易辨認的旋律。[Eschler 談 Laura 的主題](https://detroederum.wordpress.com/boger/tv-peaks/lori-eschler-frystak-credited-as-lori-l-eschler/)\n\n至於主題表達的是誰的感受，參與者的解讀也有差異。Badalamenti 把大調段落連到 Laura 的情感；Eschler 在 Cinema Femme 訪談中卻認為，Laura 的主題表達的是其他人對她的感受，與她本人經歷了什麼無關。兩人的說法各有側重，不能合併成一致的創作意圖。[Badalamenti 的解釋](https://detroederum.wordpress.com/boger/tv-peaks/angelo-badalamenti/)／[Eschler 的解讀](https://cinemafemme.com/2025/05/19/an-editors-dream-lori-eschler-and-scott-ryan-on-always-music-in-the-air-the-sounds-of-twin-peaks/)\n\n有一段適合拿來比較的場景，是 Leland 隨〈Pennsylvania 6-5000〉跳舞，接著音樂轉入 Laura 的主題。Halskov 訪談直接問到這個轉折；Badalamenti 認為，後者的出現把場景拉回 Laura 已死的現實。這是作曲家對配樂作用的解釋，也把注意力從「用了哪首歌」移到「何時換了音樂」。[Badalamenti 談 Leland 的舞蹈段落](https://detroederum.wordpress.com/boger/tv-peaks/angelo-badalamenti/)\n\n可以先以原聲帶的〈Laura Palmer’s Theme〉熟悉完整段落，再回到那場舞蹈，留意主題從哪裡進來、用了多久，以及前一首音樂停下後，畫面中的動作如何繼續。這樣比較，不必先背下所有人物的主題名稱，也有具體的線索可追。唱片提供完整樂曲，影集提供一次有前後文的使用；下一次播放時，先找那個音樂交接的位置。"
+            },
+            {
+              "id": "interview-records",
+              "title": "延伸訪談與閱讀範圍",
+              "body": "延伸訪談還有兩筆影音資料可找。Fresh Air 檔案列有 Terry Gross 在 1990 年 8 月 29 日訪問 Badalamenti 的節目，長 10 分 34 秒；該頁目前沒有逐字稿。[Fresh Air 節目資料](https://freshairarchive.org/segments/eerie-scores-angelo-badalamenti)\n\nCinema Femme 訪談另連到《Twin Peaks Series Retrospective Week 5 Part 1》，影片由 H Dellamorte 於 2013 年 3 月 11 日上傳。連結只是座談第一段，不能當成完整訪談。[YouTube 座談第一段](https://www.youtube.com/watch?v=Y9d2VvCgfMQ)\n\n這兩筆資料僅核對節目頁面與 YouTube 第一段逐字稿，未完整收聽或觀看原影音；本文的製作細節仍以各段所附文字訪談為據。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1986",
+              "event": "《藍絲絨》上映；Badalamenti 與 Lynch 的配樂合作從這部電影開始。"
+            },
+            {
+              "date": "1990",
+              "event": "《雙峰》原聲帶發行，分別收錄〈Twin Peaks Theme〉、〈Laura Palmer’s Theme〉與 Julee Cruise 演唱的〈Falling〉。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Laura Palmer’s Theme",
+            "artist": "Angelo Badalamenti",
+            "note": "先找 1990 年《雙峰》原聲帶版本，再比較劇中 Leland 舞蹈段落的音樂交接；留意完整樂曲與場景實際使用片段的差異。"
+          },
+          "sources": [
+            {
+              "title": "Matt Fagerholm／Cinema Femme：An Editor’s Dream——Lori Eschler 與 Scott Ryan 訪談（2025-05-19）",
+              "url": "https://cinemafemme.com/2025/05/19/an-editors-dream-lori-eschler-and-scott-ryan-on-always-music-in-the-air-the-sounds-of-twin-peaks/"
+            },
+            {
+              "title": "Andreas Halskov／Det røde rum：Lori Eschler Frystak 訪談",
+              "url": "https://detroederum.wordpress.com/boger/tv-peaks/lori-eschler-frystak-credited-as-lori-l-eschler/"
+            },
+            {
+              "title": "Apple Music：Twin Peaks (Soundtrack From) 專輯介紹",
+              "url": "https://music.apple.com/us/album/twin-peaks-soundtrack-from/374382340"
+            },
+            {
+              "title": "Juliet Bennett Rylah／LAist：Angelo Badalamenti On The ‘Tragic Beauty’ Of His Best David Lynch Work（2015-03-30）",
+              "url": "https://laist.com/news/entertainment/angelo-badalamenti-david-lynch"
+            },
+            {
+              "title": "Yelena Deyneko／Spirit & Flesh：Angelo Badalamenti 訪談（2015-03-30）",
+              "url": "https://spiritandfleshmag.com/interviews/interview-with-angelo-badalamenti/"
+            },
+            {
+              "title": "Rhino：Music From Twin Peaks 官方介紹與曲目表",
+              "url": "https://store.rhino.com/products/music-from-twin-peaks-lp"
+            },
+            {
+              "title": "Andreas Halskov／Det røde rum：Angelo Badalamenti 訪談",
+              "url": "https://detroederum.wordpress.com/boger/tv-peaks/angelo-badalamenti/"
+            },
+            {
+              "title": "Sam Davies／BFI Sight and Sound：Eschler、Hurley 談《雙峰》音樂剪輯（2025-06-10）",
+              "url": "https://www.bfi.org.uk/sight-and-sound/interviews/backwards-through-backwoods-music-editors-lori-hurley-dean-eschler-twin-peaks"
+            },
+            {
+              "title": "Fresh Air Archive：The Eerie Scores of Angelo Badalamenti（1990-08-29；節目資料頁，未收聽）",
+              "url": "https://freshairarchive.org/segments/eerie-scores-angelo-badalamenti"
+            },
+            {
+              "title": "H Dellamorte／YouTube：Twin Peaks Series Retrospective Week 5 Part 1（2013-03-11；頁面及第一段逐字稿）",
+              "url": "https://www.youtube.com/watch?v=Y9d2VvCgfMQ"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-25:twin-peaks-music-editing"
+        },
         {
           "id": "caetano-dadi-leaozinho-bass",
           "city": "里約熱內盧",
