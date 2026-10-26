@@ -58196,6 +58196,414 @@
     "gearStories": {
       "rows": [
         {
+          "id": "hofner-500-1-1963-original",
+          "title": "Höfner 500/1：兩個 ON 都開卻無聲，與 McCartney 的屋頂貝斯",
+          "deck": "從 30 吋弦長、Staple 拾音器與反直覺的控制面板，認識 McCartney 的 1963 年左手琴，也看懂老琴與復刻不能混用的規格。",
+          "brand": "Höfner",
+          "model": "500/1（1963 年原版；規格以 McCartney 左手琴的已知配置為主）",
+          "category": "貝斯",
+          "publishedAt": "2026-10-26",
+          "reviewedAt": "2026-10-26",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-it-matters",
+              "title": "小提琴輪廓裡，藏著一套容易按錯的控制",
+              "body": "Höfner 500/1 值得研究的地方，是把短弦長、分開配置的雙拾音器與預設音色切換放在一把小提琴形貝斯上。它的兩個拾音器開關全部推到 ON，竟然會沒有聲音；想把兩顆一起用，反而得全部切到 OFF。這套操作邏輯，比一句「披頭四音色」更能說明它的個性。\n\n沿著 [Equipboard 的 McCartney 使用線索](https://equipboard.com/items/hofner-500-1-bass)回查，本文聚焦他在 1963 年取得、裝有 Type 511 Staple 拾音器的左手原版。這一年代的原版已停產，後來沿用 500/1 名稱的琴要分版本看。[Vintage Höfner 的復刻檔案](https://www.vintagehofner.co.uk/gallery/newbass.html)記載，1994 年推出、2010 年退出型錄的 Vintage '63 復刻採三片式琴頸，光看名稱裡的「63」便可能認錯。\n\n因此，二手刊登若只寫「Beatle Bass」或「1963 規格」，還不足以判斷它的身分。應先釐清那是製造年份、復刻所模仿的年份，還是賣家的外觀描述，再比對琴頸與硬體。"
+            },
+            {
+              "id": "scale-and-pickups",
+              "title": "先看弦長，再看兩顆拾音器的位置",
+              "body": "[Vintage Höfner 對同期貝斯的比較](https://www.vintagehofner.co.uk/hofner2/artb.html)明確把 500/1 的弦長列為 30 吋，約 762 毫米，並與 Fender 常見的 34 吋相比。較短的弦長意味著品格間距也較短；如果習慣長弦長貝斯，試琴時應留意左手伸展和換把距離。這項尺寸不能直接推導出一把老琴的弦高、張力感或延音，那些仍受弦、調整與琴況影響。\n\n曾維護 McCartney 貝斯的 Nick Wass 在 [Guitar World 的歷史整理](https://www.guitarworld.com/features/paul-mccartney-hofner-bass)中確認，他的 1963 年琴有兩片式琴頸、連排弦鈕及拱背，第二顆拾音器已移到靠近琴橋的位置，使用 Type 511 Staple 雙線圈。這些是辨認該琴的線索；1961 年那把、後期刀片式拾音器版本和現代復刻，都不宜直接套用同一份規格。"
+            },
+            {
+              "id": "controls",
+              "title": "ON 的意思，得把另一顆也算進去",
+              "body": "依[原廠控制面板說明](https://www.hofner.com/web/content/45216?download=true&unique=7eca98d261c759faedff691fd97ecfda86f4c53a)，Volume 1 管琴橋拾音器，Volume 2 管琴頸拾音器。Bass ON 留下琴頸、關掉琴橋；Treble ON 則相反。兩個 ON 會互相關閉訊號，兩個 OFF 才是雙拾音器同開。\n\n依這套操作方式，試琴時若遇到無聲，可以先檢查兩個開關是否同時停在 ON，再確認音量旋鈕，別急著判定拾音器故障。建議依序試琴頸單顆、琴橋單顆及雙拾音器，讓每次切換都有明確的比較對象，也確認各組合是否依手冊運作。\n\nRhythm 位置會降低整體音量，也稍減高頻；Solo 是直接輸出。實際操作時，可先在雙拾音器模式調好音量比例，再試單顆模式與 Rhythm 的差別。它提供的是幾種有明確作用的組合，不是兩顆可以任意增減高低頻的 EQ 旋鈕。\n\n還有一個容易漏掉的差別：手冊指出，在雙拾音器模式把琴橋音量轉至零，只留下琴頸拾音器，會比直接切到 Bass ON 保留更多高頻。兩種做法雖然都只聽到琴頸拾音器，電路處理卻不同。"
+            },
+            {
+              "id": "rooftop",
+              "title": "屋頂上的那一把，是 1963 年琴",
+              "body": "[Wass 的歷史整理](https://www.guitarworld.com/features/paul-mccartney-hofner-bass)將 1969 年 1 月 30 日屋頂演出使用的琴明確辨認為 1963 年那把，當時琴身貼著 BASSMAN 貼紙。這是有具體場合可查的使用紀錄，不能據此把 McCartney 所有 Beatles 錄音都歸給同一件器材。\n\n[Beatles 官方〈Don't Let Me Down〉演出影片](https://www.youtube.com/watch?v=NCtzkaL2t_Y)約 0:15 的畫面，可見他在屋頂持左手小提琴形貝斯演奏。影片能支持這次演出的使用情境；製造年份則依 Wass 的辨識，不能從畫面推算當時的旋鈕位置或完整錄音鏈。"
+            },
+            {
+              "id": "return-to-the-hofner",
+              "title": "重新拿出來之前，先把音準弄好",
+              "body": "[Guitar Player 對 1990 年訪談的整理](https://www.guitarplayer.com/guitars/electric-guitars/paul-mccartney-on-his-hofner-bass)保留了一個實用細節：McCartney 回憶，在《Flowers in the Dirt》工作期間，Elvis Costello 鼓勵他再試 Höfner。他原先嫌它音準不夠準確，重新調整後，才讓指板各處的音高比較合得起來；他提到琴橋需要擺出明顯角度。\n\n同一段回憶也談到，他重看屋頂演出影像後，留意到這把琴的輕巧。這是演奏者對自己器材的描述，不能當成每把 500/1 的重量保證。本文配用的 [2010 年 Commons 照片](https://commons.wikimedia.org/wiki/File:Paul_McCartney_black_and_white_2010.jpg)，呈現的是他後來手持這把左手琴的狀態；兩顆拾音器、琴橋與控制面板可見，並非 1969 年現場照片。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合願意熟悉它的人，也要留下整修預算",
+              "body": "如果想要較短的把位距離，並願意用拾音器組合與右手演奏調整聲音，500/1 值得列入試琴名單。若期待每顆旋鈕都直覺、換弦後也不必再管琴橋，這套設計就需要多花一點時間熟悉。我的選購判斷是先確認音準與控制是否符合需求，再考慮年份；Beatles 的使用紀錄不能替眼前那把二手琴保證狀況。\n\n[Höfner 官方 FAQ](https://www.hofner.com/faq)提醒，Violin Bass 的浮動琴橋可移動，位置改變會影響音準。看二手琴時，建議比較空弦與十二格音高、逐一試開關和音量旋鈕，並請維修師檢查琴頸接合、弦高與琴橋是否還有調整餘地。McCartney 回憶裡的琴橋角度不適合直接當成調整範本；試琴時應核對眼前這把琴各把位的音準，再由維修師判斷。也可以先固定音箱設定，用同一段短句比較不同拾音器組合，避免同時改動太多條件，反而弄不清楚差別來自哪裡。\n\n原廠也說明不存有老年份或 NOS 零件，現行零件能否裝上舊琴並無保證。購買前要向賣家索取換件與維修資料，尤其是拾音器、控制面板、弦鈕和琴橋；價格之外，這些才會決定接手後要做多少事。如果賣家同意，試琴時也帶上平常使用的背帶，站著確認左手位置與琴身支撐是否合適；舞台照片無法代替這一步。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "弦長",
+              "value": "30 吋，約 762 毫米；依 Vintage Höfner 對 500/1 的歷史規格比較"
+            },
+            {
+              "label": "拾音器",
+              "value": "兩顆 Type 511「Staple」雙線圈；McCartney 1963 年琴的已知配置"
+            },
+            {
+              "label": "拾音器位置",
+              "value": "琴頸側與靠近琴橋處各一顆"
+            },
+            {
+              "label": "琴頸結構",
+              "value": "兩片式；指 McCartney 的 1963 年原版，不套用於 Vintage '63 復刻"
+            },
+            {
+              "label": "弦鈕",
+              "value": "連排式弦鈕，每側兩顆一組"
+            },
+            {
+              "label": "琴背",
+              "value": "拱背"
+            },
+            {
+              "label": "標準控制",
+              "value": "兩顆音量旋鈕；Rhythm/Solo、Bass、Treble 三個滑動開關"
+            },
+            {
+              "label": "琴橋",
+              "value": "可移動的浮動琴橋；位置會影響音準"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Paul McCartney",
+              "work": "The Beatles 屋頂演出（1969-01-30）／〈Don't Let Me Down〉",
+              "story": "Nick Wass 在 Guitar World 將當日用琴辨認為 McCartney 的 1963 年 Höfner 500/1；官方演出影片約 0:15 可見他持左手小提琴形貝斯演奏。此處確認的是該場演出，不能據此認定歌曲錄音室版本、整張專輯或其他年份演出都使用相同琴與設定。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "The Beatles - The Beatles - Don't Let Me Down (Live Performance) [Mono / 2009 Remaster]",
+              "channel": "The Beatles（@TheBeatlesVEVO）",
+              "url": "https://www.youtube.com/watch?v=NCtzkaL2t_Y",
+              "verifiedAt": "2026-10-26"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Höfner 500/1 Bass — Equipboard",
+              "url": "https://equipboard.com/items/hofner-500-1-bass"
+            },
+            {
+              "title": "Hofner Bass Guitars: 2000 to Present Day — Vintage Höfner",
+              "url": "https://www.vintagehofner.co.uk/gallery/newbass.html"
+            },
+            {
+              "title": "1963 Hofner Artist Solid Bass Guitar — Vintage Höfner",
+              "url": "https://www.vintagehofner.co.uk/hofner2/artb.html"
+            },
+            {
+              "title": "The history of Paul McCartney and the Höfner 500/1 bass guitar — Guitar World",
+              "url": "https://www.guitarworld.com/features/paul-mccartney-hofner-bass"
+            },
+            {
+              "title": "Höfner Control Panel — 原廠面板操作說明",
+              "url": "https://www.hofner.com/web/content/45216?download=true&unique=7eca98d261c759faedff691fd97ecfda86f4c53a"
+            },
+            {
+              "title": "The Beatles — Don't Let Me Down（官方演出影片）",
+              "url": "https://www.youtube.com/watch?v=NCtzkaL2t_Y"
+            },
+            {
+              "title": "Paul McCartney on why he pulled his Höfner bass out of mothballs — Guitar Player",
+              "url": "https://www.guitarplayer.com/guitars/electric-guitars/paul-mccartney-on-his-hofner-bass"
+            },
+            {
+              "title": "File:Paul McCartney black and white 2010.jpg — Wikimedia Commons",
+              "url": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_black_and_white_2010.jpg"
+            },
+            {
+              "title": "FAQ — Höfner",
+              "url": "https://www.hofner.com/faq"
+            }
+          ],
+          "photo": {
+            "author": "Oli Gill",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_black_and_white_2010.jpg",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "id": "place-1c6f89c502fb498e",
+            "caption": "Paul McCartney 於 2010 年 6 月 13 日手持左手 Höfner 500/1，呈現其 1963 年原琴後來的使用狀態。可見琴身、兩顆拾音器、琴橋、控制面板及大部分琴頸，部分指板被手臂遮住；不是屋頂演出照片。攝影：Oli Gill，CC BY-SA 2.0。",
+            "alt": "黑白照片中，Paul McCartney 雙臂靠在左手 Höfner 500/1 上，琴身上的兩顆拾音器、琴橋與控制面板清楚可見。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-26:gear-bass"
+        },
+        {
+          "id": "nord-drum-original",
+          "title": "Nord Drum 初代：鼓棒控制的三層聲音，與 Cortini 的舞台機櫃",
+          "deck": "四個聲部各自混合 Tone、Noise、Click，讓敲擊力度參與音色變化。初代 Nord Drum 的觸發設定很完整，單聲道輸出與 MIDI 控制限制也得先想清楚。",
+          "brand": "Nord",
+          "model": "Nord Drum（初代四聲部打擊合成器；2012–2014 年產品，已停產）",
+          "category": "鼓與打擊",
+          "publishedAt": "2026-10-26",
+          "reviewedAt": "2026-10-26",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "four-voices",
+              "title": "把每一下敲擊拆成三層",
+              "body": "初代 Nord Drum 的特別之處，是讓鼓手自己決定一個聲音的主體、雜訊與起音，再用敲擊力度控制其中的變化。四個聲部都有相同的合成架構，不必固定分配給大鼓、軍鼓或通鼓。想替原聲鼓組加幾個電子聲響，這種分工很直接：打擊墊負責接收動作，紅色小盒子負責發聲。\n\n這篇談的是已停產的初代；[Nord 官方舊產品頁](https://www.nordkeyboards.com/legacy-products/nord-drum/)將它列為 2012–2014 年產品，不能套用 Drum 2 或 3P 的配置。[Sound On Sound 的 Mark Gordon 實測](https://www.soundonsound.com/reviews/clavia-nord-drum)記錄了它的金屬機殼，以及用來固定到支架上的塑膠底座。購買時，這塊不起眼的配件也值得一起確認。"
+            },
+            {
+              "id": "sound-design",
+              "title": "先調尾音，再決定起音要多突出",
+              "body": "[原廠手冊第 8、11–13 頁](https://www.nordkeyboards.com/wt/documents/193/Nord%20Drum%20English%20User%20Manual%20v1.x%20Edition%201.1.pdf)把音色分成 Tone、Noise、Click。Tone 是有音高與波形可調的主體；Noise 可以用濾波器修整頻率；Click 則補上聲音開頭的瞬音。三者各有音量，調整比例就能改變敲擊輪廓。\n\n調整時可以先固定主體，再處理尾巴與起音：想縮短延續時間，先動 Decay；想讓第一下更突出，再調 Click，較容易知道改變來自哪一層。Solo Edit 可以單獨聽正在修改的部分，不必一直猜是哪個成分蓋過其他聲音。\n\n力度也不只影響音量。手冊說明，Sweep 可隨力度改變濾波器打開的幅度，Bend 的變化量也會回應力度。這讓同一音色能隨敲法產生差異。不過參數共用資料旋鈕，必須先選聲部、再選參數；若希望演奏中同時轉動幾個音色控制，面板就沒有那麼直接。"
+            },
+            {
+              "id": "triggers",
+              "title": "打擊墊接上去，還有一輪設定",
+              "body": "背面提供四個 6.35 mm 觸發輸入，也能由 MIDI 音符觸發。[原廠規格](https://www.nordkeyboards.com/legacy-products/nord-drum/)列出六種觸發設定，分別對應電子打擊墊與加裝觸發器的原聲鼓。它容許不同器材接入，但接好線不代表反應已經適合自己的手勁。\n\n照手冊的做法，先敲最重的一下，以紅色輸入燈檢查靈敏度；若同一支架上的另一個墊讓它誤發聲，再提高門檻，並回頭測試原本要保留的敲擊。試二手時也應照這個順序排查，免得把設定問題當成故障，或因為大力敲都會響，就忽略輕擊反應。\n\n若從 MIDI 控制器演奏，四個聲部各自對應一個音符號碼，整台機器則在同一個 MIDI 通道接收。Learn 功能可以記住控制器送來的音符。接工作站時先核對通道與音符分配，才不會把訊號送錯位置，卻以為音源壞了。這部分可查[手冊第 7 頁](https://www.nordkeyboards.com/wt/documents/193/Nord%20Drum%20English%20User%20Manual%20v1.x%20Edition%201.1.pdf)。\n\n輸出端則只有一個單聲道孔。我的判斷是，它適合把幾個電子打擊音當作一組送出；若音控需要把大鼓與軍鼓分送不同軌、分別加效果，這個接法會卡住工作流程。"
+            },
+            {
+              "id": "cortini",
+              "title": "Cortini 把打擊墊留在手邊",
+              "body": "[Equipboard 的 Nord Drum 條目](https://equipboard.com/items/nord-drum)提供了 Alessandro Cortini 的使用線索，真正能看清用途的是 [Sonicstate 在 2014 年刊出的倫敦 O2 器材走訪](https://sonicstate.com/news/2014/06/13/stage-tour-nin-o2-alessandro-cortinis-rig/)。報導記錄 Nine Inch Nails 巡演期間他的現場配置。\n\n[完整影片](https://www.youtube.com/watch?v=MMXEvNUjgCg)的 [6:28–7:16 段落](https://www.youtube.com/watch?v=MMXEvNUjgCg&t=388s)先交代上方打擊墊接到 Nord Drum，再把鏡頭帶到機櫃裡的初代模組。訪談也說明 MIDI 介面負責替它切換音色程式。這個配置的實用之處很具體：需要伸手敲的墊在操作區，音源可以留在機櫃，不必跟著每個演奏動作移動。\n\n這份紀錄能支持當時的現場用途，沒有指認 Nord Drum 對應哪一首歌，更不能據此推定專輯裡的鼓聲來源。\n\n本文題圖另取自 Aucan 器材照片的[衍生圖](https://commons.wikimedia.org/wiki/File:Nord_Drum_-_played_by_Aucan,_2013_(clip).jpg)，經裁切、透視調整、片段重組及色彩／對比修整；可辨識初代 Nord Drum 與打擊墊，不能據此還原原始擺位或接線。[原圖頁與版本紀錄](https://commons.wikimedia.org/wiki/File:Aucan_band.jpg)的描述標為 2013 年，現行原圖卻於 2016 年替換上傳，EXIF 日期為 2016-01-07。描述年份與 EXIF 不符，拍攝年份仍未確認。"
+            },
+            {
+              "id": "buying-used",
+              "title": "先確認你能接受單聲道與四聲部",
+              "body": "已有原聲鼓組、想加少量自製打擊音，或已有 MIDI 控制器的人，比較容易找到初代 Nord Drum 的位置。四聲部同時發聲的上限很清楚，買之前可以先列出同一段演奏究竟需要幾種聲音。Sound On Sound 的實測還指出，初代無法用 MIDI 控制器直接改變合成參數；能切換整組程式，不等於能從工作站畫出濾波器自動化。\n\n機內有 99 個程式記憶位置，[手冊第 14–16 頁](https://www.nordkeyboards.com/wt/documents/193/Nord%20Drum%20English%20User%20Manual%20v1.x%20Edition%201.1.pdf)也提供透過 MIDI SysEx 備份單一或全部程式的方式。我的購買建議是把音色管理一併算進去：若打算長期上台使用，自己調好的聲音要有機外副本，也要先確認手邊的 MIDI 介面能完成備份與還原。\n\n二手檢查除了四個觸發孔、MIDI 收發、音訊輸出與旋鈕按鍵，也要實際測一次儲存及重新叫回音色。先徵得賣家同意並備份原設定；若儲存失敗，手冊提醒先查 Memory Protect。電源要核對 12V DC、250mA 與中心正極，不能只看插頭插得進去。最後把自己的打擊墊帶去：讓輕擊、重擊與連打都通過，再決定這台老模組值不值得帶回家。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "聲部",
+              "value": "4 個聲部，可同時產生 4 個聲音；各聲部具有相同合成架構"
+            },
+            {
+              "label": "音色組成",
+              "value": "每聲部可混合 Tone、Noise、Click 三個成分"
+            },
+            {
+              "label": "程式記憶",
+              "value": "99 個位置；支援單一或全部程式的 MIDI SysEx 備份"
+            },
+            {
+              "label": "觸發輸入",
+              "value": "4 個 6.35 mm 插孔，標示 CH1–CH4"
+            },
+            {
+              "label": "觸發設定",
+              "value": "6 種 Trig Type：3 種電子打擊墊、3 種原聲鼓觸發器設定；可調靈敏度與門檻"
+            },
+            {
+              "label": "音訊輸出",
+              "value": "1 個 6.35 mm 非平衡單聲道線路輸出"
+            },
+            {
+              "label": "MIDI",
+              "value": "5-pin DIN In／Out；四聲部各自配置音符號碼，整台在單一 MIDI 通道接收"
+            },
+            {
+              "label": "供電",
+              "value": "12V DC、250mA；中心正極，插頭外徑 5.5 mm、內徑 2.1 mm"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Alessandro Cortini",
+              "work": "Nine Inch Nails 2014 年巡演；Sonicstate 倫敦 O2 現場器材走訪",
+              "story": "Sonicstate 的現場訪談在 6:28–7:16 交代操作區上方的打擊墊連到 Nord Drum，並展示機櫃內的初代模組；團隊也說明透過 MIDI 介面切換其音色程式。畫面與訪談支持這次巡演配置，未確認特定歌曲使用哪個音色，也不能證明任何專輯錄音採用這台器材。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Nine Inch Nails - Alessandro Cortini Live Rig",
+              "channel": "sonicstate",
+              "url": "https://www.youtube.com/watch?v=MMXEvNUjgCg",
+              "verifiedAt": "2026-10-26"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard｜Nord Drum：藝人使用線索",
+              "url": "https://equipboard.com/items/nord-drum"
+            },
+            {
+              "title": "Nord｜Nord Drum 初代官方舊產品頁與規格",
+              "url": "https://www.nordkeyboards.com/legacy-products/nord-drum/"
+            },
+            {
+              "title": "Clavia｜Nord Drum User Manual，OS v1.x，Print Edition 1.1（2012）",
+              "url": "https://www.nordkeyboards.com/wt/documents/193/Nord%20Drum%20English%20User%20Manual%20v1.x%20Edition%201.1.pdf"
+            },
+            {
+              "title": "Sound On Sound｜Mark Gordon：Clavia Nord Drum（2012 年 8 月）",
+              "url": "https://www.soundonsound.com/reviews/clavia-nord-drum"
+            },
+            {
+              "title": "Sonicstate｜Stage Tour: NIN O2 - Alessandro Cortini's Rig（2014-06-13）",
+              "url": "https://sonicstate.com/news/2014/06/13/stage-tour-nin-o2-alessandro-cortinis-rig/"
+            },
+            {
+              "title": "sonicstate｜Nine Inch Nails - Alessandro Cortini Live Rig",
+              "url": "https://www.youtube.com/watch?v=MMXEvNUjgCg"
+            },
+            {
+              "title": "Wikimedia Commons｜Nord Drum - played by Aucan, 2013 (clip).jpg（檔名年份未確認）",
+              "url": "https://commons.wikimedia.org/wiki/File:Nord_Drum_-_played_by_Aucan,_2013_(clip).jpg"
+            },
+            {
+              "title": "Wikimedia Commons｜Aucan band.jpg：原圖、版本紀錄與 EXIF",
+              "url": "https://commons.wikimedia.org/wiki/File:Aucan_band.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Aucan band.jpg : LMFA3427 derivative work: Clusternote",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nord_Drum_-_played_by_Aucan,_2013_(clip).jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "id": "place-93f5b287cb51627a",
+            "caption": "Aucan 器材照片的重組修整衍生圖：左上為初代 Nord Drum，右側為打擊墊。原圖頁描述年份與現行原圖 EXIF 日期不符，拍攝年份未確認；不能據此還原原始擺位或接線。原攝影：LMFA3427；衍生製作：Clusternote，包含裁切、透視調整、片段重組及色彩／對比修整；CC BY-SA 3.0。",
+            "alt": "經裁切、透視調整及片段重組的器材照片；初代 Nord Drum 紅色模組在畫面左上，黑色打擊墊在右側，中央可見其他電子器材。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-26:gear-drums"
+        },
+        {
+          "id": "boss-dd-3-digital-delay",
+          "title": "BOSS DD-3：踩住一小段聲音，與 Tom Morello 的兩種延遲",
+          "deck": "三段時間範圍、短片段 HOLD，以及兩個可以分送原音與回音的輸出。從手冊與巡演紀錄，看看這顆已停產延遲器的操作價值。",
+          "brand": "BOSS",
+          "model": "DD-3 Digital Delay（無踩拍定速標準版；規格依 2016 年原廠手冊及停產產品頁）",
+          "category": "效果器",
+          "publishedAt": "2026-10-26",
+          "reviewedAt": "2026-10-26",
+          "readingMinutes": 5,
+          "sections": [
+            {
+              "id": "what-makes-it-special",
+              "title": "平常是回音，踩住就能留下片段",
+              "body": "BOSS DD-3 的特別之處，是把延遲做成幾個可以直接操作的動作：選時間、調重複次數，再用 HOLD 留住剛彈完的一小截聲音。它的延遲範圍是 12.5–800 毫秒，功能少，卻能從伴奏回音跨到短片段的反覆播放。想研究同一段聲音如何因時間改變而換個角色，這顆踏板很適合作為起點。\n\n[原廠產品頁](https://www.boss.info/us/products/dd-3/)已將 DD-3 標為停產。本文談的是沒有踩拍定速功能的標準 DD-3，操作與電氣規格以 2016 年原廠手冊及停產產品頁為準；文中的藝人器材與照片，不據此外推製造年份或內部電路批次。"
+            },
+            {
+              "id": "delay-controls",
+              "title": "先選範圍，再決定回音留多久",
+              "body": "面板上的 MODE 與 D.TIME 都管時間，但分工不同。MODE 先選 S、M、L 三個範圍，D.TIME 再在其中微調；E.LEVEL 管延遲音量，F.BACK 管重複次數。這種配置讓手的調整範圍集中在眼前需要的長度，不必每次都從最短一路轉到最長。[原廠手冊](https://static.roland.com/assets/media/pdf/DD-3_eng01_W.pdf)也提醒，回授開得太高可能產生振盪。\n\n依這些控制方式，試用時可以先把重複次數壓低，找出回音要落在下一個音之前還是之後，再增加延續的長度。若一開始就把回授和效果音量都拉高，會比較難分辨：究竟是時間沒對上，還是重複音堆得太多。這是調整順序的建議，並非某位樂手的固定設定。\n\n若接的是鍵盤或其他訊號較強的器材，也要留意電平。[產品規格](https://www.boss.info/us/products/dd-3/)列出的規定輸入電平為 −20 dBu；試接時可先降低前端輸出，再逐步調整。這個數字是規定電平，不能當成已確認的最大承受電平。"
+            },
+            {
+              "id": "hold-and-routing",
+              "title": "數位 HOLD，讓時間旋鈕牽動音高",
+              "body": "HOLD 用到數位系統保留片段的能力。先彈一小段，再踩住踏板，剛才的聲音便反覆播放；放腳就停止。可保留的長度為 200–800 毫秒，所以適合抓取音頭或短促動機，不能拿來錄下整段和弦進行。[手冊](https://static.roland.com/assets/media/pdf/DD-3_eng01_W.pdf)還列出一個好玩的操作結果：保持 HOLD 時，D.TIME 往左轉會升高音高，往右轉會降低，時間與音高會一起改變。此時 F.BACK 不起作用。\n\n要把 HOLD 放進演奏，腳踩下去的時機就和手彈出的內容一樣重要：抓到音頭、延音或短暫空隙，留下的是不同片段。可以先用單音練習，確認自己能穩定截到想要的位置，再試較密集的樂句。\n\n兩個輸出也會影響接法。只接 OUTPUT 時是原音加延遲；插入 DIRECT OUT 後，原音與延遲分送兩個端子。這可以交給兩部音箱各自處理，但不會因此得到左右交替的乒乓延遲。買之前要想清楚自己需要的是分開控制乾濕聲，還是另一種立體聲效果。"
+            },
+            {
+              "id": "tom-morello",
+              "title": "Tom Morello 把長、短延遲分成兩顆",
+              "body": "[Equipboard 的 DD-3 條目](https://equipboard.com/items/boss-dd-3-digital-delay)提供了 Tom Morello 的使用線索。較具體的記錄來自 Chris Kies 撰寫的 [Premier Guitar 2019 年 Rig Rundown](https://www.premierguitar.com/videos/rig-rundown/tom-morello)：在支援《The Atlas Underground》的個人巡演器材中，他放了兩顆 DD-3，一顆延遲較長、用於獨奏，另一顆較緊湊、用於節奏。\n\n這個配置值得借用的是操作思路。當兩種段落需要不同延遲長度，把設定留在兩顆踏板上，就能用腳切換，少一次俯身轉旋鈕的工作；這是從配置能推得的操作好處。他的效果盤還有 Whammy、wah 等器材，不能把整套聲音都歸功於 DD-3。\n\n[Premier Guitar 的完整器材訪談影片](https://www.youtube.com/watch?v=WpY4IIy6b98)可延伸參考；本文採用的兩顆踏板分工來自該媒體的文字報導。這份巡演紀錄沒有證明某首錄音室作品使用哪一顆、哪個年份的 DD-3。"
+            },
+            {
+              "id": "buying-used",
+              "title": "二手試機，要連 HOLD 和分離輸出一起試",
+              "body": "DD-3 適合想保留一組常用回音、願意用耳朵調整時間，或想把短片段當成演奏材料的人。若演出常得跟著不同速度即時踩拍，它就有明顯限制。[後繼 DD-3T 的官方介紹](https://www.boss.info/global/products/dd-3t/)明列新增踩拍功能，也把 DIRECT OUT 移到主輸出旁；二手賣場標題只寫「DD-3 系列」時，務必看清面板型號與插孔，兩者不能混買。\n\n試機建議逐一轉過三個延遲範圍，檢查旋鈕有無跳值、接點是否斷訊；再實際踩住與放開 HOLD，並把兩個輸出都接上測試。原廠列出的供電是 9V 電池或 PSA 系列變壓器，購買前也該查看電池室有無漏液、電池扣與電源插座是否完好。也建議帶一段常彈的節奏試機：原音與回音同樣大聲時，編曲還有沒有空間？短延遲與長延遲都合用，還是其實只需要其中一種？把這些問題聽清楚，比先追求某個年代的標籤更有助於決定。\n\n本文選用的 [Commons 照片](https://commons.wikimedia.org/wiki/File:Boss_DD-3_Digital_Delay.jpg)由 Johan Rosén 拍攝，以 CC BY-SA 4.0 授權；正面能辨識 DD-3、HOLD 與右側 DIRECT OUT 標示，底標和內部電路則不在畫面內。若賣家以特定年份或晶片版本加價，應再索取足以核對的照片。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "延遲時間",
+              "value": "12.5–800 ms；三段時間範圍搭配 D.TIME 微調"
+            },
+            {
+              "label": "控制",
+              "value": "E.LEVEL、F.BACK、D.TIME、MODE 四顆旋鈕及腳踏開關"
+            },
+            {
+              "label": "音訊端子",
+              "value": "INPUT、OUTPUT、DIRECT OUT，均為 1/4 吋 phone 插孔"
+            },
+            {
+              "label": "旁通方式",
+              "value": "Buffered bypass"
+            },
+            {
+              "label": "規定輸入電平／輸入阻抗",
+              "value": "−20 dBu／1 MΩ"
+            },
+            {
+              "label": "供電",
+              "value": "DC 9V；9V 電池或 BOSS PSA 系列變壓器"
+            },
+            {
+              "label": "消耗電流",
+              "value": "35 mA"
+            },
+            {
+              "label": "尺寸",
+              "value": "73 × 129 × 59 mm（寬 × 深 × 高）"
+            },
+            {
+              "label": "重量",
+              "value": "450 g，含電池"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Tom Morello",
+              "work": "《The Atlas Underground》個人巡演；Premier Guitar 2019 年 Rig Rundown",
+              "story": "Premier Guitar 的文字採訪記錄兩顆 DD-3：較長延遲用於獨奏，較短延遲用於節奏。可確認的是該次巡演配置與分工，不能據此指定某首錄音室作品、製造年份或內部電路版本。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Tom Morello of Rage Against the Machine & Audioslave Rig Rundown Guitar Gear Tour",
+              "channel": "Premier Guitar",
+              "url": "https://www.youtube.com/watch?v=WpY4IIy6b98",
+              "verifiedAt": "2026-10-26"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Boss DD-3 Digital Delay",
+              "url": "https://equipboard.com/items/boss-dd-3-digital-delay"
+            },
+            {
+              "title": "BOSS：DD-3 官方停產產品頁與規格",
+              "url": "https://www.boss.info/us/products/dd-3/"
+            },
+            {
+              "title": "BOSS：DD-3 Owner’s Manual（2016）",
+              "url": "https://static.roland.com/assets/media/pdf/DD-3_eng01_W.pdf"
+            },
+            {
+              "title": "Chris Kies／Premier Guitar：Rig Rundown: Tom Morello",
+              "url": "https://www.premierguitar.com/videos/rig-rundown/tom-morello"
+            },
+            {
+              "title": "Premier Guitar：Tom Morello Rig Rundown 完整影片",
+              "url": "https://www.youtube.com/watch?v=WpY4IIy6b98"
+            },
+            {
+              "title": "BOSS：DD-3T 官方產品介紹",
+              "url": "https://www.boss.info/global/products/dd-3t/"
+            },
+            {
+              "title": "Wikimedia Commons：File:Boss DD-3 Digital Delay.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Boss_DD-3_Digital_Delay.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Kuriosatempel",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boss_DD-3_Digital_Delay.jpg",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "id": "place-4670e1aa2ff06f3c",
+            "caption": "BOSS DD-3 無踩拍定速標準版正面，可見四顆旋鈕、HOLD 與右側 DIRECT OUT 標示；底標及內部電路未入鏡，製造年份與電路批次未確認。攝影：Johan Rosén／Kuriosatempel（bosspedals_sweden），CC BY-SA 4.0。",
+            "alt": "奶白色 BOSS DD-3 效果器正面，頂端四顆藍綠色旋鈕，下方是黑色腳踏板，右側印有 INPUT 與 DIRECT OUT。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-26:gear-effects"
+        },
+        {
           "id": "simmons-sds-v-original",
           "title": "Simmons SDS-V：四組機械記憶，與 Neil Peart 身後的電子通鼓",
           "deck": "硬質六角鼓墊觸發類比音源，音色靠旋鈕與微調器設定。從原廠手冊與 Peart 的混合鼓組，看它能做什麼、又留下哪些限制。",
@@ -61036,6 +61444,239 @@
     },
     "cityStories": {
       "rows": [
+        {
+          "id": "stevie-aisha-bath-recording",
+          "city": "",
+          "cityEn": "",
+          "artist": "Stevie Wonder",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "一段女兒洗澡的家庭錄音",
+          "work": "Isn’t She Lovely",
+          "year": "1976",
+          "accent": "sage",
+          "title": "〈Isn’t She Lovely〉裡的洗澡聲：Stevie Wonder 把女兒的日常留進唱片",
+          "deck": "Aisha 是歌裡的女兒，也是錄音中玩水的孩子。從父親、鍵盤手與錄音師的回憶，追到她成年後與父親合唱的署名。",
+          "publishedAt": "2026-10-26",
+          "reviewedAt": "2026-10-26",
+          "readingMinutes": 7,
+          "people": [
+            "Stevie Wonder",
+            "Aisha Morris",
+            "Yolanda Simmons",
+            "Greg Phillinganes",
+            "Gary Adante（Gary Olazabal）",
+            "John Fischbach"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "bath-tape",
+              "title": "睡前，錄音機還開著",
+              "body": "Stevie Wonder 在《The Wonder of Stevie》訪談中回憶，女兒 Aisha 該睡了，錄音機卻還開著。她正在玩水、發出聲音，母親 Yolanda 也在旁邊說話。這段家庭錄音，後來被放進〈Isn’t She Lovely〉的尾段。父親唱歌介紹女兒，女兒則以自己當時的聲音出現在唱片裡。這個場景見於 [Podscripts 提供的訪談文字稿，34:11–37:02](https://podscripts.co/podcasts/the-wonder-of-stevie/a-conversation-between-stevie-wonder-barack-obama-and-wesley-morris)。\n\n訪談前面的問題，原本在問雙唱片專輯：面對那麼多歌曲，有沒有想過先留下一些，往後再發行？Stevie 回應時，舉的例子就是這台帶回去的錄音機。他把女兒、伴侶和共同經歷放在一起說，解釋自己想讓聽眾得到的，包含當時生活中的這些部分。\n\n這段聲音在哪裡錄下，相關回憶並不一致。Stevie 在對談中提到旅館；錄音師 Gary Adante 則向 Okayplayer 表示，他記得可能是在紐約的家中，並稱那是母親錄下的聲音。Gary 自己也對地點有所保留。兩份訪談都提到 Yolanda 的聲音，但對地點及錄製者的描述沒有完全對上，具體錄製地點仍未確定。[Gary 的回憶](https://www.okayplayer.com/the-making-of-stevie-wonders-magnum-opus-songs-in-the-key-of-life/719075)\n\n這段回憶出自 Wesley Morris 主持、Stevie 與 Barack Obama 參與的對談；[節目頁標示公開上架日為 2024 年 12 月 12 日](https://podcasts.apple.com/us/podcast/a-conversation-between-stevie-wonder-barack-obama/id1767486783?i=1000680111719)。文字稿讓那段熟悉的家庭聲音，有了父親自己的說明。"
+            },
+            {
+              "id": "names-in-song",
+              "title": "歌裡叫出了母親與女兒的名字",
+              "body": "Aisha 在 1975 年 2 月出生，是 Stevie 的第一個孩子。〈Isn’t She Lovely〉寫下他初為人父的喜悅，末段還唱到女兒 Aisha，以及母親 Yolanda 的暱稱 Yonda。歌名只說「她」，歌詞卻把人叫了出來：誰被迎接、誰和他一起成為父母，都有名字。[American Songwriter 的歌曲背景整理](https://americansongwriter.com/the-story-and-meaning-behind-isnt-she-lovely-stevie-wonders-sweet-ode-to-fatherhood/)記錄了這層關係。\n\n歌曲收在 1976 年 9 月 28 日發行的《Songs in the Key of Life》，[Apple Music 的專輯資料](https://music.apple.com/us/album/songs-in-the-key-of-life/1440788438)也將它介紹為迎接 Aisha 的作品。孩子的出生與唱片發行隔著一年多，這首歌所容納的家庭生活，也就不必被縮成生產當天的一幕。\n\n開場哭聲的身分，也有不同記載。American Songwriter 把開頭與尾段都寫成 Aisha 的聲音；MusicRadar 卻說，開場是另一名新生兒，後面的孩子才是 Aisha。現有資料不足以判定開場哭聲屬於誰。這個區別會影響我們怎麼理解歌曲：迎接孩子出生的歌詞、開場哭聲與尾段洗澡錄音，不能逕自當成同一天、同一段錄音。[兩種記載可對照 MusicRadar 的逐曲介紹](https://www.musicradar.com/news/stevie-wonder-songs-in-the-key-of-life)。\n\n回頭找這首歌，值得選擇六分三十四秒的專輯版本。MusicRadar 的逐曲介紹指出，延展的口琴獨奏是其長度的一部分；Motown 曾希望發行縮短版單曲，Stevie 沒有同意。[這份介紹](https://www.musicradar.com/news/stevie-wonder-songs-in-the-key-of-life)提供了一個聆聽方向：唱完主要段落後，先別急著跳到下一首，讓器樂與家庭聲音把歌曲走完。"
+            },
+            {
+              "id": "greg-and-aisha",
+              "title": "彈電鋼琴的人，也見過嬰兒床裡的她",
+              "body": "鍵盤手 Greg Phillinganes 對這首歌的記憶，包含一張嬰兒床。他向 Yamaha 回憶，自己去 Stevie 住處時，曾上樓看過床裡的 Aisha。後來錄〈Isn’t She Lovely〉，Stevie 請他彈電鋼琴。他在訪談中仍說不出為什麼選自己，因為 Stevie 明明也能彈。[Yamaha 的 Phillinganes 訪談](https://hub.yamaha.com/three440/stories/greg-phillinganes/)記下了他參與這首歌的經過。\n\n他加入 Wonderlove 樂團時，也有一件與母親有關的小事。按他的回憶，和全團的正式試演進行了一整天，當晚回錄音室的車上，Stevie 問他成為團員感覺如何。他知道對方愛開玩笑，確認對方認真後，便請 Stevie 親自告訴自己的母親；回到錄音室，Stevie 真的打了那通電話。Phillinganes 解釋，自己當時想的是，Stevie 總不會對他母親說謊。\n\nPhillinganes 還說，Aisha 的年齡與自己認識 Stevie 的年數相當，所以每次見到她，就像遇上一次週年紀念。對聽眾而言，她可能是老歌裡的嬰兒；對這位合作樂手而言，她的成長與自己認識 Stevie 的時間連在一起。回頭留意電鋼琴聲部時，也可以記得這位樂手曾親眼見過歌裡的孩子。"
+            },
+            {
+              "id": "mixing-family-sound",
+              "title": "家庭錄音要準時進場",
+              "body": "把這些生活聲音留進唱片，需要錄音師處理進場時機。Gary Adante，也就是當年以 Gary Olazabal 名字工作的錄音師，在 Okayplayer 訪談回憶，〈Isn’t She Lovely〉的女兒錄音另留在雙軌帶上，每次都必須在正確時間接入；他記得這件事相當麻煩。[Gary 的製作回憶](https://www.okayplayer.com/the-making-of-stevie-wonders-magnum-opus-songs-in-the-key-of-life/719075)把一段看似隨意的家庭片段，還原成必須反覆配合的工作。\n\n另一位錄音師 John Fischbach 對整張專輯的說明更具體。他告訴 Tape Op，Stevie 想加入孩子笑聲、Aisha 洗澡等材料，團隊又決定不用剪接磁帶的方式完成串接。於是 Gary 做了一個只有立體聲推桿、沒有等化器的簡單混音器。他們把單數與雙數順序的歌曲分放在兩台雙軌錄音機，另一台負責錄下母帶；附加聲音則從二十四軌錄音機送入。歌曲播完，要淡出這一台、接上另一台，再把額外聲音準時推進來。整個串接在播放時即時完成，出了錯就得重來。[Fischbach 的訪談](https://tapeop.com/interviews/21/john-fischbach)談的是專輯組裝流程。Gary 說女兒的錄音留在雙軌帶上，Fischbach 則說附加聲音彙整在二十四軌帶上；兩份訪談沒有交代這兩種配置的先後，無法據此還原中間是否另有轉錄。\n\n讀過兩人的說法，再回到歌曲尾段，可以留意音樂持續進行時，家庭錄音如何出現。那些聲音來自洗澡與照顧孩子的過程，後來才與音樂放在一起；它們進場的時間，需要另外處理。那段日常能留在歌曲裡，除了最初有人按下錄音鍵，還需要錄音師讓它與音樂準時接上。"
+            },
+            {
+              "id": "aisha-sings",
+              "title": "長大以後，她有了演唱署名",
+              "body": "Aisha 後來也和父親一起唱歌。ABC News 記錄，2005 年 10 月 14 日，Stevie 上《Good Morning America》介紹《A Time to Love》，女兒與他共同演出；報導也提到父女在專輯中合唱了兩首歌。[當天的節目報導](https://abcnews.com/GMA/SummerConcert/story?id=1212390)，留下了她以成年歌手身分參與父親作品的紀錄。\n\n同一篇報導還留下另一個家庭錄音細節：〈Sweetest Somebody I Know〉結尾，Stevie 的兒子 Kailand 闖進錄音室，連聲叫爸爸，又說已經夠了。孩子打斷錄音的聲音也被留了下來。到了這張唱片，女兒參與正式合唱，另一個孩子則以突如其來的插話出現；兩種參與方式，都能在同一次發行裡找到。\n\n其中〈How Will I Know〉在[正式曲目頁](https://music.apple.com/us/song/how-will-i-know-feat-aisha-morris/1443546651)標示「feat. Aisha Morris」，收於《A Time 2 Love》。把它接在〈Isn’t She Lovely〉後面，是一組有具體關係可循的比較：先是父親將孩子的生活聲音編入錄音，後來則由兩人共同演唱。她在唱片中的位置，已經改變。\n\n可以先把〈Isn’t She Lovely〉的尾段聽完，再換到〈How Will I Know〉，分辨父女各自唱出的部分。前一首裡，Stevie 唱出 Aisha 的名字；後一首的曲目署名，讓人能循著這個名字找到她成年後的歌聲。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1975-02",
+              "event": "Aisha 出生；她是 Stevie Wonder 的第一個孩子，成為〈Isn’t She Lovely〉的主角。"
+            },
+            {
+              "date": "1976-09-28",
+              "event": "《Songs in the Key of Life》發行，收錄〈Isn’t She Lovely〉。"
+            },
+            {
+              "date": "2005-10-14",
+              "event": "Aisha 與父親共同登上《Good Morning America》，參與新專輯宣傳演出。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Isn’t She Lovely",
+            "artist": "Stevie Wonder",
+            "note": "建議搜尋《Songs in the Key of Life》的 6:34 專輯版，留意尾段家庭錄音與口琴；再比較〈How Will I Know (feat. Aisha Morris)〉。"
+          },
+          "sources": [
+            {
+              "title": "The Wonder of Stevie 對談文字稿（Podscripts；2024-12-12）",
+              "url": "https://podscripts.co/podcasts/the-wonder-of-stevie/a-conversation-between-stevie-wonder-barack-obama-and-wesley-morris"
+            },
+            {
+              "title": "The Wonder of Stevie 對談原節目頁（Apple Podcasts；2024-12-12）",
+              "url": "https://podcasts.apple.com/us/podcast/a-conversation-between-stevie-wonder-barack-obama/id1767486783?i=1000680111719"
+            },
+            {
+              "title": "Jim Beviglia：〈Isn’t She Lovely〉的父女背景（American Songwriter；2024-10-19）",
+              "url": "https://americansongwriter.com/the-story-and-meaning-behind-isnt-she-lovely-stevie-wonders-sweet-ode-to-fatherhood/"
+            },
+            {
+              "title": "Songs in the Key of Life 專輯資料（Apple Music）",
+              "url": "https://music.apple.com/us/album/songs-in-the-key-of-life/1440788438"
+            },
+            {
+              "title": "Ben Rogerson：Songs in the Key of Life 逐曲介紹（MusicRadar；2022-09-28 更新）",
+              "url": "https://www.musicradar.com/news/stevie-wonder-songs-in-the-key-of-life"
+            },
+            {
+              "title": "Lisa Battles：Walking in belief: Greg Phillinganes（Yamaha；2026 年訪談）",
+              "url": "https://hub.yamaha.com/three440/stories/greg-phillinganes/"
+            },
+            {
+              "title": "Chris Williams：Songs in the Key of Life 製作訪談（Okayplayer；2021-09-28）",
+              "url": "https://www.okayplayer.com/the-making-of-stevie-wonders-magnum-opus-songs-in-the-key-of-life/719075"
+            },
+            {
+              "title": "Luther Russell：John Fischbach 訪談（Tape Op 第 21 期；2001-01）",
+              "url": "https://tapeop.com/interviews/21/john-fischbach"
+            },
+            {
+              "title": "Stevie Wonder Sings on GMA（ABC News；2005-10-14）",
+              "url": "https://abcnews.com/GMA/SummerConcert/story?id=1212390"
+            },
+            {
+              "title": "How Will I Know (feat. Aisha Morris) 曲目資料（Apple Music）",
+              "url": "https://music.apple.com/us/song/how-will-i-know-feat-aisha-morris/1443546651"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-10-26:stevie-aisha-bath-recording"
+        },
+        {
+          "id": "minecraft-c418-random-silence",
+          "city": "",
+          "cityEn": "",
+          "artist": "C418",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "《Minecraft - Volume Alpha》的曲序與隨機播放",
+          "work": "Minecraft・Minecraft - Volume Alpha・Sweden",
+          "year": "2011",
+          "accent": "sage",
+          "title": "C418 為《Minecraft》寫配樂，連歌曲之間的空白也要隨機",
+          "deck": "早期系統難以判斷玩家身在洞穴還是自建房屋，C418 讓音樂間歇出現。從這項設計，到〈Sweden〉在數位版與黑膠上的不同位置，配樂還有旋律之外的安排。",
+          "publishedAt": "2026-10-26",
+          "reviewedAt": "2026-10-26",
+          "readingMinutes": 7,
+          "people": [
+            "C418（Daniel Rosenfeld）",
+            "Markus Persson"
+          ],
+          "topics": [
+            "影像與配樂",
+            "製作幕後",
+            "唱片與物件",
+            "音樂人筆記"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "cave-or-house",
+              "title": "洞穴，也可能是玩家蓋的家",
+              "body": "在《Minecraft》裡，一個地下空間可能是洞穴，也可能是玩家親手蓋出的房屋。C418 在 2015 年接受 FACT 訪問時，用這個例子說明配樂的難題：即使替洞穴寫好一首曲子，他也無法確定玩家眼前的空間究竟代表什麼。因此，他選擇讓早期配樂不指向特定情境，讓玩家自行理解音樂與畫面的關係。[FACT 訪談](https://www.factmag.com/2015/09/05/minecraft-c418-interview/)\n\n這位以 C418 為名發表作品的音樂人，本名 Daniel Rosenfeld。他與遊戲創作者 Markus Persson 在獨立遊戲社群 TIGSource 相識，彼此展示遊戲原型與音樂，後來才開始合作。Rosenfeld 回憶，Persson 給了他很大的創作自由，並沒有先交來一套完整的配樂規格。[FACT 訪談](https://www.factmag.com/2015/09/05/minecraft-c418-interview/)\n\n〈Sweden〉收在他於 2011 年 3 月 4 日發行的《Minecraft - Volume Alpha》，數位版列為第十八首。從這張唱片回看早期遊戲，值得追問的除了旋律，還有一項播放決定：歌曲何時才出現。[C418 官方專輯頁](https://c418.bandcamp.com/album/minecraft-volume-alpha)"
+            },
+            {
+              "id": "piano-against-blocks",
+              "title": "方塊畫面配上鋼琴，是刻意的落差",
+              "body": "Rosenfeld 並沒有因為畫面由方塊組成，就替它配上一套復古電子音色。在 Twenty Thousand Hertz 於 2021 年刊出的官方逐字稿中，他談到《Dwarf Fortress》給自己的啟發：簡陋的文字介面搭配佛朗明哥音樂，那種視覺與聽覺的不協調，反而讓他想繼續探索。他希望《Minecraft》也有類似落差，因此朝有機、帶管弦樂感、使用大量鋼琴的方向寫作。[Twenty Thousand Hertz 官方逐字稿](https://www.20k.org/episodes/minecraft)\n\n在更早的 Red Bull Music Academy 訪談裡，他已經用同一款遊戲解釋這個選擇，也說自己對當時獨立遊戲常見的 chiptune 沒有興趣。方塊世界可以搭配什麼聲音，對他而言仍有很大的餘地；畫面的復古外觀，不必直接決定音樂的質地。[Red Bull Music Academy 訪談](https://daily.redbullmusicacademy.com/2015/08/c418-interview/)\n\n把這兩份自述放在一起看，鋼琴的作用就更具體了：它參與建立畫面沒有直接交代的氣氛。這也提供一個回頭聽〈Sweden〉的角度——先留意音樂如何與遊戲外觀保持距離，再回想自己曾把它和哪些畫面連在一起。"
+            },
+            {
+              "id": "random-silence",
+              "title": "連安靜多久，也交給隨機",
+              "body": "音色確定後，還有系統能否播放的問題。Rosenfeld 向 Red Bull Music Academy 回憶，早期聲音引擎曾有兩個音樂檔同時播放便會當掉的狀況。他也難以判斷玩家正在做什麼，於是選擇不讓背景音樂明說此刻是戰鬥或夜晚，而讓歌曲間歇、隨機地出現。[Red Bull Music Academy 訪談](https://daily.redbullmusicacademy.com/2015/08/c418-interview/)\n\n空白則包含他的主動選擇。在 Twenty Thousand Hertz 的逐字稿中，他說自己特別要求大量靜默，起初是擔心同樣的音樂不斷播放會讓人厭倦；連下一首歌之前要等待多久，都帶有隨機性。這裡談的是他參與建立的早期設計。[Twenty Thousand Hertz 官方逐字稿](https://www.20k.org/episodes/minecraft)\n\n在同一份逐字稿裡，他提到聽過玩家描述：自己只是挖著泥土，音樂突然出現，卻產生強烈感受。這是作曲者轉述收到的回應，歌曲並沒有事先知道玩家剛完成了什麼。理解這批配樂時，可以連同歌曲之間沒有音樂的時間一起考慮；兩次相同的旋律，未必會落在相同的遊戲情境。[Twenty Thousand Hertz 官方逐字稿](https://www.20k.org/episodes/minecraft)"
+            },
+            {
+              "id": "few-notes",
+              "title": "鋼琴需要多少音，才足以留下印象？",
+              "body": "到了 2018 年，Rosenfeld 在 Bandcamp Daily 訪談裡，把自己的寫作問題說得更細：一架鋼琴究竟只需彈多少音，就能產生感情？他提到 Aphex Twin 帶自己進入實驗性、帶有氛圍感的聲音世界，也列出當時著迷的 Mouse on Mars、Machinedrum 與 Chris Clark。那些音樂有時很吵，有時只靠幾個音成立。[Bandcamp Daily 訪談](https://daily.bandcamp.com/features/c418-minecraft-excursions-interview)\n\n他把這個問題帶進《Minecraft》，同時考慮既有聲音素材能否重新混合、重複使用，不必每個地方都另外製作一種聲音。這份自述提供的線索很實際：回頭聽時，可以注意一段音型維持多久、什麼時候添入新聲音，以及素材很少時，曲子如何繼續前進。[Bandcamp Daily 訪談](https://daily.bandcamp.com/features/c418-minecraft-excursions-interview)\n\n比較曲目也不必只選長篇作品。官方數位版列出的〈Dry Hands〉長一分八秒，〈Wet Hands〉一分三十秒，〈Sweden〉則是三分三十五秒。可以把這三首接著播放，觀察不同長度如何容納旋律與停頓；這是依據作曲者提問安排的聆聽方式。[C418 官方專輯頁](https://c418.bandcamp.com/album/minecraft-volume-alpha)"
+            },
+            {
+              "id": "tape-and-water",
+              "title": "鋼琴之外，還有磁帶做出的草地聲",
+              "body": "Rosenfeld 同時參與早期音效製作，處理的方法又有另一種趣味。他在 Red Bull Music Academy 訪談中說，實際走過草地，腳下幾乎沒有多少聲音；拿 VHS 錄影帶的磁帶材料來製造聲響，反而更接近他需要的草地聲。他把擬音形容為反覆試驗，常得先做出某種聲音，才發現它能派上用場。[Red Bull Music Academy 訪談](https://daily.redbullmusicacademy.com/2015/08/c418-interview/)\n\nFACT 訪談還留下蜘蛛音效的例子：他提到把水管錄音送進取樣器，改變音高，直到得到像奇怪蜘蛛說話的聲音。這些製作細節提醒我們，早期《Minecraft》的聲音包含許多人工轉換；材料的原貌，與玩家最後辨認出的對象可以相差很遠。[FACT 訪談](https://www.factmag.com/2015/09/05/minecraft-c418-interview/)\n\n回頭比較遊戲與原聲帶時，也可以把注意力暫時移到音樂之外：草地聲與生物叫聲如何穿插其中？這樣比較，會比只用一首歌曲概括整段遊戲聲音，更接近這份工作的範圍。"
+            },
+            {
+              "id": "album-sequence",
+              "title": "從隨機播放，到唱片上的固定位置",
+              "body": "離開遊戲之後，同一批音樂有了可以核對的曲序。《Volume Alpha》官方數位版共列二十四首，從〈Key〉、〈Door〉開始；〈Sweden〉排在〈Excuse〉之後、〈Cat〉之前。專輯介紹也註明包含額外的原聲帶專屬音樂，所以這份曲目表並不等於玩家在某次遊戲過程中會遇到的播放清單。[C418 官方專輯頁](https://c418.bandcamp.com/album/minecraft-volume-alpha)\n\n唱片版本還會改變歌曲相鄰的關係。Ghostly International 的發行資料列明，黑膠與 CD 於 2015 年 8 月 21 日在北美推出：CD 收錄二十四首，當次黑膠則選十二首。〈Sweden〉在黑膠 B 面第四軌，前一首換成〈Wet Hands〉；〈Key〉與〈Door〉都沒有列入這份黑膠曲目表。[Ghostly／Secretly Distribution 發行單](https://www.secretlydistribution.com/resources/gi243.pdf)\n\n若想沿著這個差別再聽一次，可以先照數位版順序播放〈Excuse〉、〈Sweden〉、〈Cat〉，再以黑膠的〈Wet Hands〉、〈Sweden〉、〈Cat〉作比較。曲目表已給出兩種具體的相鄰安排；接下來留意的，是前一首結束時，如何改變你迎接〈Sweden〉的方式。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2011-03-04",
+              "event": "C418 發行《Minecraft - Volume Alpha》數位專輯，官方曲目表收錄二十四首。"
+            },
+            {
+              "date": "2015-08-21",
+              "event": "Ghostly International 在北美推出《Volume Alpha》黑膠與 CD；當次黑膠選收十二首，CD 收錄二十四首。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Sweden",
+            "artist": "C418",
+            "note": "選《Minecraft - Volume Alpha》版本。可依數位版與 2015 年黑膠曲序，分別先播放〈Excuse〉及〈Wet Hands〉，比較不同銜接方式。"
+          },
+          "sources": [
+            {
+              "title": "FACT｜Tom Fenwick：Can You Dig It: FACT meets Minecraft composer C418（2015-09-05）",
+              "url": "https://www.factmag.com/2015/09/05/minecraft-c418-interview/"
+            },
+            {
+              "title": "C418 官方 Bandcamp｜Minecraft - Volume Alpha：發行日期與數位曲目",
+              "url": "https://c418.bandcamp.com/album/minecraft-volume-alpha"
+            },
+            {
+              "title": "Twenty Thousand Hertz｜The Sound of Minecraft：官方逐字稿（2021-04-14）",
+              "url": "https://www.20k.org/episodes/minecraft"
+            },
+            {
+              "title": "Red Bull Music Academy｜Todd L. Burns：Interview: Minecraft’s Soundtrack Composer C418（2015-08-21）",
+              "url": "https://daily.redbullmusicacademy.com/2015/08/c418-interview/"
+            },
+            {
+              "title": "Bandcamp Daily｜Joe Muggs：With “Excursions,” C418 Moves On From “Minecraft” and Into Original Compositions（2018-09-06）",
+              "url": "https://daily.bandcamp.com/features/c418-minecraft-excursions-interview"
+            },
+            {
+              "title": "Ghostly International／Secretly Distribution｜GI-243 原始發行單（2015）",
+              "url": "https://www.secretlydistribution.com/resources/gi243.pdf"
+            }
+          ],
+          "interests": [
+            "動畫與遊戲",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-10-26:minecraft-c418-random-silence"
+        },
         {
           "id": "amy-back-to-black-demo-cd",
           "city": "倫敦",
