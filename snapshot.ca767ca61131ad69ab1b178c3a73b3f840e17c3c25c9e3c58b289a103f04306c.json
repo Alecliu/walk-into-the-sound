@@ -61445,6 +61445,122 @@
     "cityStories": {
       "rows": [
         {
+          "id": "breakfast-club-simple-minds-arrangement",
+          "city": "",
+          "cityEn": "",
+          "artist": "Simple Minds",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "《早餐俱樂部》的主題曲示範帶",
+          "work": "Don’t You (Forget About Me)",
+          "year": "1985",
+          "accent": "sage",
+          "title": "《早餐俱樂部》的主題曲，Simple Minds 怎麼把別人的歌唱成自己的？",
+          "deck": "一卷示範帶交到樂團手上，鼓的過門、尾段安排與未再填詞的哼唱，讓歌曲有了他們的樣子。從當事人訪談，回看這首 1985 年英國前十單曲的分工。",
+          "publishedAt": "2026-10-27",
+          "reviewedAt": "2026-10-27",
+          "readingMinutes": 7,
+          "people": [
+            "Jim Kerr",
+            "Keith Forsey",
+            "Steve Schiff",
+            "Charlie Burchill",
+            "Mel Gaynor",
+            "John Hughes",
+            "Bruce Findlay",
+            "Michelle Manning"
+          ],
+          "topics": [
+            "影像與配樂",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-tape-for-the-film",
+              "title": "一卷已經有輪廓的示範帶",
+              "body": "交到 Simple Minds 手上的〈Don’t You (Forget About Me)〉，已經有了示範錄音。共同作者 Steve Schiff 在 2015 年《SPIN》口述歷史中回憶，歌曲先從鼓的節奏與吉他開始，再添入鍵盤、貝斯；樂團錄製時，把鼓機換成真人演奏。寫歌的人交出骨架，接手的人還有聲音上的工作要做。[《SPIN》製作口述歷史](https://www.spinmagazine.com/2015/02/simple-minds-dont-you-forget-about-me-oral-history-breakfast-club/)\n\n這首由 Keith Forsey 與 Schiff 合寫的歌，用在 John Hughes 執導的《早餐俱樂部》（The Breakfast Club）片頭與結尾。電影把五個學生放進同一次週六留校處分，歌曲則出現在這段相處的兩端。要追究它如何成為 Simple Minds 的作品，詞曲署名只回答了一半；另一半在他們接手後做了哪些改動。[《SPIN》](https://www.spinmagazine.com/2015/02/simple-minds-dont-you-forget-about-me-oral-history-breakfast-club/)\n\n它在當年已有具體的流行紀錄：英國 Official Singles Chart Top 100 的 1985 年 4 月 28 日至 5 月 4 日期別，列 Simple Minds 這首歌為第 7 名，已上榜三週。榜頁同時列出前週第 8 名，因此這個第 7 名有明確的週次與比較基準。歌曲當時已進入流行市場，回頭研究它，可以把問題放在那張唱片怎麼完成。[官方週榜](https://www.officialcharts.com/charts/singles-chart/19850428/7501/)"
+            },
+            {
+              "id": "a-band-writing-its-own-songs",
+              "title": "他們手上已經有自己的歌",
+              "body": "Jim Kerr 後來多次解釋，最初的遲疑與樂團慣於自己寫歌有關。2006 年，他在官網日記裡回憶，當時正忙著〈Alive and Kicking〉、〈Sanctify Yourself〉等新作的雛形，對自己的方向相當投入。外來的示範帶雖有一些符合樂團的元素，卻還不足以讓他們立刻答應錄音。讀這段回憶，就比較能理解：他們正在為下一批作品做準備，電影歌曲插進了既有的工作。[Jim Kerr〈For The Record!〉](https://www.simpleminds.com/2006/06/30/for-the-record/)\n\n他在日記裡也特別澄清，樂團並非討厭這首歌，只是談不上愛上它。聽出示範帶有符合自身風格的元素，與願不願意停下手邊工作去錄音，仍有一段距離。這段自述讓最初的遲疑有了具體背景：已有新歌在寫，也知道自己接下來想往哪裡走，外來作品還得找到加入的理由。[Jim Kerr 官網日記](https://www.simpleminds.com/2006/06/30/for-the-record/)\n\n談到為何改變主意，Kerr 認為很可能是經紀人 Bruce Findlay 與 Forsey 持續推動的結果；而樂團真正見到 Forsey 後，很喜歡這個人。他把錄音變成一次願意嘗試的合作。在 Kerr 多年後的回憶裡，經紀人的推動與製作人建立的交情，都參與了這次決定。[Jim Kerr 官網日記](https://www.simpleminds.com/2006/06/30/for-the-record/)\n\n到 2025 年接受《Illinois Entertainer》訪問，Kerr 仍把與 Hughes 的交談、Forsey 的到來，視為促成嘗試的環節。他形容最後完成的成果，歌曲屬於作者，錄音則有樂團自己的樣子。他還說，錄音裡放進的是樂團多年累積的聲音。花幾個鐘頭完成一首歌，與花多年找到這種演奏方式，原來是兩種不同的時間；這個區分，讓接下來的編曲細節有了位置。[《Illinois Entertainer》訪談](https://illinoisentertainer.com/2025/06/hello-my-name-is-jim-kerr-of-simple-minds-friday-june-20-huntington-bank-pavilion-at-northerly-island-chicago/)"
+            },
+            {
+              "id": "the-band-enters",
+              "title": "鼓的過門，讓樂團接手",
+              "body": "Kerr 在《SPIN》訪談裡把轉變指向前奏與鼓手 Mel Gaynor：當前奏成形、Gaynor 開始在節奏裡發揮，樂團才覺得能掌握這首歌。Forsey 也把尾段的 breakdown 歸給 Simple Minds。兩人的說法都把改變落在演奏與段落安排上。[《SPIN》](https://www.spinmagazine.com/2015/02/simple-minds-dont-you-forget-about-me-oral-history-breakfast-club/)\n\n同篇口述歷史也保留了另一種看法。電影共同製片 Michelle Manning 認為示範帶已經很完整，製作方希望樂團照著錄，並形容它與成品相同；Kerr 則強調前奏與鼓的改動。兩人對示範與成品的評價並不一致。閱讀這些回憶時，可以分別留意他們談的是歌曲原有的輪廓，還是演奏者加進去的處理，但現有說法不足以精確劃出每一軌的貢獻。[《SPIN》製作口述歷史](https://www.spinmagazine.com/2015/02/simple-minds-dont-you-forget-about-me-oral-history-breakfast-club/)\n\n這裡的 breakdown，可以理解為編曲抽減、重新整理段落的處理；它與主歌、副歌的詞曲框架，是不同層次的工作。比較示範與正式錄音時，可以先留意段落交界：鼓怎麼帶進下一句，伴奏何時退開，主唱又在什麼地方留下空間。這些是上述製作回憶提供的聆聽方向，不必先替兩個版本排高下。\n\nKerr 在 2025 年的訪談中，同樣點名 Charlie Burchill 的吉他、Gaynor 的鼓與 breakdown，認為那都是樂團已有的語彙。作者提供的歌曲，容得下樂團長期磨出的演奏習慣。署名幫我們分清角色，這些具體的改動則說明他們怎麼合作。[《Illinois Entertainer》訪談](https://illinoisentertainer.com/2025/06/hello-my-name-is-jim-kerr-of-simple-minds-friday-june-20-huntington-bank-pavilion-at-northerly-island-chicago/)"
+            },
+            {
+              "id": "the-unwritten-ending",
+              "title": "尾段沒有再補上的歌詞",
+              "body": "最容易辨認的一項改動，是末段反覆的哼唱。2022 年 7 月 7 日上架的《The Bob Lefsetz Podcast》，由 Bob Lefsetz 訪問 Kerr；iHeart 提供的逐字稿在約 1:17:51 至 1:18:34 記下他的回憶：那段當時沒有歌詞，他先用簡單音節唱過，之後仍想回去填入有意義的字句，但其他人希望留下原樣。[節目逐字稿，約 1:17:51 起](https://www.iheart.com/podcast/1119-the-bob-lefsetz-podcast-30806836/episode/jim-kerr-99138166/)\n\n這個細節讓「完成」變得有意思。從填詞者的角度看，空著的地方似乎還能補寫；從錄音製作的角度看，一段沒有新字句的旋律，也可能已經完成它的功能。Kerr 的回憶記錄的是兩種判斷如何相遇，而非預先設計好的一套成功公式。\n\n同一段訪談往後，Kerr 談到如今對歌曲的態度：他珍惜它帶給聽眾的快樂，也承認曾對花費不多時間便獲得巨大成功感到不相稱。這是他對自身反應的回看。把它放回錄音過程，才看得出那份彆扭與演奏時的投入可以同時存在。[節目逐字稿，約 1:18:34 至 1:19:39](https://www.iheart.com/podcast/1119-the-bob-lefsetz-podcast-30806836/episode/jim-kerr-99138166/)"
+            },
+            {
+              "id": "which-record-to-return-to",
+              "title": "回到唱片時，先認清版本",
+              "body": "唱片的收錄方式，又留下另一條線索。Simple Minds 官網的《Once Upon a Time》豪華版說明確認：〈Don’t You (Forget About Me)〉沒有放進 1985 年原版專輯。2015 年盒裝則在附加碟中並列這首歌與 Extended Version；原專輯的八首曲目仍另放一碟。同頁收錄 Kerr 的回顧：他仍認為原專輯十分完整，也承認當年把這首歌留在外面，是個古怪的決定。歌曲受到歡迎，並沒有讓原版曲序跟著改動。今天若從盒裝入手，先看原專輯與附加曲目的分界，就能保留當年的收錄選擇。[官方豪華版曲目與製作說明](https://www.simpleminds.com/2015/12/04/once-upon-a-time-deluxe-box/)\n\n《The Second Disc》的版本資料把這首錄音追溯到 1985 年《早餐俱樂部》原聲帶，並另列同年的單曲與十二吋加長版來源。這些年份與載體，比數位平台後來顯示的重發日期，更能說明本文談的是哪一次錄音。原聲帶歌曲、單曲和加長版各有發行脈絡，選曲時也就不會誤拿後來的現場演出代替。[原始發行與版本資料](https://theseconddisc.com/2025/06/25/simple-minds-reconfigured-once-upon-a-time-box-40th-anniversary/)\n\n可以先找 1985 年的錄音室版本，留意前奏、鼓的過門與尾段哼唱，再對照官方列出的加長版。比較時先問段落被拉長在哪裡、哪些樂器多留了一會兒；接著再回到電影片頭與結尾，看同一首歌在畫面中各自承接了什麼。詞曲署名、樂團演奏和電影使用，便有了可以分開辨認的位置。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1985",
+              "event": "〈Don’t You (Forget About Me)〉以 Simple Minds 原唱錄音發行，收錄於《早餐俱樂部》原聲帶，另有單曲與十二吋加長版。"
+            },
+            {
+              "date": "1985-04-28",
+              "event": "英國 Official Singles Chart 的 4 月 28 日至 5 月 4 日期別，本曲列第 7 名。"
+            },
+            {
+              "date": "2015-12-04",
+              "event": "《Once Upon a Time》豪華盒裝發行，附加碟並列本曲與 Extended Version。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Don’t You (Forget About Me)",
+            "artist": "Simple Minds",
+            "note": "先選 1985 年原始錄音室版本，再比較 Extended Version；依製作訪談留意前奏、鼓的過門與尾段哼唱。"
+          },
+          "sources": [
+            {
+              "title": "Andrew Unterberger｜SPIN：〈Don’t You (Forget About Me)〉口述歷史（2015-02-24）",
+              "url": "https://www.spinmagazine.com/2015/02/simple-minds-dont-you-forget-about-me-oral-history-breakfast-club/"
+            },
+            {
+              "title": "Official Charts｜Official Singles Chart，1985-04-28 至 1985-05-04",
+              "url": "https://www.officialcharts.com/charts/singles-chart/19850428/7501/"
+            },
+            {
+              "title": "Jim Kerr｜For The Record!（2006-06-30）",
+              "url": "https://www.simpleminds.com/2006/06/30/for-the-record/"
+            },
+            {
+              "title": "Jeff Elbel｜Illinois Entertainer：Jim Kerr 訪談（2025-06-17）",
+              "url": "https://illinoisentertainer.com/2025/06/hello-my-name-is-jim-kerr-of-simple-minds-friday-june-20-huntington-bank-pavilion-at-northerly-island-chicago/"
+            },
+            {
+              "title": "The Bob Lefsetz Podcast｜Jim Kerr；iHeart 逐字稿（2022-07-07）",
+              "url": "https://www.iheart.com/podcast/1119-the-bob-lefsetz-podcast-30806836/episode/jim-kerr-99138166/"
+            },
+            {
+              "title": "Simple Minds｜Once Upon a Time – Deluxe Box：官方說明與曲目（2015-12-04）",
+              "url": "https://www.simpleminds.com/2015/12/04/once-upon-a-time-deluxe-box/"
+            },
+            {
+              "title": "Mike Duquette｜The Second Disc：Once Upon a Time 重發與原始版本資料（2025-06-25）",
+              "url": "https://theseconddisc.com/2025/06/25/simple-minds-reconfigured-once-upon-a-time-box-40th-anniversary/"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-10-27:breakfast-club-simple-minds-arrangement"
+        },
+        {
           "id": "stevie-aisha-bath-recording",
           "city": "",
           "cityEn": "",
