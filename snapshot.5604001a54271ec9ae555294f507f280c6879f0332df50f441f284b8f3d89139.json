@@ -58196,6 +58196,697 @@
     "gearStories": {
       "rows": [
         {
+          "id": "fender-jazz-bass-1965-original",
+          "title": "1965 Fender Jazz Bass：兩顆音量旋鈕，與〈My Generation〉最後選中的貝斯",
+          "deck": "窄上弦枕搭配 34 吋弦長，雙拾音器各有音量控制。Entwistle 的錄音故事，還得把換弦與獨奏的改動一起看。",
+          "brand": "Fender",
+          "model": "Jazz Bass（1965 年美國原版，四弦三旋鈕；以無指板包邊實例為主，非復刻版）",
+          "category": "貝斯",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-30",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "two-volumes",
+              "title": "兩個拾音位置，可以各自決定份量",
+              "body": "1965 年 Fender Jazz Bass 的實用之處，是把兩顆拾音器各交給一顆音量旋鈕，再用一顆總音色控制整體。調整拾音器比例時，不必只在幾個固定檔位之間切換；想保留兩者、又讓其中一路退後一些，直接轉音量即可。[Fender 的設計說明](https://www.fender.com/articles/instruments/precision-bass-or-jazz-bass-which-is-right-for-you)確認了雙單線圈、雙音量與總音色的配置。\n\n本文限定 1965 年美國製、四弦三旋鈕的原版，以無指板包邊的實例為主。這個年代版本已停產；後來的復刻琴與現行 Jazz Bass 各有規格。它值得研究的地方，是控制方式怎樣讓人安排貝斯聲部，以及 John Entwistle 如何真的把它用進錄音。"
+            },
+            {
+              "id": "scale-and-neck",
+              "title": "窄上弦枕，仍是 34 吋弦長",
+              "body": "[RetroFret 的 1965 年原琴檔案](https://retrofret.com/products/fender-jazz-bass-solid-body-electric-bass-guitar-1965-4527)記錄了 34 吋、約 864 毫米弦長，上弦枕寬 1½ 吋、約 38 毫米，以及楓木琴頸、玫瑰木指板。上弦枕較窄，說的是低把位橫向的尺寸；從第一品伸到第四品的距離，仍受這把長弦長貝斯的尺度支配。不能只看見窄琴頸，就認定它適合所有手型。\n\n[Fender 對長短弦長的解釋](https://www.fender.com/articles/instruments/is-a-short-scale-bass-right-for-you)也指出，短弦長會縮短品距，並影響弦的張力。試琴時，建議先在低把位彈平常的伴奏句，再試高把位。可以分別留意手指橫跨四條弦是否自在，以及沿同一條弦換把是否順暢；這樣比較容易知道自己在意的是寬度，還是伸展距離。遇到吃力的音型，也可試著換把完成，別只握一下上弦枕附近便下決定。木材在這裡用來辨識結構；單憑楓木與玫瑰木的名稱，還不足以替某把老琴預告聲音。"
+            },
+            {
+              "id": "controls-and-setup",
+              "title": "先調混合比例，再處理整體音色",
+              "body": "[1965–66 年 Fender 原廠型錄第三頁](https://www.vintageguitarandbass.com/fender/catalogues/1965_1966_3.php)寫得很具體：每顆拾音器有自己的音量，兩者共用一個音色控制；每條弦也能分別調整弦高與有效弦長。這些功能各做各的事。拾音器比例用來選擇訊號的組合，琴橋調整則關係到弦高與音準，不能指望轉旋鈕修好一把尚未整理妥當的琴。\n\n操作上，建議先固定音箱設定，分別試兩顆拾音器，再把另一顆慢慢加回來。三顆旋鈕裡沒有獨立的總音量；如果只轉其中一顆來降低音量，兩路的比例也會跟著變。這是舞台上需要熟悉的小地方。總音色也只有一組，調整時要把混合後的訊號一起考慮。\n\n想把比較做得更清楚，可以選一段熟悉的樂句，每次維持相近的彈奏力道與撥弦位置，只改一顆旋鈕。先記下單用前段拾音器、單用後段拾音器與兩者混合的設定，再試總音色。這是一種試琴方法，並非聲音好壞的排名；也不必預設兩顆全開就是每首歌的答案。若準備在一首歌裡更換設定，建議連同休止、轉旋鈕與重新進拍一起練，確認手上真的來得及操作。\n\n可對照 Chicago Music Exchange 的[1965 年 Lake Placid Blue 原琴示範](https://www.youtube.com/watch?v=UZUp3SNKqgA)。影片頁列有收音與 DI 器材，因此它適合作為另一把同年琴的參考，不能當成 Entwistle 錄音設定的重現。"
+            },
+            {
+              "id": "my-generation",
+              "title": "〈My Generation〉最後留下的是 Jazz Bass",
+              "body": "[Equipboard 的 1965–69 年型號頁](https://equipboard.com/items/fender-1965-jazz-bass)提供了 Entwistle 的使用線索，但頁面把數個年份放在一起，不能直接拿來判定每把琴的配置。更具體的資料在 [Whotabs 的 1964–66 年器材檔案](https://www.thewho.net/whotabs/gear/bass/bass6466.html)：它列出他在 1965 年十月為〈My Generation〉購入的 sunburst Jazz Bass，序號 L89716，並引錄他的《Bass Culture》及訪談。\n\n依 Entwistle 的回憶，原先使用的 Danelectro 不斷斷弦，替換弦又難找，最後改用 Jazz Bass 配 La Bella 包帶弦。他說成品中的獨奏，比先前幾次錄音的版本簡化、放慢了。[Guitar World 的專文](https://www.guitarworld.com/features/bewildering-technique-that-went-way-beyond-any-standard-root5th-ideas-listen-to-john-entwistles-isolated-bass-on-my-generation)也記錄了從 Danelectro 改用 Jazz Bass 與 La Bella 弦的選擇；換琴過程的細節，仍應視為他的回憶。\n\n讀 Guitar World 這篇文章時，也要留意版本：它前段介紹的分軌是 1970 年《Live at Leeds》的現場錄音，後段才談到最初錄音時的換琴。想對照獨奏，可以先把現場版與 1965 年版本分開標記，再比較樂句；後來的現場演奏不能拿來證明早年錄音的器材設定。\n\n依這段回憶，要理解成品的演奏方式，除了琴款，也得把換弦與獨奏的改動一起考慮。本文照片是這把琴在 2019 年展覽中的[正面紀錄](https://commons.wikimedia.org/wiki/File:John_Entwistle_%28The_Who%29%27s_1965_Fender_Jazz_Bass_%28serial_no._L89716%29_-_Play_It_Loud._MET_%282019-05-13_19.00.06_by_Eden,_Janine_and_Jim%29.jpg)，可見雙拾音器、三旋鈕，以及未安裝金屬護蓋的琴橋與拾音器；展示時的外觀不代表錄音當天所有零件與設定都相同。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合願意調整的人，買老琴則要多看幾處",
+              "body": "若你喜歡用兩顆拾音器的比例安排聲音，也願意花時間熟悉雙音量的操作，這套設計很有吸引力。若低把位伸展已經吃力，窄上弦枕未必能解決問題；需要快速切換固定音色的人，也得衡量手動轉旋鈕是否順手。\n\n買二手原版時，建議請熟悉老 Fender 的技師檢查琴頸狀態、調整桿、品絲與琴橋行程，確認兩路拾音器、音量及音色控制都能正常工作。再比對琴頸日期、電子零件與維修紀錄，向賣方問清重噴、換拾音器、重新配線或換品的情況。\n\n[RetroFret 的原琴檔案](https://retrofret.com/products/fender-jazz-bass-solid-body-electric-bass-guitar-1965-4527)就有一個具體例子：賣方認為中央鍍鉻手托似乎是較晚的零件，其餘部分則描述為原裝。這是該把琴的狀態，不能套用到所有同年琴；但讀到這類註記時，值得追問零件年代的判斷依據、是否還保留拆下的舊件，以及售價反映了哪些條件。年份確定之後，仍有這些細節要逐一確認。\n\n照片裡少了護蓋，也正好提醒：零件齊全程度與是否適合演奏，得分開看。在意原裝程度的買家要追零件來歷；拿來演出的買家，則要把可調整範圍、維修費和實際手感算進去。試琴最好也用平常的背帶，站著彈一段完整樂句，留意琴的位置是否讓左手多花力氣。若賣方允許，請技師確認目前弦高還有多少調整餘量，並把預期整修項目寫清楚。先取得這些答案，再談老琴值不值得。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "版本",
+              "value": "1965 年美國製原版四弦 Jazz Bass；本文以三旋鈕、無指板包邊實例為主"
+            },
+            {
+              "label": "弦長",
+              "value": "34 吋，約 864 毫米"
+            },
+            {
+              "label": "上弦枕寬",
+              "value": "1½ 吋，約 38 毫米；依 RetroFret 1965 年原琴檔案"
+            },
+            {
+              "label": "拾音器",
+              "value": "兩顆單線圈；每顆拾音器每條弦對應兩根磁柱"
+            },
+            {
+              "label": "控制",
+              "value": "兩個獨立拾音器音量、一個總音色控制"
+            },
+            {
+              "label": "琴頸",
+              "value": "楓木；依 RetroFret 1965 年原琴檔案"
+            },
+            {
+              "label": "指板",
+              "value": "玫瑰木"
+            },
+            {
+              "label": "琴橋調整",
+              "value": "各弦可分別調整高度與有效弦長"
+            }
+          ],
+          "artists": [
+            {
+              "name": "John Entwistle",
+              "work": "The Who〈My Generation〉，1965 年錄音",
+              "story": "Whotabs 將錄音用琴列為 1965 年 sunburst Jazz Bass、序號 L89716，並引錄 Entwistle 對改用 La Bella 包帶弦與簡化獨奏的回憶。Guitar World 另記錄了 Jazz Bass 與 La Bella 弦的使用；斷弦及換琴經過採具名回憶，不推定旋鈕位置，也不將後來的現場版本視為同一錄音配置。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "1965 Fender Jazz Bass Lake Placid Blue | CME Vintage Demo | Marc Najjar",
+              "channel": "Chicago Music Exchange",
+              "url": "https://www.youtube.com/watch?v=UZUp3SNKqgA",
+              "verifiedAt": "2026-10-30"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Fender：Precision Bass or Jazz Bass: Which Is Right for You?",
+              "url": "https://www.fender.com/articles/instruments/precision-bass-or-jazz-bass-which-is-right-for-you"
+            },
+            {
+              "title": "RetroFret：Fender Jazz Bass Solid Body Electric Bass Guitar (1965)，Item #4527",
+              "url": "https://retrofret.com/products/fender-jazz-bass-solid-body-electric-bass-guitar-1965-4527"
+            },
+            {
+              "title": "Fender：Is a Short-Scale Bass Right for You?",
+              "url": "https://www.fender.com/articles/instruments/is-a-short-scale-bass-right-for-you"
+            },
+            {
+              "title": "Fender 1965–66 原廠型錄第三頁，Vintage Guitar and Bass 掃描檔",
+              "url": "https://www.vintageguitarandbass.com/fender/catalogues/1965_1966_3.php"
+            },
+            {
+              "title": "Chicago Music Exchange：1965 Fender Jazz Bass Lake Placid Blue 示範",
+              "url": "https://www.youtube.com/watch?v=UZUp3SNKqgA"
+            },
+            {
+              "title": "Equipboard：Fender Jazz Bass (1965–1969)",
+              "url": "https://equipboard.com/items/fender-1965-jazz-bass"
+            },
+            {
+              "title": "Whotabs：John Entwistle’s Gear: 1964–1966",
+              "url": "https://www.thewho.net/whotabs/gear/bass/bass6466.html"
+            },
+            {
+              "title": "Guitar World：John Entwistle’s isolated bass on My Generation，Nick Wells，2023-05-30",
+              "url": "https://www.guitarworld.com/features/bewildering-technique-that-went-way-beyond-any-standard-root5th-ideas-listen-to-john-entwistles-isolated-bass-on-my-generation"
+            },
+            {
+              "title": "Wikimedia Commons：John Entwistle 的 1965 Fender Jazz Bass，2019 年展覽照片",
+              "url": "https://commons.wikimedia.org/wiki/File:John_Entwistle_%28The_Who%29%27s_1965_Fender_Jazz_Bass_%28serial_no._L89716%29_-_Play_It_Loud._MET_%282019-05-13_19.00.06_by_Eden,_Janine_and_Jim%29.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Eden, Janine and Jim from New York City",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Entwistle_(The_Who)%27s_1965_Fender_Jazz_Bass_(serial_no._L89716)_-_Play_It_Loud._MET_(2019-05-13_19.00.06_by_Eden,_Janine_and_Jim).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-f0221a6a0fab555d",
+            "caption": "John Entwistle 的 1965 年原版 Fender Jazz Bass，2019 年於紐約大都會藝術博物館展出的正面照片。可見琴頭、無包邊圓點指板、雙拾音器與三旋鈕，金屬護蓋未安裝；L89716 序號依檔案紀錄，照片未拍到琴背。攝影：Eden, Janine and Jim，CC BY 2.0。",
+            "alt": "展櫃中的三色漸層 Fender Jazz Bass，四弦、圓點指板、兩顆黑色拾音器與三顆旋鈕，琴橋及拾音器沒有金屬護蓋。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-30:gear-bass"
+        },
+        {
+          "id": "paiste-2002-novo-china-20",
+          "title": "Paiste 2002 Novo China 20 吋：能敲鈸心的 China，與 Eloy 的巡演配置",
+          "deck": "向下折邊讓鈸心保留演奏用途。從 Eloy Casagrande 的 Slipknot 巡演鼓組，看看尺寸、安裝位置與二手狀況該怎麼分開判斷。",
+          "brand": "Paiste",
+          "model": "2002 Novo China 20 吋（標準版；規格依查核時原廠產品頁）",
+          "category": "鼓與打擊",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-30",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "downturned-edge",
+              "title": "折邊向下，鈸心仍能敲",
+              "body": "Paiste 2002 Novo China 20 吋最值得留意的，是它把 China 的邊緣做成向下翻折，讓中央凸起的鈸心也能拿來演奏。一般 China 的邊緣向上，鼓手常把整面鈸反裝，方便敲擊；Novo 改變了這個安排。依 [Paiste 的鈸片結構說明](https://www.paiste.com/en/about/everything-cymbals/cymbal-anatomy)，向下折邊正是為了保留鈸心的用途。\n\n這對想在重音之外加進鈸心節奏的鼓手很實際：選購時，除了試邊緣的 crash，也應試試從鈸面移到鈸心的落點。若整場只敲外緣，這項設計帶來的操作空間就未必用得上。"
+            },
+            {
+              "id": "material-and-size",
+              "title": "先看 20 吋，再看原廠怎麼分類",
+              "body": "本文談的是標準 2002 Novo China 20 吋。[2002 系列頁](https://www.paiste.com/en/products/series/s2002)列明材料為 CuSn8 青銅；[Novo China 產品頁](https://www.paiste.com/en/products/models/122-novo-china)則把重量列為 Medium、音量列為 Loud、延音列為 Long。這些是原廠分類，不能當成固定克數、分貝或衰減秒數。查核時目錄仍列有 18 與 20 吋兩種尺寸，一般 2002 China 也另列為不同產品，買二手時不能只認「2002」字樣。\n\n材料名稱並沒有交代全部的聲音。原廠結構指南指出，鈸心、鈸面與邊緣各有不同用途；外緣可激發較完整的 crash 聲，鈸心則可提供較集中的音高。Novo 的折邊讓這些敲擊區域能在同一安裝方向下使用。20 吋是否適合，也要連同鈸架位置考慮：把鈸心放在看似漂亮、手卻不容易到達的位置，便失去選這個設計的部分理由。\n\n原廠的[聲音分類指南](https://www.paiste.com/en/about/everything-cymbals/cymbal-sound-classification-system)把 Weight 解釋為厚度相對於尺寸的關係，把 Volume 解釋為鈸片能正常發揮的音量範圍。這使 Medium 與 Loud 同時出現在規格裡並不奇怪；中等重量分類不代表只適合中等音量。尺寸與厚度會共同影響音高及延音，也不能只拿合金名稱，便預測一面鈸所有的反應。"
+            },
+            {
+              "id": "eloy-touring-kit",
+              "title": "Eloy 的 20 吋，要放回那次巡演看",
+              "body": "[Equipboard 的型號條目](https://equipboard.com/items/paiste-20-2002-novo-china)提供了 Eloy Casagrande 的使用線索，並標出 Modern Drummer 影片的 12:17。回到[原始巡演器材介紹](https://www.youtube.com/watch?v=ThxcGC9f2Y4)，頻道在 2025 年 1 月 6 日發布的說明寫明：David Frangioni 是在前一年 Slipknot「Here Comes The Pain」25 週年巡演的歐洲段，來到舞台上訪問 Eloy。說明欄的器材表直接列出 2002 Novo China 20 吋，影片約 12:17 也進入這面鈸的介紹。\n\n它在這套鼓組裡，與 20 吋 2002 Power Ride、10 吋 2002 Mega Bell 同時存在。這個配置值得拿來思考自己的需求：Novo 雖然保留可敲擊的鈸心，Eloy 仍安排了另外的 ride 與 bell，沒有讓一面 China 包辦所有工作。\n\n[Paiste 藝人頁](https://www.paiste.com/en/musicians/eloy-casagrande)還把 Slipknot 與 Sepultura 的配置分開列出，前者是 20 吋 Novo，後者是 18 吋。因此，能確認的是這次巡演配置及原廠列示的使用紀錄；它們沒有證明任何一首 Slipknot 或 Sepultura 錄音用了本文這個尺寸，也不能推出他選用不同尺寸的原因。"
+            },
+            {
+              "id": "playing-and-limits",
+              "title": "試鈸時，留一點時間聽它停下來",
+              "body": "依照可用的敲擊區域與原廠分類，這面鈸適合已經有基本 crash、ride，想增加 China 重音、又想嘗試鈸心節奏的人。若主要需求是小音量伴奏，或每一下都要迅速收乾，選購時就應把音量與殘響列為重點，不能只憑金屬樂鼓手使用便下決定。\n\n建議試奏時先敲單一下，等聲音衰減，再用平常的力道打一段連續節奏，分別比較鈸心、鈸面與外緣。這是依設計提出的試奏方法，本文沒有實際試打。也別用鎖緊螺帽代替控制手法：[原廠使用與保養指南](https://www.paiste.com/en/about/everything-cymbals/usage-and-care)要求鈸片保有自由擺動的空間，並建議以斜掠的方式敲擊邊緣，避免鼓棒直撞、硬穿過鈸片。\n\n[原廠試鈸指南](https://www.paiste.com/en/about/everything-cymbals/selection-and-testing)還有一個很適合照做的建議：帶平常用的鼓棒，並把新鈸和自己常用的 crash、ride 一起比較。若店裡允許，請另一個人演奏，自己退遠一點聽。站在鈸架旁覺得清楚的聲音，是否也適合整個樂團，值得分開判斷；示範影片可以幫忙認識器材，不能替你完成這一步。"
+            },
+            {
+              "id": "used-cymbal-check",
+              "title": "二手先看邊緣與中心孔",
+              "body": "買二手時，先請賣家提供正反面、整圈邊緣與中心孔的清楚照片，確認 Novo 名稱和 20 吋標示，再詢問有沒有裂痕、修切或鑽孔。原廠保養資料特別提醒，金屬鈸架直接摩擦中心孔會造成鑰匙孔狀磨損，墊片也可能在鈸心下方留下環狀切痕；邊緣的缺口與凹傷同樣不能只當成外觀問題。拿到實物後，檢查護套與上下毛氈，別讓舊傷在新的鈸架上繼續受力。試敲也別只聽一次大重音：沿鈸面相同半徑換幾個位置輕敲，留意是否有異常雜音或不響的區域；這也是原廠試鈸指南列出的檢查方式。\n\n本文的 [Commons 照片](https://commons.wikimedia.org/wiki/File:Paiste_Novo_china_z_serii_2002.jpg)由 Piotr Więcek 拍攝於 2007 年 9 月 24 日，提供 CC BY-SA 3.0 授權。照片可辨識紅字 2002、NOVO 與 20 吋標示，以及鈸面、鈸心和折邊；它是同型號實物，來源未標示為 Eloy 的器材；拍攝日期也不能當成製造年份。對照照片只能協助認型號，仍要逐一檢查打算購買的實物。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "直徑",
+              "value": "20 吋；本文不含另售的 18 吋版"
+            },
+            {
+              "label": "材料",
+              "value": "CuSn8 Bronze（2002 青銅）"
+            },
+            {
+              "label": "重量分類",
+              "value": "Medium；原廠相對分類，非固定克數"
+            },
+            {
+              "label": "邊緣設計",
+              "value": "Novo 向下翻折邊緣，可保留鈸心演奏用途"
+            },
+            {
+              "label": "音量分類",
+              "value": "Loud；原廠可用音量分類，非分貝值"
+            },
+            {
+              "label": "延音分類",
+              "value": "Long；原廠分類，非實測衰減秒數"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Eloy Casagrande",
+              "work": "Slipknot「Here Comes The Pain」25 週年巡演歐洲段（2024 年）",
+              "story": "Modern Drummer Official 於 2025-01-06 發布的巡演器材介紹，說明欄明列 2002 Novo China 20 吋，約 12:17 介紹此鈸；Paiste 的 Slipknot 配置亦列相同尺寸。這確認了該次巡演鼓組的使用，不能延伸成某首歌或專輯的錄音證據；藝人頁另列的 Sepultura 配置則是 18 吋。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Eloy Casagrande - Slipknot - Tour Kit Rundown",
+              "channel": "Modern Drummer Official",
+              "url": "https://www.youtube.com/watch?v=ThxcGC9f2Y4",
+              "verifiedAt": "2026-10-30"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Paiste：Cymbal Anatomy",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/cymbal-anatomy"
+            },
+            {
+              "title": "Paiste：2002 系列",
+              "url": "https://www.paiste.com/en/products/series/s2002"
+            },
+            {
+              "title": "Paiste：2002 Novo China",
+              "url": "https://www.paiste.com/en/products/models/122-novo-china"
+            },
+            {
+              "title": "Paiste：Cymbal Sound Classification System",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/cymbal-sound-classification-system"
+            },
+            {
+              "title": "Equipboard：Paiste 20\" 2002 Novo China",
+              "url": "https://equipboard.com/items/paiste-20-2002-novo-china"
+            },
+            {
+              "title": "Modern Drummer Official：Eloy Casagrande - Slipknot - Tour Kit Rundown",
+              "url": "https://www.youtube.com/watch?v=ThxcGC9f2Y4"
+            },
+            {
+              "title": "Paiste：Eloy Casagrande 藝人配置",
+              "url": "https://www.paiste.com/en/musicians/eloy-casagrande"
+            },
+            {
+              "title": "Paiste：Usage & Care",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/usage-and-care"
+            },
+            {
+              "title": "Paiste：Selection & Testing",
+              "url": "https://www.paiste.com/en/about/everything-cymbals/selection-and-testing"
+            },
+            {
+              "title": "Wikimedia Commons：File:Paiste Novo china z serii 2002.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Paiste_Novo_china_z_serii_2002.jpg"
+            }
+          ],
+          "photo": {
+            "author": "Piotr Więcek, uploaded by CalebCo",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paiste_Novo_china_z_serii_2002.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "id": "place-19936c5006814cfb",
+            "caption": "Paiste 2002 Novo China 20 吋紅字實物，攝於 2007 年 9 月 24 日；可見鈸面、凸起鈸心、向下折邊及型號尺寸標示，製造年份未註明。此圖不作為 Eloy 使用此鈸的證據。攝影：Piotr Więcek，CC BY-SA 3.0。",
+            "alt": "架上的 Paiste 2002 Novo China，鈸面有紅色 NOVO 與 20 吋標示，中央鈸心向上凸起，外緣向下翻折。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-30:gear-drums"
+        },
+        {
+          "id": "roland-d-50-original",
+          "title": "Roland D-50：四個 Partial，與〈Orinoco Flow〉的手彈疊錄",
+          "deck": "短取樣、合成長音與搖桿比例控制，構成 D-50 的操作特色；Enya 的錄音故事則提醒我們，預設音色只是編曲的起點。",
+          "brand": "Roland",
+          "model": "D-50（1987 年推出的原版 61 鍵數位合成器，已停產）",
+          "category": "合成器與鍵盤",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-30",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "why-d50",
+              "title": "短取樣與長音，可以分開設計",
+              "body": "Roland D-50 特別的地方，是把 PCM 取樣與數位合成聲部放進同一個音色：取樣可以交代撥弦、敲擊等起音，合成聲部則延續後面的聲音。這種 LA（Linear Arithmetic）架構也能使用循環取樣，不必每次都照「取樣起音加合成延音」的配方組合。[Roland 的聲音指南](https://articles.roland.com/listening-guide-sounds-of-the-d-50/)交代了當年以短取樣節省記憶體的設計思路。\n\n本文談的是 1987 年推出、現已停產的原版 61 鍵 D-50，規格依[原廠技術檔案](https://support.roland.com/hc/en-us/articles/201966399-D-50-Technical-Specifications)與原機手冊。從[Commons 的原版正面照片](https://commons.wikimedia.org/wiki/File:Roland_D-50.jpg)可見，鍵盤上方留給螢幕、按鍵與搖桿的空間，比旋鈕多得多。想理解它，得先分清演奏時能直接控制什麼，以及編輯時要進入哪一層。"
+            },
+            {
+              "id": "partials",
+              "title": "四個 Partial，不是四個獨立樂器軌",
+              "body": "[進階手冊第 4–7 頁](https://cdn.roland.com/assets/media/pdf/D-50_OM.pdf)把結構畫得很清楚：兩個 Partial 組成一個 Tone，Upper、Lower 兩個 Tone 再組成 Patch。Partial 可使用數位合成或 PCM 聲源；Structure 決定它們如何搭配，也包含環形調變。這意味著同一個按鍵能同時帶出不同材料，並不代表能把四個 Partial 當成四件各自演奏的樂器。\n\n操作上的關鍵差別藏在濾波器。合成聲源有 TVF，可用截止頻率、共振與包絡塑造變化；PCM 聲源的路徑沒有這一段。若想把一個取樣的高頻隨時間慢慢收掉，不能直接套用合成聲部的 TVF 做法。它仍可調音高與音量包絡，但可用的工具不同。編輯前先確認自己選到哪個 Partial，比對著整個音色反覆改數值有效。\n\n[當年評測](https://www.muzines.co.uk/articles/roland-d-50/1218)提到可將 Partial 個別靜音。比較實用的練習，是先關掉其他層，確認留下的是短音、循環取樣還是合成長音，再逐一加回來。這樣能分辨是哪一層造成起音太突出、尾音太長，避免一開始就把問題全交給效果器。"
+            },
+            {
+              "id": "playing",
+              "title": "搖桿管比例，聲部數也要跟著算",
+              "body": "61 鍵具力度與通道觸後感應；後者是按住琴鍵再加壓，不是每個音各自獨立的觸後。依[基本手冊第 14–16 頁](https://cdn.roland.com/assets/media/pdf/D-50_QS.pdf)，觸後能影響什麼，要看音色設定。搖桿則可同時調整 Upper／Lower 的音量比例，以及選定 Tone 裡兩個 Partial 的比例。演奏者可以保留和弦，改變其中各層的份量，左手不只有推彎音一件事可做。\n\n代價是發聲數：Whole 模式用單一 Upper Tone，最多 16 音；Dual 同時疊合兩個 Tone，就降為 8 音。安排長延音與密集和弦時，應把這個差別一起考慮。另一方面，面板編輯並非每項都能邊按住音邊聽變化。Martin Russ 在[1987 年《Sound On Sound》評測](https://www.muzines.co.uk/articles/roland-d-50/1218)提醒，修改參數後需要重新觸發音符。若習慣類比琴邊轉旋鈕邊聽，這套節奏要重新適應；外接 PG-1000 能讓參數更容易操作，卻不宜據此假定原機變成全即時編輯。\n\n延伸示範可看 RolandChannel 的[Eric Persing 三十週年演奏影片](https://www.youtube.com/watch?v=VggsB5eZ0oM)。它適合作為原廠示範參考，與下面的唱片製作紀錄分開閱讀。"
+            },
+            {
+              "id": "enya",
+              "title": "Enya 用租來的 D-50，把和弦發展成歌曲",
+              "body": "[Equipboard 的 Enya 器材頁](https://equipboard.com/pros/enya)提供了 D-50 的使用線索；具體錄音情境則可回到 Mike Collins 在[1989 年 3 月《Sound On Sound》對製作人 Nicky Ryan 的訪談](https://www.muzines.co.uk/articles/enya-watermark/4506)。Ryan 回憶，《Watermark》接近完成時，他們拿出先前未採用的一組和弦，用租來的 D-50 撥弦弦樂預設，發展出〈Orinoco Flow〉的副歌與橋段。\n\n訪談還記錄，全專輯鍵盤由 Enya 手彈，以多軌錄音疊加，沒有使用音序器；D-50 的預設多經修改，再疊錄成較大的聲音。[Roland 後來的指南](https://articles.roland.com/listening-guide-sounds-of-the-d-50/)將該曲的預設辨識為 Pizzagogo，但當年訪談沒有列出這首歌的完整參數或每一層配置。能確認的是音色參與寫作、手彈與疊錄的做法，不能因此宣稱按下原廠預設，就已得到唱片裡的成品。\n\n同篇訪談另列 Yamaha KX88 為主要主控鍵盤。所以這裡能確認 D-50 聲源參與錄音，卻不能進一步斷定每一軌都由 Enya 彈奏 D-50 本身的琴鍵。"
+            },
+            {
+              "id": "buying-used",
+              "title": "適合慢慢拆音色的人，二手先查記憶與控制",
+              "body": "依這套架構來看，D-50 適合想研究取樣與合成如何分工、願意從預設逐層修改的鍵盤手。若主要需求是快速編輯大量參數，或用厚重疊音持續彈密集和弦，選單操作與八音限制都值得先試。它的內建 EQ、chorus 與 reverb 也是音色的一部分；比較二手機時，可請賣家示範效果開關前後，避免把效果造成的差異誤判成琴況。\n\n驗機建議從逐鍵的力度、觸後開始，再試彎音桿、搖桿、按鍵、螢幕與左右輸出。這是依功能列出的檢查順序，不是斷言每台都有相同故障。基本手冊第 5 頁特別提到記憶備份電池與資料流失風險；看到「Check Internal Battery」，應先備份音色，再請維修人員處理，也要按機身銘牌確認電源規格。\n\n還有一件容易漏掉的事：[Roland 的原廠設定恢復說明](https://support.roland.com/hc/en-us/articles/201946179-D-50-Restoring-the-Factory-Settings)指出，原廠資料須由 MIDI 或記憶卡載入。買到預設被改過的琴，不等於聲源壞了；付款前確認能否保存音色、重新開機後是否仍在，以及是否有可用的備份。最好也試一次 MIDI 收發；若打算把自己的音色搬進老琴，能正常發聲與能順利傳輸資料，是兩件都要確認的事。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "合成方式",
+              "value": "LA（Linear Arithmetic）數位合成，結合合成聲源與 PCM 聲源"
+            },
+            {
+              "label": "鍵盤",
+              "value": "61 鍵，力度感應與通道觸後感應（channel aftertouch）"
+            },
+            {
+              "label": "複音數",
+              "value": "Whole：16 音；Dual：8 音；Split：上下兩區各 8 音"
+            },
+            {
+              "label": "音色結構",
+              "value": "每個 Patch 含 Upper／Lower 兩個 Tone；每個 Tone 含兩個 Partial"
+            },
+            {
+              "label": "PCM 波形",
+              "value": "100 種"
+            },
+            {
+              "label": "內部 Patch 記憶",
+              "value": "64 組"
+            },
+            {
+              "label": "內建處理",
+              "value": "EQ、chorus、reverb／delay 等數位效果"
+            },
+            {
+              "label": "MIDI",
+              "value": "In、Out、Thru"
+            },
+            {
+              "label": "重量",
+              "value": "10.7 公斤"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Enya",
+              "work": "〈Orinoco Flow〉及《Watermark》（1988）",
+              "story": "Nicky Ryan 在 1989 年《Sound On Sound》訪談回憶，租來的 D-50 撥弦預設參與歌曲副歌與橋段的發展，專輯鍵盤由 Enya 手彈並疊錄。訪談未公開逐軌參數，且列 KX88 為主要主控鍵盤，不能據此斷定每軌都彈奏 D-50 本身的琴鍵。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Roland D-50 Celebration Moments with Eric Persing (Performance)",
+              "channel": "RolandChannel",
+              "url": "https://www.youtube.com/watch?v=VggsB5eZ0oM",
+              "verifiedAt": "2026-10-30"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Enya 器材頁（D-50 使用線索）",
+              "url": "https://equipboard.com/pros/enya"
+            },
+            {
+              "title": "Roland：D-50 Technical Specifications",
+              "url": "https://support.roland.com/hc/en-us/articles/201966399-D-50-Technical-Specifications"
+            },
+            {
+              "title": "Roland：D-50 Owner’s Manual BASIC",
+              "url": "https://cdn.roland.com/assets/media/pdf/D-50_QS.pdf"
+            },
+            {
+              "title": "Roland：D-50 Owner’s Manual ADVANCED COURSE",
+              "url": "https://cdn.roland.com/assets/media/pdf/D-50_OM.pdf"
+            },
+            {
+              "title": "Martin Russ：Roland D-50，Sound On Sound，1987 年 5 月",
+              "url": "https://www.muzines.co.uk/articles/roland-d-50/1218"
+            },
+            {
+              "title": "Mike Collins：Enya — Watermark，Sound On Sound，1989 年 3 月",
+              "url": "https://www.muzines.co.uk/articles/enya-watermark/4506"
+            },
+            {
+              "title": "Adam Douglas：Listening Guide: Sounds of the D-50，Roland，2024-02-06",
+              "url": "https://articles.roland.com/listening-guide-sounds-of-the-d-50/"
+            },
+            {
+              "title": "Roland：D-50 Restoring the Factory Settings",
+              "url": "https://support.roland.com/hc/en-us/articles/201946179-D-50-Restoring-the-Factory-Settings"
+            },
+            {
+              "title": "RolandChannel：Roland D-50 Celebration Moments with Eric Persing (Performance)",
+              "url": "https://www.youtube.com/watch?v=VggsB5eZ0oM"
+            },
+            {
+              "title": "Wikimedia Commons：File:Roland D-50.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Roland_D-50.jpg"
+            }
+          ],
+          "photo": {
+            "author": ". Original uploader was Kimi95 at it.wikipedia",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roland_D-50.jpg",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "id": "place-a1673764808c0de8",
+            "caption": "Roland D-50 原版 61 鍵鍵盤的正面俯視照片，可見完整琴鍵、左側彎音桿、搖桿與上方編輯面板；無法由照片判定製造年份。圖片採 CC BY 3.0 授權。",
+            "alt": "黑色 Roland D-50 原版鍵盤，61 鍵上方排列螢幕、編輯按鍵、搖桿與聲音結構圖。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-30:gear-keys"
+        },
+        {
+          "id": "digitech-whammy-wh-4",
+          "title": "DigiTech Whammy WH-4：腳下的移調，與 Greenwood 的現場雙板",
+          "deck": "第四代 Whammy 的踏板可以控制音高、和聲或混合量。弄懂三種操作，再看 Greenwood 的現場配置，以及二手購買最容易忽略的交流電源。",
+          "brand": "DigiTech",
+          "model": "Whammy WH-4（第四代紅色標準版，已停產；規格依原廠手冊 18-6363-B）",
+          "category": "效果器",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-28",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "what-makes-it-different",
+              "title": "把音高變化交給腳",
+              "body": "DigiTech Whammy 第四代 WH-4 把音高變化交給腳：左手可以留在同一個位置，讓延續中的音符滑向另一個音域。它也能留下原音，只移動新增的和聲。它做的是數位移調，不會改變琴弦本身的張力，聽到的音高與手上按的音因而可以分開安排。這讓踏板行程成為樂句的一部分；何時開始移動、在哪裡停住，都值得像指法一樣練習。功能依據是 [WH-4 原廠手冊](https://adn.harmanpro.com/product_documents/documents/26_1287001884/Whammy_186363B_original.pdf)。\n\n練習時，可以先固定一個長音，分別在拍點前與拍點上推動踏板，聽音高何時抵達目標。再接上下一個音，檢查換音時腳停在哪裡。也可以先只走半段行程，再與踩到兩端比較，替同一句旋律安排不同的滑動幅度；練習初期先固定指法與模式，把注意力留給腳的速度和停點。\n\n本文談紅色標準版 WH-4，已停產，列在 [DigiTech 官方配件站的停產產品區](https://digitech-swag-and-parts.myshopify.com/pages/parts)。配圖採用 Jason 的 [Commons 近照](https://commons.wikimedia.org/wiki/File:Digitech_Whammy_(close_view).jpg)，授權為 CC BY 2.0；畫面可見踏板、選擇旋鈕及部分模式標示，沒有拍到完整底板，不能拿它判定生產批次。"
+            },
+            {
+              "id": "controls-and-routing",
+              "title": "留住原音，或讓它一起移動",
+              "body": "Whammy 模式讓音高在原音與所選目標之間滑動；Harmony 則留下原音，讓新增聲部在兩個音程之間移動。Detune 先製造一份略微走音的副本，再由踏板調整混入多少。這幾種操作會改變你安排樂句的方式：要整段滑上去，或讓一個音留在原地，應先選對模式，才練習腳的速度。\n\nDetune 尤其適合拿來分辨這個差別：腳尖抬起時只有原音，往前踩才混入偏移聲部。另一個要單獨留意的是 Drop Tune；它下降兩個半音，手冊特別註明採反向踏板操作。試機時先確認各預設兩端的結果，再判斷踏板有沒有正常反應。[原廠模式說明](https://adn.harmanpro.com/product_documents/documents/26_1287001884/Whammy_186363B_original.pdf)\n\n機身的 Dry Out 是乾訊號出口，手冊示範將它接到調音器，效果路徑走 Wet Added。兩個孔不應直接當成立體聲左右聲道。若接好後怎麼踩都沒變化，先查插的是哪個出口，比立刻懷疑移調功能壞掉更有用。[原廠接線與模式說明](https://adn.harmanpro.com/product_documents/documents/26_1287001884/Whammy_186363B_original.pdf)\n\n它還有 MIDI 輸入。Program Change 可選模式並指定啟用或旁通，CC11 則代替腳控制踏板位置。因此，已有 MIDI 控制器的玩家可以安排切換，不必每換一種音程就彎腰轉旋鈕。對需要在一首歌裡切換數種效果的人，這比單看移調上下限更值得考慮。[原廠 MIDI 說明](https://adn.harmanpro.com/product_documents/documents/26_1287001884/Whammy_186363B_original.pdf)"
+            },
+            {
+              "id": "greenwood-at-acl",
+              "title": "Greenwood 的兩塊效果器板",
+              "body": "[Equipboard 的 WH-4 條目](https://equipboard.com/items/digitech-whammy-4th-gen) 把 Jonny Greenwood 的使用線索指向 Austin City Limits。沿著連結回看 [ACL 在 2012 年 10 月 10 日刊出的器材紀錄](https://acltv.com/2012/10/10/gear-blog-radiohead/)，能看到標明屬於他的兩塊效果器板：紅色 WH-4 位於照片左側那塊板的右端，踏板與控制區沒有被其他器材遮住。\n\n這份紀錄還有比型號清單更有意思的細節。節目音訊工程師 Kevin Cochran 記下，Radiohead 願意把歌單全部跑過一次，讓攝影團隊熟悉演出安排。效果器板照片因此有明確的節目製作脈絡，可以把器材與當次錄影連在一起。\n\n能確認的是 WH-4 出現在 Greenwood 當次錄影配置中；照片不能證明他在哪首歌踩下開關、選了哪個音程，也不能回推某張專輯的錄音鏈。想研究他的使用方式，這張照片提供的是舞台配置的起點。"
+            },
+            {
+              "id": "limits-and-listening",
+              "title": "先決定要處理單音，還是整個和弦",
+              "body": "我會把 WH-4 留給想用腳安排音高變化、願意練習踏板行程的人。若主要需求是整個和弦一起移調，挑選時應多比較一個世代：[第五代官方頁](https://digitech.com/dp/whammy/) 明確列出 Classic／Chords 演算法切換，前者適合單音、後者針對完整和弦；第四代面板沒有這個選項。不要看到同樣紅色外殼，就把新版功能算進二手機的價值。\n\n[Premier Guitar 的第五代評測](https://www.premierguitar.com/gear/reviews/digitech-whammy-5th-gen-pedal-review) 也記錄了改版的取捨：新增 true bypass 與直流供電，同時移除第四代的獨立乾訊號出口。若你原本就要把乾訊號另送一條路徑，這個差異值得留意。比較新舊時，應把實際接線需求一起列出，不能只用「新款較好」或「老款較有味道」代替選擇。\n\n可延伸參考 ProGuitarShopDemos 的 [Digitech Whammy Part 1](https://www.youtube.com/watch?v=tV6pSml-zXI)。這支 2008 年影片的發布者說明介紹紅色、加入 MIDI 的復出版本及 Dive Bomb 功能，與本文世代相符，可作為選購前的操作示範入口。"
+            },
+            {
+              "id": "buying-used",
+              "title": "二手先看電源，再踩到兩端",
+              "body": "供電是最容易買錯的地方。[DigiTech 官方 FAQ](https://digitech.com/faqs/) 將 WH-4 對應到 PS0913B：輸出為 9V AC、1.3A，接頭中心孔徑對應 2.5mm 插針。這是變壓器的額定規格，不能寫成踏板本身固定消耗 1.3A；也不能因為同樣標著 9V，就拿常見的直流效果器電源代用。看二手品時，請賣家把機身電源標示和變壓器標籤一起拍清楚。\n\n試機可以先只接吉他、WH-4 與音箱，把其他效果器移出訊號路徑；原廠 FAQ 也建議故障排查時單獨測試踏板。用相同音符反覆比較，才比較容易分清問題來自演奏、接線還是踏板。慢慢踩完整個行程，確認音高能到達兩端並回到原位；不準時先按手冊校正，再測一次。也要測旋鈕的預設選擇、效果開關及插孔是否穩定。校正後仍不正常，就把維修費列入考量：官方 FAQ 已說明，替換零件不保證供應。比起只問外殼有幾道刮痕，一段能看清接線、完整展示踏板往返的試機影片更值得要求。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "預設模式",
+              "value": "17 組，分為 Whammy、Harmony、Detune"
+            },
+            {
+              "label": "移調範圍",
+              "value": "最高升 2 個八度；Dive Bomb 最低降 3 個八度"
+            },
+            {
+              "label": "取樣率",
+              "value": "46.875 kHz"
+            },
+            {
+              "label": "數位轉換",
+              "value": "A/D 與 D/A 均為 24 bit"
+            },
+            {
+              "label": "音訊輸出",
+              "value": "Dry Out 乾訊號輸出、Wet Added 效果輸出"
+            },
+            {
+              "label": "MIDI 控制",
+              "value": "MIDI In；Program Change 選預設，CC11 控制踏板位置"
+            },
+            {
+              "label": "原廠對應電源",
+              "value": "PS0913B：9V AC、1.3A 額定輸出，接頭對應 2.5mm 中心插針；非踏板耗電量"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Jonny Greenwood",
+              "work": "Radiohead 的 Austin City Limits 錄影配置（器材紀錄刊於 2012 年 10 月 10 日）",
+              "story": "ACL 官方 Gear Blog 將照片標為 Greenwood 的效果器板；實際檢視原尺寸照片，可辨識紅色 WH-4 位於左側板的右端。Kevin Cochran 的文字另記錄樂團完整跑過歌單，供攝影團隊排練。證據支持 WH-4 出現在當次舞台配置，未證明特定歌曲、踏板設定或專輯錄音使用。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "Digitech Whammy Part 1",
+              "channel": "ProGuitarShopDemos",
+              "url": "https://www.youtube.com/watch?v=tV6pSml-zXI",
+              "verifiedAt": "2026-10-28"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：DigiTech WH-4 Whammy（4th Gen）",
+              "url": "https://equipboard.com/items/digitech-whammy-4th-gen"
+            },
+            {
+              "title": "DigiTech：Whammy／Whammy4 User’s Guide，18-6363-B",
+              "url": "https://adn.harmanpro.com/product_documents/documents/26_1287001884/Whammy_186363B_original.pdf"
+            },
+            {
+              "title": "Austin City Limits：Gear Blog: Radiohead",
+              "url": "https://acltv.com/2012/10/10/gear-blog-radiohead/"
+            },
+            {
+              "title": "DigiTech：Frequently Asked Questions",
+              "url": "https://digitech.com/faqs/"
+            },
+            {
+              "title": "DigiTech／DOD 官方配件站：Replacement Parts",
+              "url": "https://digitech-swag-and-parts.myshopify.com/pages/parts"
+            },
+            {
+              "title": "DigiTech：第五代 Whammy 官方產品頁",
+              "url": "https://digitech.com/dp/whammy/"
+            },
+            {
+              "title": "Premier Guitar：DigiTech Whammy（5th Gen）Pedal Review",
+              "url": "https://www.premierguitar.com/gear/reviews/digitech-whammy-5th-gen-pedal-review"
+            },
+            {
+              "title": "ProGuitarShopDemos：Digitech Whammy Part 1",
+              "url": "https://www.youtube.com/watch?v=tV6pSml-zXI"
+            },
+            {
+              "title": "Wikimedia Commons：File:Digitech Whammy (close view).jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Digitech_Whammy_(close_view).jpg"
+            }
+          ],
+          "photo": {
+            "author": "Jason",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Digitech_Whammy_(close_view).jpg",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "id": "place-6b4c52f19f39065d",
+            "caption": "DigiTech Whammy 第四代 WH-4 紅色標準版近照，可見部分表情踏板、模式旋鈕、音程標示與 MIDI 插孔，未呈現整機及底板。攝影：Jason，CC BY 2.0。",
+            "alt": "紅色 DigiTech Whammy WH-4 的局部近照，黑色踏板旁可見模式旋鈕、指示燈與 MIDI 插孔。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-30:gear-effects"
+        },
+        {
+          "id": "peavey-t-60-original",
+          "title": "Peavey T-60：音色轉到 10 是單線圈，與 Chet Atkins 的改裝琴",
+          "deck": "同一顆旋鈕兼管音色與線圈組合。理解這套被動電路，也得分清原裝 T-60 和以 T-60 琴身改裝的 Peaver。",
+          "brand": "Peavey",
+          "model": "T-60（已停產原版；規格依 1982 年原廠手冊 80370017，改裝 Peaver 另述）",
+          "category": "吉他",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-28",
+          "readingMinutes": 6,
+          "sections": [
+            {
+              "id": "tone-control",
+              "title": "轉到 10，反而只剩一組線圈",
+              "body": "Peavey T-60 最值得研究的是音色旋鈕。原裝電路轉到 10 時是單線圈，往回轉到約 7，第二組線圈才完整加入；再往 0 轉，才進入一般音色控制的範圍。若習慣把所有旋鈕開滿再試琴，很容易錯過它的雙線圈設定。這個操作差異，直接寫在 [Peavey 原廠手冊](https://assets.peavey.com/literature/manuals/80370017.pdf)裡。\n\nT-60 已停產，這篇談原版量產琴，規格以版權標示 1982 年的手冊為準。[Equipboard 的型號頁](https://equipboard.com/items/peavey-t-60)提供了 Chet Atkins、Barry Johnson 等使用線索；其中的錄音歸屬，仍須回到當事人資料確認。對想找不同控制方式的人，這把老琴的吸引力很具體：不用加裝主動電路，就能在琴上改變線圈組合。"
+            },
+            {
+              "id": "two-pickups",
+              "title": "兩顆拾音器，不能只當成三段音色",
+              "body": "兩顆拾音器各有音量與音色旋鈕，三段選擇開關負責琴頸、兩顆一起、琴橋。把兩顆都打開後，可以讓一端維持雙線圈，另一端調向單線圈，再改變兩者音量比例；這比單純在三個檔位之間切換，多了一層混合操作。\n\n旁邊還有兩段相位開關。手冊把兩顆拾音器相對反相的結果形容為較空洞的聲音，也說明能用各自的音量、音色控制改變抵消程度。這種相對反相需要兩顆一起工作，不是效果器持續掃動的相位效果。\n\n維修師 Dirk Wacker 在 [Premier Guitar 的電路解析](https://www.premierguitar.com/diy/mod-garage/peavey-t-60)補充，音量控制有保留高頻的電容配置。若你願意用右手調配音色，這套電路值得花時間熟悉；若舞台上只想一撥就回到固定設定，它也增加了需要記住的旋鈕位置。"
+            },
+            {
+              "id": "hardware",
+              "title": "先看調整方式，再談老琴手感",
+              "body": "手冊列出的弦長是 25½ 吋，琴頸採雙片貼合的硬楓木結構，並有可調鋼製調整桿。琴橋的弦鞍能逐弦調整高度、傾斜與八度音準，琴頸角度另有 neck tilt 調整。這些機構讓設定可以細修，卻不能保證一把數十年老琴今天仍然好彈。\n\n弦高不理想時，先分清楚琴頸弧度、整體角度與個別弦鞍的分工，不能只把弦鞍降到底。手冊也提醒，弦高過低會增加打弦，過高會影響音準與演奏；是否合適，得連同自己的撥弦力道判斷。\n\n這張 [Commons 控制區照片](https://commons.wikimedia.org/wiki/File%3APeavey_T-60_controls_%282014_by_Jorge_Guillen%29_pixabay_-_433324.png)可看清自然木色 T-60 的四顆旋鈕、兩個開關與部分琴橋。第一次拿到琴，可以對著手冊的控制圖認位置；兩顆音色鈕各管一顆拾音器，調錯一側，就可能把沒有改變的聲音誤判成電路故障。"
+            },
+            {
+              "id": "chet-atkins",
+              "title": "Chet 的 Peaver，以 T-60 琴身改裝",
+              "body": "Chet Atkins 的故事要從一把改裝琴說起。在 [Paul Yandell 的問答彙編](https://www.misterguitar.us/cbimg/PaulFAQ.html)中，Yandell 回憶自己先做了一把琴，Chet 喜歡，於是他取用 Chet 的 T-60 琴身，裝上較寬的 Strat 式琴頸與兩顆 EMG 拾音器，稱它為「Peaver」。他點名〈Sunrise〉和〈Laughing at Life〉是使用這把琴的曲目。\n\n這是實際動手改琴者留下的說法，但未交代琴橋等其他零件是否保留。這兩首作品可作為 Peaver 的使用線索，不能拿來示範原裝 T-60 的拾音器或音色電路。問答頁由歷年貼文整理而成，並非當年的逐軌錄音文件，本文也不補上未確認的音箱與效果器。"
+            },
+            {
+              "id": "barry-johnson",
+              "title": "Barry Johnson 記得的，還有重量",
+              "body": "Joyce Manor 的 Barry Johnson 則談過長期使用後換琴的經驗。2017 年 2 月，樂團發行《Cody》之後，他接受 [Smile Politely 電話訪問](https://www.smilepolitely.com/music/weird_magic_talking_with_joyce_manors_barry_johnson/)，說自己彈了多年 Peavey，後來從他形容非常重的 T-60 換到 Thinline Telecaster，受訪時已改用 SG。\n\n他並沒有把這段經歷說成一套精密的音色實驗；同次訪談裡，他坦承錄音時仰賴身邊懂器材的人協助。能確認的是多年用琴與更換順序，不能因此斷定《Cody》某一軌用了 T-60。重量是他的親身描述，也提醒買家：規格再有趣，長時間背著演奏的感受仍得自己確認。"
+            },
+            {
+              "id": "buying-used",
+              "title": "買二手時，把旋鈕真的轉過一遍",
+              "body": "我會把 T-60 推薦給願意研究被動電路、也能接受老琴整理工作的人。試琴先固定音箱設定，逐顆拾音器比較音色旋鈕在 10、約 7 與更低位置的變化，再測兩顆合用時的相位切換。若買的是保留原裝功能的琴，換過拾音器或電位器是否仍依原電路接線，比旋鈕外觀像不像原廠更值得問。\n\n琴頸、琴衍磨耗與弦鞍的可調範圍也要一起看。原廠要求先處理琴頸弧度、弦高與角度，再設定八度音準；不要把調不好的狀況全歸因於老琴特色。可搭配 [Crimson Custom Guitars 的 1979 年 T-60 拆解影片](https://www.youtube.com/watch?v=PYFVFGzbRig)作為認識結構的入口，發布者說明列有試音與拆解章節，但那是一把特定年份的個體。\n\n最後，請賣家提供實測重量、改裝紀錄與清楚的電路照片。本文不把舊美元報價換算成台灣現價；比較二手琴時，要把成交條件與整理成本一起算進去，並確認你想保留的那套線圈控制，現在是否還正常工作。"
+            }
+          ],
+          "specs": [
+            {
+              "label": "規格適用範圍",
+              "value": "原版 T-60；依版權標示 1982 年的原廠 T-60／T-40 手冊，不適用於 Peaver 改裝琴"
+            },
+            {
+              "label": "弦長",
+              "value": "25½ 吋"
+            },
+            {
+              "label": "琴頸",
+              "value": "硬楓木雙片貼合結構，可調鋼製琴頸調整桿"
+            },
+            {
+              "label": "拾音器",
+              "value": "兩顆刀片式磁極雙線圈拾音器，環氧樹脂灌封"
+            },
+            {
+              "label": "旋鈕",
+              "value": "兩音量、兩音色；各自控制對應拾音器"
+            },
+            {
+              "label": "線圈控制",
+              "value": "音色旋鈕 10 為單線圈，約 7 為完整雙線圈，7 至 0 為一般音色調整"
+            },
+            {
+              "label": "切換開關",
+              "value": "三段拾音器選擇開關、兩段相位開關"
+            },
+            {
+              "label": "琴橋與設定",
+              "value": "逐弦弦鞍可調高度、傾斜及八度音準；另有琴頸角度調整機構"
+            },
+            {
+              "label": "電路",
+              "value": "被動式，不需電池供電前級"
+            }
+          ],
+          "artists": [
+            {
+              "name": "Chet Atkins",
+              "work": "〈Sunrise〉、〈Laughing at Life〉；Paul Yandell 所述 Peaver 錄音用琴",
+              "story": "Yandell 回憶以 T-60 琴身、較寬 Strat 式琴頸及兩顆 EMG 拾音器組成 Peaver，並點名這兩首曲目。這是改裝者的回憶，不能當成原裝 T-60 電路或完整錄音鏈的證據。"
+            },
+            {
+              "name": "Barry Johnson",
+              "work": "Joyce Manor《Cody》發行後的 2017 年 Smile Politely 訪談",
+              "story": "Johnson 自述使用 T-60 多年，後來換成 Thinline Telecaster，受訪時使用 SG，並形容 T-60 很重。訪談確認用琴經歷，未把 T-60 對應到《Cody》的特定錄音軌。"
+            }
+          ],
+          "videos": [
+            {
+              "title": "1979 Peavey T-60 拆解與試音（第一集）",
+              "channel": "Crimson Custom Guitars",
+              "url": "https://www.youtube.com/watch?v=PYFVFGzbRig",
+              "verifiedAt": "2026-10-28"
+            }
+          ],
+          "sources": [
+            {
+              "title": "Equipboard：Peavey T-60 型號與藝人使用線索",
+              "url": "https://equipboard.com/items/peavey-t-60"
+            },
+            {
+              "title": "Peavey：T-60／T-40 Owner’s Manual，80370017（©1982）",
+              "url": "https://assets.peavey.com/literature/manuals/80370017.pdf"
+            },
+            {
+              "title": "Dirk Wacker／Premier Guitar：The Fascinating Peavey T-60 Tone Circuit（2020-07-03）",
+              "url": "https://www.premierguitar.com/diy/mod-garage/peavey-t-60"
+            },
+            {
+              "title": "MisterGuitar：Frequently Asked Questions for Paul Yandell, CGP",
+              "url": "https://www.misterguitar.us/cbimg/PaulFAQ.html"
+            },
+            {
+              "title": "Austin J. Hill／Smile Politely：Weird Magic: Talking with Joyce Manor’s Barry Johnson（2017-02-01）",
+              "url": "https://www.smilepolitely.com/music/weird_magic_talking_with_joyce_manors_barry_johnson/"
+            },
+            {
+              "title": "Crimson Custom Guitars：1979 Peavey T-60 拆解影片第一集（2022-09-15）",
+              "url": "https://www.youtube.com/watch?v=PYFVFGzbRig"
+            },
+            {
+              "title": "Wikimedia Commons：Jorge Guillen 拍攝的 Peavey T-60 控制區照片",
+              "url": "https://commons.wikimedia.org/wiki/File%3APeavey_T-60_controls_%282014_by_Jorge_Guillen%29_pixabay_-_433324.png"
+            }
+          ],
+          "photo": {
+            "author": "Jorge Guillen (Fotocitizen) from Reston, United States",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peavey_T-60_controls_(2014_by_Jorge_Guillen)_pixabay_-_433324.png",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "id": "place-cc58b9209940d2e4",
+            "caption": "原版 Peavey T-60 自然木色琴的控制區近照，可見四顆旋鈕、兩個開關與部分六弦琴橋；製造年份未確認，畫面未包含完整琴頸。Jorge Guillen 攝，CC0。",
+            "alt": "自然木色 Peavey T-60 的黑色護板上有四顆金屬旋鈕、兩個撥桿開關，右下方露出部分琴橋。",
+            "scope": "exact"
+          },
+          "dailyKey": "2026-10-30:gear-guitar"
+        },
+        {
           "id": "hofner-500-1-1963-original",
           "title": "Höfner 500/1：兩個 ON 都開卻無聲，與 McCartney 的屋頂貝斯",
           "deck": "從 30 吋弦長、Staple 拾音器與反直覺的控制面板，認識 McCartney 的 1963 年左手琴，也看懂老琴與復刻不能混用的規格。",
@@ -61444,6 +62135,586 @@
     },
     "cityStories": {
       "rows": [
+        {
+          "id": "qotsa-run-away-unfinished-vocal",
+          "city": "",
+          "cityEn": "",
+          "artist": "Queens of the Stone Age",
+          "lens": "音樂熱點",
+          "category": "音樂熱點",
+          "anchor": "一份等待歌詞與人聲的舊伴奏",
+          "work": "Run Away From the Mob",
+          "year": "2026",
+          "accent": "sage",
+          "title": "QOTSA 的〈Run Away From the Mob〉，為什麼伴奏錄好多年才完成？",
+          "deck": "新單曲公開後進入 iTunes 商店榜前列。團員訪談揭開另一段時間：早年的演奏留下了，主唱卻還在找能唱出口的文字。",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-30",
+          "readingMinutes": 7,
+          "people": [
+            "Josh Homme",
+            "Troy Van Leeuwen",
+            "Michael Shuman",
+            "Dave Grohl"
+          ],
+          "topics": [
+            "音樂熱點",
+            "製作幕後",
+            "新歌觀察",
+            "音樂人筆記",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-letter-arrives",
+              "title": "先有一封信，再問它怎麼完成",
+              "body": "Josh Homme 把〈Run Away From the Mob〉解釋成父親留給兒子的一封信：假如父親不在了，孩子該知道什麼。Queens of the Stone Age 在 10 月 28 日公開這首歌的歌詞影片，讓這封寫給兒子的信，成為新專輯《Perfecth》發行前先公開的一首作品。[Theprp 的當日報導](https://www.theprp.com/2026/10/28/news/queens-of-the-stone-age-debut-run-away-from-the-mob-lyric-video/)記錄了歌曲公開與 Homme 的說明。\n\n《Perfecth》的專輯發行日期另列為 10 月 30 日；查閱時，Apple Music 美國頁面仍標示預發行。10 月 28 日指這首單曲公開，並非整張專輯的發行日。[Apple Music 專輯資料](https://music.apple.com/us/album/run-away-from-the-mob/6797444451?app=itunes&at=10l4UI&ct=music-songs&i=6797444692&itscg=30200&itsct=music_box_link&ls=1&partnerId=11&uo=2)\n\n到了美東時間 10 月 29 日 17:16，PopVortex 收錄的美國 iTunes Top 100 Songs 快照把歌曲列在第 2 名。這份商店即時榜提供的是該次更新的名次，沒有公布銷量或累計統計區間；它讓本週的關注有了可核對的依據。[榜單與更新時間](https://www.popvortex.com/music/charts/top-100-songs.php)\n\n值得往下追的，是新單曲裡保留了一段很早就錄好的演奏。吉他手 Troy Van Leeuwen 說，樂器部分出自《…Like Clockwork》的錄音時期，後來原樣留下。既然伴奏已經能用，究竟還缺什麼，讓歌一直沒有完成？[Troy 的訪談](https://www.10magazine.com.au/articles/ten-talks-to-queens-of-the-stone-age)"
+            },
+            {
+              "id": "the-instrumental-waits",
+              "title": "樂器沒重來，歌聲晚了很多年",
+              "body": "Troy 在 10 Magazine Australia 的訪談裡，把這段製作過程說得很清楚：當年的演奏留了下來，樂器部分維持原貌，直到 Homme 有一天唱出人聲，整首歌才終於對了。他談的是一份未完成錄音如何補齊，這也解釋了為什麼新作品可以帶著多年前的團員演奏，卻到現在才正式成形。[10 Magazine Australia 訪談](https://www.10magazine.com.au/articles/ten-talks-to-queens-of-the-stone-age)\n\nHomme 對 SPIN 補上了另一半。他回憶錄音大約來自 2013 年，說這首歌的想法更早。訪問也點明鼓手是 Dave Grohl；[Stereogum 的 10 月 28 日報導](https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music)同樣記載了這項演奏分工。年份是他的回憶，真正明確的工作進度是：錄音已備妥，還在等歌詞，以及人聲該怎麼唱。他會暫時不去聽那份錄音，隔一段時間自己哼哼看，確認旋律還在。[SPIN 專訪](https://www.spinmagazine.com/2026/10/queens-of-the-stone-ages-josh-homme/)\n\nHomme 說，自己曾勉強完成其他歌曲，卻知道成品還能更好；談到這首歌時，他認為是自己還沒有能力把它完成。[Homme 談等待與完成](https://www.spinmagazine.com/2026/10/queens-of-the-stone-ages-josh-homme/)\n\n在 GQ 的訪問裡，Homme 把後來找到的方向說得更具體：歌曲最後成了留給兒子的信。他說，自己需要走到那個更深一層的意思；被問到怎麼找到時，他提到看著孩子長大，以及安靜觀察。這是他的創作自述，沒有交代歌詞完成的確切日期。[GQ 專訪末曲問答](https://www.gq.com/story/josh-homme-modeling-debut-interview-10-09-2026)\n\n把這幾段訪談放在一起，等待就有了具體內容。樂器演奏可以先被保存，人聲旋律與文字卻仍須找到位置；完成伴奏和完成歌曲，在這次製作裡隔了很長一段時間。"
+            },
+            {
+              "id": "who-receives-it",
+              "title": "父親寫給兒子，收件人卻有兩種說法",
+              "body": "在 10 月 28 日刊出的 Kerrang! 專訪中，Homme 談到自己對群體盲從的反感，接著解釋為何借用一封信的形式：讓兒子在事情變糟時讀到父親留下的話。這是他為歌曲設計的敘事情境。它把抽象的群體威脅，縮到父親能向一個孩子交代什麼，也給歌名裡的「逃離」一個具體對象。[Kerrang! 專訪](https://www.kerrang.com/queens-of-the-stone-age-josh-homme-interview-perfecth-love-health-mark-lanegan-iggy-pop-cover-story/)\n\n收件人的稱呼，兩份來源並不一致：Theprp 刊出的 Homme 說明寫的是「長子」，SPIN 專訪中的回答則是「中間的兒子」。兩篇都指向父親在自己不在時留話給孩子的構想，卻未解釋排行為何不同。這裡保留兩種說法，不替他們補上答案。[Theprp 的引述](https://www.theprp.com/2026/10/28/news/queens-of-the-stone-age-debut-run-away-from-the-mob-lyric-video/)、[SPIN 的末曲問答](https://www.spinmagazine.com/2026/10/queens-of-the-stone-ages-josh-homme/)\n\n同一次 Kerrang! 訪問裡，Homme 說，有些私人文字第一次唱出口，會令他感到難堪或害怕；如今他願意朝那些不舒服的地方寫。這是他對私人創作的整體看法，沒有指明哪一句詞曾讓這首歌停工。把它放回歌曲的製作過程來看，可以理解他對唱出文字的要求，但還不能據此推定每一次延宕的原因。[Kerrang! 對創作的提問](https://www.kerrang.com/queens-of-the-stone-age-josh-homme-interview-perfecth-love-health-mark-lanegan-iggy-pop-cover-story/)\n\nTroy 說得更接近樂團實務：其他人必須服務歌曲，而主唱得相信自己正在唱的內容。伴奏早已存在，這個要求卻沒有因為等待太久而取消。[Troy 談團員分工](https://www.10magazine.com.au/articles/ten-talks-to-queens-of-the-stone-age)"
+            },
+            {
+              "id": "leaving-room",
+              "title": "製作人的工作，也包括少放一些東西",
+              "body": "《Perfecth》的官方製作署名列的是 Joshua Homme 與 Michael Shuman。Shuman 同時是樂團貝斯手；在 Northern Transmissions 的訪談裡，他把自己的製作角色描述為較有條理的一方，負責讓工作往前完成，也花了不少時間和 Homme 討論歌詞該如何表達。[官方製作名單](https://store.qotsa.com/products/perfecth-exclusive-deluxe-package)、[Shuman 訪談](https://northerntransmissions.com/queens-of-the-stone-age-arent-trying-to-be-perfect/)\n\nSopitas 問起共同製作人的署名時，Shuman 補充，進錄音室前並沒有先決定由他與 Homme 掛名；五個人仍像往常一樣帶著各自的想法工作。只是做到後來，兩人花了更多時間一起確定唱片的方向、完成收尾。他說自己的做法沒有因此改變，署名反映的是最後實際承擔的工作。[Shuman 談製作署名](https://www.sopitas.com/musica/mike-shuman-queens-of-the-stone-age-entrevista/)\n\n他的說法並不止於「保留粗糙感」。五名樂手都有很多想法，錄音時反而得逐項問：這裡需要貝斯嗎？這首歌需要鼓嗎？對他而言，為較脆弱、直接的文字留空間，是編曲與製作必須一起處理的事。每個人都有能力加入聲部，不代表每個聲部都該留下。[Northern Transmissions](https://northerntransmissions.com/queens-of-the-stone-age-arent-trying-to-be-perfect/)\n\n這種對人聲的注意，也能從 Shuman 的貝斯觀找到線索。Sopitas 問他如何形成自己的彈法，他談到 James Jamerson：音符可以密、旋律可以活躍，仍然支撐著歌聲，不擋住它。他也提到 Paul McCartney 的動態，以及 John Paul Jones 對自己的影響。重點在於樂器能保持個性，同時照顧歌者；少彈與多彈，都要看它和人聲如何相處。這些是他對演奏方法的自述，可以用來帶著問題追蹤新歌的低音聲部。[Sopitas 的文字訪談](https://www.sopitas.com/musica/mike-shuman-queens-of-the-stone-age-entrevista/)\n\nShuman 也從曲序解釋〈Run Away From the Mob〉的等待：歌曲好，不保證適合眼前那張唱片；他說它大部分錄於《…Like Clockwork》時期，卻沒有進入前面三張專輯。於是，這首歌要完成的工作還包括找到一組能與它相接的作品，讓早年的演奏有合適的位置。[同篇訪談的曲序段落](https://northerntransmissions.com/queens-of-the-stone-age-arent-trying-to-be-perfect/)"
+            },
+            {
+              "id": "the-last-track",
+              "title": "把它放在最後，再回頭看那些手寫歌詞",
+              "body": "官方曲目表把〈Run Away From the Mob〉排在第九首，也就是《Perfecth》的最後。Homme 向 SPIN 解釋，某些和弦變化帶著向上、帶著希望的感覺，而歌詞並不完全跟著那種樂觀走。這是他認為它適合收尾的原因，也是回頭聽時可以帶著的一個問題：當聲音朝明亮處移動，信裡的不安還留在哪裡？[官方曲序](https://store.qotsa.com/products/perfecth-exclusive-deluxe-package)、[Homme 談結尾](https://www.spinmagazine.com/2026/10/queens-of-the-stone-ages-josh-homme/)\n\n可以先把這首單曲完整播放一次，留意人聲與伴奏的關係，待整張專輯可播放時，再比較它的收尾位置。前面那些團員訪談提供了比較的依據：早期演奏保留了什麼，後來補上的歌聲如何讓它成為一封信，以及最後一首歌如何承接整張唱片。\n\n唱片包裝還留下另一個可看的細節。官方限定豪華黑膠頁面列有手寫歌詞、文具與「郵票」，裝在訂製信封裡；這是該版本的附屬內容。這讓「寫信」在包裝上也有了一個對應的物件。回到歌曲本身，可以再留意文字與實際唱法的距離：哪些地方按句子前進，哪些地方交給人聲停留。[豪華版內容說明](https://store.qotsa.com/products/perfecth-exclusive-deluxe-package)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-10-26",
+              "event": "SPIN 刊出 Josh Homme 專訪，談到〈Run Away From the Mob〉的舊錄音、尚待完成的詞與人聲，以及收尾位置。"
+            },
+            {
+              "date": "2026-10-28",
+              "event": "Queens of the Stone Age 公開〈Run Away From the Mob〉歌詞影片；Theprp 當日報導歌曲及其書信構想。"
+            },
+            {
+              "date": "2026-10-29",
+              "event": "PopVortex 美東時間 17:16 更新的美國 iTunes Top 100 Songs 快照列歌曲為第 2 名。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Run Away From the Mob",
+            "artist": "Queens of the Stone Age",
+            "note": "依團員訪談提供的線索，留意保留自早期錄音的伴奏與後來完成的人聲，再比較歌曲放在《Perfecth》末尾的效果。"
+          },
+          "sources": [
+            {
+              "title": "Theprp｜Queens Of The Stone Age Debut “Run Away From The Mob” Lyric Video（wookubus，2026-10-28）",
+              "url": "https://www.theprp.com/2026/10/28/news/queens-of-the-stone-age-debut-run-away-from-the-mob-lyric-video/"
+            },
+            {
+              "title": "PopVortex｜iTunes Top 100 Songs Chart U.S.A.（美東 2026-10-29 17:16 快照）",
+              "url": "https://www.popvortex.com/music/charts/top-100-songs.php"
+            },
+            {
+              "title": "10 Magazine Australia｜Ten Talks to Queens of the Stone Age（Roxy Lola，2026-10-28）",
+              "url": "https://www.10magazine.com.au/articles/ten-talks-to-queens-of-the-stone-age"
+            },
+            {
+              "title": "SPIN｜The SPIN Q&A: Queens Of The Stone Age’s Josh Homme（Jonathan Cohen，2026-10-26）",
+              "url": "https://www.spinmagazine.com/2026/10/queens-of-the-stone-ages-josh-homme/"
+            },
+            {
+              "title": "Kerrang!｜Inside Josh Homme’s Imperfect World（James Hickie，2026-10-28）",
+              "url": "https://www.kerrang.com/queens-of-the-stone-age-josh-homme-interview-perfecth-love-health-mark-lanegan-iggy-pop-cover-story/"
+            },
+            {
+              "title": "Northern Transmissions｜Queens of the Stone Age Aren’t Trying to Be Perfect（Evan Zuri；刊登日期未確認）",
+              "url": "https://northerntransmissions.com/queens-of-the-stone-age-arent-trying-to-be-perfect/"
+            },
+            {
+              "title": "Sopitas｜Mike Shuman 談《Perfecth》與製作、貝斯演奏（Federico Franco，2026-10-27）",
+              "url": "https://www.sopitas.com/musica/mike-shuman-queens-of-the-stone-age-entrevista/"
+            },
+            {
+              "title": "Queens of the Stone Age 官方商店｜Perfecth LP – Exclusive Deluxe Package",
+              "url": "https://store.qotsa.com/products/perfecth-exclusive-deluxe-package"
+            },
+            {
+              "title": "Apple Music｜Perfecth（Queens of the Stone Age；頁面所列專輯日期 2026-10-30，查閱時標示預發行）",
+              "url": "https://music.apple.com/us/album/run-away-from-the-mob/6797444451?app=itunes&at=10l4UI&ct=music-songs&i=6797444692&itscg=30200&itsct=music_box_link&ls=1&partnerId=11&uo=2"
+            },
+            {
+              "title": "GQ｜Josh Homme on His Runway Modeling Debut, His New Clothing Line, and Queens of the Stone Age’s Next Album（Alex Nino Gheciu，2026-10-09；頁面另註已更新，未列更新日期）",
+              "url": "https://www.gq.com/story/josh-homme-modeling-debut-interview-10-09-2026"
+            },
+            {
+              "title": "Stereogum｜Queens Of The Stone Age – “Run Away From The Mob”（Peter Helman，2026-10-28）",
+              "url": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "新歌觀察",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-10-30:qotsa-run-away-unfinished-vocal"
+        },
+        {
+          "id": "living-years-robertson-carrack-phone-call",
+          "city": "",
+          "cityEn": "",
+          "artist": "Mike + The Mechanics",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "一通向主唱道謝的電話",
+          "work": "The Living Years",
+          "year": "1988",
+          "accent": "sage",
+          "title": "〈The Living Years〉的那通電話：詞作者道謝時，才知道主唱也曾喪父",
+          "deck": "B. A. Robertson 與 Mike Rutherford 都曾喪父，卻未先知道主唱 Paul Carrack 也有相似經歷。從道謝電話到被刪去的間奏，看這首歌如何經過不同人的手。",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-28",
+          "readingMinutes": 8,
+          "people": [
+            "B. A. Robertson",
+            "Mike Rutherford",
+            "Paul Carrack",
+            "Christopher Neil",
+            "Paul Young",
+            "Jack（Paul Carrack 之子）",
+            "Andrew Roachford",
+            "Kyle Meredith",
+            "Ken Dashow"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "製作幕後"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-phone-call",
+              "title": "道謝時，才聽到主唱的往事",
+              "body": "B. A. Robertson 打電話給 Paul Carrack，原本是要謝謝他唱了〈The Living Years〉。照 Robertson 在《American Songwriter》訪談裡的回憶，直到那通電話，他才知道 Carrack 小時候也失去了父親。寫歌的人談的是自己的喪父經驗，唱歌的人也有另一段家事，而這段背景是在錄音完成後才向 Robertson 說起。[Robertson 的訪談](https://americansongwriter.com/the-living-years-mike-and-the-mechanics-behind-the-song-interview/)\n\n他也參與了這首歌的演奏，包括開頭的和弦變化，卻沒有全程在場看著錄音成形。聽到完成版後，他特別感謝 Carrack，並在訪談裡承認，自己竟沒先問過對方對這首歌的感受。這個疏漏讓歌曲的來歷多了一層：詞作者熟悉的故事，到了另一個人的聲音裡，已經和那個人的生活接在一起。[《American Songwriter》](https://americansongwriter.com/the-living-years-mike-and-the-mechanics-behind-the-song-interview/)\n\n若只把它記成 Mike Rutherford 寫給父親的歌，便會漏掉這通電話，也會漏掉兩個名字：把經驗寫成歌詞的 Robertson，以及唱出這首歌的 Carrack。"
+            },
+            {
+              "id": "writers-and-singers",
+              "title": "兩位作者，各自面對父親離世",
+              "body": "2017 年，Rutherford 接受《Smashing Interviews》訪問，被直接問到〈The Living Years〉是不是他父親的故事。他先回答，最初寫的是 Robertson 的父親；接著才補充，兩人的父親在同一年過世。他自己的第三個孩子在父親離世一年後出生，這也是他談到寫歌時提起的家庭變化。共同創作讓兩份經歷有了交集，卻不表示每個細節都屬於同一個人。[Rutherford 的訪談](https://smashinginterviews.com/interviews/musicians/mike-rutherford-interview-genesis-guitarist-talks-new-mike-the-mechanics-album)\n\nRobertson 對《American Songwriter》說，帶去與 Rutherford 合作之前，前兩段歌詞已經寫好，其餘部分才陸續完成。寫完最後一段後，他一度無法把歌唱給別人聽，因為唱著便會情緒潰堤。他後來終於能唱出來，Rutherford 卻仍未被說服。[Robertson 談歌詞的完成過程](https://americansongwriter.com/the-living-years-mike-and-the-mechanics-behind-the-song-interview/)\n\n主唱與作者分開，也和這個團最初的工作方式有關。Rutherford 回憶，第一張唱片起步時，他先和朋友寫好一批歌，才面對由誰來唱的問題；他當時認識 Carrack，卻不算熟，喜歡的是那個已在電台出現、帶有 R&B 特質的聲音。最後留下 Carrack 與 Paul Young 兩位主唱，讓不同類型的歌各有出口。[Rutherford 談主唱人選](https://smashinginterviews.com/interviews/musicians/mike-rutherford-interview-genesis-guitarist-talks-new-mike-the-mechanics-album)\n\n這個合作計畫和 Rutherford 在 Genesis 的工作並行：Mike + The Mechanics 在 1985 年推出首張專輯，隔年 Genesis 發行《Invisible Touch》。到了 1988 年，收錄〈The Living Years〉的《Living Years》發行。從作品的時間順序看，這段父子故事是在樂團已有合作基礎後，才被帶進唱片裡。[Craft Recordings 發行宣傳資料](https://www.pesterpr.co.uk/press-releases/matm)"
+            },
+            {
+              "id": "carracks-father",
+              "title": "父親留下的音樂，與家裡的生意",
+              "body": "Carrack 在 2020 年的訪談裡說，父親是他重要的音樂影響，祖母與姑姑都會彈鋼琴；他自己則靠摸索學習。父親以油漆、裝修為業，在工作意外後過世。當時 Carrack 十一歲，哥哥十五歲，母親得繼續照顧兩個孩子，經營賣油漆與壁紙的小店。哥哥接手幫忙，家中每個人的日常都隨之改變。[Carrack 的《Smashing Interviews》訪談](https://smashinginterviews.com/interviews/musicians/paul-carrack-interview-from-how-long-to-living-years-a-timeless-voice)\n\n這些細節也讓「父親」有了歌詞以外的樣子：一個工作的人、一個把音樂帶進家庭的人，以及離世後仍留下生計需要處理的人。Carrack 談母親與哥哥時，沒有責怪他們無暇多注意自己，反而說他們當時已經有太多事情要承擔。這是他回顧童年的方式，不能直接套成歌中敘事者與父親的關係。[同一份訪談](https://smashinginterviews.com/interviews/musicians/paul-carrack-interview-from-how-long-to-living-years-a-timeless-voice)\n\n喪父年齡在訪談中有一處差異：《Folk and Tumble》的訪問者在提問時說是十二或十三歲，但 Carrack 在《Smashing Interviews》和《Le Document》都自述是十一歲。本文採用他的兩次自述，不把提問中的年齡當成已確認事實。[訪問者的提問](https://folkandtumble.com/article/interview-with-paul-carrack/)、[Carrack 的自述](https://www.ledocument.com/issue-nine/paul-carrack)\n\n至於演唱本身，他在《Le Document》的問答裡說，自己滿意那次表現，也感到某種情緒上的釋放，並再次提到十一歲喪父對他的深刻影響。這份自述，補上了 Robertson 在道謝電話中才聽見的背景。[《Le Document》訪談](https://www.ledocument.com/issue-nine/paul-carrack)\n\n那份問答還留下一個後來的家庭片段：2020 年巡演中斷時，Carrack 擔心自己的樂手，其中包括兒子 Jack。他當時準備付費串流演出，想讓原本無法到場的歌迷看見完整的樂團演出。談父親的這位主唱，此時也和兒子一起工作；訪談裡的父子關係，落在很實際的演出安排與生計上。[《Le Document》訪談](https://www.ledocument.com/issue-nine/paul-carrack)\n\n到了 2020 年 10 月的《Smashing Interviews》訪問，他進一步說明，演出已先行預錄：一方面要趕在防疫限制可能再次收緊之前完成，另一方面也想避免播出時的技術問題。[Carrack 談預錄安排](https://smashinginterviews.com/interviews/musicians/paul-carrack-interview-from-how-long-to-living-years-a-timeless-voice)"
+            },
+            {
+              "id": "the-instrumental-cut",
+              "title": "兩位作者喜歡的間奏，最後被拿掉",
+              "body": "情感相通，錄音仍有需要取捨的地方。Rutherford 在 2019 年《Songwriting》訪談中回憶，〈The Living Years〉曾有一段大約四分鐘、突然轉向別處的器樂中段。他和 Robertson 都喜歡，共同製作人 Christopher Neil 卻提出疑問：歌曲真的需要這一段嗎？兩人後來同意刪掉。多年後 Rutherford 已記不得那段怎麼演奏，仍認為 Neil 的判斷是對的。[Rutherford 談寫作與錄音](https://www.songwritingmagazine.co.uk/interviews/how-i-wrote-the-living-years-by-mike-the-mechanics-mike-rutherford)\n\n同一份訪談裡，他把開頭的音樂想法說得很具體：Robertson 維持和弦，他在吉他上加入半音的變化；某些音若一直停住會互相衝突，短暫碰到再回來，反而讓和弦有了不同表情。他認為這種兩個人各出一部分、合起來才成立的組合，決定了歌曲的情緒。[《Songwriting》](https://www.songwritingmagazine.co.uk/interviews/how-i-wrote-the-living-years-by-mike-the-mechanics-mike-rutherford)\n\n回頭找原始錄音時，可以循著這段說明，留意反覆伴奏中的音高移動，以及人聲如何在上面推進。兩位作者願意放下自己喜歡的段落，也留下很實際的編曲問題：一段音樂即使本身好聽，放進這首歌，會讓敘事往前走，還是把注意力帶開？"
+            },
+            {
+              "id": "the-chart-and-the-voice",
+              "title": "榜上有團名，聲音也有自己的名字",
+              "body": "〈The Living Years〉在發行當時就有明確的熱門紀錄。英國 Official Singles Chart 的 1989 年 2 月 5 日至 11 日榜單，將 Mike and the Mechanics 的這首單曲列在第二名，並標示已上榜五週。當週第一名是 Marc Almond 與 Gene Pitney 合作的〈Something’s Gotten Hold of My Heart〉；〈The Living Years〉就在其後。[Official Charts 當期榜單](https://www.officialcharts.com/charts/singles-chart/19890205/7501/)\n\n但榜單上的團名，未必會讓人記住唱歌的人。Carrack 在《Folk and Tumble》訪談裡笑說，有些人沒聽過他的名字，卻知道 Mike and the Mechanics；他說自己唱過那首歌，對方還會反問是不是真的。談到工作方式時，他又提起父親載著梯子做裝修、母親經營油漆店的生活，說自己如今經營小廠牌、製作唱片，也帶著那種小店的想法。[《Folk and Tumble》訪談](https://folkandtumble.com/article/interview-with-paul-carrack/)\n\n歌曲後來也交到別的主唱手上。根據 Kyle Meredith 的 LPM 報導與原訪談字幕，Rutherford 回憶，Andrew Roachford 第一次排練〈The Living Years〉時，沒有照搬先前的唱法，卻讓他十分欣賞。[Kyle Meredith 的 LPM 報導](https://www.lpm.org/music/2017-05-03/genesis-mike-rutherford-its-not-about-living-off-the-past-but-striving-to-grow)、[原訪談字幕，5:38–6:10](https://www.youtube.com/watch?v=ygpOpHfLGv4)\n\nCarrack 對後來重新錄製這首歌則有不同感受。他在《Folk and Tumble》說，自己欣賞 Roachford 的演唱，卻對由對方重錄〈The Living Years〉感到失望，認為這樣對原唱不公平。Rutherford 談的是新主唱在排練裡的表現，Carrack 談的是重錄及原唱受到的對待；兩人的評價各有對象，也留下了不同意見。[Carrack 的說法](https://folkandtumble.com/article/interview-with-paul-carrack/)\n\n至於歌曲與觀眾的關係，Q104.3 在 2017 年刊出的 Ken Dashow 訪談報導，記下 Rutherford 的觀察：他說，演唱〈The Living Years〉時，前排常有人落淚，而他把這理解為歌曲連上了對方的生活經驗。這是演出者的回憶，沒有交代那些觀眾各自的故事。[Q104.3 訪談報導](https://q1043.iheart.com/featured/ken-dashow/content/2017-04-24-mike-the-mechanics-perform-exclusive-in-studio-set/)\n\n從 Carrack 主唱的原始錄音開始，再找後來不同主唱的版本，記得核對演唱者與錄音年份。那通道謝電話指向的是 Carrack 的聲音與經歷；沿著同一首歌往後找，也會遇見新的唱法，以及原唱對重錄留下的不同意見。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1988",
+              "event": "Mike + The Mechanics 發行《Living Years》，收錄 Paul Carrack 主唱的〈The Living Years〉。"
+            },
+            {
+              "date": "1989-02-05",
+              "event": "在 2 月 5 日至 11 日的英國 Official Singles Chart，〈The Living Years〉排名第二，當期記錄為上榜第五週。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "The Living Years",
+            "artist": "Mike + The Mechanics",
+            "note": "尋找 Paul Carrack 主唱的 1988 年原始錄音。可依 Rutherford 的訪談說明，留意開頭吉他與和弦的半音交錯，以及反覆伴奏如何承接人聲。"
+          },
+          "sources": [
+            {
+              "title": "American Songwriter｜Jim Beviglia 訪問 B. A. Robertson：Behind The Song: “The Living Years”（2020-11-03）",
+              "url": "https://americansongwriter.com/the-living-years-mike-and-the-mechanics-behind-the-song-interview/"
+            },
+            {
+              "title": "Smashing Interviews｜Mike Rutherford Interview（2017-04-12）",
+              "url": "https://smashinginterviews.com/interviews/musicians/mike-rutherford-interview-genesis-guitarist-talks-new-mike-the-mechanics-album"
+            },
+            {
+              "title": "Smashing Interviews｜Paul Carrack: From “How Long” to “Living Years,” a Timeless Voice（2020-10-09）",
+              "url": "https://smashinginterviews.com/interviews/musicians/paul-carrack-interview-from-how-long-to-living-years-a-timeless-voice"
+            },
+            {
+              "title": "Le Document｜Harry Pye 訪問 Paul Carrack（頁面標示 9 月 15 日，未明示年份）",
+              "url": "https://www.ledocument.com/issue-nine/paul-carrack"
+            },
+            {
+              "title": "Songwriting｜How I wrote ‘The Living Years’：Mike Rutherford（2019-12-27）",
+              "url": "https://www.songwritingmagazine.co.uk/interviews/how-i-wrote-the-living-years-by-mike-the-mechanics-mike-rutherford"
+            },
+            {
+              "title": "Official Charts｜Official Singles Chart，1989 年 2 月 5 日至 11 日",
+              "url": "https://www.officialcharts.com/charts/singles-chart/19890205/7501/"
+            },
+            {
+              "title": "Pester PR｜Craft Recordings《Looking Back – Living The Years》發行資料（頁面標示 2 月 18 日，未明示年份）",
+              "url": "https://www.pesterpr.co.uk/press-releases/matm"
+            },
+            {
+              "title": "Folk and Tumble｜Damian McNairney：Interview with Paul Carrack（頁面未列日期）",
+              "url": "https://folkandtumble.com/article/interview-with-paul-carrack/"
+            },
+            {
+              "title": "Q104.3｜Andrew Magnotta：Mike + the Mechanics Perform Exclusive In-Studio Set（頁面日期 2017-04-30）",
+              "url": "https://q1043.iheart.com/featured/ken-dashow/content/2017-04-24-mike-the-mechanics-perform-exclusive-in-studio-set/"
+            },
+            {
+              "title": "Louisville Public Media｜Kyle Meredith：Genesis’ Mike Rutherford: “It’s not about living off the past, but striving to grow”（頁面日期 2017-05-03）",
+              "url": "https://www.lpm.org/music/2017-05-03/genesis-mike-rutherford-its-not-about-living-off-the-past-but-striving-to-grow"
+            },
+            {
+              "title": "YouTube｜Kyle Meredith With... (Subscribe!)：Kyle Meredith with... Mike & The Mechanics（2017-09-26 上架；使用字幕）",
+              "url": "https://www.youtube.com/watch?v=ygpOpHfLGv4"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-10-30:living-years-robertson-carrack-phone-call"
+        },
+        {
+          "id": "hey-jude-julian-own-name",
+          "city": "",
+          "cityEn": "",
+          "artist": "The Beatles",
+          "lens": "音樂人筆記",
+          "category": "音樂人筆記",
+          "anchor": "從 Jules 到 Jude 的名字",
+          "work": "Hey Jude",
+          "year": "1968",
+          "accent": "sage",
+          "title": "〈Hey Jude〉裡的孩子，後來把 Jude 放上自己的唱片",
+          "deck": "Paul McCartney 從 Julian 的暱稱寫起，John 留住一句歌詞，George 的吉他提議卻未被採用。長大的 Julian，也留下了自己對這首歌的說法。",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-29",
+          "readingMinutes": 7,
+          "people": [
+            "Paul McCartney",
+            "Julian Lennon",
+            "Cynthia Lennon",
+            "John Lennon",
+            "Yoko Ono",
+            "George Harrison",
+            "Justin Clayton",
+            "Paul Muldoon"
+          ],
+          "topics": [
+            "音樂人筆記",
+            "製作幕後",
+            "唱片與物件"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "a-name-in-the-car",
+              "title": "車上先唱的是 Jules",
+              "body": "1968 年，John 與 Cynthia Lennon 的婚姻走向分離，兒子 Julian 當時五歲。Paul McCartney 回憶，自己開車去探望母子倆，以朋友身分前往；途中，他開始用平常叫孩子的暱稱 Jules 寫歌。他想給 Julian 一點鼓勵，後來才有了〈Hey Jude〉。這段起點，出自 Paul 與詩人 Paul Muldoon 對談的 [《McCartney: A Life in Lyrics》](https://www.pushkin.fm/podcasts/mccartney-a-life-in-lyrics)；[〈Hey Jude〉單集](https://www.pushkin.fm/podcasts/mccartney-a-life-in-lyrics/hey-jude)於 2024 年 3 月 20 日上架，談話可讀 [iHeart 自動逐字稿，02:16–04:10](https://www.iheart.com/podcast/1119-mccartney-a-life-in-lyric-119121943/episode/hey-jude-160491441/)。\n\n那個稱呼後來印上唱片。The Beatles 官方作品頁記錄，單曲於 1968 年 8 月 26 日發行，詞曲署名 Lennon–McCartney，歌曲由 Paul 寫成。[官方作品資料](https://www.thebeatles.com/hey-jude)把創作對象指向 Julian。歌名從 Jules 改為 Jude，也開始被不認識這個孩子的人傳唱。Paul 談的是自己如何伸出援手，Julian 後來談的，則是被這首歌陪伴的生活。兩人各自從寫歌與收歌的位置，留下了不同的記憶。"
+            },
+            {
+              "id": "words-that-stayed",
+              "title": "留下那句不太確定的歌詞",
+              "body": "Paul 在同集節目裡談到，寫作常從某件具體的煩惱開始，然後逐漸離開原來的情境。〈Hey Jude〉也是如此：原本對孩子說的鼓勵，寫著寫著混入了成年人的戀愛。他願意讓聽眾自行理解歌曲。依照這段自述，整首歌不宜逐句當成 Julian 的童年紀錄；有真實的收歌人，不表示每個代名詞都能對回他家裡的一個人。[節目逐字稿，04:22–06:19](https://www.iheart.com/podcast/1119-mccartney-a-life-in-lyric-119121943/episode/hey-jude-160491441/)\n\n其中一句差點被換掉。Paul 回憶，把歌彈給 John 與 Yoko 聽時，他認為「The movement you need is on your shoulder」這句只是暫時填上的詞，還打算修改；John 卻要他留下，認為那是歌裡最好的句子。這段回憶見於節目逐字稿 10:41–11:26，也由 [ABC Audio 報導核對](https://digital.abcaudio.com/news/john-lennon-convinced-paul-mccartney-keep-important-lyric-hey-jude)。"
+            },
+            {
+              "id": "space-between-lines",
+              "title": "吉他要不要接在每一句後面",
+              "body": "另一位團員提出的聲音，Paul 沒有接受。Guitar World 於 2024 年回顧其 1997 年訪談內容：George Harrison 想在每句人聲後加上電吉他短句，形成一唱一答；Paul 認為不合適。他也承認，要對自己敬重的吉他手說別這樣彈，是件難辦的事。Paul 所拒絕的是這組逐句回應的樂句。兩人對人聲之間要放什麼，有不同的想像。[Guitar World 的訪談回顧](https://www.guitarworld.com/features/george-harrison-paul-mccartney-beatles-hey-jude-guitar-part)\n\nPaul 在 2018 年向 Howard Stern 解釋過團內做法：誰寫了那首歌，誰就有權決定它該怎麼處理。[節目官方文字摘要](https://www.howardstern.com/show/2018/09/05/paul-mccartney-returns-talk-his-new-album-his-favorite-beatles-covers-day-he-met-john-lennon/)與 [官方影片字幕，00:00–01:23](https://www.youtube.com/watch?v=GzVrfyjWtSM)都保留了這段說法。影片於 2024 年 9 月 1 日上架，收錄的是 2018 年訪談。這讓那次拒絕多了一層工作上的背景：他既是與 George 合作的團員，也要為自己的歌拿主意。\n\n這個細節提供了一個回頭聽的方向：留意開頭每句人聲之間的空間，再比較樂器逐步加入之後的密度。依 [The Beatles 官方結構說明](https://www.thebeatles.com/hey-jude)，歌曲以 Paul 的人聲與鋼琴為核心展開，第四段主歌之後轉入超過四分鐘的漸弱尾聲。七分鐘左右的單曲，把很長一段時間交給尾聲；前面的逐句勸慰與後段的反覆合唱，有了不同的展開方式。知道 George 曾提出另一種安排，再去留意句與句之間有沒有需要被填滿，會比只等尾聲進來更有意思。"
+            },
+            {
+              "id": "a-chart-and-a-child",
+              "title": "冠軍紀錄之外，收歌的人還在",
+              "body": "〈Hey Jude〉當年的流行程度，可以落到一張確切的榜單：英國 Official Singles Chart 的 1968 年 9 月 11 日至 17 日期別，第一名列的是 The Beatles 的〈Hey Jude〉，並標示這是它上榜第二週。榜頁列出的演唱者與作品名，都對應這張剛發行的單曲；這是它當年走紅的紀錄。[Official Charts 當期存檔](https://www.officialcharts.com/charts/singles-chart/19680911/7501/)\n\n不過，Julian 在 Esquire 訪談裡說，他感謝 Paul 為自己與母親寫歌；別人隨口引用它時，也可能勾起父母分離、父親缺席的痛。他可以慶祝這首歌，同時仍感到其中陰暗的一面。[Esquire，2023 年刊出的訪談](https://www.esquire.com/news-politics/a46096279/beatles-julian-lennon-john-lennon-paul-mccartney-hey-jude-yoko/)\n\n把榜單與訪談並讀，會發現兩種需要分開理解的事情：歌曲的成功有紀錄，收歌者的感受卻沒有隨著它登頂而定案。Paul 的好意有被收到，Julian 也有自己的記憶要處理。這份訪談刊於 2023 年，導言卻說受訪時《Jude》尚待發行，又未提供確切訪談日期；不能把刊登先後當成他在發片前後的心情變化。接受了這個名字，與仍被歌曲勾起痛苦，可以同時存在於他的自述中。"
+            },
+            {
+              "id": "putting-julian-first",
+              "title": "先把 Julian 放到名字前面",
+              "body": "名字的問題也出現在唱片以外。Julian 在 2022 年的 Smashing Interviews 訪談裡說，自己的法定姓名原本是 John Charles Julian Lennon。通過機場檢查或填資料時，別人先看到的是 John Lennon，接著便拿這個名字開玩笑、追問他與那位音樂人的關係。他描述，那種總被叫成 John、無法先被認作 Julian 的經驗，會讓自己焦慮。[Smashing Interviews，2022 年專訪](https://smashinginterviews.com/interviews/musicians/julian-lennon-interview-becoming-julian-charles-john-lennon)\n\n他的處理方式很具體：2020 年，把 John 與 Julian 的位置交換，成為 Julian Charles John Lennon。他解釋，自己想保留父母給的每一個名字，只是希望別人打開文件時，先看見一直使用的 Julian。在 2022 年刊出的 [GRAMMY.com 訪問](https://www.grammy.com/news/julian-lennon-jude-new-album-comeback-john-cynthia-paul-mccartney-get-back/)中，他也談到這次更名。從這個改動再看〈Hey Jude〉，歌名與姓名有了不同的分量：一個是別人給他的稱呼，一個是他自己決定的排列。"
+            },
+            {
+              "id": "jude-on-his-own-record",
+              "title": "後來，他把 Jude 放上自己的唱片",
+              "body": "2022 年 9 月 9 日，Julian 發行了專輯《Jude》。他在 SPIN 訪談中把命名形容為一段成長：接受自己也是那個 Jude，同時讓作品呈現他作為創作者與製作人已經做過的事。他說，專輯收進的是跨越數十年的歌曲，原先甚至沒有再做一張專輯的打算。[SPIN 專訪](https://www.spinmagazine.com/2022/09/julian-lennon-jude-interview/)\n\n一起參與《Jude》製作的 Justin Clayton，早在學生時期就是 Julian 的朋友。Julian 在 [2014 年的 Smashing Interviews 訪談](https://smashinginterviews.com/interviews/musicians/julian-lennon-interview-happiness-is-a-colombian-tribe)回憶，學生時期是這位好友在上吉他課；父親送過自己一把吉他，兩人於是組團。他原先很喜歡演戲，後來發現樂團唱完一首歌，觀眾就會鼓掌，接著還能再唱一首。談起成為音樂人的起點，他記住的是跟同學一起學著表演，以及台下立即給出的回應。同一訪談裡，他也說，到了那個階段，自己更把自己視為寫歌的人，已不常巡演；偶爾上台仍然愉快，攝影卻成了最熱衷的工作。\n\n後來找回的歌也有實際來處。Julian 告訴 GRAMMY.com，原本替他處理事務的經理退休後，把一批箱子寄還，大多是財務文件，也有幾箱盤帶與 DAT。他找來十一歲起就認識的朋友、合作音樂人 Justin Clayton，一起整理舊錄音。處理〈Every Little Moment〉時，他換掉部分舊製作元素，加入真人樂手，人聲則只更換副歌部分。專輯的發行日期與這段整理過程，見於 [GRAMMY.com 的 2022 年訪談](https://www.grammy.com/news/julian-lennon-jude-new-album-comeback-john-cynthia-paul-mccartney-get-back/)。\n\n專輯的製作也有必須自己接手的部分。Julian 在 SPIN 訪談回憶，Justin 因疫情返回英國後，〈Freedom〉成為這次專輯工作中，他第一首不靠這位搭檔、獨自製作的歌；他認為，這首歌替整張專輯確立了部分聲音方向。從整理舊錄音到自己動手製作，他談《Jude》時，除了名字與家人，也談到哪些工作由誰完成。[SPIN：〈Freedom〉的製作回憶](https://www.spinmagazine.com/2022/09/julian-lennon-jude-interview/)\n\n這給下一次聆聽留下了兩個不同的入口：先聽 The Beatles 原始錄音裡，人聲、鋼琴如何走向長尾聲；再把《Jude》裡的〈Every Little Moment〉接上，留意 Julian 保留舊錄音、更新部分演出的做法。〈Hey Jude〉把名字唱給他；到了《Jude》，可以繼續追的已是他與老朋友如何處理這批舊錄音。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1968-08-26",
+              "event": "The Beatles 官方作品頁所列的〈Hey Jude〉原始單曲發行日。"
+            },
+            {
+              "date": "1968-09-11",
+              "event": "英國 Official Singles Chart 的 9 月 11–17 日期別，〈Hey Jude〉列第一名。"
+            },
+            {
+              "date": "2020",
+              "event": "依 Julian 在兩份訪談中的自述，他將法定姓名改為 Julian Charles John Lennon。"
+            },
+            {
+              "date": "2022-09-09",
+              "event": "Julian Lennon 發行專輯《Jude》。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Hey Jude",
+            "artist": "The Beatles",
+            "note": "選 The Beatles 1968 年原始錄音；依官方結構說明，留意人聲與鋼琴起始、逐漸加入的樂器，以及第四段主歌後的長尾聲。"
+          },
+          "sources": [
+            {
+              "title": "iHeart｜McCartney: A Life in Lyrics〈Hey Jude〉，2024-03-20；節目逐字稿",
+              "url": "https://www.iheart.com/podcast/1119-mccartney-a-life-in-lyric-119121943/episode/hey-jude-160491441/"
+            },
+            {
+              "title": "The Beatles｜Hey Jude：官方作品及發行資料",
+              "url": "https://www.thebeatles.com/hey-jude"
+            },
+            {
+              "title": "ABC Audio｜Jill Lances：John Lennon convinced Paul McCartney to keep an important lyric in “Hey Jude”，2024-03-20",
+              "url": "https://digital.abcaudio.com/news/john-lennon-convinced-paul-mccartney-keep-important-lyric-hey-jude"
+            },
+            {
+              "title": "Guitar World｜Jackson Maxwell／Vic Garbarini：Paul McCartney turned down George Harrison’s proposed guitar parts，2024-09-14",
+              "url": "https://www.guitarworld.com/features/george-harrison-paul-mccartney-beatles-hey-jude-guitar-part"
+            },
+            {
+              "title": "Official Charts｜Official Singles Chart，1968-09-11 至 1968-09-17",
+              "url": "https://www.officialcharts.com/charts/singles-chart/19680911/7501/"
+            },
+            {
+              "title": "Esquire｜Ryan D’Agostino：Julian Lennon on John, Paul, “Hey Jude,” Yoko…and Love，2023-12-18",
+              "url": "https://www.esquire.com/news-politics/a46096279/beatles-julian-lennon-john-lennon-paul-mccartney-hey-jude-yoko/"
+            },
+            {
+              "title": "Smashing Interviews｜Marc Parker、Melissa Benefield Parker：Becoming Julian Charles John Lennon，2022-06-21",
+              "url": "https://smashinginterviews.com/interviews/musicians/julian-lennon-interview-becoming-julian-charles-john-lennon"
+            },
+            {
+              "title": "GRAMMY.com｜Morgan Enos：Julian Lennon On New Album ‘Jude,’ Grappling With His Namesake & Embracing His Bittersweet Past，2022-09-09",
+              "url": "https://www.grammy.com/news/julian-lennon-jude-new-album-comeback-john-cynthia-paul-mccartney-get-back/"
+            },
+            {
+              "title": "SPIN｜Liza Lentini：What’s in a Name: Julian Lennon on His New Album Jude，2022-09-08",
+              "url": "https://www.spinmagazine.com/2022/09/julian-lennon-jude-interview/"
+            },
+            {
+              "title": "Smashing Interviews｜Melissa Parker 訪問：Happiness Is a Colombian Tribe，2014-03-28",
+              "url": "https://smashinginterviews.com/interviews/musicians/julian-lennon-interview-happiness-is-a-colombian-tribe"
+            },
+            {
+              "title": "The Howard Stern Show｜Paul McCartney 訪談官方文字摘要，2018-09-05；〈Hey Jude〉段落",
+              "url": "https://www.howardstern.com/show/2018/09/05/paul-mccartney-returns-talk-his-new-album-his-favorite-beatles-covers-day-he-met-john-lennon/"
+            },
+            {
+              "title": "The Howard Stern Show｜Paul McCartney on Writing “Hey Jude” (2018)，2024-09-01 上架；官方影片字幕",
+              "url": "https://www.youtube.com/watch?v=GzVrfyjWtSM"
+            },
+            {
+              "title": "Pushkin｜McCartney: A Life in Lyrics：節目介紹及單集目錄，頁面發布日未標；〈Hey Jude〉列為 2024-03-20",
+              "url": "https://www.pushkin.fm/podcasts/mccartney-a-life-in-lyrics"
+            },
+            {
+              "title": "Pushkin｜McCartney: A Life in Lyrics〈Hey Jude〉：官方單集介紹，2024-03-20 上架日期另見節目目錄",
+              "url": "https://www.pushkin.fm/podcasts/mccartney-a-life-in-lyrics/hey-jude"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-10-30:hey-jude-julian-own-name"
+        },
+        {
+          "id": "seven-seconds-brooklyn-collaboration",
+          "city": "紐約",
+          "cityEn": "New York City",
+          "artist": "Youssou N’Dour・Neneh Cherry",
+          "lens": "現場與相遇",
+          "category": "現場與相遇",
+          "anchor": "布魯克林公寓裡，為合作者留出的段落",
+          "work": "7 Seconds",
+          "year": "1994",
+          "accent": "sage",
+          "title": "〈7 Seconds〉先寫副歌、留下空白：Cherry 與 Youssou 的三語合唱",
+          "deck": "從布魯克林的臥室草稿，到英國單曲榜第三名，兩人的合作留下了三種語言，也留下繼續一起工作的搭檔。",
+          "publishedAt": "2026-10-30",
+          "reviewedAt": "2026-10-29",
+          "readingMinutes": 7,
+          "people": [
+            "Youssou N’Dour",
+            "Neneh Cherry",
+            "Cameron McVey",
+            "Jonny Dollar",
+            "Mark Robertson",
+            "Sacha Skarbek",
+            "Habib Faye",
+            "Jean-Philippe Rykiel"
+          ],
+          "topics": [
+            "現場與相遇",
+            "製作幕後",
+            "音樂人筆記",
+            "唱片與物件"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York City",
+                "NYC"
+              ]
+            },
+            {
+              "type": "街區",
+              "label": "布魯克林",
+              "aliases": [
+                "Brooklyn"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "brooklyn-sketch",
+              "title": "臥室裡，副歌先有了形狀",
+              "body": "Neneh Cherry 在 2012 年的 SPIN 訪談裡，記得〈7 Seconds〉從弟弟位於布魯克林住處的臥室小錄音間開始。Cameron McVey 已經動筆寫副歌，團隊特意留下空間，等 Youssou N’Dour 加入。依她的回憶，Youssou 第二天到來，他運用音階與歌唱的方式，改變了歌曲的面貌。[SPIN：Cherry 談〈7 Seconds〉](https://www.spinmagazine.com/2012/06/cherrypicking-neneh-cherry-singer-breaks-down-7-pivotal-tracks/)\n\n兩人也不是到這次寫歌才認識。Cherry 告訴 SPIN，Youssou 早年曾到她在瑞典的家中演出。至於這次錄音的時間，Youssou 在 2007 年 NPR《Tell Me More》的訪談逐字稿裡，回憶是 1993 年，地點在紐約；他說，當時兩人就是想一起做音樂。[NPR 正式逐字稿，KUAF 刊載](https://www.kuaf.com/npr-music-news/2007-11-26/ndours-popularity-continues-to-rise)\n\n2012 年接受 The Arts Desk 訪問，Cherry 也說起自己坐在弟弟的小公寓裡，與 Cameron、Jonny Dollar 寫歌，再由隔天到來的 Youssou 把作品往前推。這份回憶和 SPIN 訪談對得上：草稿先開始，Youssou 再加入，歌曲仍留有讓他發揮的部分。她談到的合作，發生在作品尚未定形的時候。[The Arts Desk：2012 年訪談](https://theartsdesk.com/new-music/interview-10-questions-neneh-cherry)\n\n文中的[布魯克林配圖](https://commons.wikimedia.org/wiki/File:Brooklyn_skyline_August_2012.jpg)拍於 2012 年，呈現市中心天際線與水岸，只用來交代城市範圍，並非那間公寓或當年的錄音現場。"
+            },
+            {
+              "id": "four-writers",
+              "title": "兩位主唱背後的四人署名",
+              "body": "作品在 1994 年發行，收進 Youssou 的《The Guide (Wommat)》。Qobuz 的 Columbia 唱片資料把〈7 Seconds〉專輯版列為第五首，兩位主唱是 Youssou 與 Cherry；詞曲名單則同列兩人、Cameron McVey 和 Jonathan Sharp。製作欄另列 Booga Bear 與 Jonny $，演奏者包括負責打擊樂的 Mark Robertson，以及演奏鍵盤和小提琴的 Sacha Skarbek。[Qobuz：發行資料與第五軌製作名單](https://www.qobuz.com/us-en/album/the-guide-wommat-youssou-ndour/0074645382821)\n\n這份名單讓公寓裡的合作有了更完整的輪廓。訪談說明草稿如何開始、誰在隔天加入；唱片資料則把演唱、詞曲、製作與演奏分開記下。若只用「兩位歌手合唱」介紹它，容易漏掉共同寫作的部分，也會把完成錄音所需的其他工作擠出畫面。\n\n把第五軌與同張唱片的第一首〈Leaving〉並排看，差異會更具體：〈Leaving〉的製作人列 Youssou，協力製作（Co-Producer）列 Habib Faye 與 Jean-Philippe Rykiel；〈7 Seconds〉的製作人則列 Booga Bear 與 Jonny $。兩首歌的製作欄有不同署名，可以據此比較分工，但名單本身並未交代每個人如何決定聲音。[Qobuz：展開第一軌與第五軌的製作資訊](https://www.qobuz.com/us-en/album/the-guide-wommat-youssou-ndour/0074645382821)\n\n聆聽時，可以先比較兩首的人聲與伴奏如何分配位置，再回頭看各自的工作名單。同一位歌手在不同歌曲裡可能兼任不同工作；主唱、共同寫作者與製作人，值得分開認識。"
+            },
+            {
+              "id": "three-languages",
+              "title": "沒有全部改成英語",
+              "body": "〈7 Seconds〉保留英語、法語與 Wolof。Cherry 在 2012 年 SPIN 訪談中明確說，團隊有意使用他們各自帶來的這三種語言。這使合唱的分工多了一層：除了辨認誰正在唱，也可以留意語言在什麼地方交接，以及每段唱詞如何安排一句話的長短。[SPIN：Cherry 談三種語言的選擇](https://www.spinmagazine.com/2012/06/cherrypicking-neneh-cherry-singer-breaks-down-7-pivotal-tracks/)\n\n這項選擇曾碰到改寫的要求。Cherry 在 2012 年 musicOMH 訪談中回憶，美國那邊有人希望他們另做一版，讓 Youssou 用英語唱。她沒有在這段話裡指名是哪家公司或哪位決策者；能確定的是，她不認同這個要求。對照她在 SPIN 所說的創作選擇，三語版本的保留有了具體背景。[musicOMH：Cherry 談英語版本的要求](https://www.musicomh.com/features/interviews/interview-neneh-cherry)\n\nYoussou 在 2007 年向 NPR 主持人 Michel Martin 談到，語言也會形塑一首歌的內容與情境，換成英語未必能完整傳達他用 Wolof 表達的意思。不過，他也在同一場訪談指出，面對英語聽眾，用英語演唱有時能讓訊息直接被理解，並以〈7 Seconds〉為例。他一方面重視母語所承載的語意，另一方面也願意使用其他語言。讀完前後問答，就不宜把他對 Wolof 的重視理解成拒絕英語；兩種考量都出自他的說法。[NPR：語言與唱詞的訪談段落](https://www.kuaf.com/npr-music-news/2007-11-26/ndours-popularity-continues-to-rise)\n\n重訪這首歌時，語言轉換值得和主副歌的轉換一起聽。可以先辨認兩人的聲音，再追蹤每段唱詞的節奏；聽不懂的段落，也仍有發音、停頓與延長的音節可供比較。"
+            },
+            {
+              "id": "chart-run",
+              "title": "第十二週，走到英國第三名",
+              "body": "這段合作在當年有清楚的歌曲榜單紀錄。Official Charts 的曲目頁列出，〈7 Seconds〉在 1994 年 6 月 25 日期別首度進入英國 Official Singles Chart，排第 40 名。往後逐週看，直到 8 月 20 日期別才進入前十，排第 8；歌曲經過兩個多月的榜單行程，才來到前三。[Official Charts：完整歷史走勢](https://www.officialcharts.com/songs/youssou-ndour-7-seconds-ft-neneh-cherry/)\n\n在 1994 年 9 月 4–10 日的週榜，榜名下明列 Youssou N’Dour featuring Neneh Cherry，〈7 Seconds〉排第 3，上週第 4，已上榜十二週。這份紀錄對應兩人當年的合唱單曲；同一週，前兩名分別是 Wet Wet Wet 的〈Love Is All Around〉與 Kylie Minogue 的〈Confide in Me〉。把它放回那一頁，才能看見這首三語歌曲實際參與的流行音樂現場。[Official Singles Chart：1994 年 9 月 4–10 日](https://www.officialcharts.com/charts/singles-chart/19940904/7501/)\n\n名次說明了作品走到哪裡，Cherry 對成績的解釋卻保留餘地。在 The Arts Desk 的訪談裡，她認為歌曲的直接、包容與希望感或許有關，但也承認，很難說清楚一首歌為什麼會產生那樣的回應。[The Arts Desk：Cherry 對歌曲反應的說法](https://theartsdesk.com/new-music/interview-10-questions-neneh-cherry)"
+            },
+            {
+              "id": "after-the-duet",
+              "title": "歌曲之後，合作繼續",
+              "body": "對 Youssou 而言，〈7 Seconds〉也帶來一個難題：新聽眾認識了他，卻未必知道他此前已經走過的音樂生涯。在 World Music Central 刊載的 Seth Jordan 訪談中，他回憶，歌曲大受歡迎時，自己曾想提醒大家，他並非剛出道；後來則把這首歌看作讓人接近其他作品的入口。[World Music Central：Youssou 訪談](https://worldmusiccentral.org/youssou-n%E2%80%99dour-%E2%80%93-griot-for-the-21st-century/)\n\n訪談者問他，跨向流行市場會不會沖淡原有的音樂。他回答，自己有時想寫現代的歌，有時想靠近傳統，若只能留在一種風格裡，反而難以維持熱情。\n\n留下來的還有工作關係。他在同一訪談說，〈7 Seconds〉之後，自己與 Jonny Dollar 相處了不少時間，覺得對方理解他的工作方式，因此再次找他製作。這次合作讓他找到願意繼續工作的搭檔。\n\nCherry 也再度與他合作。2007 年 NPR 訪談談到兩人合唱的〈Wake Up (It’s Africa Calling)〉時，Youssou 特別說，這首歌的演奏與錄音方式和〈7 Seconds〉很不一樣；每次有機會與她工作，他仍然很高興。[NPR：兩人後續合作的逐字記錄](https://www.kuaf.com/npr-music-news/2007-11-26/ndours-popularity-continues-to-rise)\n\n〈7 Seconds〉也延續到錄音室以外的相遇。Cherry 在 2012 年 musicOMH 訪談回憶，幾年前 Youssou 曾在她位於斯德哥爾摩的住處附近演出。她原本還在家裡猶豫要不要去，抵達時距離演唱〈7 Seconds〉只剩幾分鐘；直到她走上台，Youssou 才知道她來了。她補充，平常自己的段落會由一位和聲歌手演唱。這份回憶沒有交代確切日期與場館，卻留下了歌曲在巡演中的另一種分工：原合唱者不在時，仍有人接唱她的部分。[musicOMH：Cherry 回憶再次上台合唱](https://www.musicomh.com/features/interviews/interview-neneh-cherry)\n\n循著這條線，可以先找 1994 年的〈7 Seconds〉，再找〈Wake Up (It’s Africa Calling)〉，留意兩人怎麼分配段落、如何接手對方唱完的位置。比較的根據正是 Youssou 自己指出的差異：同樣兩位歌手，再次進入錄音工作時，可以採取另一種做法。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1993",
+              "event": "依 Youssou N’Dour 在 2007 年 NPR 訪談中的回憶，他與 Neneh Cherry 在紐約錄製〈7 Seconds〉。"
+            },
+            {
+              "date": "1994",
+              "event": "〈7 Seconds〉以兩人合唱的單曲發行，亦收錄於《The Guide (Wommat)》。"
+            },
+            {
+              "date": "1994-09-04",
+              "event": "在 9 月 4–10 日英國 Official Singles Chart 排第 3，為該曲上榜第十二週。"
+            }
+          ],
+          "places": [
+            {
+              "name": "布魯克林",
+              "detail": "Cherry 在兩份訪談中都將寫歌草稿的場景放在弟弟位於布魯克林的小公寓；未確認住家地址。配圖僅呈現布魯克林市中心與水岸範圍。",
+              "query": "Brooklyn, New York City",
+              "photo": {
+                "author": "King of Hearts",
+                "attribution": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_skyline_August_2012.jpg",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "id": "place-66909d16ca07d607",
+                "caption": "2012 年的布魯克林市中心天際線與水岸遠景，僅呈現城市範圍；不是 Cherry 弟弟的公寓或〈7 Seconds〉錄音現場。",
+                "alt": "隔水望向布魯克林的水岸建築與高樓天際線。",
+                "scope": "area"
+              }
+            }
+          ],
+          "listen": {
+            "title": "7 Seconds",
+            "artist": "Youssou N’Dour・Neneh Cherry",
+            "note": "搜尋兩人 1994 年的原始合唱錄音，留意語言與主唱的交接；也可對照後來合作的〈Wake Up (It’s Africa Calling)〉。比較方向來自訪談與製作資料。"
+          },
+          "sources": [
+            {
+              "title": "Melissa Giannini／SPIN：Cherrypicking With Neneh Cherry（2012-06-19）",
+              "url": "https://www.spinmagazine.com/2012/06/cherrypicking-neneh-cherry-singer-breaks-down-7-pivotal-tracks/"
+            },
+            {
+              "title": "NPR／KUAF：N’Dour’s Popularity Continues to Rise，Tell Me More 正式逐字稿（2007-11-26）",
+              "url": "https://www.kuaf.com/npr-music-news/2007-11-26/ndours-popularity-continues-to-rise"
+            },
+            {
+              "title": "Nick Levine／The Arts Desk：Interview: 10 Questions for Neneh Cherry（2012-06-06）",
+              "url": "https://theartsdesk.com/new-music/interview-10-questions-neneh-cherry"
+            },
+            {
+              "title": "Wikimedia Commons：File:Brooklyn skyline August 2012.jpg",
+              "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_skyline_August_2012.jpg"
+            },
+            {
+              "title": "Qobuz／Columbia：The Guide (Wommat)，發行資料與逐軌製作名單",
+              "url": "https://www.qobuz.com/us-en/album/the-guide-wommat-youssou-ndour/0074645382821"
+            },
+            {
+              "title": "Daniel Paton／musicOMH：Neneh Cherry 訪談（2012-06-11）",
+              "url": "https://www.musicomh.com/features/interviews/interview-neneh-cherry"
+            },
+            {
+              "title": "Official Charts：7 Seconds — Youssou N’Dour featuring Neneh Cherry，歷史榜單走勢",
+              "url": "https://www.officialcharts.com/songs/youssou-ndour-7-seconds-ft-neneh-cherry/"
+            },
+            {
+              "title": "Official Charts：Official Singles Chart，1994-09-04 至 1994-09-10",
+              "url": "https://www.officialcharts.com/charts/singles-chart/19940904/7501/"
+            },
+            {
+              "title": "Seth Jordan／World Music Central：Youssou N’dour – Griot For The 21st Century（2003-04-18）",
+              "url": "https://worldmusiccentral.org/youssou-n%E2%80%99dour-%E2%80%93-griot-for-the-21st-century/"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "photo": {
+            "author": "King of Hearts",
+            "attribution": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_skyline_August_2012.jpg",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "id": "place-66909d16ca07d607",
+            "caption": "2012 年的布魯克林市中心天際線與水岸遠景，僅呈現城市範圍；不是 Cherry 弟弟的公寓或〈7 Seconds〉錄音現場。",
+            "alt": "隔水望向布魯克林的水岸建築與高樓天際線。",
+            "scope": "area"
+          },
+          "dailyKey": "2026-10-30:seven-seconds-brooklyn-collaboration"
+        },
         {
           "id": "breakfast-club-simple-minds-arrangement",
           "city": "",
